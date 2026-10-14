@@ -272,7 +272,7 @@
         <a href="#rubrics">Official Rubrics</a>
         <a href="final_report.pdf" target="_blank" class="btn btn-secondary">Report (PDF)</a>
         <a href="https://github.com/abinvkod/VOCODE.git" target="_blank" class="btn btn-primary">GitHub</a>
-        <a href="https://screen-processors-common-crown.trycloudflare.com" target="_blank" class="btn btn-primary" style="background: #10b981; color: #0a0e17;">🚀 Live Demo</a>
+        <a href="https://vocodational.streamlit.app/" target="_blank" class="btn btn-primary" style="background: #10b981; color: #0a0e17;">🚀 Live Demo</a>
       </nav>
     </div>
   </header>
@@ -289,7 +289,7 @@
         a 4-tier paired contrastive dataset, non-unilateral rubric scoring, and dual-layer LLM explainability.
       </p>
       <div class="hero-actions">
-        <a href="https://screen-processors-common-crown.trycloudflare.com" target="_blank" class="btn btn-primary" style="background: #10b981; color: #0a0e17; font-size: 15px; padding: 12px 24px;">🚀 Launch Live App Demo</a>
+        <a href="https://vocodational.streamlit.app/" target="_blank" class="btn btn-primary" style="background: #10b981; color: #0a0e17; font-size: 15px; padding: 12px 24px;">🚀 Launch Live App Demo</a>
         <a href="#showcase" class="btn btn-primary">▶ Watch 5-Min Showcase Video</a>
         <a href="final_report.pdf" target="_blank" class="btn btn-secondary">📄 Read Technical Paper (9 Pages)</a>
         <a href="docs/final_report.html" target="_blank" class="btn btn-secondary">🌐 Interactive HTML Report</a>
@@ -487,24 +487,6 @@
           </tr>
         </tbody>
       </table>
-    </section>
-
-    <!-- Quickstart Section -->
-    <section class="section" style="background: rgba(255,255,255,0.01);">
-      <h2 class="section-title">Quickstart &amp; Execution</h2>
-      <p class="section-subtitle">Reproduce the entire pipeline or launch the web dashboard with Docker.</p>
-
-      <div class="code-box">
-# Option A: One-line Docker container execution (binds to http://localhost:8501)
-docker build -t vocode:latest .
-docker run -p 8501:8501 -e GROQ_API_KEY="your_api_key" vocode:latest
-
-# Option B: Local Python virtual environment
-python3 -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-python3 -m unittest discover tests
-streamlit run app/app.py --server.port=8501 --server.headless=true
-      </div>
     </section>
   </main>
 

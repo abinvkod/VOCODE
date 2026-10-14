@@ -5,7 +5,7 @@
 **Problem Statement Reference:** [`ps.pdf`](ps.pdf)  
 **Authors:** Team VOCODE  
 **Deployed Showcase Page:** https://abinvkod.github.io/VOCODE/  
-**Live Interactive Web Demo:** https://screen-processors-common-crown.trycloudflare.com  
+**Live Interactive Web Demo:** https://vocodational.streamlit.app/  
 **Showcase Video:** [`final_video.mp4`](final_video.mp4) (5:00 Full HD @ 30 fps, Conversational Neural Voice)  
 **Technical Paper:** [`final_report.pdf`](final_report.pdf) (Official 9-page technical report)  
 
