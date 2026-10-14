@@ -4,8 +4,8 @@
 **Competition Track:** Multimodal AI Hackathon 2026 — Track C: Contrastive Speech Analytics & Temporal Flaw Grounding  
 **Problem Statement Reference:** [`ps.pdf`](ps.pdf)  
 **Authors:** Team VOCODE  
-**Repository:** https://github.com/abinvkod/VOCODE.git  
-**Live Application Prototype:** `http://localhost:8501`  
+**Deployed Showcase Page:** https://abinvkod.github.io/VOCODE/  
+**Live Interactive Web Demo:** https://screen-processors-common-crown.trycloudflare.com  
 **Showcase Video:** [`final_video.mp4`](final_video.mp4) (5:00 Full HD @ 30 fps, Conversational Neural Voice)  
 **Technical Paper:** [`final_report.pdf`](final_report.pdf) (Official 9-page technical report)  
 
