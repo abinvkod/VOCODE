@@ -68,7 +68,7 @@
   * Stage 2: 7-Stage Broadcast Standardization (Universal 32-bit decode, 16 kHz resample, 70 Hz HPF, -20 LUFS Norm).
   * Stage 3: 100 Hz Praat F0 & PAPR Crest Telemetry.
   * Stage 4: Non-Unilateral Scoring Engine.
-  * Stage 5: Move Classifier (Chess.com hierarchy).
+  * Stage 5: Move Classifier (Rhetorical move hierarchy).
   * Stage 6: Dual LLM Reasoner (Groq Qwen 27B / Llama 3).
 
 ---
@@ -89,19 +89,18 @@
   > *Now, we load the contrastive Tier 3 botched mirror of the exact same speech text. Instantly, the composite score drops to 4.7 out of 10. Look at the waveform: VOCODE isolates a 4.8-second dead-air freeze in crimson red, and activates the dynamic Paralyzing Silence gating ceiling to cap the overall score.*
   > 
   > *Clicking on any blunder card seeks the custom HTML5 audio player directly to the millisecond of failure. In the Coach tab, VOCODE delivers actionable pedagogical training: prescribing the one-second eye-contact reset and four daily practice routines to correct vocal mechanics physically."*
-* **Visual Annotations:**
-  * Live URL watermark: `http://localhost:8501`.
-  * Highlight boxes around Speedometer Dial, 5-Pillar Scorecards, and interactive waveform.
+* **Visual Presentation:**
+  * Clean authentic 1080p application UI presentation.
   * Contrast comparison: Masterclass (9.20) vs. Botched (4.70) under identical speech text.
 
 ---
 
 ### Scene 6: Architecture & Non-Unilateral Scoring Math (3:25 – 4:03 | 38.0s)
 * **Slide:**
-  * `205.0s – 243.0s`: `slide_6a_architecture.png` (5 Pillars weight matrix, Dynamic Gate Ceiling formula, and Chess.com Move hierarchy).
+  * `205.0s – 243.0s`: `slide_6a_architecture.png` (5 Pillars weight matrix, Dynamic Gate Ceiling formula, and Rhetorical Move hierarchy).
 * **Narration (205.8s – 240.8s):**
-  > *"Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling. If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice rather than penalizing low energy in isolation. Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching. Furthermore, continuous speech is partitioned into discrete, Chess-style Move Cards—categorizing delivery into Brilliant moves, Great transitions, Inaccuracies, Mistakes, and Blunders with complete causal explanations."*
-* **Visual Annotations:**
+  > *"Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling. If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice rather than penalizing low energy in isolation. Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching. Furthermore, continuous speech is partitioned into discrete Rhetorical Move Cards—categorizing delivery into Brilliant moves, Great transitions, Inaccuracies, Mistakes, and Blunders with complete causal explanations."*
+* **Visual Structure:**
   * Formula Card: $\text{Gate Ceiling} = 10.0 - 0.55 \cdot (N_{\text{deficits}} - 1) - \Psi_{\text{impair}}$.
   * 5 Pillars breakdown: Pitch (2.5), Cadence (2.5), Pausing (2.0), Energy (1.5), Clarity (1.5).
   * Move Cards: Brilliant (Cyan), Great (Emerald), Good (Slate), Inaccuracy (Yellow), Mistake (Orange), Blunder (Red).

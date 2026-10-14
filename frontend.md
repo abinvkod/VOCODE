@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-The frontend delivers an interactive, high-fidelity oratorical analytics dashboard. It features format-agnostic audio ingestion, a full HTML5 audio player with millisecond-accurate timestamp seeking, a Plotly speedometer scoring dial, a Chess.com-style rhetorical move waveform visualizer, and a tabbed analytics suite offering itemized rubric breakdowns and dual-layer Groq open-source LLM explanations.
+The frontend delivers an interactive, high-fidelity oratorical analytics dashboard. It features format-agnostic audio ingestion, a full HTML5 audio player with millisecond-accurate timestamp seeking, a Plotly speedometer scoring dial, a oratorical rhetorical move waveform visualizer, and a tabbed analytics suite offering itemized rubric breakdowns and dual-layer Groq open-source LLM explanations.
 
 ---
 
@@ -38,7 +38,7 @@ The frontend delivers an interactive, high-fidelity oratorical analytics dashboa
 └───────────────────────────────────┬────────────────────────────────────┘
                                     │
 ┌───────────────────────────────────▼────────────────────────────────────┐
-│ 3. AUDIO PLAYBACK & CHESS.COM WAVEFORM VISUALIZER                      │
+│ 3. AUDIO PLAYBACK & RHETORICAL WAVEFORM VISUALIZER                      │
 │  • Full HTML5 Player: [Play/Pause] [Rewind -5s] [+5s] [Speed Selector] │
 │  • Interactive Scrubbable Timebar with Millisecond Seeking             │
 │  • Waveform with Colored Bands:                                        │
@@ -50,7 +50,7 @@ The frontend delivers an interactive, high-fidelity oratorical analytics dashboa
 ┌───────────────────────────────────▼────────────────────────────────────┐
 │ 4. TABBED ANALYTICS SUITE                                              │
 │                                                                        │
-│  [Tab 1: 🎯 Chess.com Move Inspector]                                 │
+│  [Tab 1: 🎯 rhetorical Move Inspector]                                 │
 │  • Interactive move cards with text, duration, and click-to-seek audio │
 │                                                                        │
 │  [Tab 2: 📊 Rubrics & 5 Oratorical Pillars]                            │
@@ -104,7 +104,7 @@ The frontend delivers an interactive, high-fidelity oratorical analytics dashboa
 
 ---
 
-### 3.4. Chess.com Move Waveform Visualizer (`app/components/move_waveform.py`)
+### 3.4. rhetorical Move Waveform Visualizer (`app/components/move_waveform.py`)
 - Downsamples 16 kHz audio into a smooth 1,200-point waveform envelope.
 - Injects vertical colored rectangular regions (`vrect`) corresponding to every segmented rhetorical move:
   - 🟦 **Brilliant (`#00E5FF`)**: High pitch excursion ($>3.5\text{ st}$) + punchy vocal crest ($>28\text{ dB}$).
@@ -118,7 +118,7 @@ The frontend delivers an interactive, high-fidelity oratorical analytics dashboa
 
 ### 3.5. Tabbed Analytics Suite
 
-#### Tab 1: Chess.com Move Inspector
+#### Tab 1: rhetorical Move Inspector
 - Displays discrete move cards sorted chronologically or filtered by category (*All*, *Blunders*, *Brilliants*).
 - Each card contains:
   - Timestamp badge (e.g., `[00:35.000s - 00:39.770s]`)
@@ -155,7 +155,7 @@ The frontend delivers an interactive, high-fidelity oratorical analytics dashboa
 
 - `st.session_state["audio_data"]`: Cached standardized 16 kHz WAV path and metadata.
 - `st.session_state["evaluation_results"]`: Cached 100 Hz telemetry and 10.0-point grading report.
-- `st.session_state["speech_moves"]`: Cached Chess.com rhetorical moves array.
+- `st.session_state["speech_moves"]`: Cached rhetorical rhetorical moves array.
 - `st.session_state["llm_explanation"]`: Cached Groq Cloud dual-layer explanation.
 - `st.session_state["seek_time"]`: Reactive timestamp trigger passed to the HTML5 audio player.
 - **Leniency Reactivity**: Adjusting the Leniency slider ($\lambda$) triggers instant re-grading of the cached telemetry without needing to re-run audio decoding or Whisper ASR.

@@ -105,7 +105,7 @@ def render_slide_1a():
         "100 Hz Acoustic Physics",
         "4-Tier Contrastive Dataset",
         "Non-Unilateral 10.0 Rubric",
-        "Chess.com Move Cards",
+        "Rhetorical Move Cards",
         "Dual-Layer LLM Reasoner"
     ]
     start_x = 200
@@ -230,7 +230,7 @@ def render_slide_2a():
                 "• No actionable guidance on the physical vocal mechanics required to improve.",
                 "• Different judges produce wildly diverging scores."
             ],
-            "solution": "VOCODE: Millisecond Temporal Grounding with Chess.com Move Cards & Physical Drills.",
+            "solution": "VOCODE: Millisecond Temporal Grounding with Rhetorical Move Cards & Physical Drills.",
             "color": (245, 158, 11)
         },
         {
@@ -411,7 +411,7 @@ def render_slide_4a():
             "• Leniency Continuum (λ)"
         ], (168, 85, 247)),
         ("Stage 5", "Move Classifier", [
-            "• Chess.com Move Cards",
+            "• Rhetorical Move Cards",
             "• Brilliant, Great, Good",
             "• Inaccuracy, Mistake",
             "• Blunder Grounding"
@@ -486,7 +486,7 @@ def render_slide_6a():
         draw.text((140, y_pil + 54), p_sub, font=get_font(16, bold=False), fill=(203, 213, 225))
         y_pil += 128
 
-    # Right: Non-Unilateral Gate Ceiling & Chess.com Moves
+    # Right: Non-Unilateral Gate Ceiling & Rhetorical Moves
     draw_card(draw, [970, 130, 1840, 980], fill=(16, 22, 34))
     draw.text((1010, 165), "Systemic Impairment Coupling & Move Cards", font=get_font(26, bold=True), fill=(248, 250, 252))
     
@@ -497,8 +497,8 @@ def render_slide_6a():
     draw.text((1040, 330), "Prevents unilateral penalties: quiet speech with high pitch agility is", font=get_font(17, bold=False), fill=(203, 213, 225))
     draw.text((1040, 355), "recognized as intimate rhetoric rather than penalized for low volume.", font=get_font(17, bold=True), fill=(16, 185, 129))
 
-    # Chess.com Move Hierarchy
-    draw.text((1010, 410), "Chess.com-Style Move Classification Hierarchy:", font=get_font(22, bold=True), fill=(248, 250, 252))
+    # Rhetorical Move Hierarchy
+    draw.text((1010, 410), "Rhetorical Move Classification Hierarchy:", font=get_font(22, bold=True), fill=(248, 250, 252))
     moves = [
         ("✨ Brilliant Move", "Dramatic pitch excursion (ΔF0 > 14 st) synchronized with PAPR punch & climactic pause.", (56, 189, 248)),
         ("🎯 Great Move", "Fluid cadence (130-175 WPM) with resonant pitch inflection and natural breath phrasing.", (16, 185, 129)),
@@ -529,7 +529,7 @@ def render_slide_7a():
         ("Causal Explainability & Temporal Grounding", "25%", "Millisecond timestamps [ts, te] on flaw regions; dual deterministic DSP proofs + Groq Qwen/Llama semantic audience critiques.", "app/services/move_classifier.py\napp/services/explanation_service.py", (56, 189, 248)),
         ("Data Engineering & Stress Testing", "30%", "48 curated masterclass speeches; 4-tier synthetic degradation spectrum; 200-clip empirical benchmark corpus across 5 quality tiers.", "good speeches/\nsrc/injector/flaw_injector.py\nfindings/dataset_200_evaluation_results.json", (16, 185, 129)),
         ("Feature Extraction", "20%", "100 Hz Praat F0 dynamics, pitch velocity, PAPR crest factor, 20% Pause Law tracker, -20 LUFS EBU R128 standardization.", "src/preprocessing/telemetry.py\nsrc/preprocessing/audio_standardizer.py", (168, 85, 247)),
-        ("Visualization & Dashboard", "15%", "Interactive Streamlit app with rotating 60 fps tape reels, Plotly gauge dial, full-width Chess.com waveform, millisecond HTML5 audio player.", "app/app.py\napp/components/move_waveform.py\napp/components/coach_tab.py", (251, 191, 36)),
+        ("Visualization & Dashboard", "15%", "Interactive Streamlit app with rotating 60 fps tape reels, Plotly gauge dial, full-width rhetorical move waveform, millisecond HTML5 audio player.", "app/app.py\napp/components/move_waveform.py\napp/components/coach_tab.py", (251, 191, 36)),
         ("Reproducibility & Code Quality", "10%", "Fully containerized Dockerfile, pinned requirements.txt, 11/11 unit tests passing, zero-residual audio lifecycle, clean CLI scripts.", "Dockerfile\nrequirements.txt\ntests/test_preprocessing.py", (236, 72, 153))
     ]
     
@@ -623,7 +623,7 @@ def render_slide_8a():
         ("Physics-Grounded Objective Truth", "Replaces subjective adjudication with 100 Hz micro-prosodic physical metrics, eliminating judge bias and halo effects."),
         ("First Paired Contrastive Oratorical Dataset", "Holds text constant across a 4-tier spectrum (Masterclass to Botched) across 48 speeches, establishing a definitive ML benchmark."),
         ("Non-Unilateral Evaluation Fairness", "Models holistic synergy via Systemic Impairment (Ψ_impair) and dynamic leniency continuum (λ ∈ [0, 100])."),
-        ("Actionable Pedagogical Coaching", "Chess.com move categorization paired with dual-layer LLM explanations and targeted daily physical drills.")
+        ("Actionable Pedagogical Coaching", "Rhetorical move categorization paired with dual-layer LLM explanations and targeted daily physical drills.")
     ]
     y_a = 230
     for a_title, a_desc in achievements:

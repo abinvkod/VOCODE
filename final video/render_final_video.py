@@ -66,5 +66,6 @@ subprocess.check_call(cmd)
 
 import shutil
 shutil.copyfile(OUT_MP4, OUT_FINAL)
+shutil.copyfile(OUT_MP4, "final_video.mp4")
 
-print(f"\nRender Complete! Output saved to:\n  1. {OUT_MP4}\n  2. {OUT_FINAL}")
+print(f"\nRender Complete! Output saved to:\n  1. {OUT_MP4}\n  2. {OUT_FINAL}\n  3. final_video.mp4")

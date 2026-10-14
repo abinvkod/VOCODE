@@ -108,7 +108,7 @@ Dynamic leniency calibration allows judges to toggle between strict competition 
 
 28
 00:03:50,500 --> 00:04:01,500
-Furthermore, continuous speech is partitioned into discrete Chess.com Move Cards: Brilliant moves, Mistakes, and Blunders.
+Furthermore, continuous speech is partitioned into discrete Rhetorical Move Cards: Brilliant moves, Mistakes, and Blunders.
 
 29
 00:04:02,599 --> 00:04:09,500

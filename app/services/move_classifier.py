@@ -1,5 +1,5 @@
 """
-Move Classifier Service: "Chess.com"-Style Rhetorical Move Analyzer
+Move Classifier Service: Rhetorical Move Analyzer
 Classifies continuous temporal regions of speech into oratorical moves:
 - Brilliant (Cyan): Masterclass rhetorical emphasis, punchy PAPR, dramatic pause.
 - Good / Great (Green): Fluid cadence, natural pitch dynamics, balanced pauses.
@@ -65,7 +65,7 @@ def classify_speech_moves(
     deductions: list[dict] | None = None
 ) -> list[dict]:
     """
-    Analyzes temporal segments and assigns a Chess.com-style classification
+    Analyzes temporal segments and assigns an oratorical move classification
     to each phrase and inter-phrase pause.
     """
     y, sr = sf.read(clean_wav_path, dtype='float32')

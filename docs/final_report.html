@@ -326,7 +326,7 @@
 2. Extracts dense <strong>100 Hz physical acoustic telemetry</strong> (F0 pitch semitone dynamics, short-time energy, PAPR crest factor, pause distributions, and spectral clarity).<br />
 3. Evaluates speech against a mathematically rigorous, <strong>Non-Unilateral 10.0-Point Rubric</strong> across 5 Oratorical Pillars.<br />
 4. Couples physical deficits via a <strong>Systemic Impairment Index (<span class="math-inline">\(\Psi_{\text{impair}}\)</span>)</strong> and dynamic leniency continuum (<span class="math-inline">\(\lambda \in [0, 100]\)</span>) to prevent unilateral false penalties.<br />
-5. Temporally grounds flaw intervals <span class="math-inline">\([t_{\text{start}}, t_{\text{end}}]\)</span> with millisecond precision, classifying rhetorical phrases into <strong>Chess.com-style Move Cards</strong> (<em>Brilliant</em>, <em>Great</em>, <em>Inaccuracy</em>, <em>Mistake</em>, <em>Blunder</em>).<br />
+5. Temporally grounds flaw intervals <span class="math-inline">\([t_{\text{start}}, t_{\text{end}}]\)</span> with millisecond precision, classifying rhetorical phrases into <strong>Rhetorical Move Cards</strong> (<em>Brilliant</em>, <em>Great</em>, <em>Inaccuracy</em>, <em>Mistake</em>, <em>Blunder</em>).<br />
 6. Generates dual-layer causal explanations (deterministic DSP proofs + semantic audience impact) alongside tailored daily practice drills.</p>
 <div class="mermaid-container"><div class="mermaid">
 flowchart LR
@@ -506,7 +506,7 @@ Where <span class="math-inline">\(\Psi_{\text{impair}}\)</span> represents the c
 * <span class="math-inline">\(\lambda = 0\)</span> (<strong>Strict Competition Standard</strong>): Unforgiving forensics standard; severely penalizes cadence errors down to <span class="math-inline">\(4.0 - 5.5 / 10.0\)</span>.<br />
 * <span class="math-inline">\(\lambda = 50\)</span> (<strong>Professional / Corporate Standard</strong>): Balanced professional benchmark (<span class="math-inline">\(6.5 - 7.5 / 10.0\)</span>).<br />
 * <span class="math-inline">\(\lambda = 100\)</span> (<strong>Novice / Pedagogical Standard</strong>): Encouraging coaching benchmark forgiving minor hesitations up to <span class="math-inline">\(7.5 - 8.5 / 10.0\)</span>.</p>
-<h3>5.4 Chess.com-Style Move Classification</h3>
+<h3>5.4 Rhetorical Move Classification</h3>
 <p>VOCODE partitions continuous speech into discrete rhetorical moves:<br />
 * ✨ <strong>Brilliant Move</strong>: Dramatic pitch excursion (<span class="math-inline">\(\Delta F_0 > 14\text{ st}\)</span>) synchronized with high PAPR crest factor (<span class="math-inline">\(> 30\text{ dB}\)</span>) and a climactic rhetorical pause.<br />
 * 🎯 <strong>Great Move</strong>: Fluid cadence (<span class="math-inline">\(130 - 175\text{ WPM}\)</span>) with resonant pitch inflection and natural phrasing.<br />
@@ -689,7 +689,7 @@ CMD [&quot;streamlit&quot;, &quot;run&quot;, &quot;app/app.py&quot;, &quot;--ser
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Temporal Grounding &amp; Causal Explainability</strong></td>
-<td style="text-align: left;">Exact flaw timestamps <span class="math-inline">\([t_s, t_e]\)</span> mapped to Chess.com move cards + dual LLM explanations</td>
+<td style="text-align: left;">Exact flaw timestamps <span class="math-inline">\([t_s, t_e]\)</span> mapped to Rhetorical move cards + dual LLM explanations</td>
 <td style="text-align: left;"><a href="file:///home/lazarus/Documents/HackathonMM2/app/services/move_classifier.py"><code>app/services/move_classifier.py</code></a>, <a href="file:///home/lazarus/Documents/HackathonMM2/app/services/explanation_service.py"><code>app/services/explanation_service.py</code></a></td>
 </tr>
 <tr>
@@ -706,6 +706,6 @@ CMD [&quot;streamlit&quot;, &quot;run&quot;, &quot;app/app.py&quot;, &quot;--ser
 </table>
 <hr />
 <h2>10. Conclusion</h2>
-<p>VOCODE transforms oratorical speech evaluation from an inherently subjective, inconsistent human judging process into an <strong>objective, reproducible, and pedagogically transformative science</strong>. By coupling 100 Hz physical acoustic telemetry with non-unilateral rubric scoring, Chess.com-style temporal grounding, and dual-layer generative AI explanations, VOCODE establishes a new standard for competitive forensics, public speaking coaching, and multimodal speech analytics.</p>
+<p>VOCODE transforms oratorical speech evaluation from an inherently subjective, inconsistent human judging process into an <strong>objective, reproducible, and pedagogically transformative science</strong>. By coupling 100 Hz physical acoustic telemetry with non-unilateral rubric scoring, temporal move grounding, and dual-layer generative AI explanations, VOCODE establishes a new standard for competitive forensics, public speaking coaching, and multimodal speech analytics.</p>
 </body>
 </html>

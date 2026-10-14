@@ -49,7 +49,7 @@
 ### Scene 6: Architecture & Non-Unilateral Scoring Math (3:25 – 4:03)
 **Timing:** Dialogue starts at 00:03:25.800 $\rightarrow$ ends at 00:04:00.870  
 **Spoken Dialogue:**  
-> "Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling. If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice rather than penalizing low energy in isolation. Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching. Furthermore, continuous speech is partitioned into discrete, Chess-style Move Cards—categorizing delivery into Brilliant moves, Great transitions, Inaccuracies, Mistakes, and Blunders with complete causal explanations."
+> "Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling. If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice rather than penalizing low energy in isolation. Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching. Furthermore, continuous speech is partitioned into discrete Rhetorical Move Cards—categorizing delivery into Brilliant moves, Great transitions, Inaccuracies, Mistakes, and Blunders with complete causal explanations."
 
 ---
 

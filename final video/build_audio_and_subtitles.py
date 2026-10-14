@@ -129,7 +129,7 @@ CAPTION_CHUNKS = [
     (203.6, 211.5, "Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling."),
     (212.0, 220.5, "If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice."),
     (221.0, 230.0, "Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching."),
-    (230.5, 241.5, "Furthermore, continuous speech is partitioned into discrete Chess.com Move Cards: Brilliant moves, Mistakes, and Blunders."),
+    (230.5, 241.5, "Furthermore, continuous speech is partitioned into discrete Rhetorical Move Cards: Brilliant moves, Mistakes, and Blunders."),
 
     # Scene 7: 242.6s - 276.5s
     (242.6, 249.5, "VOCODE rigorously addresses all five official Hackathon evaluation criteria."),

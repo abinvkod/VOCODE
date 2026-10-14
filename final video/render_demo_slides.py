@@ -1,7 +1,7 @@
 import os
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont
 
-SLIDES_DIR = "final video/slides"
+SLIDES_DIR = os.path.join(os.path.dirname(__file__), "slides")
 os.makedirs(SLIDES_DIR, exist_ok=True)
 
 WIDTH = 1920
@@ -17,133 +17,74 @@ def get_font(size, bold=False):
             return ImageFont.truetype(p, size)
     return ImageFont.load_default()
 
-def draw_top_hud(draw, title, subtitle):
-    # Translucent glass top bar
-    draw.rectangle([0, 0, WIDTH, 74], fill=(10, 14, 23))
-    draw.line([0, 74, WIDTH, 74], fill=(56, 189, 248), width=2)
-    draw.text((40, 12), "LIVE PROTOTYPE DEMONSTRATION  •  http://localhost:8501", font=get_font(15, bold=True), fill=(56, 189, 248))
-    draw.text((40, 36), title, font=get_font(24, bold=True), fill=(248, 250, 252))
-    
-    # Subtitle pill on right
-    font_sub = get_font(15, bold=True)
-    bbox = font_sub.getbbox(subtitle)
-    bw = bbox[2] - bbox[0] + 30
-    bx = WIDTH - 40 - bw
-    draw.rounded_rectangle([bx, 18, WIDTH - 40, 56], radius=6, fill=(24, 32, 48), outline=(56, 189, 248), width=1)
-    draw.text((bx + 15, 28), subtitle, font=font_sub, fill=(56, 189, 248))
-
-def draw_callout_box(draw, box, label, text, col=(56, 189, 248)):
-    # Highlight outline around UI element
-    draw.rounded_rectangle(box, radius=8, outline=col, width=3)
-    # Floating label badge
-    font_l = get_font(14, bold=True)
-    bbox = font_l.getbbox(label)
-    lw = bbox[2] - bbox[0] + 16
-    draw.rounded_rectangle([box[0], box[1] - 28, box[0] + lw, box[1] - 2], radius=4, fill=col)
-    draw.text((box[0] + 8, box[1] - 24), label, font=font_l, fill=(10, 14, 23))
+def find_screenshot(filename):
+    candidates = [
+        os.path.join(os.path.dirname(__file__), filename),
+        os.path.join(os.path.dirname(__file__), "..", "..", "rough_space", "screenshots", filename),
+        os.path.join("/home/lazarus/Documents/HackathonMM2/rough_space/screenshots", filename),
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            return c
+    raise FileNotFoundError(f"Cannot find screenshot: {filename}")
 
 # ==============================================================================
-# SLIDE 5A: LANDING REEL
+# SLIDE 5A: LANDING REEL (Clean Authentic UI Footage)
 # ==============================================================================
 def render_slide_5a():
-    base = Image.open("final_upload_landing.png").resize((WIDTH, HEIGHT))
-    draw = ImageDraw.Draw(base)
-    
-    draw_top_hud(draw, "1. Atmospheric Landing Portal — Dual Rolling Reel Background", "60 FPS HTML5 CANVAS")
-    
-    # Callout 1: Dual Tape Reels
-    draw_callout_box(draw, [140, 250, 620, 750], "60 FPS ROTATING REEL", "Dual brushed-metal tape reels with concentric magnetic tape windings", (56, 189, 248))
-    draw_callout_box(draw, [1300, 250, 1780, 750], "CONNECTING TAPE BRIDGE", "Top magnetic tape bridge with dynamic tension simulation", (56, 189, 248))
-    
-    # Callout 2: Central Audio Ingestion
-    draw_callout_box(draw, [650, 320, 1270, 750], "EPHEMERAL AUDIO DROPZONE", "Format-agnostic drag & drop (MP3/WAV) with 0 MB persistent storage bloat", (16, 185, 129))
-    
-    # Explanation bottom overlay
-    draw.rounded_rectangle([140, 940, 1780, 1040], radius=10, fill=(10, 14, 23), outline=(56, 189, 248), width=2)
-    draw.text((170, 955), "EPHEMERAL AUDIO INGESTION PIPELINE:", font=get_font(16, bold=True), fill=(56, 189, 248))
-    draw.text((170, 985), "Audio is ingested, decoded in memory, verified by the 4-Layer Gatekeeper, and immediately purged to maintain 0 MB disk footprint.", font=get_font(17, bold=False), fill=(241, 245, 249))
-    
+    src_path = find_screenshot("final_upload_landing.png")
+    base = Image.open(src_path).resize((WIDTH, HEIGHT))
     base.save(os.path.join(SLIDES_DIR, "slide_5a_landing.png"))
 
 # ==============================================================================
-# SLIDE 5B: PRESETS & LOADED STATE
+# SLIDE 5B: PRESETS & LOADED STATE (Clean Authentic UI Footage)
 # ==============================================================================
 def render_slide_5b():
-    base = Image.open("upload_preview_buttons.png").resize((WIDTH, HEIGHT))
-    draw = ImageDraw.Draw(base)
-    
-    draw_top_hud(draw, "2. One-Click Historical Presets & Audio Validation", "CONTRASTIVE SELECTION")
-    
-    # Highlight the process button
-    draw_callout_box(draw, [700, 560, 1220, 640], "EVALUATE TRIGGER", "Executes 7-Stage Standardization & Whisper Forced Alignment", (251, 191, 36))
-    
-    # Bottom HUD
-    draw.rounded_rectangle([140, 940, 1780, 1040], radius=10, fill=(10, 14, 23), outline=(16, 185, 129), width=2)
-    draw.text((170, 955), "SCIENTIFIC REPRODUCIBILITY GUARANTEE:", font=get_font(16, bold=True), fill=(16, 185, 129))
-    draw.text((170, 985), "Pre-loaded with 48 Masterclass speeches and their exact 4-tier flawed counterparts for one-click instant evaluation.", font=get_font(17, bold=False), fill=(241, 245, 249))
-    
+    src_path = find_screenshot("upload_preview_buttons.png")
+    base = Image.open(src_path).resize((WIDTH, HEIGHT))
     base.save(os.path.join(SLIDES_DIR, "slide_5b_presets.png"))
 
 # ==============================================================================
-# SLIDE 5C: RESULTS SCORE DIAL & 5 PILLARS (MLK TIER 0)
+# SLIDE 5C: RESULTS SCORE DIAL & 5 PILLARS (Clean Authentic UI Footage)
 # ==============================================================================
 def render_slide_5c():
-    src = Image.open("results_page_complete.png") # 1920 x 2000
-    # Crop top 1080px
-    base = src.crop((0, 0, 1920, 1080))
-    draw = ImageDraw.Draw(base)
-    
-    draw_top_hud(draw, "3. Baseline Evaluation: Dr. Martin Luther King Jr. (Tier 0 Masterclass)", "SCORE: 9.20 / 10.0")
-    
-    # Highlight Score Dial
-    draw_callout_box(draw, [140, 140, 850, 540], "SPEEDOMETER SCORE DIAL", "Plotly Gauge Dial: 9.20/10.0 • Tier 0: Masterclass Oratory", (16, 185, 129))
-    
-    # Highlight 5-Pillar Scorecards
-    draw_callout_box(draw, [880, 140, 1800, 720], "5 ORATORICAL PILLARS", "Interactive horizontal progress bars with expandable semantic critique cards", (56, 189, 248))
-    
-    # Bottom overlay
-    draw.rounded_rectangle([140, 940, 1780, 1040], radius=10, fill=(10, 14, 23), outline=(16, 185, 129), width=2)
-    draw.text((170, 955), "MASTERCLASS PROSODY SIGNATURE:", font=get_font(16, bold=True), fill=(16, 185, 129))
-    draw.text((170, 985), "Pitch Dynamic Range = 15.2 semitones (Agile) • 20% Pause Law Adherence = 21.4% (Optimal) • PAPR Crest = 24.8 dB (Punchy).", font=get_font(17, bold=False), fill=(241, 245, 249))
-    
+    src_path = find_screenshot("results_page_complete.png")
+    src = Image.open(src_path)
+    base = src.crop((0, 0, WIDTH, HEIGHT))
     base.save(os.path.join(SLIDES_DIR, "slide_5c_results_dial.png"))
 
 # ==============================================================================
-# SLIDE 5D: MULTI-TRACK WAVEFORM & AUDIO SCRUBBER
+# SLIDE 5D: MULTI-TRACK WAVEFORM & AUDIO SCRUBBER (Clean Authentic UI Footage)
 # ==============================================================================
 def render_slide_5d():
-    src = Image.open("results_page_complete.png") # 1920 x 2000
-    # Crop middle waveform portion
-    base = src.crop((0, 550, 1920, 1630))
-    draw = ImageDraw.Draw(base)
-    
-    draw_top_hud(draw, "4. Multi-Track Chess.com Waveform Visualizer & HTML5 Audio Player", "MILLI-SECOND PRECISION")
-    
-    # Highlight Waveform
-    draw_callout_box(draw, [80, 100, 1840, 560], "COLOR-CODED CHESS.COM MOVE BANDS", "Cyan = Brilliant Moves (ΔF0 > 14st) | Green = Great Moves | Yellow = Inaccuracies | Red = Blunders", (56, 189, 248))
-    
-    # Highlight Audio Player
-    draw_callout_box(draw, [80, 580, 1840, 760], "CUSTOM HTML5 SCRUBBER", "Play, pause, -10s/-5s/+5s/+10s jump, variable speed (0.75x to 1.5x), and millisecond seeking", (16, 185, 129))
-    
-    # Bottom overlay
-    draw.rounded_rectangle([80, 940, 1840, 1040], radius=10, fill=(10, 14, 23), outline=(56, 189, 248), width=2)
-    draw.text((110, 955), "TEMPORAL GROUNDING ENGINE:", font=get_font(16, bold=True), fill=(56, 189, 248))
-    draw.text((110, 985), "Every word and pause interval is synchronized with 100 Hz Praat physical telemetry and Whisper forced alignment timestamps.", font=get_font(17, bold=False), fill=(241, 245, 249))
-    
+    src_path = find_screenshot("results_page_complete.png")
+    src = Image.open(src_path)
+    base = src.crop((0, 550, WIDTH, 1630))
     base.save(os.path.join(SLIDES_DIR, "slide_5d_waveform.png"))
 
 # ==============================================================================
 # SLIDE 5E: CONTRASTIVE BOTCHED MIRROR & PARALYZING SILENCE FREEZE
 # ==============================================================================
 def render_slide_5e():
-    img, draw = Image.new("RGB", (WIDTH, HEIGHT), (10, 14, 23)), ImageDraw.Draw(Image.new("RGB", (WIDTH, HEIGHT), (10, 14, 23)))
-    # We will use slide_base and overlay the botched mirror evaluation
     img = Image.new("RGB", (WIDTH, HEIGHT), (10, 14, 23))
     draw = ImageDraw.Draw(img)
     for y in range(0, HEIGHT, 60):
         draw.line([0, y, WIDTH, y], fill=(15, 23, 36), width=1)
         
-    draw_top_hud(draw, "5. Contrastive Degradation: MLK Tier 3 Botched Mirror", "SCORE COLLAPSES: 4.70 / 10.0")
+    # Top HUD
+    draw.rectangle([0, 0, WIDTH, 74], fill=(10, 14, 23))
+    draw.line([0, 74, WIDTH, 74], fill=(239, 68, 68), width=2)
+    draw.text((40, 12), "CONTRASTIVE VALIDATION EXPERIMENT  •  IDENTICAL SPEECH TEXT", font=get_font(15, bold=True), fill=(239, 68, 68))
+    draw.text((40, 36), "Contrastive Degradation: MLK Tier 3 Botched Mirror", font=get_font(24, bold=True), fill=(248, 250, 252))
+    
+    # Subtitle pill on right
+    font_sub = get_font(15, bold=True)
+    sub_text = "SCORE COLLAPSES: 4.70 / 10.0"
+    bbox = font_sub.getbbox(sub_text)
+    bw = bbox[2] - bbox[0] + 30
+    bx = WIDTH - 40 - bw
+    draw.rounded_rectangle([bx, 18, WIDTH - 40, 56], radius=6, fill=(35, 18, 24), outline=(239, 68, 68), width=1)
+    draw.text((bx + 15, 28), sub_text, font=font_sub, fill=(239, 68, 68))
     
     # Left Box: Score Dial Dropped
     draw.rounded_rectangle([80, 120, 850, 900], radius=14, fill=(18, 22, 34), outline=(239, 68, 68), width=2)
@@ -180,14 +121,10 @@ def render_slide_5e():
     
     # Waveform canvas simulation
     draw.rounded_rectangle([930, 210, 1800, 580], radius=10, fill=(14, 18, 28), outline=(56, 189, 248), width=1)
-    # Baseline speech waves
     import math
     for x in range(960, 1770, 6):
-        # Time equivalent
         t = (x - 960) / 20.0
-        # If between 18.2s and 23.0s, dead air freeze!
         if 18.2 <= t <= 23.0:
-            # Flatline dead air
             draw.line([x, 395, x, 395], fill=(239, 68, 68), width=3)
         else:
             amp = int(40 * math.sin(t * 1.5) * math.cos(t * 3.8) + 50)
@@ -218,35 +155,20 @@ def render_slide_5e():
     img.save(os.path.join(SLIDES_DIR, "slide_5e_botched_freeze.png"))
 
 # ==============================================================================
-# SLIDE 5F: COACH TAB & ACTIONABLE PRACTICE ROUTINES
+# SLIDE 5F: COACH TAB & ACTIONABLE PRACTICE ROUTINES (Clean Authentic UI Footage)
 # ==============================================================================
 def render_slide_5f():
-    src = Image.open("results_tabs.png") # 1920 x 3000
-    # Crop Coach tab area
-    base = src.crop((0, 1000, 1920, 2080))
-    draw = ImageDraw.Draw(base)
-    
-    draw_top_hud(draw, "6. Forensic Coach Tab: Actionable Pedagogical Training & Daily Drills", "ACTIONABLE COACHING")
-    
-    # Highlight What Went Wrong Cards
-    draw_callout_box(draw, [80, 100, 1840, 520], "WHAT WENT WRONG & HOW TO FIX IT", "Itemized flaw cards with audience damage, millisecond re-play buttons, and physical corrections", (251, 191, 36))
-    
-    # Highlight 4 Daily Practice Routines
-    draw_callout_box(draw, [80, 550, 1840, 920], "4 TARGETED DAILY PRACTICE ROUTINES", "Diaphragmatic Breath Anchor • 3-Tier Pitch Staircase • 140 WPM Metronome Lock • Consonant Articulation Punch", (16, 185, 129))
-    
-    # Bottom HUD
-    draw.rounded_rectangle([80, 940, 1840, 1040], radius=10, fill=(10, 14, 23), outline=(16, 185, 129), width=2)
-    draw.text((110, 955), "PEDAGOGICAL VALUE PROPOSITION:", font=get_font(16, bold=True), fill=(16, 185, 129))
-    draw.text((110, 985), "VOCODE moves beyond grading to active coaching, providing concrete muscle-memory vocal drills tailored to the speaker's exact physical acoustic deficits.", font=get_font(17, bold=False), fill=(241, 245, 249))
-    
+    src_path = find_screenshot("results_tabs.png")
+    src = Image.open(src_path)
+    base = src.crop((0, 0, WIDTH, HEIGHT))
     base.save(os.path.join(SLIDES_DIR, "slide_5f_coach_tab.png"))
 
 if __name__ == "__main__":
-    print("Generating demo slides...")
+    print("Generating clean demo slides without artificial annotations...")
     render_slide_5a()
     render_slide_5b()
     render_slide_5c()
     render_slide_5d()
     render_slide_5e()
     render_slide_5f()
-    print("Demo slides generated successfully!")
+    print("Clean demo slides generated successfully!")

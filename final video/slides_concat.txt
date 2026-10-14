@@ -1,29 +1,29 @@
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_1a_title.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_1a_title.png'
 duration 11.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_1b_crisis.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_1b_crisis.png'
 duration 18.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_2a_flaws.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_2a_flaws.png'
 duration 29.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_3a_dataset.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_3a_dataset.png'
 duration 31.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_4a_pipeline.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_4a_pipeline.png'
 duration 40.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5a_landing.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5a_landing.png'
 duration 12.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5b_presets.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5b_presets.png'
 duration 12.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5c_results_dial.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5c_results_dial.png'
 duration 13.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5d_waveform.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5d_waveform.png'
 duration 13.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5e_botched_freeze.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5e_botched_freeze.png'
 duration 13.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_5f_coach_tab.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_5f_coach_tab.png'
 duration 12.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_6a_architecture.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_6a_architecture.png'
 duration 39.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_7a_rubrics.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_7a_rubrics.png'
 duration 35.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_8a_conclusion.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_8a_conclusion.png'
 duration 22.0
-file '/home/lazarus/Documents/HackathonMM2/final video/slides/slide_8a_conclusion.png'
+file '/home/lazarus/Documents/HackathonMM2/workspace/final video/slides/slide_8a_conclusion.png'

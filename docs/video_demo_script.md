@@ -14,7 +14,7 @@
 | **00:45 - 01:45** | **2. The Custom Dataset: 4-Tier Gradient** | VS Code view of `dataset/` + 4-tier audio waveforms | Masterclass vs synthetic flaws across 48 speeches |
 | **01:45 - 02:45** | **3. Feature Extraction & Standardization** | Code walkthrough of 100 Hz Praat F0 & -20 LUFS DSP | Acoustic physics: F0 semitones, PAPR, 20% Pause Law |
 | **02:45 - 04:30** | **4. Live Dashboard Walkthrough** | Chrome browser at `http://localhost:8501` | Landing page, Evaluator portal, MLK Masterclass vs Botched |
-| **04:30 - 05:30** | **5. The Coach Tab & Chess.com Moves** | Zoom into Coach Tab, Jump buttons, Practice drills | Mistake cards, exact physical fixes, daily vocal routines |
+| **04:30 - 05:30** | **5. The Coach Tab & Rhetorical Moves** | Zoom into Coach Tab, Jump buttons, Practice drills | Mistake cards, exact physical fixes, daily vocal routines |
 | **05:30 - 06:00** | **6. Conclusion & Reproducibility** | GitHub repo overview, tests running, closing | Objective evaluation, reproducibility, future vision |
 
 ---
@@ -70,7 +70,7 @@
 
 ---
 
-### Scene 5: The Forensic Coach Tab & Chess.com Move Cards (04:30 – 05:30)
+### Scene 5: The Forensic Coach Tab & Rhetorical Move Cards (04:30 – 05:30)
 * **Visual:**  
   * Click on the **🎯 Breakdown** tab.
   * Filter to **"Only Blunders (❌)"**. Click the **▶ Jump** button on the blunder card to show the audio player instantly seeking to the freeze timestamp.
@@ -81,7 +81,7 @@
     3. Re-play buttons.
     4. The 4 Daily Practice Routines (Diaphragmatic Breath Anchor, Pitch Staircase, 140 WPM Metronome Lock, Consonant Punch).
 * **Speaker Narration:**  
-  > *"Beyond grading, Vocode provides pedagogical coaching. In the Breakdown tab, every phrase is classified into Chess.com-style move cards: Brilliant, Great, Inaccuracies, Mistakes, and Blunders. Clicking 'Jump' seeks our HTML5 audio player directly to the exact millisecond of the mistake.*
+  > *"Beyond grading, Vocode provides pedagogical coaching. In the Breakdown tab, every phrase is classified into Rhetorical Move Cards: Brilliant, Great, Inaccuracies, Mistakes, and Blunders. Clicking 'Jump' seeks our HTML5 audio player directly to the exact millisecond of the mistake.*
   > *In the dedicated Coach tab, Vocode doesn't just tell you what went wrong—it teaches you how to fix it physically. For dead-air freezes, it prescribes the 1-second silent eye-contact reset. For monotone flatlines, it guides pitch staircasing on operative nouns. And below, it generates a personalized 7-day training plan with 4 targeted daily practice routines."*
 
 ---

@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-The backend acts as an objective, physics-grounded acoustic laboratory and reasoning engine. It ingests arbitrary multi-format audio files, standardizes them into a pristine 16 kHz acoustic master, extracts 100 Hz physical telemetry, evaluates delivery against a 10.0-point non-unilateral rubric across 5 oratorical pillars, categorizes phrase intervals into Chess.com-style rhetorical moves, and prompts Groq Cloud's open-source `llama-3.1-8b-instant` to synthesize deterministic acoustic proofs and semantic audience perceptions.
+The backend acts as an objective, physics-grounded acoustic laboratory and reasoning engine. It ingests arbitrary multi-format audio files, standardizes them into a pristine 16 kHz acoustic master, extracts 100 Hz physical telemetry, evaluates delivery against a 10.0-point non-unilateral rubric across 5 oratorical pillars, categorizes phrase intervals into oratorical rhetorical moves, and prompts Groq Cloud's open-source `llama-3.1-8b-instant` to synthesize deterministic acoustic proofs and semantic audience perceptions.
 
 ---
 
@@ -50,7 +50,7 @@ The backend acts as an objective, physics-grounded acoustic laboratory and reaso
                                 ▼
          ┌──────────────────────────────────────────────┐
          │ 4. MOVE CLASSIFIER (move_classifier.py)      │
-         │ • Chess.com rhetorical categorization        │
+         │ • rhetorical rhetorical categorization        │
          │ • Brilliant, Great/Good, Inaccuracy,         │
          │   Mistake, Blunder intervals                 │
          └──────────────────────┬───────────────────────┘
@@ -125,7 +125,7 @@ $$\text{Gate Ceiling} = 10.0 - 4.8 \tanh\left(0.55 \cdot \max(0, \Psi_{\text{imp
 
 ---
 
-### 3.4. Chess.com Rhetorical Move Classifier (`app/services/move_classifier.py`)
+### 3.4. rhetorical Rhetorical Move Classifier (`app/services/move_classifier.py`)
 Segments speech into time-series intervals and classifies every region into an oratorical move quality:
 
 | Move Tag | Color Code | Mathematical Trigger Criteria |

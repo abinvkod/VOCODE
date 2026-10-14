@@ -18,7 +18,7 @@ Evaluating competitive spoken oratory—such as Interpretive Reading, Declamatio
 2. Extracts dense **100 Hz physical acoustic telemetry** (F0 pitch semitone dynamics, short-time energy, PAPR crest factor, pause distributions, and spectral clarity).
 3. Evaluates speech against a mathematically rigorous, **Non-Unilateral 10.0-Point Rubric** across 5 Oratorical Pillars.
 4. Couples physical deficits via a **Systemic Impairment Index ($\Psi_{\text{impair}}$)** and dynamic leniency continuum ($\lambda \in [0, 100]$) to prevent unilateral false penalties.
-5. Temporally grounds flaw intervals $[t_{\text{start}}, t_{\text{end}}]$ with millisecond precision, classifying rhetorical phrases into **Chess.com-style Move Cards** (*Brilliant*, *Great*, *Inaccuracy*, *Mistake*, *Blunder*).
+5. Temporally grounds flaw intervals $[t_{\text{start}}, t_{\text{end}}]$ with millisecond precision, classifying rhetorical phrases into **Rhetorical Move Cards** (*Brilliant*, *Great*, *Inaccuracy*, *Mistake*, *Blunder*).
 6. Generates dual-layer causal explanations (deterministic DSP proofs + semantic audience impact) alongside tailored daily practice drills.
 
 ```mermaid
@@ -176,7 +176,7 @@ $$\text{Penalty}_{\text{effective}}(\lambda) = \text{Penalty}_{\text{strict}} \c
 * $\lambda = 50$ (**Professional / Corporate Standard**): Balanced professional benchmark ($6.5 - 7.5 / 10.0$).
 * $\lambda = 100$ (**Novice / Pedagogical Standard**): Encouraging coaching benchmark forgiving minor hesitations up to $7.5 - 8.5 / 10.0$.
 
-### 5.4 Chess.com-Style Move Classification
+### 5.4 Rhetorical Move Classification
 VOCODE partitions continuous speech into discrete rhetorical moves:
 * ✨ **Brilliant Move**: Dramatic pitch excursion ($\Delta F_0 > 14\text{ st}$) synchronized with high PAPR crest factor ($> 30\text{ dB}$) and a climactic rhetorical pause.
 * 🎯 **Great Move**: Fluid cadence ($130 - 175\text{ WPM}$) with resonant pitch inflection and natural phrasing.
@@ -306,7 +306,7 @@ CMD ["streamlit", "run", "app/app.py", "--server.port=8501", "--server.address=0
 | **Custom Contrastive Dataset** | 48 masterclass speeches + synthetic 4-tier flaw gradient + 200-clip benchmark | [`good speeches/`](file:///home/lazarus/Documents/HackathonMM2/good%20speeches/), [`findings/`](file:///home/lazarus/Documents/HackathonMM2/findings/) |
 | **Forced Alignment** | Millisecond-accurate word intervals and lexical stutter detection | [`app/services/alignment_service.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/alignment_service.py) |
 | **Advanced Feature Extraction** | 100 Hz Parselmouth Praat F0, RMS dB, PAPR crest, 20% Pause Law, HNR | [`src/preprocessing/`](file:///home/lazarus/Documents/HackathonMM2/src/preprocessing/), [`app/services/evaluation_service.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/evaluation_service.py) |
-| **Temporal Grounding & Causal Explainability** | Exact flaw timestamps $[t_s, t_e]$ mapped to Chess.com move cards + dual LLM explanations | [`app/services/move_classifier.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/move_classifier.py), [`app/services/explanation_service.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/explanation_service.py) |
+| **Temporal Grounding & Causal Explainability** | Exact flaw timestamps $[t_s, t_e]$ mapped to Rhetorical move cards + dual LLM explanations | [`app/services/move_classifier.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/move_classifier.py), [`app/services/explanation_service.py`](file:///home/lazarus/Documents/HackathonMM2/app/services/explanation_service.py) |
 | **Interactive Dashboard** | Rolling tape canvas uploader + Plotly gauge dial + interactive HTML5 scrubber | [`app/app.py`](file:///home/lazarus/Documents/HackathonMM2/app/app.py) |
 | **Reproducibility & Deployment** | Containerized `Dockerfile`, pinned `requirements.txt`, headless flags | [`Dockerfile`](file:///home/lazarus/Documents/HackathonMM2/Dockerfile), [`requirements.txt`](file:///home/lazarus/Documents/HackathonMM2/requirements.txt) |
 
@@ -314,4 +314,4 @@ CMD ["streamlit", "run", "app/app.py", "--server.port=8501", "--server.address=0
 
 ## 10. Conclusion
 
-VOCODE transforms oratorical speech evaluation from an inherently subjective, inconsistent human judging process into an **objective, reproducible, and pedagogically transformative science**. By coupling 100 Hz physical acoustic telemetry with non-unilateral rubric scoring, Chess.com-style temporal grounding, and dual-layer generative AI explanations, VOCODE establishes a new standard for competitive forensics, public speaking coaching, and multimodal speech analytics.
+VOCODE transforms oratorical speech evaluation from an inherently subjective, inconsistent human judging process into an **objective, reproducible, and pedagogically transformative science**. By coupling 100 Hz physical acoustic telemetry with non-unilateral rubric scoring, temporal move grounding, and dual-layer generative AI explanations, VOCODE establishes a new standard for competitive forensics, public speaking coaching, and multimodal speech analytics.

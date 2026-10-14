@@ -9,7 +9,7 @@
 ---
 
 ### Abstract
-Evaluating competitive spoken rhetoric (interpretive reading, persuasive oratory, declamation, and extemporaneous speech) has historically suffered from extreme judge subjectivity, halo effects, and vague post-hoc feedback. In this paper, we present **Vocode**, a physics-grounded speech evaluation system built on a custom contrastive dataset of paired ideal and flawed speeches across a 4-tier degradation spectrum. Vocode extracts 100 Hz frame-rate acoustic telemetry (fundamental frequency $F_0$, semitone dynamic range, PAPR crest factor, pause distributions, and spectral flux) aligned via Whisper automatic speech recognition. Rather than relying on black-box classification, Vocode implements a **Non-Unilateral 5-Pillar Rubric** with dynamic leniency calibration ($\lambda \in [0, 100]$) and a systemic impairment index ($\Psi_{\text{impair}}$) to eliminate unilateral false penalties. Furthermore, Vocode grounds failure intervals $[t_{\text{start}}, t_{\text{end}}]$ with millisecond precision, classifies oratorical maneuvers into Chess.com-style move cards (*Brilliant*, *Mistake*, *Blunder*), and generates prescriptive physical vocal remediation through an interactive web dashboard.
+Evaluating competitive spoken rhetoric (interpretive reading, persuasive oratory, declamation, and extemporaneous speech) has historically suffered from extreme judge subjectivity, halo effects, and vague post-hoc feedback. In this paper, we present **Vocode**, a physics-grounded speech evaluation system built on a custom contrastive dataset of paired ideal and flawed speeches across a 4-tier degradation spectrum. Vocode extracts 100 Hz frame-rate acoustic telemetry (fundamental frequency $F_0$, semitone dynamic range, PAPR crest factor, pause distributions, and spectral flux) aligned via Whisper automatic speech recognition. Rather than relying on black-box classification, Vocode implements a **Non-Unilateral 5-Pillar Rubric** with dynamic leniency calibration ($\lambda \in [0, 100]$) and a systemic impairment index ($\Psi_{\text{impair}}$) to eliminate unilateral false penalties. Furthermore, Vocode grounds failure intervals $[t_{\text{start}}, t_{\text{end}}]$ with millisecond precision, classifies oratorical maneuvers into Rhetorical Move Cards (*Brilliant*, *Mistake*, *Blunder*), and generates prescriptive physical vocal remediation through an interactive web dashboard.
 
 ---
 
@@ -36,7 +36,7 @@ Vocode resolves these challenges through an end-to-end architecture:
 [Phase 4: Non-Unilateral Scoring & Gating] (5 Pillars, PSI Coupling, Leniency Continuum λ)
        │
        ▼
-[Phase 5: Temporal Grounding & Move Classification] (Chess.com Move Cards, Jump Seeking)
+[Phase 5: Temporal Grounding & Move Classification] (Rhetorical Move Cards, Jump Seeking)
        │
        ▼
 [Phase 6: Dual-Layer Causal Explainability & Coach Tab] (DSP Physics + Semantic Perception + Drills)
@@ -120,7 +120,7 @@ $$\text{Penalty}_{\text{effective}}(\lambda) = \text{Penalty}_{\text{strict}} \c
 ---
 
 ### 5. Temporal Grounding & Move Classification
-Vocode maps rhetorical performance onto a temporal continuum using **Chess.com-style Move Cards**:
+Vocode maps rhetorical performance onto a temporal continuum using **Rhetorical Move Cards**:
 * ✨ **Brilliant Move:** Emphatic pitch excursion ($\Delta F_0 > 14$ st) synchronized with high PAPR crest factor ($> 30$ dB) and dramatic pause.
 * 🎯 **Great Move:** Fluid cadence ($130 - 175$ WPM) with natural vocal inflection.
 * 👍 **Good Move:** Baseline clear delivery meeting standard criteria.
@@ -157,11 +157,11 @@ The frontend is implemented in Streamlit and Plotly (`app/app.py`):
    * `🧑‍🏫 Coach`: Mistake-by-mistake forensic analysis, audience psychological impact, exact physical fix, and 4 daily practice routines.
    * `🔬 Technical Breakdown`: Deterministic acoustic physics & DSP threshold explanations.
    * `🎭 Qualitative Breakdown`: Semantic audience perception via Groq Qwen 27B LLM.
-   * `🎯 Breakdown`: Chronological Chess.com move cards with filtering.
+   * `🎯 Breakdown`: Chronological Rhetorical move cards with filtering.
    * `📊 Rubrics`: 5-Pillar Scorecards, 5-Pillar Radar Chart, and itemized mathematical deduction audit ledger.
    * `📈 Deep Telemetry`: Full 12-factor acoustic metrics.
 
 ---
 
 ### 8. Conclusion
-Vocode proves that oratorical speech evaluation can be transformed from subjective human guesswork into an objective, reproducible, and pedagogically actionable science. By combining a 4-tier contrastive dataset, physical DSP feature extraction, non-unilateral rubric scoring, and Chess.com-style temporal grounding, Vocode delivers exact mathematical accountability alongside empathetic, world-class coaching.
+Vocode proves that oratorical speech evaluation can be transformed from subjective human guesswork into an objective, reproducible, and pedagogically actionable science. By combining a 4-tier contrastive dataset, physical DSP feature extraction, non-unilateral rubric scoring, and temporal move grounding, Vocode delivers exact mathematical accountability alongside empathetic, world-class coaching.
