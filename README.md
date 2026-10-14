@@ -18,27 +18,29 @@ The workspace is organized into a modular, production-ready architecture where e
 ```
 workspace/
 ├── app/                  # Frontend Web Dashboard & Backend Microservices
-├── src/                  # Core Digital Signal Processing (DSP) & Telemetry Engines
-├── dataset/              # Paired 4-Tier Contrastive Speech Dataset & Manifests
-├── good speeches/        # 48 Curated Masterclass Historical Baseline Speeches
-├── bad speechs/          # Empirical Real-World Speech Anxiety & Breakdown Archive
-├── testing videos/       # Cross-Speaker Validation & Stress-Testing Corpus
-├── processed/            # 7-Stage Standardized 16 kHz Audio Corpus (-20 LUFS)
-├── docs/                 # Complete Documentation, Technical Papers & HTML Reports
+├── dataset/              # Unified Speech Audio & Contrastive Dataset Suite (2.7 GB)
+│   ├── good speeches/    # 48 Curated Masterclass Historical Baseline Speeches
+│   ├── bad speechs/      # Empirical Real-World Speech Breakdown Archive
+│   ├── testing videos/   # Cross-Speaker Validation & Stress-Testing Corpus
+│   ├── processed/        # Standardized 16 kHz Mono Audio Corpus (-20 LUFS)
+│   ├── approach3_experiment/ # 4-Tier Paired Contrastive Speeches with JSON Flaw Bounding
+│   ├── paired_contrastive_dataset/ # Paired Contrastive Manifests & Ground Truth
+│   ├── upload_to_huggingface.py # 1-Command Automated Dataset Uploader to Hugging Face
+│   └── download_dataset.py      # 1-Command Automated Dataset Downloader
+├── docs/                 # Official IEEE PDF Report & Interactive HTML Report
+│   ├── final_report.pdf  # Official 9-Page Comprehensive Project Report
+│   └── final_report.html # Self-Contained Interactive Report with MathJax & Diagrams
+├── final video/          # Showcase Video Deliverables, Slide Graphics & Audio Mix
 ├── findings/             # Empirical 200-Clip Benchmark Results & Statistical Analytics
+├── src/                  # Core Digital Signal Processing (DSP) & Telemetry Engines
 ├── tests/                # Automated Unit Test Suite (11/11 Tests Passing)
-├── final video/          # Complete Showcase Video Assets, Captions & Storyboard
-├── final_video.mp4       # Master 5-Minute Showcase Video (1080p, H.264/AAC)
-├── final_report.pdf      # Official 9-Page Comprehensive Project Report
-├── ps.pdf                # Track C Problem Statement & Official Judging Rubrics
+├── final_video.mp4       # Master 5-Minute Showcase Video (1080p Full HD, H.264/AAC)
+├── final_report.pdf      # Official 9-Page Comprehensive Project Report (Root Deliverable)
+├── index.html            # Deployed Showcase Website (GitHub Pages)
 ├── Dockerfile            # Container Deployment Specification (python:3.12-slim)
-├── requirements.txt      # Pinned Python Dependencies
 ├── packages.txt          # System Dependencies (ffmpeg, libsndfile1)
-├── pipeline.md           # Pipeline Technical Architecture Specification
-├── frontend.md           # Frontend Layout & Widget Specification
-├── backend.md            # Backend Scoring & Service Specification
-├── preprocessing.md      # 7-Stage DSP Standardization Specification
-├── stats.md              # Statistical Benchmark Summary & Correlation Report
+├── ps.pdf                # Track C Problem Statement & Official Judging Rubrics
+├── README.md             # Repository Documentation & Verification Matrix
 └── venv/                 # Local Virtual Environment (Dependencies Pre-Installed)
 ```
 
@@ -47,16 +49,12 @@ workspace/
 | Directory | Core Purpose & Key Components |
 | :--- | :--- |
 | **`app/`** | **Web Application & Backend Topology:**<br>• `app/app.py`: Streamlit entry point featuring a 60 fps rotating tape reel canvas, Plotly gauge dial, and multi-track waveform inspector.<br>• `app/components/`: Modular UI widgets including `score_dial.py`, `move_waveform.py`, `audio_player.py`, `rubrics_tab.py`, `explanation_view.py`, and `coach_tab.py`.<br>• `app/services/`: Backend microservices including `ingestion_service.py` (0 MB ephemeral audio handling), `alignment_service.py` (Whisper forced alignment), `evaluation_service.py` (5-pillar scoring), `move_classifier.py` (rhetorical moves), and `explanation_service.py` (Groq LLM reasoner). |
+| **`dataset/`** | **Unified Speech & Contrastive Dataset Suite (2.7 GB):**<br>• **Dataset Hosting:** Due to GitHub's 100 MB file limit, the full multi-gigabyte audio corpus is hosted on Hugging Face Datasets with Git-LFS.<br>• `upload_to_huggingface.py`: 1-click script to host dataset on Hugging Face Hub (`python dataset/upload_to_huggingface.py --token <HF_TOKEN>`).<br>• `download_dataset.py`: 1-click script to pull the full audio corpus locally (`python dataset/download_dataset.py`).<br>• `dataset/approach3_experiment/`: Structured paired 4-tier speech folders (e.g., `MLK_I_Have_A_Dream/`, `JFK_Inaugural_Ask_Not/`, `Chaplin_Great_Dictator/`). Contains paired `tier0_masterclass.wav`, `tier1_distinguished.wav`, `tier2_proficient.wav`, and `tier3_botched.wav` with ground-truth millisecond bounding intervals in `tier1_flaws.json`, `tier2_flaws.json`, and `tier3_flaws.json`.<br>• `dataset/good speeches/`: 48 Masterclass historical speeches (MLK, JFK, Churchill, Steve Jobs, Admiral McRaven, Chaplin).<br>• `dataset/bad speechs/`: Real-world speaking breakdowns (Michael Bay CES freeze, Miss South Carolina, anxiety tremors).<br>• `dataset/testing videos/`: Cross-speaker evaluation clips for speaker-agnostic normalization.<br>• `dataset/processed/`: Broadcast-standardized 16 kHz mono WAV speech files normalized to -20 LUFS. |
 | **`src/`** | **Model & Feature Engineering Core:**<br>• `src/preprocessing/`: Contains `audio_standardizer.py` (universal 32-bit decode, 16 kHz sinc resample, 70 Hz Butterworth HPF, -20 LUFS EBU R128), `telemetry.py` (100 Hz Praat Parselmouth $F_0$ semitones, PAPR crest factor in dB, 20% Oratorical Pause Law tracker), `spectral_denoiser.py` (STFT Wiener denoising), and `transcription_engine.py`.<br>• `src/injector/`: 6-dimensional synthetic flaw injection engine (`flaw_injector.py`, `organic_flaw_injector.py`) generating controlled degradation gradients (PSOLA pitch flatlining, cadence runaway, dead-air freezing, mumble filtering). |
-| **`dataset/`** | **Paired Contrastive Dataset Experiments:**<br>• `dataset/approach3_experiment/`: Structured paired 4-tier speech folders (e.g., `MLK_I_Have_A_Dream/`, `JFK_Inaugural_Ask_Not/`, `Chaplin_Great_Dictator/`). Contains paired `tier0_masterclass.wav`, `tier1_distinguished.wav`, `tier2_proficient.wav`, and `tier3_botched.wav` with ground-truth millisecond bounding intervals in `tier1_flaws.json`, `tier2_flaws.json`, and `tier3_flaws.json`. |
-| **`good speeches/`** | **Masterclass Historical Baseline (48 Speeches):**<br>Pristine orations serving as oratorical ground truth across political rhetoric, commencement addresses, Toastmasters world championship speeches, and cultural monologues (MLK, JFK, Churchill, Steve Jobs, Admiral McRaven, Chaplin). |
-| **`bad speechs/`** | **Empirical Failure Archive:**<br>Real-world speaking breakdowns used to stress-test the detection pipeline, including Miss South Carolina 2007, Michael Bay CES 2014 (16.4s stage freeze), and student public speaking anxiety presentations. |
-| **`testing videos/`** | **Cross-Speaker Validation Corpus:**<br>Diverse multi-speaker evaluation clips (political leaders, Toastmasters champion speeches) utilized to verify speaker-agnostic normalization. |
-| **`processed/`** | **Standardized Audio Corpus:**<br>Broadcast-standardized 16 kHz mono WAV speech files normalized to -20 LUFS with verified SNR. |
-| **`docs/`** | **Technical Documentation Suite:**<br>• `final_report.pdf`: Official 9-page IEEE-format report.<br>• `technical_report.md` & `final_report.md`: Markdown technical specifications.<br>• `final_report.html`: Self-contained interactive report with MathJax and Mermaid.js diagrams.<br>• `deliverables_checklist.md`: Audit matrix tracking completion against official judging rubrics.<br>• `docs/specs/`: Modular backend and frontend system specifications. |
+| **`docs/`** | **Technical Documentation Suite:**<br>• `final_report.pdf`: Official 9-page IEEE-format report.<br>• `final_report.html`: Self-contained interactive report with MathJax and Mermaid.js diagrams. |
 | **`findings/`** | **Empirical Benchmark & Analytics:**<br>Evaluation JSON reports, master corpus grading files, and the 200-clip benchmark results (`dataset_200_evaluation_results.json`) validating statistical alignment ($r = 0.461, \rho = 0.589, \text{MAE} = 1.17$). |
 | **`tests/`** | **Automated Unit Test Suite:**<br>Contains `tests/test_preprocessing.py` validating 11 critical audio processing stages (decoding, sinc resampling, HPF filtering, EBU R128 loudness normalization, and 100 Hz physical telemetry extraction). All 11 tests pass green. |
-| **`final video/`** | **Showcase Video Deliverables & Source Assets:**<br>• `vocode_showcase_5min.mp4` & `final_video.mp4`: 5-minute Full HD showcase video with natural conversational chatbot voice.<br>• `vocode_captions.srt`: Synchronized subtitle file.<br>• `narration_script.md`: Spoken script with scene-by-scene timing metadata.<br>• `storyboard.md`: Visual storyboard with motion cues and annotations.<br>• `slides/`: 14 high-resolution 1080p slide graphics.<br>• `audio/`: Master narration track, ducked background music, and individual scene audio tracks.<br>• Reproducible rendering scripts: `render_slides.py`, `render_demo_slides.py`, `synthesize_neural_chatbot_voice.py`, `build_audio_and_subtitles.py`, `render_final_video.py`. |
+| **`final video/`** | **Showcase Video Deliverables & Source Assets:**<br>• `vocode_showcase_5min.mp4` & `final_video.mp4`: 5-minute Full HD showcase video with natural conversational chatbot voice.<br>• `vocode_captions.srt`: Synchronized subtitle file.<br>• `slides/`: 14 high-resolution 1080p slide graphics.<br>• `audio/`: Master narration track, ducked background music, and individual scene audio tracks.<br>• Reproducible rendering scripts: `render_slides.py`, `render_demo_slides.py`, `synthesize_neural_chatbot_voice.py`, `build_audio_and_subtitles.py`, `render_final_video.py`. |
 
 ---
 
@@ -66,10 +64,10 @@ The challenge defined in [`ps.pdf`](ps.pdf) (Track C) requires developing an obj
 
 | Deliverable Required in `ps.pdf` | Status | Repository Implementation & Evidence |
 | :--- | :---: | :--- |
-| **1. GitHub Codebase & Documentation** | ✅ **COMPLETE** | Clean modular architecture: `src/` (DSP & telemetry), `app/` (Streamlit web dashboard), `docs/` (specs), `tests/` (unit tests). |
-| **2. The Custom Dataset** | ✅ **COMPLETE** | • 48 curated masterclass historical speeches (`good speeches/`)<br>• Empirical real-world failure archive (`bad speechs/`, `testing videos/`)<br>• 4-tier paired contrastive spectrum with millisecond JSON flaw bounds (`dataset/approach3_experiment/`) |
+| **1. GitHub Codebase & Documentation** | ✅ **COMPLETE** | Clean modular architecture: `src/` (DSP & telemetry), `app/` (Streamlit web dashboard), `docs/` (reports), `tests/` (unit tests). |
+| **2. The Custom Dataset** | ✅ **COMPLETE** | Unified 2.7 GB dataset under `dataset/` (48 masterclass speeches, 4-tier paired contrastive spectrum with millisecond JSON flaw bounds, cross-speaker testing corpus) + 1-click Hugging Face uploader/downloader. |
 | **3. Interactive Dashboard** | ✅ **COMPLETE** | Live Streamlit interface (`app/app.py`) with 60 fps rotating tape reels, Plotly gauge score dial, multi-track rhetorical move waveform, and interactive HTML5 audio scrubber. |
-| **4. Technical Documentation (Max 6–9 pages)** | ✅ **COMPLETE** | Comprehensive technical report (`final_report.pdf`), plus exhaustive technical specifications (`pipeline.md`, `backend.md`, `frontend.md`, `preprocessing.md`, `stats.md`). |
+| **4. Technical Documentation (Max 6–9 pages)** | ✅ **COMPLETE** | Comprehensive 9-page IEEE technical report (`final_report.pdf`) and interactive web report (`docs/final_report.html`). |
 | **5. 3–10 Minute Video** | ✅ **COMPLETE** | Exactly 5:00.00 (300.0s) 1080p Full HD MP4 showcase video (`final_video.mp4`) with conversational neural voice-over, ducked music, and burned-in captions. |
 
 ---

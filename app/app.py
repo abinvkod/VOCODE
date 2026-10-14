@@ -74,7 +74,11 @@ st.set_page_config(
 )
 
 def load_default_benchmark_data():
-    sample_dir = os.path.join(ROOT_DIR, "testing videos", "01_Admiral_William_McRaven")
+    candidates = [
+        os.path.join(ROOT_DIR, "dataset", "testing videos", "01_Admiral_William_McRaven"),
+        os.path.join(ROOT_DIR, "testing videos", "01_Admiral_William_McRaven"),
+    ]
+    sample_dir = next((c for c in candidates if os.path.exists(c)), candidates[0])
     inf_path = os.path.join(sample_dir, "inference_report.json")
     clean_wav = os.path.join(sample_dir, "preprocessed_clean.wav")
     raw_wav = os.path.join(sample_dir, "raw_audio.wav")

@@ -27,7 +27,10 @@ tmp/
 *.tmp
 *.log
 
-# Audio files exceeding GitHub's 100MB limit
-testing videos/01_Admiral_William_McRaven/raw_audio.wav
-testing videos/05_Mohammed_Qahtani_World_Champion/raw_audio.wav
-good speeches/18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS/preprocessed_clean.wav
+# Large Binary Audio Files (Hosted externally on Hugging Face Datasets via dataset/upload_to_huggingface.py)
+# Preserves all JSON manifests, transcripts, and metadata in Git
+dataset/**/*.wav
+dataset/**/*.mp3
+dataset/**/*.m4a
+dataset/**/*.flac
+final video/audio/*.wav
