@@ -40,53 +40,75 @@
     .nav-container {
       max-width: 1280px;
       margin: 0 auto;
-      padding: 16px 24px;
+      padding: 14px 24px;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 16px;
+    }
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+      white-space: nowrap;
     }
     .logo {
-      font-size: 24px;
+      font-size: 20px;
       font-weight: 800;
       letter-spacing: -0.5px;
       color: #fff;
-      display: flex;
+      display: inline-flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       text-decoration: none;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .logo span { color: var(--cyan); }
     .badge {
       background: rgba(56, 189, 248, 0.12);
       border: 1px solid rgba(56, 189, 248, 0.3);
       color: var(--cyan);
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 600;
       padding: 4px 10px;
       border-radius: 999px;
       text-transform: uppercase;
       letter-spacing: 0.5px;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
-    nav a {
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    nav a.nav-link {
       color: var(--muted);
       text-decoration: none;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 500;
-      margin-left: 24px;
       transition: color 0.2s;
+      white-space: nowrap;
     }
-    nav a:hover { color: #fff; }
+    nav a.nav-link:hover { color: #fff; }
     .btn {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 10px 20px;
+      gap: 6px;
+      padding: 8px 14px;
       border-radius: 8px;
       font-weight: 600;
-      font-size: 14px;
+      font-size: 13px;
       text-decoration: none;
       transition: all 0.2s;
       cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .btn-primary {
       background: var(--cyan);
@@ -254,6 +276,25 @@
       color: var(--muted);
       font-size: 14px;
     }
+    @media (max-width: 960px) {
+      .nav-container {
+        flex-direction: column;
+        gap: 12px;
+        padding: 12px 16px;
+      }
+      nav {
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      nav a.nav-link {
+        font-size: 12px;
+      }
+      .btn {
+        padding: 6px 12px;
+        font-size: 12px;
+      }
+    }
     footer a { color: var(--cyan); text-decoration: none; }
   </style>
 </head>
@@ -261,15 +302,17 @@
 
   <header>
     <div class="nav-container">
-      <a href="#" class="logo">
-        🎙️ VOCODE <span>AI</span>
-      </a>
-      <span class="badge">Track C: Hackathon 2026</span>
+      <div class="brand-group">
+        <a href="#" class="logo">
+          🎙️ VOCODE <span>AI</span>
+        </a>
+        <span class="badge">Track C: Hackathon 2026</span>
+      </div>
       <nav>
-        <a href="#showcase">Video Demo</a>
-        <a href="#pipeline">System Pipeline</a>
-        <a href="#dataset">Contrastive Dataset</a>
-        <a href="#rubrics">Official Rubrics</a>
+        <a href="#showcase" class="nav-link">Video Demo</a>
+        <a href="#pipeline" class="nav-link">Pipeline</a>
+        <a href="#dataset" class="nav-link">Dataset</a>
+        <a href="#rubrics" class="nav-link">Rubrics</a>
         <a href="final_report.pdf" target="_blank" class="btn btn-secondary">Report (PDF)</a>
         <a href="https://github.com/abinvkod/VOCODE.git" target="_blank" class="btn btn-primary">GitHub</a>
         <a href="https://vocodational.streamlit.app/" target="_blank" class="btn btn-primary" style="background: #10b981; color: #0a0e17;">🚀 Live Demo</a>
