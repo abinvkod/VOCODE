@@ -1,0 +1,68 @@
+{
+  "id": "lj3iNxZ8Dww",
+  "slug": "07_Miss_South_Carolina_2007",
+  "title": "Miss Teen USA 2007 - South Carolina answers a question",
+  "duration_sec": 48.51,
+  "grades": {
+    "strict_leniency_0": 6.7,
+    "moderate_leniency_50": 7.8,
+    "lenient_leniency_100": 8.9
+  },
+  "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+  "performance_band_moderate": "Proficient / Noticeable Flaws (Tier 2)",
+  "performance_band_lenient": "Distinguished / Minor Polish (Tier 1)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.45,
+    "dynamic_energy_out_of_1_5": 1.1,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.25,
+      "metric": "pause_ratio: 15.8%",
+      "flaw": "Insufficient Pausing",
+      "explanation": "Pause ratio of 15.8% is below the 20% oratorical law."
+    },
+    {
+      "pillar": "Rhetorical Pausing & Fluency",
+      "deduction": 0.3,
+      "metric": "filler_words_per_min: 3.7",
+      "flaw": "Frequent Filler Words",
+      "explanation": "Noticeable filler word frequency (3.7/min) disrupts smooth syntactic phrasing."
+    },
+    {
+      "pillar": "Dynamic Energy",
+      "deduction": 0.2,
+      "metric": "energy_dynamic_range: 28.17 dB",
+      "flaw": "Mild Dynamic Flatness",
+      "explanation": "Volume dynamic range was 28.17 dB, slightly lower than typical masterclass contrast."
+    },
+    {
+      "pillar": "Dynamic Energy",
+      "deduction": 0.2,
+      "metric": "papr_crest_factor: 8.9",
+      "flaw": "Low Vocal Punchiness",
+      "explanation": "PAPR of 8.9 indicates lack of contrast between stressed and unstressed syllables."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 3,
+    "fillers_per_min": 3.71,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 186.47,
+    "f0_semitones": 23.42,
+    "f0_velocity_hz_per_sec": 687.45,
+    "articulation_rate_sps": 5.61,
+    "pause_ratio": 0.158,
+    "hesitation_pause_count": 0,
+    "energy_dynamic_range_db": 28.17,
+    "papr_crest_factor": 8.9,
+    "spectral_flux": 4.9299
+  },
+  "transcript_preview": "Recyples have shown a fifth of Americans can't locate the U.S. on a world map. Why do you think this is? I personally believe that U.S. Americans are unable to do so because some people out there in our nation don't have maps and I believe that our e..."
+}

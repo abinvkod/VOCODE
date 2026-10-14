@@ -1,0 +1,675 @@
+<begin speech t=0000.000s>
+content: "Hello Chicago."
+<end speech t=0002.000s>
+
+<begin speech t=0002.000s>
+content: "If there is anyone out there, we still doubt that America is a place where all things"
+<end speech t=0020.240s>
+
+<begin speech t=0020.240s>
+content: "are possible."
+<end speech t=0021.240s>
+
+<begin speech t=0021.240s>
+content: "We still wonder if the dream of our founders is alive in our time."
+<end speech t=0029.520s>
+
+<begin speech t=0029.520s>
+content: "We still question the power of our democracy."
+<end speech t=0033.680s>
+
+<begin speech t=0033.680s>
+content: "Tonight is your answer."
+<end speech t=0042.760s>
+
+<begin speech t=0042.760s>
+content: "The answer told by lines that stretch around schools and churches in numbers this nation"
+<end speech t=0048.640s>
+
+<begin speech t=0048.640s>
+content: "has never seen."
+<end speech t=0051.000s>
+
+<begin speech t=0051.000s>
+content: "By people who waited three hours and four hours, many for the first time in their lives, because"
+<end speech t=0058.360s>
+
+<begin speech t=0058.360s>
+content: "they believe that this time must be different, that their voices could be that difference."
+<end speech t=0067.200s>
+
+<begin speech t=0067.200s>
+content: "If the answer is spoken by young and old, rich and poor, Democrat and Republican, black,"
+<end speech t=0074.800s>
+
+<begin speech t=0074.800s>
+content: "white, Hispanic, Asian, Native American, gay, straight, disabled and not disabled, Americans"
+<end speech t=0083.400s>
+
+<begin speech t=0083.400s>
+content: "who send a message to the world that we have never been, just a collection of individuals"
+<end speech t=0089.320s>
+
+<begin speech t=0089.320s>
+content: "or a collection of red states and blue states, we are and always will be the United States"
+<end speech t=0096.080s>
+
+<begin speech t=0096.080s>
+content: "of America."
+<end speech t=0101.080s>
+
+<begin speech t=0101.080s>
+content: "It's the answer that led those who have been told for so long by so many to be cynical"
+<end speech t=0115.560s>
+
+<begin speech t=0115.560s>
+content: "and fearful and doubtful about what we could achieve to put their hands on the arc of history"
+<end speech t=0123.280s>
+
+<begin speech t=0123.280s>
+content: "and bend it once more toward the hope of a better day."
+<end speech t=0127.480s>
+
+<begin speech t=0128.480s>
+content: "It's been a long time coming."
+<end speech t=0130.680s>
+
+<begin speech t=0130.680s>
+content: "But tonight, because of what we did on this day, in this election, at this defining moment,"
+<end speech t=0139.320s>
+
+<begin speech t=0139.320s>
+content: "changes come to America."
+<end speech t=0144.320s>
+
+<begin speech t=0144.320s>
+content: "A little bit earlier this evening, I received an extraordinarily gracious call from Senator"
+<end speech t=0155.960s>
+
+<begin speech t=0155.960s>
+content: "McCain."
+<end speech t=0161.440s>
+
+<begin speech t=0161.440s>
+content: "Senator McCain fought long and hard in this campaign, and he's fought even longer and"
+<end speech t=0168.080s>
+
+<begin speech t=0168.080s>
+content: "harder for the country than he was."
+<end speech t=0172.080s>
+
+<begin speech t=0172.080s>
+content: "He has endured sacrifices for America that most of us cannot begin to imagine."
+<end speech t=0179.440s>
+
+<begin speech t=0179.440s>
+content: "We are better off for the service rendered by the brave and selfless leaders."
+<end speech t=0186.600s>
+
+<begin speech t=0186.600s>
+content: "I congratulate him."
+<end speech t=0188.600s>
+
+<begin speech t=0188.600s>
+content: "I congratulate Governor Palin for all that they've achieved, and I look forward to working"
+<end speech t=0194.960s>
+
+<begin speech t=0194.960s>
+content: "with them to renew this nation's promise in the months ahead."
+<end speech t=0207.440s>
+
+<begin speech t=0207.440s>
+content: "I want to thank my partner in this journey, a man who campaigned for his heart and spoke"
+<end speech t=0214.640s>
+
+<begin speech t=0214.640s>
+content: "for the men and women he grew up with on the streets of Scranton and rode with on the train"
+<end speech t=0219.880s>
+
+<begin speech t=0219.880s>
+content: "home to Delaware."
+<end speech t=0221.640s>
+
+<begin speech t=0221.640s>
+content: "The Vice President elect of the United States, Joe Biden."
+<end speech t=0235.000s>
+
+<begin speech t=0235.000s>
+content: "And I would not be standing here tonight without the unyielding support of my best friend for"
+<end speech t=0242.440s>
+
+<begin speech t=0242.440s>
+content: "the last 16 years, the rock of our family, the love of my life, the nation's next first"
+<end speech t=0251.120s>
+
+<begin speech t=0251.120s>
+content: "lady, Michelle Obama."
+<end speech t=0256.960s>
+
+<begin speech t=0256.960s>
+content: "Sasha and Malia, I love you both more than you can imagine."
+<end speech t=0270.400s>
+
+<begin speech t=0270.400s>
+content: "And you have earned the new puppy that's coming with us to the White House."
+<end speech t=0282.360s>
+
+<begin speech t=0282.360s>
+content: "And while she's no longer with us, I know my grandmother's watching, along with the"
+<end speech t=0288.480s>
+
+<begin speech t=0288.480s>
+content: "family that made me who I am."
+<end speech t=0291.520s>
+
+<begin speech t=0291.520s>
+content: "I miss them tonight."
+<end speech t=0293.680s>
+
+<begin speech t=0293.680s>
+content: "I know that my debt to them is beyond measure."
+<end speech t=0298.720s>
+
+<begin speech t=0298.720s>
+content: "To my sister, Maya, my sister, Alma, all my other brothers and sisters, thank you so"
+<end speech t=0304.280s>
+
+<begin speech t=0304.280s>
+content: "much for all the support that you've given me."
+<end speech t=0306.840s>
+
+<begin speech t=0306.840s>
+content: "I am grateful to them."
+<end speech t=0313.320s>
+
+<begin speech t=0313.320s>
+content: "To my campaign manager, David Klopf."
+<end speech t=0323.320s>
+
+<begin speech t=0323.320s>
+content: "The unsung hero of this campaign who built the best political campaign I think in the"
+<end speech t=0331.640s>
+
+<begin speech t=0331.640s>
+content: "history of the United States of America."
+<end speech t=0338.680s>
+
+<begin speech t=0338.680s>
+content: "To my chief strategist, David Axelrod, who's been a partner with me every step of the way."
+<end speech t=0349.320s>
+
+<begin speech t=0349.320s>
+content: "To the best campaign team ever assembled in the history of politics, you made this"
+<end speech t=0354.760s>
+
+<begin speech t=0354.760s>
+content: "happen and I am forever grateful for what you've sacrificed to get it done."
+<end speech t=0361.720s>
+
+<begin speech t=0361.720s>
+content: "But above all, I will never forget who this victory truly belongs to."
+<end speech t=0371.640s>
+
+<begin speech t=0371.640s>
+content: "It belongs to you."
+<end speech t=0375.440s>
+
+<begin speech t=0375.440s>
+content: "It belongs to you."
+<end speech t=0378.440s>
+
+<begin speech t=0378.440s>
+content: "I was never the likeliest candidate for the songs."
+<end speech t=0383.480s>
+
+<begin speech t=0383.480s>
+content: "We didn't start with much money or many endorses."
+<end speech t=0386.640s>
+
+<begin speech t=0386.640s>
+content: "Our campaign was not hatched in the halls of Washington."
+<end speech t=0390.840s>
+
+<begin speech t=0390.840s>
+content: "It began in the backyards of Des Moines, in the living rooms of Conch and the front porch"
+<end speech t=0397.400s>
+
+<begin speech t=0397.400s>
+content: "of Charles."
+<end speech t=0398.400s>
+
+<begin speech t=0398.400s>
+content: "It was built by working men and women who dug into what little savings they had to get $5"
+<end speech t=0404.880s>
+
+<begin speech t=0404.880s>
+content: "to $10 and $20 to the cause."
+<end speech t=0409.360s>
+
+<begin speech t=0409.360s>
+content: "It grew strength from the young people who rejected the myth of their generation's apathy."
+<end speech t=0414.240s>
+
+<begin speech t=0414.240s>
+content: "We left their homes and their families for jobs that offered little pay and less sleep."
+<end speech t=0421.240s>
+
+<begin speech t=0421.240s>
+content: "It grew strength from the not so young people who braved the bitter cold and scorching heat"
+<end speech t=0427.000s>
+
+<begin speech t=0427.000s>
+content: "to knock on doors of perfect strangers and from the millions of Americans who volunteered"
+<end speech t=0432.040s>
+
+<begin speech t=0432.040s>
+content: "and organized and proved that more than two centuries later, a government of the people,"
+<end speech t=0437.880s>
+
+<begin speech t=0437.880s>
+content: "by the people and for the people who have not perished from the earth, this is your victory."
+<end speech t=0445.320s>
+
+<begin speech t=0445.320s>
+content: "And I know you didn't do this just to win an election."
+<end speech t=0455.440s>
+
+<begin speech t=0455.440s>
+content: "I know you didn't do it for me."
+<end speech t=0458.440s>
+
+<begin speech t=0458.440s>
+content: "You did it because you understand the enormity of the task that lies ahead."
+<end speech t=0463.440s>
+
+<begin speech t=0463.440s>
+content: "For even as we celebrate tonight, we know the challenges that tomorrow will bring are"
+<end speech t=0469.480s>
+
+<begin speech t=0469.480s>
+content: "the greatest of our lifetime."
+<end speech t=0471.920s>
+
+<begin speech t=0471.920s>
+content: "Two wars, a planet in peril, the worst financial crisis in a century."
+<end speech t=0478.960s>
+
+<begin speech t=0478.960s>
+content: "Even as we stand here tonight, we know there are brave Americans waking up in the deserts"
+<end speech t=0483.720s>
+
+<begin speech t=0483.720s>
+content: "of Iran and the mountains of Afghanistan to risk their lives for us."
+<end speech t=0489.600s>
+
+<begin speech t=0489.600s>
+content: "There are mothers and fathers who will lie awake after the children fall asleep and wonder"
+<end speech t=0494.120s>
+
+<begin speech t=0494.120s>
+content: "how they'll make them mortgage or pay their doctors bills or save enough for their child's"
+<end speech t=0498.560s>
+
+<begin speech t=0498.560s>
+content: "college education."
+<end speech t=0501.560s>
+
+<begin speech t=0501.560s>
+content: "There's new energy to harness, new jobs to be created, new schools to build and threats"
+<end speech t=0507.560s>
+
+<begin speech t=0507.560s>
+content: "to meet, alliances to repair."
+<end speech t=0511.080s>
+
+<begin speech t=0511.080s>
+content: "The road ahead will be long."
+<end speech t=0514.520s>
+
+<begin speech t=0514.520s>
+content: "Our climb will be steep."
+<end speech t=0517.080s>
+
+<begin speech t=0517.080s>
+content: "We may not get there in one year or even in one term, but America, I have never been"
+<end speech t=0522.640s>
+
+<begin speech t=0522.640s>
+content: "more hopeful than I am tonight that we will get there."
+<end speech t=0526.640s>
+
+<begin speech t=0526.640s>
+content: "I promise you, we as a people will get there."
+<end speech t=0531.720s>
+
+<begin speech t=0531.720s>
+content: "There will be setbacks and false starts."
+<end speech t=0548.320s>
+
+<begin speech t=0548.320s>
+content: "There are many who won't agree with every decision and policy I make as president."
+<end speech t=0553.720s>
+
+<begin speech t=0553.720s>
+content: "And we know the government can't solve every problem."
+<end speech t=0557.200s>
+
+<begin speech t=0557.200s>
+content: "But I will always be honest with you about the challenges we face."
+<end speech t=0562.000s>
+
+<begin speech t=0562.000s>
+content: "I will listen to you, especially when we disagree."
+<end speech t=0566.040s>
+
+<begin speech t=0566.040s>
+content: "And above all, I will ask you to join in the work of remaking this nation the only way"
+<end speech t=0571.840s>
+
+<begin speech t=0571.840s>
+content: "it's been done in America for 221 years, block by block, brick by brick, calloused hand by"
+<end speech t=0579.240s>
+
+<begin speech t=0579.240s>
+content: "calloused hand."
+<end speech t=0581.080s>
+
+<begin speech t=0581.080s>
+content: "It began 21 months ago in the depths of winter cannot end on this autumn night."
+<end speech t=0589.040s>
+
+<begin speech t=0589.040s>
+content: "This victory alone is not the change we seek."
+<end speech t=0591.200s>
+
+<begin speech t=0591.200s>
+content: "It is only the chance for us to make that change."
+<end speech t=0595.520s>
+
+<begin speech t=0595.520s>
+content: "And that cannot happen if we go back to the way things were."
+<end speech t=0599.080s>
+
+<begin speech t=0599.080s>
+content: "It can't happen without you, without a new spirit of service, a new spirit of sacrifice."
+<end speech t=0607.800s>
+
+<begin speech t=0607.800s>
+content: "So let us summon a new spirit of patriotism, of responsibility where each of us resolves"
+<end speech t=0614.840s>
+
+<begin speech t=0614.840s>
+content: "to pitch in and work harder and look after not only ourselves but each other."
+<end speech t=0620.800s>
+
+<begin speech t=0620.800s>
+content: "Let us remember that if this financial crisis taught us anything, it's that we cannot have"
+<end speech t=0625.040s>
+
+<begin speech t=0625.040s>
+content: "a thriving Wall Street while Main Street summons."
+<end speech t=0629.520s>
+
+<begin speech t=0629.520s>
+content: "In this country, we rise or fall as one nation, as one people."
+<end speech t=0635.680s>
+
+<begin speech t=0635.680s>
+content: "Let's resist the temptation to fall back on the same partisanship and pettiness and"
+<end speech t=0640.800s>
+
+<begin speech t=0640.800s>
+content: "immaturity that has poisoned our politics for so long."
+<end speech t=0645.120s>
+
+<begin speech t=0645.120s>
+content: "Let's remember that it was a man from this state who first carried the banner of the Republican"
+<end speech t=0650.040s>
+
+<begin speech t=0650.040s>
+content: "Party of the White House, a party founded on the values of self-reliance and individual"
+<end speech t=0655.360s>
+
+<begin speech t=0655.360s>
+content: "liberty and national unity."
+<end speech t=0658.080s>
+
+<begin speech t=0658.080s>
+content: "Those are values that we all share."
+<end speech t=0660.160s>
+
+<begin speech t=0660.160s>
+content: "And while the Democratic Party has won a great victory tonight, we do so with a measure of"
+<end speech t=0664.960s>
+
+<begin speech t=0664.960s>
+content: "humility and determination to heal the divides that have held back our progress."
+<end speech t=0678.600s>
+
+<begin speech t=0678.600s>
+content: "As Lincoln said to a nation far more divided than ours, we are not enemies but friends."
+<end speech t=0685.960s>
+
+<begin speech t=0685.960s>
+content: "Though passion may have strained, it must not break our bonds of affection."
+<end speech t=0692.320s>
+
+<begin speech t=0692.320s>
+content: "To those Americans who support I have yet to earn, I may not have won your vote tonight,"
+<end speech t=0700.080s>
+
+<begin speech t=0700.080s>
+content: "but I hear your voices."
+<end speech t=0702.160s>
+
+<begin speech t=0702.160s>
+content: "I need your help, and I will be your President, too."
+<end speech t=0714.720s>
+
+<begin speech t=0714.720s>
+content: "And all those watching tonight from beyond our shores, from parliaments and palaces,"
+<end speech t=0719.880s>
+
+<begin speech t=0719.880s>
+content: "to those who are huddled around radios in the forgotten corners of the world, our stories"
+<end speech t=0725.720s>
+
+<begin speech t=0725.720s>
+content: "are singular, but our destiny is shared."
+<end speech t=0728.200s>
+
+<begin speech t=0728.200s>
+content: "And the new dawn of American leadership is at hand."
+<end speech t=0737.000s>
+
+<begin speech t=0737.000s>
+content: "To those who would tear the world down, we will defeat you."
+<end speech t=0745.400s>
+
+<begin speech t=0745.400s>
+content: "To those who seek peace and security, we support you."
+<end speech t=0750.960s>
+
+<begin speech t=0750.960s>
+content: "And to all those who have wondered if America's beacon still burns as bright tonight, we prove"
+<end speech t=0756.800s>
+
+<begin speech t=0756.800s>
+content: "once more that the true strength of our nation comes not from the might of our arms or the"
+<end speech t=0761.680s>
+
+<begin speech t=0761.680s>
+content: "scale of our wealth, but from the enduring power of our ideals, democracy, liberty, opportunity,"
+<end speech t=0768.840s>
+
+<begin speech t=0768.840s>
+content: "and unyielding hope."
+<end speech t=0781.320s>
+
+<begin speech t=0781.320s>
+content: "That's the true genius of America."
+<end speech t=0784.080s>
+
+<begin speech t=0784.080s>
+content: "That America can change."
+<end speech t=0787.200s>
+
+<begin speech t=0787.200s>
+content: "Our union can be perfected."
+<end speech t=0791.040s>
+
+<begin speech t=0791.040s>
+content: "What we've already achieved gives us hope for what we can and must achieve tomorrow."
+<end speech t=0796.640s>
+
+<begin speech t=0796.640s>
+content: "This election had many firsts and many stories that will be told for generations, but one"
+<end speech t=0801.520s>
+
+<begin speech t=0801.520s>
+content: "that's on my mind tonight is about a woman who cast her ballot in Atlanta."
+<end speech t=0807.400s>
+
+<begin speech t=0807.400s>
+content: "She is a lot like the millions of others who stood in line to make their voice heard in"
+<end speech t=0811.080s>
+
+<begin speech t=0811.080s>
+content: "this election, except for one thing, Ann Nixon Cooper is 106 years old."
+<end speech t=0819.240s>
+
+<begin speech t=0819.240s>
+content: "She was born just a generation past slavery, a time when there were no cars on the road"
+<end speech t=0824.520s>
+
+<begin speech t=0824.520s>
+content: "or planes in the sky, when someone like her couldn't vote for two reasons because she"
+<end speech t=0829.560s>
+
+<begin speech t=0829.560s>
+content: "was a woman and because of the color of her skin."
+<end speech t=0833.920s>
+
+<begin speech t=0833.920s>
+content: "And tonight, I think about all that she's seen throughout her century in America, the"
+<end speech t=0840.640s>
+
+<begin speech t=0840.640s>
+content: "heartache and the hope, the struggle and the progress, the times we were told that we can't"
+<end speech t=0847.720s>
+
+<begin speech t=0847.720s>
+content: "vote."
+<end speech t=0848.720s>
+
+<begin speech t=0848.720s>
+content: "And the people who pressed on with that American creed, yes we can."
+<end speech t=0854.360s>
+
+<begin speech t=0854.360s>
+content: "At a time when women's voices were silenced and their hopes dismissed, she lived to see"
+<end speech t=0859.000s>
+
+<begin speech t=0859.000s>
+content: "them stand up and speak out and reach for the ballot, yes we can."
+<end speech t=0864.640s>
+
+<begin speech t=0864.640s>
+content: "When there was despair in the dust bowl and depression across the land, she saw a nation"
+<end speech t=0870.280s>
+
+<begin speech t=0870.280s>
+content: "conquer fear itself with a new deal, new jobs, a new sense of common purpose, yes we can."
+<end speech t=0877.640s>
+
+<begin speech t=0878.640s>
+content: "When the bombs fell on our harbor and tyranny threatened the world, she was there to witness"
+<end speech t=0884.520s>
+
+<begin speech t=0884.520s>
+content: "a generation rise to greatness and a democracy was saved, yes we can."
+<end speech t=0892.160s>
+
+<begin speech t=0892.160s>
+content: "She was there for the buses and Montgomery, the hoses in Birmingham, a bridge in Selma,"
+<end speech t=0897.760s>
+
+<begin speech t=0897.760s>
+content: "and a preacher from Atlanta who told the people that we shall overcome, yes we can."
+<end speech t=0905.960s>
+
+<begin speech t=0905.960s>
+content: "A man touched down on the moon, a wall came down in Berlin, a world was connected by"
+<end speech t=0913.200s>
+
+<begin speech t=0913.200s>
+content: "our own science and imagination."
+<end speech t=0916.400s>
+
+<begin speech t=0916.400s>
+content: "And this year, in this election, she touched her finger to a scream and cast her vote because"
+<end speech t=0924.280s>
+
+<begin speech t=0924.280s>
+content: "after 106 years in America, through the best of times and the darkest of hours, she knows"
+<end speech t=0930.560s>
+
+<begin speech t=0930.560s>
+content: "how America can change, yes we can."
+<end speech t=0934.960s>
+
+<begin speech t=0935.960s>
+content: "America we have come so far, we have seen so much, but there's so much more to do."
+<end speech t=0943.800s>
+
+<begin speech t=0943.800s>
+content: "So tonight, let us ask ourselves, if our children should live to see the next century,"
+<end speech t=0951.880s>
+
+<begin speech t=0951.880s>
+content: "if my daughters should be so lucky to live as long as Anne Nixon could, what change will"
+<end speech t=0957.960s>
+
+<begin speech t=0957.960s>
+content: "may see, what progress will we have made?"
+<end speech t=0963.360s>
+
+<begin speech t=0963.360s>
+content: "This is our chance to answer that call."
+<end speech t=0966.840s>
+
+<begin speech t=0966.840s>
+content: "This is our moment."
+<end speech t=0968.600s>
+
+<begin speech t=0968.600s>
+content: "This is our time to put our people back to work and open doors of opportunity for our"
+<end speech t=0973.920s>
+
+<begin speech t=0973.920s>
+content: "kids, to restore prosperity and promote the cause of peace, to reclaim the American dream"
+<end speech t=0979.880s>
+
+<begin speech t=0979.880s>
+content: "and reaffirm that fundamental truth that out of many we are one, that while we breathe,"
+<end speech t=0986.320s>
+
+<begin speech t=0986.320s>
+content: "we hope, and where we are met with cynicism and doubt and those who tell us that we can't,"
+<end speech t=0992.960s>
+
+<begin speech t=0992.960s>
+content: "we will respond with that timeless creed that sums up the spirit of a people."
+<end speech t=0998.360s>
+
+<begin speech t=0998.360s>
+content: "Yes we can."
+<end speech t=1000.160s>
+
+<begin speech t=1000.160s>
+content: "Thank you."
+<end speech t=1001.160s>
+
+<begin speech t=1001.160s>
+content: "God bless you and may God bless the United States of America."
+<end speech t=1004.520s>

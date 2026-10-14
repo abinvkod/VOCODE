@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/04_Liz_Truss_Resignation/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/04_Liz_Truss_Resignation/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 105.651,
+  "clean_duration_sec": 104.882,
+  "lead_trim_sec": 0.09,
+  "tail_trim_sec": 0.679,
+  "measured_lufs_raw": -27.78,
+  "target_lufs": -20.0,
+  "gain_applied_db": 7.78,
+  "snr_raw_db": 20.38,
+  "snr_clean_db": 27.0,
+  "snr_improvement_db": 6.62,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 202,
+    "utterance_count": 18
+  },
+  "status": "READY_FOR_EVALUATION"
+}

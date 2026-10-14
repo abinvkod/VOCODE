@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/02_Best_Version_The_Great_Dictator_Speech_Charlie_Chaplin_Time_/audio.mp3",
+  "clean_file": "good speeches/02_Best_Version_The_Great_Dictator_Speech_Charlie_Chaplin_Time_/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 243.45,
+  "clean_duration_sec": 242.412,
+  "lead_trim_sec": 0.3,
+  "tail_trim_sec": 0.738,
+  "measured_lufs_raw": -17.2,
+  "target_lufs": -20.0,
+  "gain_applied_db": -2.8,
+  "snr_raw_db": 11.14,
+  "snr_clean_db": 16.07,
+  "snr_improvement_db": 4.93,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 625,
+    "utterance_count": 81
+  },
+  "status": "READY_FOR_EVALUATION"
+}

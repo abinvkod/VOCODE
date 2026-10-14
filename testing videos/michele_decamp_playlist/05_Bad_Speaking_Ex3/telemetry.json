@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/michele_decamp_playlist/05_Bad_Speaking_Ex3/raw_audio.wav",
+  "clean_file": "testing videos/michele_decamp_playlist/05_Bad_Speaking_Ex3/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 190.183,
+  "clean_duration_sec": 189.942,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.241,
+  "measured_lufs_raw": -28.25,
+  "target_lufs": -20.0,
+  "gain_applied_db": 5.3,
+  "snr_raw_db": 22.62,
+  "snr_clean_db": 37.23,
+  "snr_improvement_db": 14.61,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 517,
+    "utterance_count": 33
+  },
+  "status": "READY_FOR_EVALUATION"
+}

@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/04_President_John_F_Kennedys_Inaugural_Address/audio.mp3",
+  "clean_file": "good speeches/04_President_John_F_Kennedys_Inaugural_Address/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 936.879,
+  "clean_duration_sec": 928.392,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 8.487,
+  "measured_lufs_raw": -13.46,
+  "target_lufs": -20.0,
+  "gain_applied_db": -6.54,
+  "snr_raw_db": 24.57,
+  "snr_clean_db": 33.83,
+  "snr_improvement_db": 9.25,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1451,
+    "utterance_count": 68
+  },
+  "status": "READY_FOR_EVALUATION"
+}

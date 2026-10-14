@@ -1,0 +1,47 @@
+{
+  "id": "kql-pvnid0s",
+  "slug": "06_Bad_Speaking_Ex4",
+  "title": "Bad Public Speaking Example 4",
+  "duration_sec": 110.96,
+  "grades": {
+    "strict_leniency_0": 9.5,
+    "moderate_leniency_50": 9.7,
+    "lenient_leniency_100": 9.8
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.75,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.25,
+      "metric": "pause_ratio: 16.1%",
+      "flaw": "Insufficient Pausing",
+      "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 1,
+    "fillers_per_min": 0.54,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 108.17,
+    "f0_semitones": 17.64,
+    "f0_velocity_hz_per_sec": 425.43,
+    "articulation_rate_sps": 5.51,
+    "pause_ratio": 0.161,
+    "hesitation_pause_count": 0,
+    "energy_dynamic_range_db": 45.64,
+    "papr_crest_factor": 26.89,
+    "spectral_flux": 5.2791
+  },
+  "transcript_preview": "So the Excel Center, my presentation is on the Excel Center. It's the center of excellence in student leadership. They do a lot of things like they have a public speaking lab and they do consultation. They have teams and they have the consultation te..."
+}

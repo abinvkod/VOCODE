@@ -1,0 +1,203 @@
+<begin speech t=0000.000s>
+content: "I am speaking. I am speaking into a microphone. I am speaking into a microphone at graduation."
+<end speech t=0010.000s>
+
+<begin speech t=0010.000s>
+content: "No matter how many details I give, I will never be able to express the whole truth about"
+<end speech t=0015.280s>
+
+<begin speech t=0015.280s>
+content: "today, about this experience, about high school. Nevertheless, I would like to describe to"
+<end speech t=0021.680s>
+
+<begin speech t=0021.680s>
+content: "you as honestly as I can how it is I came to represent our graduating class on this occasion"
+<end speech t=0027.480s>
+
+<begin speech t=0027.480s>
+content: "as its valedictorian. As much as I would like to say that I was chosen because of my"
+<end speech t=0032.280s>
+
+<begin speech t=0032.280s>
+content: "hard work, dedication, and intellect, I would be far from truthful in doing so as I have"
+<end speech t=0038.040s>
+
+<begin speech t=0038.040s>
+content: "met and studied alongside individuals more diligent and talented than myself in the past"
+<end speech t=0042.840s>
+
+<begin speech t=0042.840s>
+content: "four years. 4.63. This three-digit number is the reason I stand before you today. But what"
+<end speech t=0050.840s>
+
+<begin speech t=0050.840s>
+content: "does it really mean? My GPA is just an artificial number meant to measure my academic prowess"
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "as determined by what grades I earned and what classes I took. However, GPA among students"
+<end speech t=0063.320s>
+
+<begin speech t=0063.320s>
+content: "equally able to earn A grades in all of their courses is dependent solely upon the number"
+<end speech t=0067.880s>
+
+<begin speech t=0067.880s>
+content: "of weighted courses versus the number of unweighted courses the student took, not accounting for"
+<end speech t=0072.600s>
+
+<begin speech t=0072.600s>
+content: "extracurricular involvement, social awareness, or even how much was learned. The system imposed upon"
+<end speech t=0079.400s>
+
+<begin speech t=0079.400s>
+content: "us by tradition has separated true education from academic achievement, or one can now be"
+<end speech t=0084.760s>
+
+<begin speech t=0084.840s>
+content: "accomplished without the other. High school academics are a game that the players must learn to be"
+<end speech t=0089.880s>
+
+<begin speech t=0089.880s>
+content: "in order to climb the leaderboards of class rank. The most successful players, as dictated by our"
+<end speech t=0095.640s>
+
+<begin speech t=0095.640s>
+content: "ranks, learn the ways in and around the system and choose their courses accordingly. GPA has"
+<end speech t=0101.640s>
+
+<begin speech t=0101.640s>
+content: "become like currency in a gaming monopoly in which the players who chance upon the right tiles,"
+<end speech t=0106.360s>
+
+<begin speech t=0106.360s>
+content: "or construct the right schedules, earn more while others inevitably end up with less."
+<end speech t=0110.920s>
+
+<begin speech t=0111.880s>
+content: "No matter what, someone wins the game while the rest stand defeated. School hasn't still"
+<end speech t=0117.880s>
+
+<begin speech t=0117.880s>
+content: "the same spirit of competition within its participants, diminishing its original purpose"
+<end speech t=0122.840s>
+
+<begin speech t=0122.840s>
+content: "to educate citizens for the future. While the competitive top two students glance at their"
+<end speech t=0127.960s>
+
+<begin speech t=0127.960s>
+content: "transcript and wish for a higher GPA, a better class rank, the students ranked at the bottom"
+<end speech t=0133.240s>
+
+<begin speech t=0133.240s>
+content: "are left with little to no motivation to succeed academically and with the sense of defeat."
+<end speech t=0138.280s>
+
+<begin speech t=0139.240s>
+content: "These points bring me back to my original question of why it is I who has chosen to represent you on"
+<end speech t=0144.840s>
+
+<begin speech t=0144.840s>
+content: "this occasion. I climb the ladder class rank to the top because I failed to participate in"
+<end speech t=0150.440s>
+
+<begin speech t=0150.440s>
+content: "activities such as athletics and speech and debate and journalism that ironically would have decreased"
+<end speech t=0157.000s>
+
+<begin speech t=0157.000s>
+content: "my GPA while I watched my peers become involved and accomplished and improve as human beings."
+<end speech t=0162.600s>
+
+<begin speech t=0163.480s>
+content: "It is for this reason I confess that I don't believe I will qualify to represent that graduating class."
+<end speech t=0168.520s>
+
+<begin speech t=0169.400s>
+content: "I have not had the opportunity to talk to or even meet the majority of the graduates here today."
+<end speech t=0173.960s>
+
+<begin speech t=0174.920s>
+content: "The student who has suffered the highest GPA is the one glorified under the name valedictorian"
+<end speech t=0179.720s>
+
+<begin speech t=0179.720s>
+content: "and chosen to represent the class when in reality creates a little to do with one's knowledge of"
+<end speech t=0184.360s>
+
+<begin speech t=0184.360s>
+content: "his or her classmates. In attaining a high GPA, I tended towards social isolation. The sole"
+<end speech t=0190.920s>
+
+<begin speech t=0190.920s>
+content: "responsibility of valedictorian and the salutatorian is to deliver a speech representative of the"
+<end speech t=0195.800s>
+
+<begin speech t=0195.800s>
+content: "graduating class, a task that partly coincides with the selection criterion of GPA. Students"
+<end speech t=0202.280s>
+
+<begin speech t=0202.280s>
+content: "in other prestigious positions such as editors of the Gazette, officers in band and captains in"
+<end speech t=0207.560s>
+
+<begin speech t=0207.560s>
+content: "speech and debate and athletics will far more demanding responsibilities that require them to"
+<end speech t=0212.040s>
+
+<begin speech t=0212.040s>
+content: "not only work with their peers but to guide them towards greater goals and achievements,"
+<end speech t=0216.440s>
+
+<begin speech t=0216.440s>
+content: "a task that more closely necessitates knowing one's peers. In fact, I know that my efforts in"
+<end speech t=0222.040s>
+
+<begin speech t=0222.040s>
+content: "progress in Key Club and in piano will be the experiences I remember and used to come,"
+<end speech t=0227.160s>
+
+<begin speech t=0227.160s>
+content: "rather than the struggle for a 90% in every meticulously selected weighted course."
+<end speech t=0231.160s>
+
+<begin speech t=0232.680s>
+content: "I'm confident that our class will move forward to tremendous successes in the future,"
+<end speech t=0236.600s>
+
+<begin speech t=0236.600s>
+content: "not as a result of our experience striving for straight A's, but because of the lessons learned"
+<end speech t=0241.240s>
+
+<begin speech t=0241.240s>
+content: "and memories made working with fellow students and staff, not to mention our upper middle class"
+<end speech t=0246.200s>
+
+<begin speech t=0246.280s>
+content: "background in the society with limited economic mobility. Nevertheless, graduates of Granite Bay"
+<end speech t=0252.040s>
+
+<begin speech t=0252.040s>
+content: "High School have exceptionally bright futures ahead, which will shine in a predominantly dark"
+<end speech t=0256.600s>
+
+<begin speech t=0256.600s>
+content: "and cruel world. Education is the passport to the future, for tomorrow belongs to those who"
+<end speech t=0262.280s>
+
+<begin speech t=0262.280s>
+content: "prepare for it today. Malcolm X, so graduates, let us be thankful for the extraordinary educational"
+<end speech t=0269.480s>
+
+<begin speech t=0269.480s>
+content: "opportunities we have had these past four years and let us continue to work to prepare for an"
+<end speech t=0275.240s>
+
+<begin speech t=0275.240s>
+content: "even brighter tomorrow. Thank you all for your time and attention, and congratulations again to"
+<end speech t=0279.960s>
+
+<begin speech t=0279.960s>
+content: "all graduates of the class of 2016."
+<end speech t=0287.480s>

@@ -1,0 +1,667 @@
+<begin speech t=0000.000s>
+content: "What starts here changes the world."
+<end speech t=0004.000s>
+
+<begin speech t=0004.000s>
+content: "I have a few suggestions that may help you on your way to a better world."
+<end speech t=0011.000s>
+
+<begin speech t=0011.000s>
+content: "And while these lessons were learned during my time in the military, I can assure you"
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "that it matters not whether you ever served a day in uniform."
+<end speech t=0019.000s>
+
+<begin speech t=0019.000s>
+content: "It matters not your gender, your ethnic or religious background, your orientation or your social status."
+<end speech t=0025.000s>
+
+<begin speech t=0025.000s>
+content: "Our struggles in this world are similar, and the lessons to overcome those struggles"
+<end speech t=0029.000s>
+
+<begin speech t=0029.000s>
+content: "and to move forward, changing ourselves and changing the world around us, will apply equally to all."
+<end speech t=0036.000s>
+
+<begin speech t=0040.000s>
+content: "So here are the 10 lessons I learned from basic shield training"
+<end speech t=0043.000s>
+
+<begin speech t=0043.000s>
+content: "that hopefully will be of value to you as you move forward in life."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "Every morning in the shield training, my instructors who at the time were all Vietnam veterans"
+<end speech t=0053.000s>
+
+<begin speech t=0053.000s>
+content: "would show up in my barracks room, and the first thing they'd do was inspect my bed."
+<end speech t=0058.000s>
+
+<begin speech t=0058.000s>
+content: "If you did it right, the corners would be square, the covers would be pulled tight,"
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "the pillow centered just under the headboard, and the extra blanket folded neatly at the foot of the rack."
+<end speech t=0068.000s>
+
+<begin speech t=0068.000s>
+content: "It was a simple task, mundane at best, but every morning we were required to make our bed to perfection."
+<end speech t=0076.000s>
+
+<begin speech t=0076.000s>
+content: "That seemed a little ridiculous at the time, particularly in light of the fact that we were aspiring to be real warriors,"
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "tough battle-hardened seals, but the wisdom of this simple act has been proven to me many times over."
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "If you make your bed every morning, you will have accomplished the first task of the day."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "It will give you a small sense of pride, and it will encourage you to do another task, and another, and another."
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "And by the end of the day, that one task completed will have turned into many tasks completed."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "Making your bed will also reinforce the fact that the little things in life matter."
+<end speech t=0113.000s>
+
+<begin speech t=0113.000s>
+content: "If you can't do the little things right, you'll never be able to do the big things right."
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "And if by chance you have a miserable day, you will come home to a bed that is made."
+<end speech t=0125.000s>
+
+<begin speech t=0125.000s>
+content: "But you made, and a made bed gives you encouragement that tomorrow will be better."
+<end speech t=0131.000s>
+
+<begin speech t=0131.000s>
+content: "So if you want to change the world, start up by making your bed."
+<end speech t=0135.000s>
+
+<begin speech t=0138.000s>
+content: "During seal training the students are all broken down into boat crews."
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "Each crew is seven students, three on each side of a small rubber boat, and one coxing to help guide the dinghy."
+<end speech t=0155.000s>
+
+<begin speech t=0155.000s>
+content: "Every day your boat crew forms up on the beach and is instructed to get through the surf zone and paddle several miles down the coast."
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "In the winter, the surf off San Diego can get to be eight to ten feet high, and it is exceedingly difficult to paddle through the plunging surf unless everyone digs in."
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "Every paddle must be synchronized to the strobe count of the coxing."
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "Everyone must exert equal effort, or the boat will turn against the wave and be unceremoniously dumped back on the beach."
+<end speech t=0185.000s>
+
+<begin speech t=0185.000s>
+content: "For the boat to make it to its destination, everyone must paddle."
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "You can't change the world alone, and you will need some help."
+<end speech t=0194.000s>
+
+<begin speech t=0194.000s>
+content: "And to truly get from your starting point to your destination takes friends, colleagues, the goodwill of strangers, and a strong coxing to guide you."
+<end speech t=0203.000s>
+
+<begin speech t=0203.000s>
+content: "If you want to change the world, find someone to help you paddle."
+<end speech t=0208.000s>
+
+<begin speech t=0208.000s>
+content: "Over a few weeks of difficult training, my seal class which started with 150 men was down to just 42."
+<end speech t=0216.000s>
+
+<begin speech t=0216.000s>
+content: "There were now six boat crews of seven men each."
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "I was in the boat with the tall guys, but the best boat crew we had was made up of the little guys, the Munstin crew we called them."
+<end speech t=0227.000s>
+
+<begin speech t=0227.000s>
+content: "No one was over five foot five."
+<end speech t=0230.000s>
+
+<begin speech t=0230.000s>
+content: "The Munstin boat crew had one American Indian, one African American, one Polish American, one Greek American, one Italian American, and two tough kids from the Midwest."
+<end speech t=0240.000s>
+
+<begin speech t=0240.000s>
+content: "They out-pabbled, outran, and out-swam all the other boat crews."
+<end speech t=0245.000s>
+
+<begin speech t=0245.000s>
+content: "The big men in the other boat crews would always make good-natured fun of the tiny little flippers the Munstins put on their tiny little feet prior to every swim."
+<end speech t=0258.000s>
+
+<begin speech t=0258.000s>
+content: "But somehow these little guys, from every corner of the nation in the world, always had the last laugh, so many faster than everyone reaching the shore long before the rest of us."
+<end speech t=0268.000s>
+
+<begin speech t=0269.000s>
+content: "Seal training was a great equalizer."
+<end speech t=0271.000s>
+
+<begin speech t=0271.000s>
+content: "Nothing mattered but your will to succeed."
+<end speech t=0274.000s>
+
+<begin speech t=0274.000s>
+content: "Not your color, not your ethnic background, not your education, not your social status."
+<end speech t=0278.000s>
+
+<begin speech t=0278.000s>
+content: "If you want to change the world, measure a person by the size of their heart, or by the size of their flippers."
+<end speech t=0285.000s>
+
+<begin speech t=0285.000s>
+content: "Several times a week, the instructors would line up the class and do a uniform inspection."
+<end speech t=0292.000s>
+
+<begin speech t=0292.000s>
+content: "It was exceptionally thorough."
+<end speech t=0294.000s>
+
+<begin speech t=0294.000s>
+content: "Your hat had to be perfectly starched, your uniform immaculately pressed, your belt buckle shiny and void of any smudges."
+<end speech t=0301.000s>
+
+<begin speech t=0301.000s>
+content: "But it seemed that no matter how much effort you put into starching your hat, or pressing your uniform, or polishing your belt buckle, it just wasn't good enough."
+<end speech t=0310.000s>
+
+<begin speech t=0310.000s>
+content: "The instructors would find something wrong."
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "For family and uniform inspection, the student had to run, fully clothed, into the surf zone."
+<end speech t=0319.000s>
+
+<begin speech t=0319.000s>
+content: "Then wet from head to toe, roll around on the beach until every part of your body was covered with sand."
+<end speech t=0325.000s>
+
+<begin speech t=0325.000s>
+content: "The effect was known as sugar cookie."
+<end speech t=0329.000s>
+
+<begin speech t=0329.000s>
+content: "You stayed in the uniform the rest of the day, cold, wet and sandy."
+<end speech t=0334.000s>
+
+<begin speech t=0334.000s>
+content: "There were many a student who just couldn't accept the fact that all their efforts were in vain."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "No matter how hard they tried to get the uniform right, it went unappreciated."
+<end speech t=0344.000s>
+
+<begin speech t=0344.000s>
+content: "Those students didn't make it through training."
+<end speech t=0346.000s>
+
+<begin speech t=0346.000s>
+content: "Those students didn't understand the purpose of the drill."
+<end speech t=0350.000s>
+
+<begin speech t=0350.000s>
+content: "You were never going to succeed."
+<end speech t=0352.000s>
+
+<begin speech t=0352.000s>
+content: "You were never going to have a perfect uniform. The instructors weren't going to allow it."
+<end speech t=0356.000s>
+
+<begin speech t=0356.000s>
+content: "Sometimes no matter how well you prepare, or how well you perform, you still end up as a sugar cookie."
+<end speech t=0363.000s>
+
+<begin speech t=0363.000s>
+content: "It's just the way life is sometimes."
+<end speech t=0366.000s>
+
+<begin speech t=0366.000s>
+content: "If you want to change the world, get over being a sugar cookie and keep moving forward."
+<end speech t=0372.000s>
+
+<begin speech t=0373.000s>
+content: "Every day during training, you were challenged with multiple physical events, long runs, long swam, obstacle courses,"
+<end speech t=0379.000s>
+
+<begin speech t=0379.000s>
+content: "hours of calisthenics, something designed to test your mental."
+<end speech t=0383.000s>
+
+<begin speech t=0383.000s>
+content: "Every event had standards."
+<end speech t=0385.000s>
+
+<begin speech t=0385.000s>
+content: "Times you had to meet. If you failed to meet those times, those standards, your name was posted on the list."
+<end speech t=0391.000s>
+
+<begin speech t=0391.000s>
+content: "And at the end of the day, those on the list were invited to a circus."
+<end speech t=0397.000s>
+
+<begin speech t=0397.000s>
+content: "A circus was two hours of additional calisthenics, designed to wear you down, to break your spirit,"
+<end speech t=0401.000s>
+
+<begin speech t=0401.000s>
+content: "to force you to quit. No one wanted a circus."
+<end speech t=0405.000s>
+
+<begin speech t=0405.000s>
+content: "A circus meant that for that day, you didn't measure up. A circus meant more fatigue."
+<end speech t=0410.000s>
+
+<begin speech t=0410.000s>
+content: "A more fatigue meant that the following day would be more difficult."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "And more circuses were likely."
+<end speech t=0415.000s>
+
+<begin speech t=0415.000s>
+content: "But at some time during SEAL training, everyone, everyone made the circus list."
+<end speech t=0422.000s>
+
+<begin speech t=0422.000s>
+content: "But an interesting thing happened to those who were constantly on the list."
+<end speech t=0428.000s>
+
+<begin speech t=0428.000s>
+content: "Over time, those students, who did two hours of extra calisthenics, got stronger and stronger."
+<end speech t=0435.000s>
+
+<begin speech t=0435.000s>
+content: "The pain of the circuses will enter strength in physical resiliency."
+<end speech t=0440.000s>
+
+<begin speech t=0440.000s>
+content: "Life is filled with circuses. You will fail. You will likely fail often. It will be painful."
+<end speech t=0447.000s>
+
+<begin speech t=0447.000s>
+content: "It will be discouraging. At times, it will test you to your very core."
+<end speech t=0452.000s>
+
+<begin speech t=0452.000s>
+content: "But if you don't, if you want to change the world, don't be afraid of the circuses."
+<end speech t=0457.000s>
+
+<begin speech t=0458.000s>
+content: "At least twice a week, the trainees were required to run the obstacle course."
+<end speech t=0462.000s>
+
+<begin speech t=0462.000s>
+content: "The obstacle course contained 25 obstacles, including a 10-foot wall, a 30-foot cargo net,"
+<end speech t=0468.000s>
+
+<begin speech t=0468.000s>
+content: "a barbed wire crawl to name a few. But the most challenging obstacle was the slide for life."
+<end speech t=0473.000s>
+
+<begin speech t=0473.000s>
+content: "It had a three-level, 30-foot tower it went in, and a one-level tower at the other."
+<end speech t=0479.000s>
+
+<begin speech t=0479.000s>
+content: "In between was a 200-foot long rope. You had to climb the three-tiered tower, and once at the top,"
+<end speech t=0485.000s>
+
+<begin speech t=0485.000s>
+content: "you grabbed the rope, swung underneath the rope, and pulled yourself hand over hand until you got to the other end."
+<end speech t=0493.000s>
+
+<begin speech t=0493.000s>
+content: "The record for the obstacle course had stood for years when my class began in 1977."
+<end speech t=0498.000s>
+
+<begin speech t=0498.000s>
+content: "The record seemed unbeatable, until one day a student decided to go down the slide for life had first."
+<end speech t=0506.000s>
+
+<begin speech t=0506.000s>
+content: "Instead of swinging his body underneath the rope and inching his way down, he bravely mounted the top of the rope"
+<end speech t=0512.000s>
+
+<begin speech t=0512.000s>
+content: "and thrust himself forward. It was a dangerous move, seemingly foolish and fraught with risk."
+<end speech t=0518.000s>
+
+<begin speech t=0518.000s>
+content: "Failure could be an injury and being dropped from the course. Without hesitation, the student slid down the rope perilously fast."
+<end speech t=0525.000s>
+
+<begin speech t=0525.000s>
+content: "Instead of several minutes, it only took him half that time. And by the end of the course, he had broken the record."
+<end speech t=0533.000s>
+
+<begin speech t=0533.000s>
+content: "If you want to change the world, sometimes you have to slide down the obstacles head first."
+<end speech t=0539.000s>
+
+<begin speech t=0540.000s>
+content: "During the Land Warfare phase of training, the students are flown out to San Clemente Island, which lies off the coast of San Diego."
+<end speech t=0546.000s>
+
+<begin speech t=0546.000s>
+content: "The waters off San Clemente are a breeding ground for the great white sharks."
+<end speech t=0550.000s>
+
+<begin speech t=0550.000s>
+content: "To pass seal training, there are a series of long swims that must be completed. One is the night swim."
+<end speech t=0556.000s>
+
+<begin speech t=0556.000s>
+content: "Before the swim, the instructors joyfully brief the students on all the species of sharks that inhabit the waters off San Clemente."
+<end speech t=0565.000s>
+
+<begin speech t=0566.000s>
+content: "They assure you however, that no student has ever been eaten by a shark, at least not that they can remember."
+<end speech t=0575.000s>
+
+<begin speech t=0575.000s>
+content: "But you are also taught that if a shark begins to circle your position, stand your ground. Do not swim away. Do not act afraid."
+<end speech t=0586.000s>
+
+<begin speech t=0586.000s>
+content: "And if a shark hungry for a midnight snack darts towards you, then summons up all your strength and punch him in the snout."
+<end speech t=0594.000s>
+
+<begin speech t=0594.000s>
+content: "And he will turn and swim away. There are a lot of sharks in the world."
+<end speech t=0599.000s>
+
+<begin speech t=0599.000s>
+content: "If you hope to complete the swim, you will have to deal with them."
+<end speech t=0604.000s>
+
+<begin speech t=0604.000s>
+content: "So if you want to change the world, don't back down from the sharks."
+<end speech t=0610.000s>
+
+<begin speech t=0610.000s>
+content: "As Navy SEALs, one of our jobs is to conduct underwater attacks against enemy shipping."
+<end speech t=0615.000s>
+
+<begin speech t=0615.000s>
+content: "We practice this technique extensively during training."
+<end speech t=0618.000s>
+
+<begin speech t=0618.000s>
+content: "The ship attack mission is where a pair of sealed divers is dropped off outside an enemy harbor, and then swims well over two miles under water,"
+<end speech t=0627.000s>
+
+<begin speech t=0627.000s>
+content: "using nothing but a depth gauge and a compass to get to the target."
+<end speech t=0631.000s>
+
+<begin speech t=0631.000s>
+content: "During the entire swim, even well below the surface, there is some light that comes through."
+<end speech t=0639.000s>
+
+<begin speech t=0639.000s>
+content: "It is comforting to know that there is open water above you."
+<end speech t=0643.000s>
+
+<begin speech t=0643.000s>
+content: "But as you approach the ship, which is tied to a pair, the light begins to fade."
+<end speech t=0649.000s>
+
+<begin speech t=0649.000s>
+content: "The steel structure of the ship blocks the moonlight. It blocks the surrounding streetlands."
+<end speech t=0654.000s>
+
+<begin speech t=0654.000s>
+content: "It blocks all ambient light."
+<end speech t=0657.000s>
+
+<begin speech t=0657.000s>
+content: "To be successful in your mission, you have to swim under the ship and find the keel, the centerline, and the deepest part of the ship."
+<end speech t=0664.000s>
+
+<begin speech t=0664.000s>
+content: "This is your objective."
+<end speech t=0666.000s>
+
+<begin speech t=0666.000s>
+content: "But the keel is also the darkest part of the ship, where you cannot see your hand in front of your face,"
+<end speech t=0671.000s>
+
+<begin speech t=0671.000s>
+content: "where the noise from the ship's machinery is deafening, and where it gets to be easily disoriented."
+<end speech t=0677.000s>
+
+<begin speech t=0677.000s>
+content: "And you can fail."
+<end speech t=0679.000s>
+
+<begin speech t=0679.000s>
+content: "Every seal knows that under the keel, at that darkest moment of the mission, is a time when you need to be calm."
+<end speech t=0688.000s>
+
+<begin speech t=0688.000s>
+content: "When you must be calm, when you must be composed, when all your tactical skills, your physical power,"
+<end speech t=0695.000s>
+
+<begin speech t=0695.000s>
+content: "and your inner strength must be brought to bear."
+<end speech t=0699.000s>
+
+<begin speech t=0699.000s>
+content: "If you want to change the world, you must be your very best in the darkest moments."
+<end speech t=0706.000s>
+
+<begin speech t=0706.000s>
+content: "The ninth week of training is referred to as Hellweed."
+<end speech t=0709.000s>
+
+<begin speech t=0709.000s>
+content: "It is six days of no sleep, constant physical and mental harassment, and one special day at the mud flats."
+<end speech t=0717.000s>
+
+<begin speech t=0717.000s>
+content: "The mud flats are an area between San Diego and Tijuana, where the water runs off and creates the Tijuana sloughs,"
+<end speech t=0724.000s>
+
+<begin speech t=0724.000s>
+content: "a swampy patch of terrain with a mud-willing gulf."
+<end speech t=0728.000s>
+
+<begin speech t=0728.000s>
+content: "It is on Wednesday at Hellweed, which will paddle down to the mud flats and spend the next 15 hours trying to survive this freezing cold,"
+<end speech t=0735.000s>
+
+<begin speech t=0735.000s>
+content: "the howling wind, and the incessant pressure to quit from the instructors."
+<end speech t=0740.000s>
+
+<begin speech t=0740.000s>
+content: "As the sun began to set that Wednesday evening, my training class, having committed some egregious and fractional rules,"
+<end speech t=0748.000s>
+
+<begin speech t=0748.000s>
+content: "was ordered into the mud."
+<end speech t=0750.000s>
+
+<begin speech t=0750.000s>
+content: "The mud consumed each man until there was nothing visible but our heads."
+<end speech t=0755.000s>
+
+<begin speech t=0755.000s>
+content: "The instructors told us we could leave the mud if only five men would quit."
+<end speech t=0760.000s>
+
+<begin speech t=0760.000s>
+content: "Only five men, just five men, and we could get out of the oppressive cold."
+<end speech t=0765.000s>
+
+<begin speech t=0765.000s>
+content: "Looking around the mud flat, it was apparent the sun students were about to develop."
+<end speech t=0769.000s>
+
+<begin speech t=0769.000s>
+content: "It was still over eight hours till the sun came up. Eight more hours of bone-chilling cold."
+<end speech t=0776.000s>
+
+<begin speech t=0776.000s>
+content: "A chattering tease and shivering moans of the trainees were so loud, it was hard to hear anything."
+<end speech t=0782.000s>
+
+<begin speech t=0782.000s>
+content: "And then one voice began to echo through the night."
+<end speech t=0787.000s>
+
+<begin speech t=0787.000s>
+content: "One voice raised in song."
+<end speech t=0790.000s>
+
+<begin speech t=0790.000s>
+content: "The song was terribly out of tune."
+<end speech t=0793.000s>
+
+<begin speech t=0793.000s>
+content: "But sung with great enthusiasm."
+<end speech t=0795.000s>
+
+<begin speech t=0795.000s>
+content: "One voice became two."
+<end speech t=0797.000s>
+
+<begin speech t=0797.000s>
+content: "And two became three, and before long, everyone in the class was singing."
+<end speech t=0801.000s>
+
+<begin speech t=0801.000s>
+content: "The instructors threatened us with more time in the mud if we kept up the singing, but the singing persisted."
+<end speech t=0807.000s>
+
+<begin speech t=0807.000s>
+content: "And somehow the mud seemed a little warmer, and the wind, the little tamer, and the dawn not so far away."
+<end speech t=0814.000s>
+
+<begin speech t=0814.000s>
+content: "If I have learned anything in my time traveling the world, it is the power of hope."
+<end speech t=0820.000s>
+
+<begin speech t=0820.000s>
+content: "The power of one person, a Washington, a Lincoln, King, Mandela, and even a young girl from Pakistan, Malala."
+<end speech t=0828.000s>
+
+<begin speech t=0828.000s>
+content: "One person can change the world by giving people hope."
+<end speech t=0832.000s>
+
+<begin speech t=0832.000s>
+content: "So if you want to change the world, start singing when you're up to your neck and mud."
+<end speech t=0838.000s>
+
+<begin speech t=0838.000s>
+content: "Finally in seal training, there's a bell."
+<end speech t=0841.000s>
+
+<begin speech t=0841.000s>
+content: "A brass bell that hangs in the center of the compound for all the students to see."
+<end speech t=0847.000s>
+
+<begin speech t=0847.000s>
+content: "All you have to do to quit, all you have to do to quit, is ring the bell."
+<end speech t=0852.000s>
+
+<begin speech t=0852.000s>
+content: "Ring the bell, and you no longer have to wake up at five o'clock."
+<end speech t=0856.000s>
+
+<begin speech t=0856.000s>
+content: "Ring the bell, and you no longer have to be in the freezing cold swims."
+<end speech t=0860.000s>
+
+<begin speech t=0860.000s>
+content: "Ring the bell, and you no longer have to do the runs, the oscill course, the PT."
+<end speech t=0865.000s>
+
+<begin speech t=0865.000s>
+content: "And you no longer have to endure the hardships of training."
+<end speech t=0870.000s>
+
+<begin speech t=0870.000s>
+content: "All you have to do is ring the bell to get out."
+<end speech t=0873.000s>
+
+<begin speech t=0873.000s>
+content: "If you want to change the world, don't ever, ever ring the bell."
+<end speech t=0880.000s>
+
+<begin speech t=0880.000s>
+content: "It will not be easy."
+<end speech t=0882.000s>
+
+<begin speech t=0882.000s>
+content: "Start each day with a task completed."
+<end speech t=0885.000s>
+
+<begin speech t=0885.000s>
+content: "Find someone to help you through life. Respect everyone."
+<end speech t=0888.000s>
+
+<begin speech t=0888.000s>
+content: "Know that life is not fair, that you will fail often."
+<end speech t=0891.000s>
+
+<begin speech t=0891.000s>
+content: "But if you take some risks, step up on the times of the toughest."
+<end speech t=0895.000s>
+
+<begin speech t=0895.000s>
+content: "Face down the bullying, lift up the downtrodden, and never, ever give up."
+<end speech t=0900.000s>
+
+<begin speech t=0900.000s>
+content: "If you do these things, the next generation and the generations that follow will live in a world far better than the one we have today."
+<end speech t=0908.000s>
+
+<begin speech t=0908.000s>
+content: "And what started here will indeed have changed the world for the better."
+<end speech t=0914.000s>
+
+<begin speech t=0914.000s>
+content: "Thank you very much."
+<end speech t=0916.000s>
+
+<begin speech t=0938.000s>
+content: "."
+<end speech t=0959.000s>

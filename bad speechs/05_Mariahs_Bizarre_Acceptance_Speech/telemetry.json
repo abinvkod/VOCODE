@@ -1,0 +1,25 @@
+{
+  "source_file": "bad speechs/05_Mariahs_Bizarre_Acceptance_Speech/raw_audio.wav",
+  "clean_file": "bad speechs/05_Mariahs_Bizarre_Acceptance_Speech/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 102.621,
+  "clean_duration_sec": 101.772,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.849,
+  "measured_lufs_raw": -26.34,
+  "target_lufs": -20.0,
+  "gain_applied_db": 1.61,
+  "snr_raw_db": 27.52,
+  "snr_clean_db": 32.35,
+  "snr_improvement_db": 4.84,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "BYPASSED",
+    "has_reference": false,
+    "total_words": 0,
+    "utterance_count": 0
+  },
+  "status": "READY_FOR_EVALUATION"
+}

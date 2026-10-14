@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/michele_decamp_playlist/01_Michael_Bay_Samsung_CES/raw_audio.wav",
+  "clean_file": "testing videos/michele_decamp_playlist/01_Michael_Bay_Samsung_CES/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 79.586,
+  "clean_duration_sec": 79.282,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.304,
+  "measured_lufs_raw": -36.21,
+  "target_lufs": -20.0,
+  "gain_applied_db": 13.24,
+  "snr_raw_db": 28.79,
+  "snr_clean_db": 39.08,
+  "snr_improvement_db": 10.3,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 147,
+    "utterance_count": 22
+  },
+  "status": "READY_FOR_EVALUATION"
+}

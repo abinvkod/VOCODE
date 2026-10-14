@@ -1,0 +1,391 @@
+<begin speech t=0000.000s>
+content: "I want to thank Mr. Collins, Mr. Naylor, for putting this together."
+<end speech t=0002.640s>
+
+<begin speech t=0002.640s>
+content: "But as I sit here today, I can't help but think what an incredible metaphor this room"
+<end speech t=0009.820s>
+
+<begin speech t=0009.820s>
+content: "is for the entire process that getting health care and benefits for 9-11 first responders"
+<end speech t=0017.760s>
+
+<begin speech t=0017.760s>
+content: "has come to."
+<end speech t=0021.080s>
+
+<begin speech t=0021.080s>
+content: "Join me, a filled room of 9-11 first responders, and in front of me, a nearly empty Congress."
+<end speech t=0036.420s>
+
+<begin speech t=0036.420s>
+content: "Sick and dying, they brought themselves down here to speak to no one."
+<end speech t=0044.600s>
+
+<begin speech t=0044.600s>
+content: "It's shameful."
+<end speech t=0048.480s>
+
+<begin speech t=0048.480s>
+content: "It's an embarrassment to the country and it is a stain on this institution."
+<end speech t=0053.520s>
+
+<begin speech t=0053.520s>
+content: "And you should be ashamed of yourselves for those that aren't here, but you won't be."
+<end speech t=0059.440s>
+
+<begin speech t=0059.440s>
+content: "Because accountability doesn't appear to be something that occurs in this chamber."
+<end speech t=0067.040s>
+
+<begin speech t=0067.040s>
+content: "We don't want to be here."
+<end speech t=0069.080s>
+
+<begin speech t=0069.080s>
+content: "Lutas don't want to be here."
+<end speech t=0070.560s>
+
+<begin speech t=0070.560s>
+content: "None of these people want to be here."
+<end speech t=0073.760s>
+
+<begin speech t=0073.760s>
+content: "But they are, and they're not here for themselves."
+<end speech t=0076.080s>
+
+<begin speech t=0076.080s>
+content: "They're here to continue fighting for what's right."
+<end speech t=0083.400s>
+
+<begin speech t=0083.400s>
+content: "Lou's going to go back for 69th chemo."
+<end speech t=0085.840s>
+
+<begin speech t=0085.840s>
+content: "The Great Ray Fyfer would come down here, his body riddled with cancer and pain where"
+<end speech t=0091.760s>
+
+<begin speech t=0091.760s>
+content: "he couldn't walk."
+<end speech t=0094.200s>
+
+<begin speech t=0094.200s>
+content: "And the disrespect shown to him and to the other lobbyists on this bill is utterly unacceptable."
+<end speech t=0110.960s>
+
+<begin speech t=0110.960s>
+content: "You know, I used to get, I would be so angry at the latest injustice that's done to these"
+<end speech t=0116.640s>
+
+<begin speech t=0116.640s>
+content: "men and women."
+<end speech t=0118.120s>
+
+<begin speech t=0118.120s>
+content: "And you know, another business card, thrown our way as a way of shooing us away."
+<end speech t=0126.440s>
+
+<begin speech t=0126.440s>
+content: "Like children trick or treating rather than the heroes that they are and will always be."
+<end speech t=0134.480s>
+
+<begin speech t=0134.480s>
+content: "Ray would say, calm down, Johnny, calm down."
+<end speech t=0137.720s>
+
+<begin speech t=0137.720s>
+content: "I got all the cards I need."
+<end speech t=0139.320s>
+
+<begin speech t=0139.640s>
+content: "I need to tap his pocket."
+<end speech t=0141.320s>
+
+<begin speech t=0155.720s>
+content: "Where he kept the prayer cards?"
+<end speech t=0158.920s>
+
+<begin speech t=0158.920s>
+content: "343 firefighters."
+<end speech t=0160.720s>
+
+<begin speech t=0160.720s>
+content: "The official FDNY response time to 9-11 was five seconds."
+<end speech t=0174.560s>
+
+<begin speech t=0174.560s>
+content: "Five seconds."
+<end speech t=0178.200s>
+
+<begin speech t=0178.200s>
+content: "That's how long it took for FDNY, for NYPD, for Port Authority, for EMS to respond to an"
+<end speech t=0187.840s>
+
+<begin speech t=0187.840s>
+content: "urgent need from the public."
+<end speech t=0190.640s>
+
+<begin speech t=0190.640s>
+content: "Five seconds."
+<end speech t=0192.640s>
+
+<begin speech t=0192.640s>
+content: "Hundreds died in an instant."
+<end speech t=0199.240s>
+
+<begin speech t=0199.240s>
+content: "Thousands more poured in to continue to fight for their brothers and sisters."
+<end speech t=0213.240s>
+
+<begin speech t=0213.240s>
+content: "The breathing problems started almost immediately and they were told they weren't sick, they"
+<end speech t=0217.320s>
+
+<begin speech t=0217.320s>
+content: "were crazy."
+<end speech t=0219.680s>
+
+<begin speech t=0219.680s>
+content: "And then as the illnesses got worse and things became more apparent, well, okay, you're"
+<end speech t=0224.720s>
+
+<begin speech t=0224.720s>
+content: "sick, but it's not from the pile."
+<end speech t=0228.920s>
+
+<begin speech t=0228.920s>
+content: "And then when the science became irrefutable, okay, it's the pile."
+<end speech t=0236.160s>
+
+<begin speech t=0236.160s>
+content: "But this is a New York issue."
+<end speech t=0238.920s>
+
+<begin speech t=0238.920s>
+content: "I don't know if we have the money."
+<end speech t=0244.200s>
+
+<begin speech t=0244.200s>
+content: "And I'm sorry if I sound angry and undiplomatic, but I'm angry and you should be too and they're"
+<end speech t=0255.840s>
+
+<begin speech t=0255.840s>
+content: "all angry as well and they have every justification to be that way."
+<end speech t=0263.000s>
+
+<begin speech t=0263.000s>
+content: "There is not a person here."
+<end speech t=0265.040s>
+
+<begin speech t=0265.040s>
+content: "There is not an empty chair on that stage that didn't tweet out, never forget the heroes"
+<end speech t=0272.080s>
+
+<begin speech t=0272.080s>
+content: "of 9-11, never forget their bravery, never forget what they did, what they gave to this"
+<end speech t=0277.920s>
+
+<begin speech t=0277.920s>
+content: "country."
+<end speech t=0278.920s>
+
+<begin speech t=0278.920s>
+content: "Well, here they are."
+<end speech t=0284.520s>
+
+<begin speech t=0284.520s>
+content: "And where are they?"
+<end speech t=0288.920s>
+
+<begin speech t=0288.920s>
+content: "It would be one thing if their callous indifference and rank hypocrisy were benign, but it's not."
+<end speech t=0300.320s>
+
+<begin speech t=0300.320s>
+content: "Your indifference cost these men and women their most valuable commodity."
+<end speech t=0312.800s>
+
+<begin speech t=0312.800s>
+content: "So one thing they're running out of."
+<end speech t=0320.360s>
+
+<begin speech t=0320.360s>
+content: "This should be flipped."
+<end speech t=0321.360s>
+
+<begin speech t=0321.360s>
+content: "This hearing should be flipped."
+<end speech t=0323.680s>
+
+<begin speech t=0323.680s>
+content: "These men and women should be up on that stage and Congress should be down here answering"
+<end speech t=0328.600s>
+
+<begin speech t=0328.600s>
+content: "their questions as to why this is so damn hard and takes so damn long and why no matter"
+<end speech t=0340.280s>
+
+<begin speech t=0340.280s>
+content: "what they get, something's always pulled back and they got to come back."
+<end speech t=0347.720s>
+
+<begin speech t=0347.720s>
+content: "Mr. Johnson, you made a point earlier and it was one that we've heard over and over again"
+<end speech t=0351.680s>
+
+<begin speech t=0351.680s>
+content: "in these halls and I couldn't help but to answer to it, which was, you said, look, you"
+<end speech t=0356.520s>
+
+<begin speech t=0356.520s>
+content: "know, you guys are obviously heroes and 9-11 was a big deal, but you know, we have a lot"
+<end speech t=0361.120s>
+
+<begin speech t=0361.120s>
+content: "of stuff here to do."
+<end speech t=0362.440s>
+
+<begin speech t=0362.440s>
+content: "And you know, we got to make sure there's money for a variety of disasters, hurricanes"
+<end speech t=0367.920s>
+
+<begin speech t=0367.920s>
+content: "and tornadoes, but this wasn't a hurricane and this wasn't a tornado."
+<end speech t=0372.080s>
+
+<begin speech t=0372.080s>
+content: "And by the way, that's your job anyway."
+<end speech t=0374.960s>
+
+<begin speech t=0374.960s>
+content: "We can't fund these programs."
+<end speech t=0376.320s>
+
+<begin speech t=0376.320s>
+content: "You can."
+<end speech t=0377.320s>
+
+<begin speech t=0377.320s>
+content: "Setting aside that no American in this country should face financial ruin because of a health"
+<end speech t=0382.520s>
+
+<begin speech t=0382.520s>
+content: "issue."
+<end speech t=0384.480s>
+
+<begin speech t=0384.480s>
+content: "Certainly 9-11 first responders shouldn't have to decide whether to live or to have"
+<end speech t=0388.760s>
+
+<begin speech t=0388.760s>
+content: "a place to live."
+<end speech t=0390.760s>
+
+<begin speech t=0390.760s>
+content: "And the idea that you can only give them five more years of the VCF because you're not"
+<end speech t=0396.200s>
+
+<begin speech t=0396.280s>
+content: "quite sure what's going to happen five years from now."
+<end speech t=0399.280s>
+
+<begin speech t=0399.280s>
+content: "Well, I can tell you, I'm pretty sure what's going to happen five years from now."
+<end speech t=0404.600s>
+
+<begin speech t=0404.600s>
+content: "More of these men and women are going to get sick and they are going to die."
+<end speech t=0411.880s>
+
+<begin speech t=0411.880s>
+content: "And I am awfully tired of hearing that it's a 9-11 New York issue."
+<end speech t=0417.800s>
+
+<begin speech t=0417.800s>
+content: "Al-Qaeda didn't shout death to Tribeca."
+<end speech t=0424.240s>
+
+<begin speech t=0424.240s>
+content: "They attacked America and these men and women and their response to it is what brought our"
+<end speech t=0432.160s>
+
+<begin speech t=0432.160s>
+content: "country back."
+<end speech t=0433.880s>
+
+<begin speech t=0433.880s>
+content: "It's what gave a reeling nation a solid foundation to stand back upon to remind us of why this"
+<end speech t=0441.440s>
+
+<begin speech t=0441.440s>
+content: "country is great, of why this country is worth fighting for."
+<end speech t=0445.520s>
+
+<begin speech t=0445.520s>
+content: "And you are ignoring them."
+<end speech t=0451.600s>
+
+<begin speech t=0452.600s>
+content: "And you can end it tomorrow."
+<end speech t=0456.600s>
+
+<begin speech t=0456.600s>
+content: "Why this bill isn't unanimous consent and a stand-alone issue is beyond my comprehension."
+<end speech t=0466.600s>
+
+<begin speech t=0466.600s>
+content: "And I have yet to hear a reasonable explanation for why."
+<end speech t=0470.600s>
+
+<begin speech t=0470.600s>
+content: "It will get stuck in some transportation bill or some appropriations bill and get sent over"
+<end speech t=0475.600s>
+
+<begin speech t=0475.600s>
+content: "to the Senate where a certain someone from the Senate will use it as a political football"
+<end speech t=0480.600s>
+
+<begin speech t=0481.600s>
+content: "to get themselves maybe another new import tax on petroleum."
+<end speech t=0485.600s>
+
+<begin speech t=0485.600s>
+content: "Because that's what happened to us in 2015."
+<end speech t=0490.600s>
+
+<begin speech t=0490.600s>
+content: "And we won't allow it to happen again."
+<end speech t=0492.600s>
+
+<begin speech t=0492.600s>
+content: "Thank God for people like John Field."
+<end speech t=0494.600s>
+
+<begin speech t=0494.600s>
+content: "Thank God for people like Ray Fightford."
+<end speech t=0496.600s>
+
+<begin speech t=0496.600s>
+content: "Thank God for all of these people who will not let it happen."
+<end speech t=0505.600s>
+
+<begin speech t=0505.600s>
+content: "They responded in five seconds."
+<end speech t=0509.600s>
+
+<begin speech t=0509.600s>
+content: "They did their jobs with courage, grace, tenacity, humility."
+<end speech t=0519.600s>
+
+<begin speech t=0519.600s>
+content: "Eighteen years later, do yours."
+<end speech t=0526.600s>
+
+<begin speech t=0526.600s>
+content: "Thank you."
+<end speech t=0529.600s>
+
+<begin speech t=0539.600s>
+content: "Thank you."
+<end speech t=0549.600s>

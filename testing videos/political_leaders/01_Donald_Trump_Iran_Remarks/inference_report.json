@@ -1,0 +1,71 @@
+{
+  "id": "wefPGzG0Ypw",
+  "slug": "01_Donald_Trump_Iran_Remarks",
+  "title": "Donald Trump - Iran / San Diego Remarks ('Small Price')",
+  "leader": "Donald Trump (US 45th & 47th President)",
+  "country": "US",
+  "public_sentiment": "Heavily polarized and controversial. Condemned by CA leaders (Newsom, Bass, Gloria) as 'reckless' for calling San Diego and LA attacks a 'small price', while defenders framed it as hyperbole arguing military deterrence prevented strikes.",
+  "duration_sec": 156.63,
+  "grades": {
+    "strict_leniency_0": 6.7,
+    "moderate_leniency_50": 7.8,
+    "lenient_leniency_100": 8.9
+  },
+  "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+  "performance_band_moderate": "Proficient / Noticeable Flaws (Tier 2)",
+  "performance_band_lenient": "Distinguished / Minor Polish (Tier 1)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.0,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.75,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.3
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.2,
+      "metric": "f0_semitones: 11.21 st",
+      "flaw": "Mild Pitch Restraint",
+      "explanation": "Pitch range of 11.21 st is slightly restrained compared to corpus average (17.8 st)."
+    },
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.3,
+      "metric": "f0_velocity: 379.39 Hz/s",
+      "flaw": "Sluggish Vocal Inflection",
+      "explanation": "Pitch velocity was 379.39 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+    },
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.25,
+      "metric": "pause_ratio: 16.1%",
+      "flaw": "Insufficient Pausing",
+      "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+    },
+    {
+      "pillar": "Spectral Clarity",
+      "deduction": 0.2,
+      "metric": "spectral_flux: 2.6209",
+      "flaw": "Subdued Phonetic Contrast",
+      "explanation": "Spectral flux of 2.6209 is below corpus average (4.73)."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 4,
+    "fillers_per_min": 1.53,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 174.11,
+    "f0_semitones": 11.21,
+    "f0_velocity_hz_per_sec": 379.39,
+    "articulation_rate_sps": 5.51,
+    "pause_ratio": 0.161,
+    "hesitation_pause_count": 0,
+    "energy_dynamic_range_db": 46.44,
+    "papr_crest_factor": 21.05,
+    "spectral_flux": 2.6209
+  },
+  "transcript_preview": "I want to see a tremendous victory. You want to see a tremendous victory because it verifies all the things we did. And again, remember, with the words, this is artificial. It's a little bit high. It's a small price to pay for keeping the world safe,..."
+}

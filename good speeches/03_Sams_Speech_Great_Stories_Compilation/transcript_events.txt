@@ -1,0 +1,111 @@
+<begin speech t=0000.000s>
+content: "I can't do this."
+<end speech t=0020.000s>
+
+<begin speech t=0020.000s>
+content: "I know."
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "It's horrible."
+<end speech t=0026.000s>
+
+<begin speech t=0026.000s>
+content: "My rights we shouldn't even be here."
+<end speech t=0030.000s>
+
+<begin speech t=0036.000s>
+content: "Here we are."
+<end speech t=0038.000s>
+
+<begin speech t=0044.000s>
+content: "It's like in the great stories, Mr. Fertile."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "The ones that really matter."
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "Full of darkness and danger they were."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "And sometimes you didn't want to know the end."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "Because after the end we had me."
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "But the world will go back to the way it was."
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "And so much of what had happened to me."
+<end speech t=0069.000s>
+
+<begin speech t=0073.000s>
+content: "But in the end, to a little past something,"
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "the shadow even darkness must have."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "But you day will come."
+<end speech t=0084.000s>
+
+<begin speech t=0084.000s>
+content: "And when the sun shines and it shines out the clearer."
+<end speech t=0089.000s>
+
+<begin speech t=0090.000s>
+content: "Those who are stories that stayed with you,"
+<end speech t=0093.000s>
+
+<begin speech t=0093.000s>
+content: "have immense."
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "Even if you are too small to understand why."
+<end speech t=0098.000s>
+
+<begin speech t=0098.000s>
+content: "And I think Mr. Fertile, I do understand."
+<end speech t=0102.000s>
+
+<begin speech t=0102.000s>
+content: "I know that."
+<end speech t=0105.000s>
+
+<begin speech t=0105.000s>
+content: "Foken those stories."
+<end speech t=0107.000s>
+
+<begin speech t=0108.000s>
+content: "We had lots of chances of turning back when they did."
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "They kept going."
+<end speech t=0115.000s>
+
+<begin speech t=0115.000s>
+content: "Because they were holding on to something."
+<end speech t=0118.000s>
+
+<begin speech t=0120.000s>
+content: "What do we know about it, he said?"
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "There's some good in this world, Mr. Fertile."
+<end speech t=0127.000s>
+
+<begin speech t=0127.000s>
+content: "And it's worth fighting."
+<end speech t=0129.000s>

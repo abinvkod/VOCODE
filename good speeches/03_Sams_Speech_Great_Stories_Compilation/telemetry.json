@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/03_Sams_Speech_Great_Stories_Compilation/audio.mp3",
+  "clean_file": "good speeches/03_Sams_Speech_Great_Stories_Compilation/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 168.576,
+  "clean_duration_sec": 167.472,
+  "lead_trim_sec": 1.07,
+  "tail_trim_sec": 0.034,
+  "measured_lufs_raw": -31.6,
+  "target_lufs": -20.0,
+  "gain_applied_db": 6.43,
+  "snr_raw_db": 16.44,
+  "snr_clean_db": 18.07,
+  "snr_improvement_db": 1.63,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 178,
+    "utterance_count": 28
+  },
+  "status": "READY_FOR_EVALUATION"
+}

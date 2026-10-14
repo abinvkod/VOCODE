@@ -1,0 +1,727 @@
+<begin speech t=0000.000s>
+content: "together and good life."
+<end speech t=0008.000s>
+
+<begin speech t=0030.000s>
+content: "I do believe"
+<end speech t=0034.520s>
+
+<begin speech t=0034.520s>
+content: "We shall overcome"
+<end speech t=0038.920s>
+
+<begin speech t=0038.920s>
+content: "the day"
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "At this time I have the honor to present to you"
+<end speech t=0048.000s>
+
+<begin speech t=0048.000s>
+content: "the moral leader of our nation."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "I have the pleasure to present to you"
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "Dr. Martin of the King, they are."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "I am happy to join with you today"
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "in what will go down in history"
+<end speech t=0076.000s>
+
+<begin speech t=0076.000s>
+content: "as the greatest demonstration for freedom in the history of our nation."
+<end speech t=0083.000s>
+
+<begin speech t=0087.000s>
+content: "Five, four years ago,"
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "a great American in whose symbolic shadow we stand today"
+<end speech t=0102.000s>
+
+<begin speech t=0102.000s>
+content: "signed the Emancipation Proclamation."
+<end speech t=0107.000s>
+
+<begin speech t=0107.000s>
+content: "This momentous decree came"
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "as a dead beacon light of hope for millions of Negro slaves"
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "who had been seared in the flames of withering injustice."
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "It came as a joyous daybreak"
+<end speech t=0128.000s>
+
+<begin speech t=0128.000s>
+content: "to end the long night of their captivity."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "But one hundred years later"
+<end speech t=0139.000s>
+
+<begin speech t=0139.000s>
+content: "the Negro steel is not free."
+<end speech t=0144.000s>
+
+<begin speech t=0144.000s>
+content: "One hundred years later"
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "the life of the Negro is still sadly crippled"
+<end speech t=0152.000s>
+
+<begin speech t=0152.000s>
+content: "by the manical segregation and the chains of discrimination."
+<end speech t=0159.000s>
+
+<begin speech t=0159.000s>
+content: "One hundred years later"
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "the Negro lives on a lonely island of poverty"
+<end speech t=0167.000s>
+
+<begin speech t=0167.000s>
+content: "in the midst of a vast ocean of material prosperity."
+<end speech t=0171.000s>
+
+<begin speech t=0171.000s>
+content: "One hundred years later"
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "the Negro is still languished in the corners of American society"
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "and finds himself in exile in his own land."
+<end speech t=0189.000s>
+
+<begin speech t=0189.000s>
+content: "And so we've come here today"
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "to dramatize the shameful condition."
+<end speech t=0196.000s>
+
+<begin speech t=0196.000s>
+content: "In a sense we've come to our nation,"
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "capital, who've touched a check."
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "And the architects of our republic"
+<end speech t=0206.000s>
+
+<begin speech t=0206.000s>
+content: "wrote the magnificent words of the Constitution"
+<end speech t=0210.000s>
+
+<begin speech t=0210.000s>
+content: "and the Declaration of Independence."
+<end speech t=0213.000s>
+
+<begin speech t=0213.000s>
+content: "They were finding a promise to result"
+<end speech t=0217.000s>
+
+<begin speech t=0217.000s>
+content: "who was ever American once the fall had."
+<end speech t=0222.000s>
+
+<begin speech t=0222.000s>
+content: "This note was a promise that all men,"
+<end speech t=0226.000s>
+
+<begin speech t=0226.000s>
+content: "yes, black men as well as white men,"
+<end speech t=0230.000s>
+
+<begin speech t=0230.000s>
+content: "would be guaranteed the unalienable rights of life's liberty"
+<end speech t=0236.000s>
+
+<begin speech t=0236.000s>
+content: "and to pursue the Cabinet."
+<end speech t=0239.000s>
+
+<begin speech t=0239.000s>
+content: "It is obvious today"
+<end speech t=0242.000s>
+
+<begin speech t=0242.000s>
+content: "that America has defaulted on this promise"
+<end speech t=0245.000s>
+
+<begin speech t=0245.000s>
+content: "to denote in so far as how citizens of color are concerned."
+<end speech t=0251.000s>
+
+<begin speech t=0252.000s>
+content: "Instead of honoring this sacred obligation"
+<end speech t=0256.000s>
+
+<begin speech t=0256.000s>
+content: "America has given the Negro people a bad check."
+<end speech t=0261.000s>
+
+<begin speech t=0261.000s>
+content: "A section which has come back marked in position for them."
+<end speech t=0266.000s>
+
+<begin speech t=0266.000s>
+content: "We refuse to believe that the thanks of justice is bankrupt."
+<end speech t=0283.000s>
+
+<begin speech t=0283.000s>
+content: "We refuse to believe that our insufficient funds"
+<end speech t=0289.000s>
+
+<begin speech t=0289.000s>
+content: "and the great hopes of opportunity of this nation."
+<end speech t=0293.000s>
+
+<begin speech t=0293.000s>
+content: "So we've come to cash this check,"
+<end speech t=0296.000s>
+
+<begin speech t=0296.000s>
+content: "a check that will give us upon demand the riches of freedom"
+<end speech t=0300.000s>
+
+<begin speech t=0300.000s>
+content: "and the security of justice."
+<end speech t=0303.000s>
+
+<begin speech t=0312.000s>
+content: "We have also come to this house spot"
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "to remind America of the fierce urgency of now."
+<end speech t=0322.000s>
+
+<begin speech t=0323.000s>
+content: "It is no time to engage in the luxury of cooling off"
+<end speech t=0329.000s>
+
+<begin speech t=0329.000s>
+content: "while to take the trans-relising goal of practicalism."
+<end speech t=0333.000s>
+
+<begin speech t=0338.000s>
+content: "Now is the time to make real the promises of democracy."
+<end speech t=0344.000s>
+
+<begin speech t=0344.000s>
+content: "Now is the time to rise from the dark and desolate valley"
+<end speech t=0350.000s>
+
+<begin speech t=0350.000s>
+content: "of segregation through the sunlit path of racial justice."
+<end speech t=0354.000s>
+
+<begin speech t=0354.000s>
+content: "Now is the time to lift our nation from the quicksand"
+<end speech t=0362.000s>
+
+<begin speech t=0362.000s>
+content: "of racial injustice to the solid rock of brotherhood."
+<end speech t=0366.000s>
+
+<begin speech t=0366.000s>
+content: "Now is the time to make justice a reality for all of God's children."
+<end speech t=0375.000s>
+
+<begin speech t=0375.000s>
+content: "It would be fatal for the nation to overlook the urgency of the moment."
+<end speech t=0383.000s>
+
+<begin speech t=0383.000s>
+content: "This sweltering sum of the Negroes legitimate discontent will not pass"
+<end speech t=0389.000s>
+
+<begin speech t=0389.000s>
+content: "until that is an invigorating autumn of freedom and equality."
+<end speech t=0395.000s>
+
+<begin speech t=0395.000s>
+content: "1963 is not an end but a beginning."
+<end speech t=0400.000s>
+
+<begin speech t=0400.000s>
+content: "Those who hope that the Negro needed to blow off steam"
+<end speech t=0405.000s>
+
+<begin speech t=0405.000s>
+content: "and will now be content will have a rude awakening"
+<end speech t=0410.000s>
+
+<begin speech t=0410.000s>
+content: "if the nation returns to business as usual."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "And there will be neither rest nor tranquility in America"
+<end speech t=0431.000s>
+
+<begin speech t=0431.000s>
+content: "until the Negroes granted his citizenship rights."
+<end speech t=0435.000s>
+
+<begin speech t=0435.000s>
+content: "The whirlwinds of revolt will continue to shake the foundations of our nation"
+<end speech t=0441.000s>
+
+<begin speech t=0441.000s>
+content: "until the bright day of justice emerges."
+<end speech t=0446.000s>
+
+<begin speech t=0446.000s>
+content: "That is something that I must say to my people"
+<end speech t=0450.000s>
+
+<begin speech t=0450.000s>
+content: "who stand on the warm threshold which leads into the palace of justice"
+<end speech t=0456.000s>
+
+<begin speech t=0456.000s>
+content: "in the process of gaining our rightful place."
+<end speech t=0461.000s>
+
+<begin speech t=0461.000s>
+content: "We must not be guilty of wrong for these."
+<end speech t=0466.000s>
+
+<begin speech t=0466.000s>
+content: "Let us not seek to satisfy our thirst for freedom"
+<end speech t=0470.000s>
+
+<begin speech t=0470.000s>
+content: "by drinking from the cup of bitterness and hatred."
+<end speech t=0475.000s>
+
+<begin speech t=0482.000s>
+content: "We must forever conduct our struggle on the high plane of dignity and discipline."
+<end speech t=0488.000s>
+
+<begin speech t=0488.000s>
+content: "We must not allow our creative protest to degenerate into physical violence"
+<end speech t=0495.000s>
+
+<begin speech t=0495.000s>
+content: "again and again."
+<end speech t=0497.000s>
+
+<begin speech t=0497.000s>
+content: "We must rise to the majestic heights of meeting physical force with soul force"
+<end speech t=0504.000s>
+
+<begin speech t=0504.000s>
+content: "in the marvelous new militancy which has engulfed the Negro community."
+<end speech t=0510.000s>
+
+<begin speech t=0510.000s>
+content: "Must not lead us to a distrust of all white people"
+<end speech t=0514.000s>
+
+<begin speech t=0514.000s>
+content: "for many of our white brothers as evidenced by their presence here today"
+<end speech t=0519.000s>
+
+<begin speech t=0519.000s>
+content: "have come to realize that that destiny is part of our destiny."
+<end speech t=0523.000s>
+
+<begin speech t=0525.000s>
+content: "They have come to realize that that freedom is inextricably bound to our freedom."
+<end speech t=0538.000s>
+
+<begin speech t=0538.000s>
+content: "We cannot walk alone."
+<end speech t=0542.000s>
+
+<begin speech t=0542.000s>
+content: "And as we walk, we must make the pledge that we shall always march ahead."
+<end speech t=0550.000s>
+
+<begin speech t=0550.000s>
+content: "We cannot turn back."
+<end speech t=0553.000s>
+
+<begin speech t=0553.000s>
+content: "There are those who are asking the devotees of civil rights."
+<end speech t=0558.000s>
+
+<begin speech t=0558.000s>
+content: "When will you be satisfied?"
+<end speech t=0561.000s>
+
+<begin speech t=0561.000s>
+content: "We can never be satisfied as long as the Negro is the fifth victim"
+<end speech t=0566.000s>
+
+<begin speech t=0566.000s>
+content: "of the unspeakable horrors of police brutality."
+<end speech t=0570.000s>
+
+<begin speech t=0570.000s>
+content: "We can never be satisfied."
+<end speech t=0573.000s>
+
+<begin speech t=0573.000s>
+content: "As long as our bodies heavy with the fatigue of travel"
+<end speech t=0578.000s>
+
+<begin speech t=0578.000s>
+content: "cannot gain lodging in the motels of the highways and the hotels of the cities."
+<end speech t=0584.000s>
+
+<begin speech t=0588.000s>
+content: "We cannot be satisfied as long as the Negro's basic mobilities"
+<end speech t=0593.000s>
+
+<begin speech t=0593.000s>
+content: "from a smaller ghetto to a larger one."
+<end speech t=0597.000s>
+
+<begin speech t=0597.000s>
+content: "We can never be satisfied as long as our children are stripped of their selfhood"
+<end speech t=0603.000s>
+
+<begin speech t=0603.000s>
+content: "and robbed of that dignity by signs stating for whites only."
+<end speech t=0608.000s>
+
+<begin speech t=0608.000s>
+content: "We cannot be satisfied as long as the Negro in Mississippi cannot vote."
+<end speech t=0620.000s>
+
+<begin speech t=0620.000s>
+content: "And the Negro in New York believes he has nothing for which to go."
+<end speech t=0625.000s>
+
+<begin speech t=0625.000s>
+content: "Thank you."
+<end speech t=0627.000s>
+
+<begin speech t=0627.000s>
+content: "Thank you."
+<end speech t=0629.000s>
+
+<begin speech t=0631.000s>
+content: "No."
+<end speech t=0633.000s>
+
+<begin speech t=0633.000s>
+content: "No, we are not satisfied and we will not be satisfied"
+<end speech t=0637.000s>
+
+<begin speech t=0637.000s>
+content: "until justice rolls down like water and righteousness like a mighty scream."
+<end speech t=0643.000s>
+
+<begin speech t=0643.000s>
+content: "Thank you."
+<end speech t=0645.000s>
+
+<begin speech t=0645.000s>
+content: "Thank you."
+<end speech t=0647.000s>
+
+<begin speech t=0652.000s>
+content: "I am not unmindful that some of you have come here out of great trials and tribulations."
+<end speech t=0662.000s>
+
+<begin speech t=0662.000s>
+content: "Some of you have come fresh from narrow jail tales."
+<end speech t=0668.000s>
+
+<begin speech t=0668.000s>
+content: "Some of you have come from areas where your press"
+<end speech t=0672.000s>
+
+<begin speech t=0672.000s>
+content: "quest for freedom left you battered by the storms of persecution"
+<end speech t=0679.000s>
+
+<begin speech t=0679.000s>
+content: "and staggered by the winds of police brutality."
+<end speech t=0683.000s>
+
+<begin speech t=0683.000s>
+content: "You have been the veterans of creative suffering."
+<end speech t=0688.000s>
+
+<begin speech t=0688.000s>
+content: "And can you to work with the faith that unearned suffering is redemptive."
+<end speech t=0696.000s>
+
+<begin speech t=0696.000s>
+content: "Go back to Mississippi."
+<end speech t=0699.000s>
+
+<begin speech t=0699.000s>
+content: "Go back to Alabama. Go back to South Carolina. Go back to Georgia."
+<end speech t=0703.000s>
+
+<begin speech t=0703.000s>
+content: "Go back to Louisiana. Go back to the slums and ghettos of our northern cities."
+<end speech t=0710.000s>
+
+<begin speech t=0710.000s>
+content: "Knowing that somehow this situation can and will be changed."
+<end speech t=0715.000s>
+
+<begin speech t=0715.000s>
+content: "Let us not wallow in the valley of despair."
+<end speech t=0719.000s>
+
+<begin speech t=0719.000s>
+content: "I say to you today my friend."
+<end speech t=0723.000s>
+
+<begin speech t=0729.000s>
+content: "So even though we face the difficulties of today and tomorrow, I still have a dream."
+<end speech t=0741.000s>
+
+<begin speech t=0741.000s>
+content: "It is a dream deeply rooted in the American dream."
+<end speech t=0747.000s>
+
+<begin speech t=0747.000s>
+content: "I have a dream."
+<end speech t=0749.000s>
+
+<begin speech t=0749.000s>
+content: "But one day this nation will rise up and live out the true meaning of its creed."
+<end speech t=0758.000s>
+
+<begin speech t=0758.000s>
+content: "We hold these truths to be self-evident that all men are created."
+<end speech t=0767.000s>
+
+<begin speech t=0774.000s>
+content: "I have a dream that one day on the red hills of Georgia,"
+<end speech t=0781.000s>
+
+<begin speech t=0781.000s>
+content: "the sons of farmers slaves and the sons of farmers slave owners"
+<end speech t=0786.000s>
+
+<begin speech t=0786.000s>
+content: "will be able to sit down together at the table of brotherhood."
+<end speech t=0791.000s>
+
+<begin speech t=0791.000s>
+content: "I have a dream."
+<end speech t=0793.000s>
+
+<begin speech t=0793.000s>
+content: "But one day even the state of Mississippi of state sweltering with the heat of injustice."
+<end speech t=0804.000s>
+
+<begin speech t=0804.000s>
+content: "Sweltering with the heat of oppression will be transformed into an oasis of freedom"
+<end speech t=0811.000s>
+
+<begin speech t=0811.000s>
+content: "and justice. I have a dream."
+<end speech t=0816.000s>
+
+<begin speech t=0816.000s>
+content: "My four little children, one day living a nation where they will not be judged by the color of our skin"
+<end speech t=0825.000s>
+
+<begin speech t=0825.000s>
+content: "but by the content of that character."
+<end speech t=0827.000s>
+
+<begin speech t=0827.000s>
+content: "I have a dream today."
+<end speech t=0831.000s>
+
+<begin speech t=0831.000s>
+content: "I have a dream that one day down in Alabama with its vicious racist,"
+<end speech t=0848.000s>
+
+<begin speech t=0848.000s>
+content: "with its governor having his lips dripping with the words of its opposition and nullification."
+<end speech t=0855.000s>
+
+<begin speech t=0855.000s>
+content: "One day right now in Alabama, little black boys and black girls will be able to join hands with little white boys and white girls"
+<end speech t=0863.000s>
+
+<begin speech t=0863.000s>
+content: "as sisters and brothers. I have a dream today."
+<end speech t=0867.000s>
+
+<begin speech t=0873.000s>
+content: "I have a dream that one day every valley shall be exalted."
+<end speech t=0878.000s>
+
+<begin speech t=0878.000s>
+content: "Every hill in mountains shall be made, low the rough places will be made plain"
+<end speech t=0883.000s>
+
+<begin speech t=0883.000s>
+content: "and the crooked places will be made straight and the glory of the Lord shall be revealed in all flesh shall see it together."
+<end speech t=0891.000s>
+
+<begin speech t=0891.000s>
+content: "This is our hope."
+<end speech t=0893.000s>
+
+<begin speech t=0893.000s>
+content: "This is the faith that I go back to the South with, with this faith."
+<end speech t=0898.000s>
+
+<begin speech t=0898.000s>
+content: "We will be able to hoo out of the mountain of despair, a stone of hope."
+<end speech t=0904.000s>
+
+<begin speech t=0904.000s>
+content: "With this faith, we will be able to transform the jangling discards of our nation into a beautiful symphony of brotherhood."
+<end speech t=0912.000s>
+
+<begin speech t=0912.000s>
+content: "With this faith, we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together,"
+<end speech t=0922.000s>
+
+<begin speech t=0922.000s>
+content: "knowing that we will be free one day."
+<end speech t=0927.000s>
+
+<begin speech t=0927.000s>
+content: "This will be the day."
+<end speech t=0930.000s>
+
+<begin speech t=0930.000s>
+content: "This will be the day with all of God's joy."
+<end speech t=0934.000s>
+
+<begin speech t=0935.000s>
+content: "We will be able to sing with new meaning, my country tears the beat."
+<end speech t=0940.000s>
+
+<begin speech t=0940.000s>
+content: "Sweet land of liberty of the icing."
+<end speech t=0943.000s>
+
+<begin speech t=0943.000s>
+content: "Land where my fathers died, land of the pilgrim's pride."
+<end speech t=0948.000s>
+
+<begin speech t=0948.000s>
+content: "From every mountain side, let freedom ring and from America's to be a great nation."
+<end speech t=0954.000s>
+
+<begin speech t=0954.000s>
+content: "This must become true."
+<end speech t=0956.000s>
+
+<begin speech t=0956.000s>
+content: "So let freedom ring."
+<end speech t=0959.000s>
+
+<begin speech t=0959.000s>
+content: "From the prodigious hilltops of New Hampshire."
+<end speech t=0962.000s>
+
+<begin speech t=0962.000s>
+content: "Let freedom ring."
+<end speech t=0964.000s>
+
+<begin speech t=0964.000s>
+content: "From the mighty mountains of New York."
+<end speech t=0967.000s>
+
+<begin speech t=0967.000s>
+content: "Let freedom ring from the heightening alligators of Pennsylvania."
+<end speech t=0971.000s>
+
+<begin speech t=0971.000s>
+content: "Let freedom ring from the snow-caperoccans of Colorado."
+<end speech t=0976.000s>
+
+<begin speech t=0976.000s>
+content: "Let freedom ring from the curvaceous slopes of California."
+<end speech t=0980.000s>
+
+<begin speech t=0980.000s>
+content: "But not only that."
+<end speech t=0982.000s>
+
+<begin speech t=0982.000s>
+content: "Let freedom ring from stone mountain of Georgia."
+<end speech t=0987.000s>
+
+<begin speech t=0987.000s>
+content: "Let freedom ring from lookout mountain of Tennessee."
+<end speech t=0992.000s>
+
+<begin speech t=0992.000s>
+content: "Let freedom ring from every hill and mole hill of Mississippi."
+<end speech t=0997.000s>
+
+<begin speech t=0997.000s>
+content: "From every mountain side."
+<end speech t=1000.000s>
+
+<begin speech t=1000.000s>
+content: "Let freedom ring and when this happens."
+<end speech t=1005.000s>
+
+<begin speech t=1005.000s>
+content: "When we allow freedom ring."
+<end speech t=1008.000s>
+
+<begin speech t=1008.000s>
+content: "When we let it ring from every village and every hamlet, from every state and every city."
+<end speech t=1015.000s>
+
+<begin speech t=1015.000s>
+content: "We will be able to speed up that day when all of the children, black men and white men,"
+<end speech t=1022.000s>
+
+<begin speech t=1022.000s>
+content: "Jews and Gentiles, Protestants and Catholics will be able to join hands and sing in the words"
+<end speech t=1029.000s>
+
+<begin speech t=1029.000s>
+content: "of the only growth spiritual."
+<end speech t=1031.000s>
+
+<begin speech t=1031.000s>
+content: "Free at last, free at last."
+<end speech t=1034.000s>
+
+<begin speech t=1034.000s>
+content: "Make God a mighty, free at last."
+<end speech t=1037.000s>

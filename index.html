@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VOCODE — Contrastive Speech Analytics & Temporal Flaw Grounding</title>
+  <meta name="description" content="A Physics-Grounded Multimodal Framework for Objective Oratorical Evaluation. Multimodal AI Hackathon 2026 — Track C.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0e17;
+      --card-bg: #121826;
+      --border: #232d42;
+      --cyan: #38bdf8;
+      --emerald: #10b981;
+      --amber: #f59e0b;
+      --rose: #ef4444;
+      --purple: #a855f7;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    header {
+      border-bottom: 1px solid var(--border);
+      background: rgba(10, 14, 23, 0.85);
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .logo {
+      font-size: 24px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+    .logo span { color: var(--cyan); }
+    .badge {
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: var(--cyan);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      margin-left: 24px;
+      transition: color 0.2s;
+    }
+    nav a:hover { color: #fff; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 14px;
+      text-decoration: none;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: var(--cyan);
+      color: #0a0e17;
+    }
+    .btn-primary:hover {
+      background: #7dd3fc;
+      transform: translateY(-1px);
+    }
+    .btn-secondary {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: #fff;
+    }
+    .btn-secondary:hover {
+      border-color: var(--cyan);
+      color: var(--cyan);
+    }
+    .hero {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 80px 24px 60px;
+      text-align: center;
+    }
+    .hero-badge {
+      display: inline-block;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-size: clamp(36px, 6vw, 68px);
+      font-weight: 800;
+      line-height: 1.1;
+      letter-spacing: -1.5px;
+      margin-bottom: 24px;
+    }
+    .hero h1 span {
+      background: linear-gradient(135deg, #38bdf8 0%, #818cf8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .hero p {
+      font-size: clamp(16px, 2vw, 20px);
+      color: var(--muted);
+      max-width: 780px;
+      margin: 0 auto 36px;
+    }
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .section {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 80px 24px;
+    }
+    .section-title {
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: 12px;
+      letter-spacing: -0.5px;
+    }
+    .section-subtitle {
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 40px;
+    }
+    .video-container {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+      position: relative;
+    }
+    video {
+      width: 100%;
+      border-radius: 12px;
+      display: block;
+      background: #000;
+    }
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: var(--cyan);
+    }
+    .card-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+    }
+    .card h3 {
+      font-size: 20px;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    .card p {
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .metric-badge {
+      display: inline-block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.05);
+      margin-top: 12px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      font-size: 14px;
+    }
+    th, td {
+      padding: 14px 18px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    th {
+      background: rgba(255, 255, 255, 0.02);
+      color: #fff;
+      font-weight: 600;
+    }
+    td { color: var(--muted); }
+    .tag {
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    .tag-cyan { background: rgba(56, 189, 248, 0.15); color: var(--cyan); }
+    .tag-green { background: rgba(16, 185, 129, 0.15); color: var(--emerald); }
+    .tag-amber { background: rgba(245, 158, 11, 0.15); color: var(--amber); }
+    .tag-red { background: rgba(239, 68, 68, 0.15); color: var(--rose); }
+    .code-box {
+      background: #070a11;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      color: #38bdf8;
+      overflow-x: auto;
+      margin: 16px 0;
+    }
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 40px 24px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    footer a { color: var(--cyan); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="nav-container">
+      <a href="#" class="logo">
+        🎙️ VOCODE <span>AI</span>
+      </a>
+      <span class="badge">Track C: Hackathon 2026</span>
+      <nav>
+        <a href="#showcase">Video Demo</a>
+        <a href="#pipeline">System Pipeline</a>
+        <a href="#dataset">Contrastive Dataset</a>
+        <a href="#rubrics">Official Rubrics</a>
+        <a href="final_report.pdf" target="_blank" class="btn btn-secondary">Report (PDF)</a>
+        <a href="https://github.com/abinvkod/VOCODE.git" target="_blank" class="btn btn-primary">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-badge">
+        <span class="badge">Multimodal AI Hackathon 2026 • Track C Official Submission</span>
+      </div>
+      <h1>Contrastive Speech Analytics &amp; <br><span>Temporal Flaw Grounding</span></h1>
+      <p>
+        A physics-grounded multimodal speech evaluation engine. Bridging 100 Hz micro-prosodic acoustic telemetry, 
+        a 4-tier paired contrastive dataset, non-unilateral rubric scoring, and dual-layer LLM explainability.
+      </p>
+      <div class="hero-actions">
+        <a href="#showcase" class="btn btn-primary">▶ Watch 5-Min Showcase Video</a>
+        <a href="final_report.pdf" target="_blank" class="btn btn-secondary">📄 Read Technical Paper (9 Pages)</a>
+        <a href="docs/final_report.html" target="_blank" class="btn btn-secondary">🌐 Interactive HTML Report</a>
+      </div>
+    </section>
+
+    <!-- Video Showcase Section -->
+    <section id="showcase" class="section">
+      <h2 class="section-title">5-Minute Project Showcase Video</h2>
+      <p class="section-subtitle">
+        Official walkthrough demonstrating the problem statement, custom contrastive dataset, 100 Hz physical telemetry, 
+        and the live interactive web dashboard with natural neural chatbot narration.
+      </p>
+      
+      <div class="video-container">
+        <video controls poster="final video/slides/slide_1a_title.png">
+          <source src="final_video.mp4" type="video/mp4">
+          <track label="English" kind="subtitles" srclang="en" src="final video/vocode_captions.srt" default>
+          Your browser does not support the video tag.
+        </video>
+        <div style="margin-top: 16px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+          <div>
+            <strong>Specifications:</strong> 1080p Full HD @ 30 fps • Duration: 05:00.00 • Voice: Neural Conversational Model (<code>en-US-AndrewNeural</code>)
+          </div>
+          <div>
+            <a href="final_video.mp4" download class="btn btn-secondary" style="padding: 6px 14px; font-size: 13px;">📥 Download Video (16.5 MB)</a>
+            <a href="final video/vocode_captions.srt" download class="btn btn-secondary" style="padding: 6px 14px; font-size: 13px;">📝 Subtitles (SRT)</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- The 3 Fatal Flaws & Contrastive Solution -->
+    <section class="section" style="background: rgba(255,255,255,0.01);">
+      <h2 class="section-title">The Three Fatal Flaws of Speech Adjudication</h2>
+      <p class="section-subtitle">Why traditional evaluation fails and how VOCODE's physics-grounded approach solves it.</p>
+      
+      <div class="grid-3">
+        <div class="card">
+          <div class="card-icon">⚠️</div>
+          <h3>1. Unilateral Penalization Bias</h3>
+          <p>Rule-based speech tools evaluate metrics in isolation. An intentional 2.5s pregnant pause before a climax is flagged as dead air, and intimate quiet delivery is penalized as mumbling.</p>
+          <div class="metric-badge" style="color: var(--emerald);">VOCODE: Systemic Impairment Coupling (Ψ)</div>
+        </div>
+        <div class="card">
+          <div class="card-icon">📉</div>
+          <h3>2. Subjective Feedback Gap</h3>
+          <p>Human judges provide vague impressionistic notes ("felt flat", "lackluster presence") lacking exact millisecond timestamps and actionable physical vocal mechanics.</p>
+          <div class="metric-badge" style="color: var(--cyan);">VOCODE: Chess.com Moves &amp; Physical Drills</div>
+        </div>
+        <div class="card">
+          <div class="card-icon">🕳️</div>
+          <h3>3. The ASR Corpus Void</h3>
+          <p>Corpora like CommonVoice and LibriSpeech evaluate what words were spoken (WER), completely ignoring the acoustic physics of how they were delivered.</p>
+          <div class="metric-badge" style="color: var(--amber);">VOCODE: 4-Tier Paired Contrastive Dataset</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- System Pipeline -->
+    <section id="pipeline" class="section">
+      <h2 class="section-title">End-to-End System Pipeline</h2>
+      <p class="section-subtitle">From heterogeneous raw audio to broadcast standardization, 100 Hz physical telemetry, and dual LLM reasoning.</p>
+
+      <div class="grid-3">
+        <div class="card">
+          <span class="tag tag-cyan">Stage 1</span>
+          <h3 style="margin-top: 10px;">Ephemeral Ingestion</h3>
+          <p>4-Layer Monologue Gatekeeper validates turn-taking and SNR. Temporary audio is purged post-inference maintaining 0 MB disk footprint.</p>
+        </div>
+        <div class="card">
+          <span class="tag tag-cyan">Stage 2</span>
+          <h3 style="margin-top: 10px;">Broadcast Standardization</h3>
+          <p>16 kHz sinc resampling, 70 Hz Butterworth HPF eliminating handling rumble, and -20.0 LUFS EBU R128 loudness normalization.</p>
+        </div>
+        <div class="card">
+          <span class="tag tag-cyan">Stage 3</span>
+          <h3 style="margin-top: 10px;">100 Hz Physical Telemetry</h3>
+          <p>Praat Parselmouth micro-prosodic pitch dynamic range (semitones), PAPR crest factor (dB), and the 20% Oratorical Pause Law.</p>
+        </div>
+        <div class="card">
+          <span class="tag tag-amber">Stage 4</span>
+          <h3 style="margin-top: 10px;">Non-Unilateral Rubric</h3>
+          <p>Evaluates 5 Oratorical Pillars (10.0 pts) coupled via Systemic Impairment (Ψ_impair) and a dynamic Leniency slider (λ ∈ [0, 100]).</p>
+        </div>
+        <div class="card">
+          <span class="tag tag-amber">Stage 5</span>
+          <h3 style="margin-top: 10px;">Move Classification</h3>
+          <p>Partitions speech phrases into Chess.com-style cards: Brilliant (cyan), Great (green), Inaccuracy (yellow), Mistake, and Blunder (red).</p>
+        </div>
+        <div class="card">
+          <span class="tag tag-green">Stage 6</span>
+          <h3 style="margin-top: 10px;">Dual-Layer LLM Reasoner</h3>
+          <p>Deterministic DSP proofs + Groq Qwen 27B / Llama 3 semantic audience impact explanations and 4 daily practice routines.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- The 4-Tier Contrastive Dataset -->
+    <section id="dataset" class="section" style="background: rgba(255,255,255,0.01);">
+      <h2 class="section-title">Custom 4-Tier Contrastive Dataset</h2>
+      <p class="section-subtitle">Holding speech text constant as a scientific control while injecting 6 controlled acoustic flaw dimensions.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Quality Tier</th>
+            <th>Score Range</th>
+            <th>Acoustic Delivery Characteristics</th>
+            <th>Benchmark Baseline</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="tag tag-green">Tier 0: Masterclass</span></td>
+            <td><strong>9.0 – 10.0</strong></td>
+            <td>Pitch agility &gt; 14 semitones, PAPR punch &gt; 22 dB, 20% Pause Law optimal (17-23%).</td>
+            <td>MLK, JFK, Churchill, Steve Jobs (48 Speeches)</td>
+          </tr>
+          <tr>
+            <td><span class="tag tag-cyan">Tier 1: Distinguished</span></td>
+            <td><strong>7.5 – 8.9</strong></td>
+            <td>Mild hesitation, restrained pitch dynamics (10–12 st), natural breath phrasing.</td>
+            <td>Polished commencement keynotes</td>
+          </tr>
+          <tr>
+            <td><span class="tag tag-amber">Tier 2: Proficient</span></td>
+            <td><strong>6.0 – 7.4</strong></td>
+            <td>Noticeable cadence dragging (&lt;110 WPM) or mild monotone flattening (8–10 st).</td>
+            <td>Conversational presentations</td>
+          </tr>
+          <tr>
+            <td><span class="tag tag-red">Tier 3: Botched</span></td>
+            <td><strong>2.0 – 5.5</strong></td>
+            <td>Catastrophic anxiety: 4.8s dead-air freeze, robotic PSOLA flatline (&lt;5 st), rushed 220+ WPM.</td>
+            <td>Identical speech text with injected failure modes</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Official Rubrics Audit -->
+    <section id="rubrics" class="section">
+      <h2 class="section-title">Official Evaluation Rubrics Compliance</h2>
+      <p class="section-subtitle">Full compliance with Track C judging parameters verified via empirical benchmarking.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Official Criterion</th>
+            <th>Weight</th>
+            <th>Measured Parameter</th>
+            <th>VOCODE Verification &amp; Evidence</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Causal Explainability &amp; Temporal Grounding</strong></td>
+            <td><strong>25%</strong></td>
+            <td>Accuracy of flaw-region timestamps [ts, te] and mathematical rationale.</td>
+            <td>Millisecond intervals in <code>move_classifier.py</code>; dual DSP + Groq LLM causal explanations.</td>
+          </tr>
+          <tr>
+            <td><strong>Data Engineering &amp; Stress Testing</strong></td>
+            <td><strong>30%</strong></td>
+            <td>Cleverness of sourcing, clean labeling, robustness of bad-mirror gradient.</td>
+            <td>48 masterclass speeches holding text constant; 4-tier synthetic gradient; 200-clip empirical corpus.</td>
+          </tr>
+          <tr>
+            <td><strong>Feature Extraction</strong></td>
+            <td><strong>20%</strong></td>
+            <td>Mathematical rigor of acoustic processing and telemetry.</td>
+            <td>7-stage standardization; 100 Hz Praat F0 semitones, PAPR crest factor, and 20% Pause Law.</td>
+          </tr>
+          <tr>
+            <td><strong>Visualization &amp; Dashboard</strong></td>
+            <td><strong>15%</strong></td>
+            <td>Frontend execution, usability, and time-series communication.</td>
+            <td>Streamlit UI with rotating 60 fps tape reels, Plotly gauge dial, interactive waveform inspector.</td>
+          </tr>
+          <tr>
+            <td><strong>Reproducibility &amp; Code Quality</strong></td>
+            <td><strong>10%</strong></td>
+            <td>Cleanliness of execution, containerization, deployment architecture.</td>
+            <td>Production <code>Dockerfile</code>, pinned <code>requirements.txt</code>, 11/11 unit tests passing.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Quickstart Section -->
+    <section class="section" style="background: rgba(255,255,255,0.01);">
+      <h2 class="section-title">Quickstart &amp; Execution</h2>
+      <p class="section-subtitle">Reproduce the entire pipeline or launch the web dashboard with Docker.</p>
+
+      <div class="code-box">
+# Option A: One-line Docker container execution (binds to http://localhost:8501)
+docker build -t vocode:latest .
+docker run -p 8501:8501 -e GROQ_API_KEY="your_api_key" vocode:latest
+
+# Option B: Local Python virtual environment
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+python3 -m unittest discover tests
+streamlit run app/app.py --server.port=8501 --server.headless=true
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      VOCODE — Multimodal AI Hackathon 2026 • Track C Official Submission | 
+      <a href="final_report.pdf">Technical Report (PDF)</a> | 
+      <a href="docs/final_report.html">Interactive HTML Report</a> | 
+      <a href="https://github.com/abinvkod/VOCODE.git">GitHub Repository</a>
+    </p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/38_How_To_REPROGRAM_Your_Mind_Dr_Bruce_Lipton/audio.mp3",
+  "clean_file": "good speeches/38_How_To_REPROGRAM_Your_Mind_Dr_Bruce_Lipton/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 912.835,
+  "clean_duration_sec": 910.962,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 1.873,
+  "measured_lufs_raw": -19.92,
+  "target_lufs": -20.0,
+  "gain_applied_db": -0.3,
+  "snr_raw_db": 22.07,
+  "snr_clean_db": 26.74,
+  "snr_improvement_db": 4.67,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 2675,
+    "utterance_count": 299
+  },
+  "status": "READY_FOR_EVALUATION"
+}

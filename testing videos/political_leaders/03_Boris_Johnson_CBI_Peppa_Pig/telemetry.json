@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/03_Boris_Johnson_CBI_Peppa_Pig/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/03_Boris_Johnson_CBI_Peppa_Pig/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 128.576,
+  "clean_duration_sec": 122.302,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 6.274,
+  "measured_lufs_raw": -26.88,
+  "target_lufs": -20.0,
+  "gain_applied_db": 3.72,
+  "snr_raw_db": 34.03,
+  "snr_clean_db": 34.31,
+  "snr_improvement_db": 0.28,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 226,
+    "utterance_count": 24
+  },
+  "status": "READY_FOR_EVALUATION"
+}

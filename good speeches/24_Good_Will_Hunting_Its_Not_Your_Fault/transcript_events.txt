@@ -1,0 +1,123 @@
+<begin speech t=0000.000s>
+content: "That way I broke up with Skyle."
+<end speech t=0002.000s>
+
+<begin speech t=0002.000s>
+content: "I didn't know you had."
+<end speech t=0003.500s>
+
+<begin speech t=0003.500s>
+content: "I did."
+<end speech t=0005.000s>
+
+<begin speech t=0005.000s>
+content: "I'm gonna talk about it."
+<end speech t=0006.000s>
+
+<begin speech t=0006.000s>
+content: "No."
+<end speech t=0007.000s>
+
+<begin speech t=0011.000s>
+content: "You will?"
+<end speech t=0012.000s>
+
+<begin speech t=0013.000s>
+content: "I don't know about..."
+<end speech t=0015.000s>
+
+<begin speech t=0017.000s>
+content: "You see this?"
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "Holy shit."
+<end speech t=0020.000s>
+
+<begin speech t=0024.000s>
+content: "This is not your fault."
+<end speech t=0026.000s>
+
+<begin speech t=0031.000s>
+content: "Look at me, son."
+<end speech t=0032.000s>
+
+<begin speech t=0034.000s>
+content: "It's not your fault."
+<end speech t=0036.000s>
+
+<begin speech t=0038.000s>
+content: "It's not your fault."
+<end speech t=0040.000s>
+
+<begin speech t=0043.000s>
+content: "I know."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "No, no, no, no."
+<end speech t=0045.000s>
+
+<begin speech t=0045.000s>
+content: "It's not your fault."
+<end speech t=0047.000s>
+
+<begin speech t=0050.000s>
+content: "It's not your fault."
+<end speech t=0051.000s>
+
+<begin speech t=0051.000s>
+content: "All right."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "It's not your fault."
+<end speech t=0054.000s>
+
+<begin speech t=0057.000s>
+content: "It's not your fault."
+<end speech t=0058.000s>
+
+<begin speech t=0058.000s>
+content: "Don't fuck with me."
+<end speech t=0059.000s>
+
+<begin speech t=0061.000s>
+content: "It's not your fault."
+<end speech t=0063.000s>
+
+<begin speech t=0063.000s>
+content: "Don't fuck with me."
+<end speech t=0064.000s>
+
+<begin speech t=0064.000s>
+content: "Don't fuck with me."
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "I'm not you."
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "It's not your fault."
+<end speech t=0067.000s>
+
+<begin speech t=0072.000s>
+content: "It's not your fault."
+<end speech t=0073.000s>
+
+<begin speech t=0078.000s>
+content: "It's not your fault."
+<end speech t=0079.000s>
+
+<begin speech t=0083.000s>
+content: "I can't."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "I can't."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "It's not your fault."
+<end speech t=0090.000s>

@@ -1,0 +1,50 @@
+{
+  "id": "hY6Z36ejPmU",
+  "slug": "05_Rishi_Sunak_Rain_Election_Call",
+  "title": "Rishi Sunak - General Election Announcement in Torrential Rain",
+  "leader": "Rishi Sunak (UK Prime Minister 2022-2024)",
+  "country": "UK",
+  "public_sentiment": "Extensively mocked across social media and mainstream press as a PR disaster. Sunak stood soaked without an umbrella while protesters drowned out his voice with 'Things Can Only Get Better' ('Things can only get wetter'). Symbolized poor crisis management.",
+  "duration_sec": 464.9,
+  "grades": {
+    "strict_leniency_0": 9.5,
+    "moderate_leniency_50": 9.7,
+    "lenient_leniency_100": 9.8
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.75,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.25,
+      "metric": "pause_ratio: 16.3%",
+      "flaw": "Insufficient Pausing",
+      "explanation": "Pause ratio of 16.3% is below the 20% oratorical law."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 9,
+    "fillers_per_min": 1.16,
+    "word_repetitions": 1
+  },
+  "metrics": {
+    "f0_mean_hz": 195.9,
+    "f0_semitones": 23.67,
+    "f0_velocity_hz_per_sec": 936.8,
+    "articulation_rate_sps": 5.47,
+    "pause_ratio": 0.163,
+    "hesitation_pause_count": 2,
+    "energy_dynamic_range_db": 32.08,
+    "papr_crest_factor": 19.31,
+    "spectral_flux": 6.9178
+  },
+  "transcript_preview": "In the last five years our country has fought through the most challenging times since the Second World War. As I stand here as your Prime Minister, I can't help but reflect that my first proper introduction to you was just over four years ago. I sto..."
+}

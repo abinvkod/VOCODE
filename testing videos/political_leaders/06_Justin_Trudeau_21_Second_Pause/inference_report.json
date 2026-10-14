@@ -1,0 +1,57 @@
+{
+  "id": "Md_dtJM_z4g",
+  "slug": "06_Justin_Trudeau_21_Second_Pause",
+  "title": "Justin Trudeau - 21-Second Silence on Trump / Protests",
+  "leader": "Justin Trudeau (Prime Minister of Canada)",
+  "country": "Canada",
+  "public_sentiment": "Fascinated and divided international response. A 21-second dead-air pause when asked about Trump's response to protests was praised by supporters as deep moral deliberation and careful diplomacy, but criticized by detractors as paralyzed political hesitation.",
+  "duration_sec": 266.72,
+  "grades": {
+    "strict_leniency_0": 8.7,
+    "moderate_leniency_50": 9.1,
+    "lenient_leniency_100": 9.6
+  },
+  "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.3,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.3
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.2,
+      "metric": "f0_semitones: 13.77 st",
+      "flaw": "Mild Pitch Restraint",
+      "explanation": "Pitch range of 13.77 st is slightly restrained compared to corpus average (17.8 st)."
+    },
+    {
+      "pillar": "Spectral Clarity",
+      "deduction": 0.2,
+      "metric": "spectral_flux: 3.1446",
+      "flaw": "Subdued Phonetic Contrast",
+      "explanation": "Spectral flux of 3.1446 is below corpus average (4.73)."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 6,
+    "fillers_per_min": 1.35,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 135.25,
+    "f0_semitones": 13.77,
+    "f0_velocity_hz_per_sec": 429.65,
+    "articulation_rate_sps": 5.69,
+    "pause_ratio": 0.197,
+    "hesitation_pause_count": 2,
+    "energy_dynamic_range_db": 43.79,
+    "papr_crest_factor": 80.45,
+    "spectral_flux": 3.1446
+  },
+  "transcript_preview": "We do have Donald Trump now calling for military action against protesters. We saw protesters tear gas yesterday to make way for a presidential photo. I'd like to ask you what you think about that. And if you don't want to comment, what message do yo..."
+}

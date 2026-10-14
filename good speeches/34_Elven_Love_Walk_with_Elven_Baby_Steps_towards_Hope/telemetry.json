@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/34_Elven_Love_Walk_with_Elven_Baby_Steps_towards_Hope/audio.mp3",
+  "clean_file": "good speeches/34_Elven_Love_Walk_with_Elven_Baby_Steps_towards_Hope/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1406.584,
+  "clean_duration_sec": 1403.002,
+  "lead_trim_sec": 0.28,
+  "tail_trim_sec": 3.302,
+  "measured_lufs_raw": -36.52,
+  "target_lufs": -20.0,
+  "gain_applied_db": 9.14,
+  "snr_raw_db": 15.76,
+  "snr_clean_db": 24.49,
+  "snr_improvement_db": 8.73,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 3784,
+    "utterance_count": 500
+  },
+  "status": "READY_FOR_EVALUATION"
+}

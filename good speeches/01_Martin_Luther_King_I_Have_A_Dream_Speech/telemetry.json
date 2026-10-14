@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/01_Martin_Luther_King/audio.mp3",
+  "clean_file": "good speeches/01_Martin_Luther_King/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1047.975,
+  "clean_duration_sec": 1044.782,
+  "lead_trim_sec": 1.47,
+  "tail_trim_sec": 1.723,
+  "measured_lufs_raw": -31.27,
+  "target_lufs": -20.0,
+  "gain_applied_db": 10.67,
+  "snr_raw_db": 18.17,
+  "snr_clean_db": 26.04,
+  "snr_improvement_db": 7.88,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1667,
+    "utterance_count": 182
+  },
+  "status": "READY_FOR_EVALUATION"
+}

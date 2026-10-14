@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/19_Mystery_School_Lesson_6_Accessing_Knowledge_Part_3/audio.mp3",
+  "clean_file": "good speeches/19_Mystery_School_Lesson_6_Accessing_Knowledge_Part_3/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 619.125,
+  "clean_duration_sec": 617.862,
+  "lead_trim_sec": 0.36,
+  "tail_trim_sec": 0.903,
+  "measured_lufs_raw": -29.1,
+  "target_lufs": -20.0,
+  "gain_applied_db": 2.46,
+  "snr_raw_db": 27.43,
+  "snr_clean_db": 31.31,
+  "snr_improvement_db": 3.88,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1435,
+    "utterance_count": 153
+  },
+  "status": "READY_FOR_EVALUATION"
+}

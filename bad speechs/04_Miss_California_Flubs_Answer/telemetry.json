@@ -1,0 +1,25 @@
+{
+  "source_file": "bad speechs/04_Miss_California_Flubs_Answer/raw_audio.wav",
+  "clean_file": "bad speechs/04_Miss_California_Flubs_Answer/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 58.688,
+  "clean_duration_sec": 58.688,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -19.87,
+  "target_lufs": -20.0,
+  "gain_applied_db": -0.13,
+  "snr_raw_db": 8.46,
+  "snr_clean_db": 13.07,
+  "snr_improvement_db": 4.6,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "BYPASSED",
+    "has_reference": false,
+    "total_words": 0,
+    "utterance_count": 0
+  },
+  "status": "READY_FOR_EVALUATION"
+}

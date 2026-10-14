@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/06_Justin_Trudeau_21_Second_Pause/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/06_Justin_Trudeau_21_Second_Pause/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 303.334,
+  "clean_duration_sec": 266.722,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 36.612,
+  "measured_lufs_raw": -19.52,
+  "target_lufs": -20.0,
+  "gain_applied_db": -2.06,
+  "snr_raw_db": 26.82,
+  "snr_clean_db": 27.26,
+  "snr_improvement_db": 0.44,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 522,
+    "utterance_count": 35
+  },
+  "status": "READY_FOR_EVALUATION"
+}

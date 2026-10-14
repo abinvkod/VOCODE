@@ -1,0 +1,95 @@
+<begin speech t=0000.000s>
+content: "So with safer streets, with great local schools, with fantastic broadband."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "For you, me."
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "For you, me."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "For you, me."
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "Yes, I went as we all must to pepper pig world."
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "I don't know if you've been to pepper pig world."
+<end speech t=0037.000s>
+
+<begin speech t=0037.000s>
+content: "Who's been to pans?"
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "I've been to pepper pig world."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "Not enough."
+<end speech t=0043.000s>
+
+<begin speech t=0043.000s>
+content: "Well, it's a bit hazy when I would find a pepper pig world."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "But I loved it."
+<end speech t=0048.000s>
+
+<begin speech t=0048.000s>
+content: "And pepper pig world is very much my kind of place."
+<end speech t=0053.000s>
+
+<begin speech t=0053.000s>
+content: "It has very safe streets, disability in schools, heavy emphasis on new mass transit systems,"
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "I noticed, even if they're a bit stereotypical about Daddy Pig."
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "But the real lesson for me, going to pepper pig world, I'm surprised you haven't been that,"
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "was about the power of UK creativity."
+<end speech t=0079.000s>
+
+<begin speech t=0079.000s>
+content: "Who would have believed Tony, that a pig that looks like a hairdryer, or possibly a Picasso-like hairdryer,"
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "a pig that was rejected by the BBC, would now be exported to 180 countries with theme parks,"
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "both in America and in China, as well as in the new forest."
+<end speech t=0101.000s>
+
+<begin speech t=0101.000s>
+content: "And a business that's worth at least £6 billion to this country."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "It's £6 billion and counting."
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "Now, I think that is pure genius, don't you?"
+<end speech t=0114.000s>
+
+<begin speech t=0114.000s>
+content: "Pepper pig, no government in the world, no white tool civil servant,"
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "we can conceivably have come up with pepper."
+<end speech t=0122.000s>

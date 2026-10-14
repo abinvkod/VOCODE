@@ -1,0 +1,19 @@
+[
+  {
+    "flaw_type": "HESITATION_FREEZE",
+    "t_start": 38.0,
+    "t_end": 39.2,
+    "duration": 1.2,
+    "method": "ambient_room_tone_inpainting",
+    "description": "Organic awkward pause of 1.20s with hall atmosphere inpainting"
+  },
+  {
+    "flaw_type": "MONOTONE",
+    "t_start": 18.0,
+    "t_end": 21.5,
+    "duration": 3.5,
+    "method": "world_vocoder_formant_preserving",
+    "flattening_ratio": 0.55,
+    "description": "Vocal tract preserved pitch flattening (55% F0 dynamism)"
+  }
+]

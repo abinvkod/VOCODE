@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/05_Rishi_Sunak_Rain_Election_Call/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/05_Rishi_Sunak_Rain_Election_Call/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 464.896,
+  "clean_duration_sec": 464.896,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -23.86,
+  "target_lufs": -20.0,
+  "gain_applied_db": 1.58,
+  "snr_raw_db": 12.79,
+  "snr_clean_db": 19.08,
+  "snr_improvement_db": 6.29,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 1295,
+    "utterance_count": 105
+  },
+  "status": "READY_FOR_EVALUATION"
+}

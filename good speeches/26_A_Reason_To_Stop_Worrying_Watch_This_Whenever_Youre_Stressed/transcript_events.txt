@@ -1,0 +1,187 @@
+<begin speech t=0000.000s>
+content: "You are here somewhere. You can't see you. It's too far away, but you're here somewhere."
+<end speech t=0008.280s>
+
+<begin speech t=0008.280s>
+content: "Maybe here. Maybe here. You could be almost anywhere here, but you're definitely here."
+<end speech t=0014.720s>
+
+<begin speech t=0014.720s>
+content: "You don't know why or for what. No one does. All you know, all I know is that you are somewhere"
+<end speech t=0021.360s>
+
+<begin speech t=0021.360s>
+content: "here. Magnetize this strange, lushly coated wet rock floating in its designated position"
+<end speech t=0026.880s>
+
+<begin speech t=0026.880s>
+content: "of endless nothing. This rock you are on. It's tiny. And you are tiny compared to this rock."
+<end speech t=0032.960s>
+
+<begin speech t=0032.960s>
+content: "If we zoom out a little bit, look how tiny you are. Even further, tinier. You're so tiny,"
+<end speech t=0039.280s>
+
+<begin speech t=0039.280s>
+content: "your even tinier brain can't comprehend how tiny you are. Your tiny self is posted up on"
+<end speech t=0044.240s>
+
+<begin speech t=0044.240s>
+content: "this tiny rock surrounded by this dark, massive unending space that could be anything and nothing"
+<end speech t=0048.960s>
+
+<begin speech t=0048.960s>
+content: "at the same time. This rock will give you life. It will give you everything you need to live on"
+<end speech t=0053.600s>
+
+<begin speech t=0053.600s>
+content: "this crust for a period of time. It might feel like a while, or it might feel like no time at all,"
+<end speech t=0058.640s>
+
+<begin speech t=0058.640s>
+content: "depending on what mood you're in when you consider this idea. Regardless of how it feels to you,"
+<end speech t=0062.880s>
+
+<begin speech t=0062.880s>
+content: "when compared to almost everything else, it will be so, so short. A single frame in a movie that"
+<end speech t=0068.640s>
+
+<begin speech t=0068.640s>
+content: "never ends. A frame that could be removed and nothing would really change about the movie."
+<end speech t=0073.200s>
+
+<begin speech t=0073.200s>
+content: "In this frame, you will live on this rock, then you will die, and you have no idea what happened."
+<end speech t=0078.080s>
+
+<begin speech t=0078.640s>
+content: "No one will. If you're really lucky, you'll have some friends and family and lovers who will be"
+<end speech t=0082.880s>
+
+<begin speech t=0082.960s>
+content: "sad for a little while. They'll miss you, but they'll try really hard not to, because being sad and"
+<end speech t=0087.680s>
+
+<begin speech t=0087.680s>
+content: "missing someone all the time is really tiresome. It'll mess up their lives, so they'll try to work"
+<end speech t=0092.160s>
+
+<begin speech t=0092.160s>
+content: "through it and move on as best they can. They might go to therapy, they might practice techniques to"
+<end speech t=0096.480s>
+
+<begin speech t=0096.480s>
+content: "get through grieving. They'll probably be somewhat successful. They will also die. If you're even"
+<end speech t=0101.840s>
+
+<begin speech t=0101.840s>
+content: "more unusually lucky, you'll be missed and remembered for a little bit longer by a few more people."
+<end speech t=0106.080s>
+
+<begin speech t=0106.080s>
+content: "Perhaps you did something that impacted more people while you lived on this rock. Perhaps you"
+<end speech t=0109.680s>
+
+<begin speech t=0109.760s>
+content: "are profoundly artistic or smart or a leader or an inventor. When you die, perhaps more people"
+<end speech t=0115.200s>
+
+<begin speech t=0115.200s>
+content: "will be sad for a little longer stretch of time. Most of these people would have never really known"
+<end speech t=0119.120s>
+
+<begin speech t=0119.120s>
+content: "you though, so they won't think about you too much for too long either. And when they do,"
+<end speech t=0123.040s>
+
+<begin speech t=0123.040s>
+content: "it'll mostly be a misconstruction of you based on their own ideals. They will all die. Over time,"
+<end speech t=0128.560s>
+
+<begin speech t=0128.560s>
+content: "every person and every memory of a person will all die with each other. This won't matter. To you,"
+<end speech t=0133.200s>
+
+<begin speech t=0133.200s>
+content: "to me, to anyone, will all be dead. The things you did, the words you said, the impacts you made,"
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "for good or for bad, big or small, they will all lose your name tag and will not matter to anyone"
+<end speech t=0142.960s>
+
+<begin speech t=0142.960s>
+content: "or anything. So, whatever you're nervous about right now, whoever you're nervous because of,"
+<end speech t=0148.160s>
+
+<begin speech t=0148.160s>
+content: "perhaps a first date, a job interview, a big presentation, an important test, a hard conversation."
+<end speech t=0153.440s>
+
+<begin speech t=0153.440s>
+content: "You might feel paralyzed with anxiety. You might feel like the course of your life is"
+<end speech t=0157.120s>
+
+<begin speech t=0157.120s>
+content: "hunched on this coming moment, that the fate of reality is on your shoulders. It's not. You might"
+<end speech t=0162.400s>
+
+<begin speech t=0162.480s>
+content: "be worried that you're going to do the wrong thing or fail. You might, but everything will be okay."
+<end speech t=0167.520s>
+
+<begin speech t=0168.160s>
+content: "Because for some reason against all conceivable odds, you're on this weird rock."
+<end speech t=0172.000s>
+
+<begin speech t=0172.000s>
+content: "Displanit that birth's life, life that births more life, novel life, intelligent life, you."
+<end speech t=0177.840s>
+
+<begin speech t=0178.720s>
+content: "In this unknowable vacuum of potential nihility, you have this playground,"
+<end speech t=0182.960s>
+
+<begin speech t=0182.960s>
+content: "this consciousness, this capacity for wonder, emotion, and thought. The only real mistake you"
+<end speech t=0188.400s>
+
+<begin speech t=0188.400s>
+content: "can make is to not recognize this, to never relax and enjoy the hilarious and enthralling"
+<end speech t=0192.960s>
+
+<begin speech t=0192.960s>
+content: "absurdity of it all, to realize that it all means nothing beyond itself and to find freedom"
+<end speech t=0197.280s>
+
+<begin speech t=0197.280s>
+content: "and inspiration in this thought, to explore and connect with what it can mean to be a you,"
+<end speech t=0201.680s>
+
+<begin speech t=0201.680s>
+content: "on a rock, in a solar system, in a galaxy, in a universe, in a who knows what, to be kind and"
+<end speech t=0207.920s>
+
+<begin speech t=0207.920s>
+content: "decent, to have fun, to love, to laugh, to cry, to try, to fail, to live. And to remember that"
+<end speech t=0213.920s>
+
+<begin speech t=0213.920s>
+content: "no matter whatever happens, you can still do all of this. No matter what you do in life,"
+<end speech t=0219.440s>
+
+<begin speech t=0219.440s>
+content: "worst case is you try your best, you be yourself, and you do what you can do with compassion,"
+<end speech t=0224.240s>
+
+<begin speech t=0224.240s>
+content: "honesty, effort, and understanding, and it goes worst case. And then you move on, like everything else."
+<end speech t=0230.240s>
+
+<begin speech t=0243.920s>
+content: "Comment below. And if you are not already, be sure to subscribe to our channel. We are constantly"
+<end speech t=0250.480s>
+
+<begin speech t=0250.480s>
+content: "coming out with new videos to help you experience life with clarity and wonder."
+<end speech t=0257.200s>

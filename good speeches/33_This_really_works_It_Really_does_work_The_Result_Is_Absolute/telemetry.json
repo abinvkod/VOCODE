@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/33_This_really_works_It_Really_does_work_The_Result_Is_Absolute/audio.mp3",
+  "clean_file": "good speeches/33_This_really_works_It_Really_does_work_The_Result_Is_Absolute/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 605.099,
+  "clean_duration_sec": 604.602,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.497,
+  "measured_lufs_raw": -15.06,
+  "target_lufs": -20.0,
+  "gain_applied_db": -4.94,
+  "snr_raw_db": 19.59,
+  "snr_clean_db": 24.16,
+  "snr_improvement_db": 4.57,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1262,
+    "utterance_count": 145
+  },
+  "status": "READY_FOR_EVALUATION"
+}

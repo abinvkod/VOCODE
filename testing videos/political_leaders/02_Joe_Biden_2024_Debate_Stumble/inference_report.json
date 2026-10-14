@@ -1,0 +1,57 @@
+{
+  "id": "KdOfiPyY87I",
+  "slug": "02_Joe_Biden_2024_Debate_Stumble",
+  "title": "Joe Biden - 2024 Presidential Debate Stumbles ('Beat Medicare')",
+  "leader": "Joe Biden (US 46th President)",
+  "country": "US",
+  "public_sentiment": "Catastrophic public and media reception. Widespread Democratic panic over faltering voice, lost trains of thought, and raspiness ('we finally beat Medicare'), directly triggering intense pressure that led to his withdrawal from the 2024 race.",
+  "duration_sec": 59.92,
+  "grades": {
+    "strict_leniency_0": 8.1,
+    "moderate_leniency_50": 8.7,
+    "lenient_leniency_100": 9.4
+  },
+  "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+  "performance_band_moderate": "Distinguished / Minor Polish (Tier 1)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.0,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.3,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.5,
+      "metric": "f0_semitones: 8.91 st",
+      "flaw": "Moderate Pitch Compression",
+      "explanation": "Pitch range was 8.91 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+    },
+    {
+      "pillar": "Dynamic Energy",
+      "deduction": 0.2,
+      "metric": "papr_crest_factor: 13.66",
+      "flaw": "Low Vocal Punchiness",
+      "explanation": "PAPR of 13.66 indicates lack of contrast between stressed and unstressed syllables."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 2,
+    "fillers_per_min": 2.0,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 153.3,
+    "f0_semitones": 8.91,
+    "f0_velocity_hz_per_sec": 510.47,
+    "articulation_rate_sps": 5.53,
+    "pause_ratio": 0.185,
+    "hesitation_pause_count": 0,
+    "energy_dynamic_range_db": 56.07,
+    "papr_crest_factor": 13.66,
+    "spectral_flux": 5.9418
+  },
+  "transcript_preview": "when I'm going to do a six a taxes. For example, we had 1,000 trillionaires in America, I mean, a billionaires in America. And what's happening during a situation where they in fact pay 8.2% in taxes. If they just pay 24%, 25%, either one of those nu..."
+}

@@ -1,0 +1,579 @@
+<begin speech t=0000.000s>
+content: "This really works."
+<end speech t=0001.600s>
+
+<begin speech t=0001.600s>
+content: "I mean, it really does work."
+<end speech t=0004.720s>
+
+<begin speech t=0004.720s>
+content: "If you just put in the minimal effort"
+<end speech t=0007.200s>
+
+<begin speech t=0007.200s>
+content: "that I've been speaking about."
+<end speech t=0008.760s>
+
+<begin speech t=0016.040s>
+content: "This is the mystery."
+<end speech t=0017.680s>
+
+<begin speech t=0017.680s>
+content: "This is the great secret known by the seers and prophets"
+<end speech t=0020.680s>
+
+<begin speech t=0020.680s>
+content: "and mystics throughout the ages."
+<end speech t=0022.480s>
+
+<begin speech t=0022.480s>
+content: "This is the truth that you can never know intellectually."
+<end speech t=0026.360s>
+
+<begin speech t=0026.360s>
+content: "Use this."
+<end speech t=0027.440s>
+
+<begin speech t=0031.000s>
+content: "If you want to have something show up in your life,"
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "the kind of person you would like to become,"
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "manifest something new into your life,"
+<end speech t=0040.000s>
+
+<begin speech t=0040.000s>
+content: "something powerful, whatever it might be,"
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "you obviously must first be able to imagine it."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "Your imagination."
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "This is yours and yours alone."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "You can place anything into your imagination"
+<end speech t=0055.000s>
+
+<begin speech t=0055.000s>
+content: "that you want to place there."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "Independent of what anybody else says about it."
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "Independent of what your senses tell you."
+<end speech t=0063.000s>
+
+<begin speech t=0063.000s>
+content: "Independent of all the evidence that may be to the contrary."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "You can place into your imagination."
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "And I am that represents what you would like to attract into your life."
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "And make it come into fruition."
+<end speech t=0080.000s>
+
+<begin speech t=0080.000s>
+content: "Einstein's most famous quote,"
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "one of his most famous observations."
+<end speech t=0084.000s>
+
+<begin speech t=0084.000s>
+content: "An imagination is more important than knowledge."
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "Knowledge is limited."
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "Imagination encircles the world."
+<end speech t=0094.000s>
+
+<begin speech t=0094.000s>
+content: "So you never want to place into your imagination"
+<end speech t=0099.000s>
+
+<begin speech t=0099.000s>
+content: "any thought that you would not want to materialize."
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "You never want to allow your imagination to be contaminated"
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "by the way life used to be."
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "Your imagination is yours."
+<end speech t=0113.000s>
+
+<begin speech t=0113.000s>
+content: "Don't let any other people influence you."
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "Never allow people's ideas about what is possible"
+<end speech t=0120.000s>
+
+<begin speech t=0120.000s>
+content: "or impossible for you to occupy your imagination."
+<end speech t=0125.000s>
+
+<begin speech t=0125.000s>
+content: "Logic will get you from A to B,"
+<end speech t=0128.000s>
+
+<begin speech t=0128.000s>
+content: "but imagination will take you everywhere."
+<end speech t=0133.000s>
+
+<begin speech t=0133.000s>
+content: "Make your future dream a present fact"
+<end speech t=0137.000s>
+
+<begin speech t=0137.000s>
+content: "by assuming the feeling of the wish fulfilled."
+<end speech t=0142.000s>
+
+<begin speech t=0142.000s>
+content: "So whatever it is that you would like to experience in your life,"
+<end speech t=0146.000s>
+
+<begin speech t=0146.000s>
+content: "remember your imagination is yours."
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "Everything that now exists was once imagined."
+<end speech t=0151.000s>
+
+<begin speech t=0151.000s>
+content: "Therefore everything that is going to exist must first be imagined."
+<end speech t=0156.000s>
+
+<begin speech t=0156.000s>
+content: "If you advance confidently in the direction of your own dreams"
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "and endeavor to live the life which you have imagined,"
+<end speech t=0167.000s>
+
+<begin speech t=0167.000s>
+content: "you will meet with a success unexpected in common hours."
+<end speech t=0172.000s>
+
+<begin speech t=0172.000s>
+content: "It will chase after you if you can place into your imagination"
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "what it is that you would like to attract and begin to feel it."
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "That which you feel yourself to be you are."
+<end speech t=0189.000s>
+
+<begin speech t=0189.000s>
+content: "And you are given that which you are."
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "So assume the feeling that would be yours."
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "Were you already in possession of your wish?"
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "And your wish must be realized."
+<end speech t=0203.000s>
+
+<begin speech t=0203.000s>
+content: "So live in the feeling of being the one you want to be"
+<end speech t=0207.000s>
+
+<begin speech t=0207.000s>
+content: "and that you shall be."
+<end speech t=0209.000s>
+
+<begin speech t=0209.000s>
+content: "Every feeling makes a subconscious impression."
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "And unless it is counteracted by a more powerful feeling"
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "of an opposite nature, it must be expressed."
+<end speech t=0224.000s>
+
+<begin speech t=0224.000s>
+content: "Your feelings are different from your thoughts."
+<end speech t=0227.000s>
+
+<begin speech t=0227.000s>
+content: "Your feelings are what you experience in your body."
+<end speech t=0230.000s>
+
+<begin speech t=0230.000s>
+content: "The dominant of two feelings is the one expressed."
+<end speech t=0234.000s>
+
+<begin speech t=0234.000s>
+content: "I am healthy is a stronger feeling than I will be healthy."
+<end speech t=0239.000s>
+
+<begin speech t=0239.000s>
+content: "I am healthy says I feel healthy and I feel healthy."
+<end speech t=0245.000s>
+
+<begin speech t=0245.000s>
+content: "And that is not just something that I say."
+<end speech t=0249.000s>
+
+<begin speech t=0249.000s>
+content: "It's not just an affirmation."
+<end speech t=0251.000s>
+
+<begin speech t=0251.000s>
+content: "An affirmation is an intellectual exercise."
+<end speech t=0254.000s>
+
+<begin speech t=0254.000s>
+content: "This is a spiritual knowing within that I am well."
+<end speech t=0260.000s>
+
+<begin speech t=0260.000s>
+content: "I am content."
+<end speech t=0262.000s>
+
+<begin speech t=0262.000s>
+content: "I am prosperous."
+<end speech t=0264.000s>
+
+<begin speech t=0264.000s>
+content: "Every feeling that you have makes a subconscious impression"
+<end speech t=0270.000s>
+
+<begin speech t=0270.000s>
+content: "upon your body and upon your awareness."
+<end speech t=0274.000s>
+
+<begin speech t=0274.000s>
+content: "Now you need to understand the subconscious mind of yours."
+<end speech t=0279.000s>
+
+<begin speech t=0279.000s>
+content: "Your subconscious mind rules your life."
+<end speech t=0283.000s>
+
+<begin speech t=0283.000s>
+content: "96 to 97 percent of everything that you do"
+<end speech t=0288.000s>
+
+<begin speech t=0288.000s>
+content: "is done as a result of your subconscious mind."
+<end speech t=0294.000s>
+
+<begin speech t=0294.000s>
+content: "And when your subconscious mind gets programmed,"
+<end speech t=0297.000s>
+
+<begin speech t=0297.000s>
+content: "it goes ahead and responds to whatever it is your conscious mind"
+<end speech t=0303.000s>
+
+<begin speech t=0303.000s>
+content: "has placed into it."
+<end speech t=0304.000s>
+
+<begin speech t=0304.000s>
+content: "The subconscious mind of yours is most impacted by your feelings."
+<end speech t=0310.000s>
+
+<begin speech t=0310.000s>
+content: "A change of feeling is a change of destiny."
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "If this assumption about what you would like to become"
+<end speech t=0321.000s>
+
+<begin speech t=0321.000s>
+content: "is persisted in until it becomes your dominant feeling,"
+<end speech t=0326.000s>
+
+<begin speech t=0326.000s>
+content: "the attainment of your ideal is absolutely inevitable."
+<end speech t=0331.000s>
+
+<begin speech t=0331.000s>
+content: "You must first assume the feeling of a wish fulfilled"
+<end speech t=0336.000s>
+
+<begin speech t=0336.000s>
+content: "in all aspects of your life."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "So you have to say to yourself, what does it feel like to be prosperous?"
+<end speech t=0344.000s>
+
+<begin speech t=0344.000s>
+content: "What does it feel like to be content?"
+<end speech t=0348.000s>
+
+<begin speech t=0348.000s>
+content: "What does it feel like to be well?"
+<end speech t=0351.000s>
+
+<begin speech t=0351.000s>
+content: "You have to start retraining your subconscious mind."
+<end speech t=0355.000s>
+
+<begin speech t=0355.000s>
+content: "And your subconscious mind responds to what it is"
+<end speech t=0360.000s>
+
+<begin speech t=0360.000s>
+content: "that you suggest to it."
+<end speech t=0363.000s>
+
+<begin speech t=0363.000s>
+content: "Now the intriguing thing about your subconscious mind,"
+<end speech t=0365.000s>
+
+<begin speech t=0365.000s>
+content: "your habitual mind, is that it can't make a distinction"
+<end speech t=0370.000s>
+
+<begin speech t=0370.000s>
+content: "between what it is that you are feeling"
+<end speech t=0374.000s>
+
+<begin speech t=0374.000s>
+content: "as a result of what you have placed into your imagination"
+<end speech t=0377.000s>
+
+<begin speech t=0377.000s>
+content: "and assume the feeling of it"
+<end speech t=0379.000s>
+
+<begin speech t=0379.000s>
+content: "and what you are experiencing every day in your life."
+<end speech t=0384.000s>
+
+<begin speech t=0384.000s>
+content: "Your feelings create the destiny that you want."
+<end speech t=0389.000s>
+
+<begin speech t=0389.000s>
+content: "If this assumption is persisted in until it becomes your dominant feeling,"
+<end speech t=0394.000s>
+
+<begin speech t=0394.000s>
+content: "the attainment of your ideal is absolutely inevitable."
+<end speech t=0399.000s>
+
+<begin speech t=0399.000s>
+content: "Use this."
+<end speech t=0400.000s>
+
+<begin speech t=0400.000s>
+content: "Don't allow anybody else's opinions."
+<end speech t=0403.000s>
+
+<begin speech t=0403.000s>
+content: "Don't allow what it says on the internet."
+<end speech t=0405.000s>
+
+<begin speech t=0405.000s>
+content: "Don't allow the research."
+<end speech t=0407.000s>
+
+<begin speech t=0407.000s>
+content: "Don't allow what anybody out there tells you is possible"
+<end speech t=0410.000s>
+
+<begin speech t=0410.000s>
+content: "or not possible for you."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "Your subconscious mind is most comfortable when you are unconscious."
+<end speech t=0418.000s>
+
+<begin speech t=0418.000s>
+content: "You are unconscious when you are in your sleep state."
+<end speech t=0423.000s>
+
+<begin speech t=0423.000s>
+content: "And in your sleep state, your subconscious mind is busy at work."
+<end speech t=0429.000s>
+
+<begin speech t=0429.000s>
+content: "And it's so important, these, I call them the last five minutes of your day."
+<end speech t=0436.000s>
+
+<begin speech t=0436.000s>
+content: "So you get into bed every day, you get into bed,"
+<end speech t=0441.000s>
+
+<begin speech t=0441.000s>
+content: "you get ready to go to sleep."
+<end speech t=0444.000s>
+
+<begin speech t=0444.000s>
+content: "And you are now about to, you're in that state between being awake"
+<end speech t=0449.000s>
+
+<begin speech t=0449.000s>
+content: "and being asleep where you're getting drowsy."
+<end speech t=0453.000s>
+
+<begin speech t=0453.000s>
+content: "And you are going to marinate for the next eight hours"
+<end speech t=0460.000s>
+
+<begin speech t=0460.000s>
+content: "in your unconscious subconscious mind."
+<end speech t=0463.000s>
+
+<begin speech t=0463.000s>
+content: "You're preparing your marinate."
+<end speech t=0465.000s>
+
+<begin speech t=0465.000s>
+content: "And the question is, how do you want to prepare yourself"
+<end speech t=0472.000s>
+
+<begin speech t=0472.000s>
+content: "for having your instructions sealed?"
+<end speech t=0477.000s>
+
+<begin speech t=0477.000s>
+content: "Your ears are open and your instructions are sealed."
+<end speech t=0482.000s>
+
+<begin speech t=0482.000s>
+content: "So most people use the last five minutes of their day"
+<end speech t=0489.000s>
+
+<begin speech t=0489.000s>
+content: "as they're about to enter into sleep to review all of the things that they don't like."
+<end speech t=0497.000s>
+
+<begin speech t=0497.000s>
+content: "And all of the things that didn't work."
+<end speech t=0499.000s>
+
+<begin speech t=0499.000s>
+content: "And all of the people that hurt their feelings."
+<end speech t=0503.000s>
+
+<begin speech t=0503.000s>
+content: "This is the time when you fill your mind with all of this stuff."
+<end speech t=0509.000s>
+
+<begin speech t=0509.000s>
+content: "And then you go off into sleep and he opens your ears and seals your instructions"
+<end speech t=0519.000s>
+
+<begin speech t=0519.000s>
+content: "while you're slumbering."
+<end speech t=0521.000s>
+
+<begin speech t=0521.000s>
+content: "That's right out of the book of Joe."
+<end speech t=0523.000s>
+
+<begin speech t=0523.000s>
+content: "The feeling, which comes in response to the question,"
+<end speech t=0527.000s>
+
+<begin speech t=0527.000s>
+content: "how would I feel were my wish realized?"
+<end speech t=0532.000s>
+
+<begin speech t=0532.000s>
+content: "Is the feeling which to monopolize and mobilize your attention as you relax into sleep?"
+<end speech t=0540.000s>
+
+<begin speech t=0540.000s>
+content: "How would I feel were what it is that I would like to attract and create?"
+<end speech t=0545.000s>
+
+<begin speech t=0545.000s>
+content: "And I don't care what it is, whether it's about the condition of your body,"
+<end speech t=0549.000s>
+
+<begin speech t=0549.000s>
+content: "the disease state that you're in, the fact that you've been overweight,"
+<end speech t=0553.000s>
+
+<begin speech t=0553.000s>
+content: "ignore what your senses tell you, ignore what you see on the scale,"
+<end speech t=0558.000s>
+
+<begin speech t=0558.000s>
+content: "ignore all of that and say, I am sober, I am healthy, I am well-being, I am content,"
+<end speech t=0566.000s>
+
+<begin speech t=0566.000s>
+content: "I am happy, I am perfect health."
+<end speech t=0568.000s>
+
+<begin speech t=0568.000s>
+content: "Because ultimately, that's how you will attract it."
+<end speech t=0572.000s>
+
+<begin speech t=0572.000s>
+content: "You have to be able to see the wish fulfilled already in advance"
+<end speech t=0578.000s>
+
+<begin speech t=0578.000s>
+content: "and call those things which do not yet exist as though they do."
+<end speech t=0583.000s>
+
+<begin speech t=0586.000s>
+content: "Keep this in mind when people say to me and they say it to me all the time,"
+<end speech t=0590.000s>
+
+<begin speech t=0590.000s>
+content: "what if I do everything that you say and it doesn't work?"
+<end speech t=0595.000s>
+
+<begin speech t=0595.000s>
+content: "If it doesn't feel natural, if it doesn't feel natural, it isn't going to work."
+<end speech t=0601.000s>

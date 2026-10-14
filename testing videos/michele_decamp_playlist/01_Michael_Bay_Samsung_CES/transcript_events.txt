@@ -1,0 +1,87 @@
+<begin speech t=0000.000s>
+content: "Ladies and gentlemen, director and producer Michael Bay."
+<end speech t=0003.000s>
+
+<begin speech t=0003.000s>
+content: "Good afternoon, Michael."
+<end speech t=0011.000s>
+
+<begin speech t=0011.000s>
+content: "How is everyone today?"
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "My job as a director is I get to dream for a living."
+<end speech t=0019.000s>
+
+<begin speech t=0019.000s>
+content: "Michael, you're known for such unbelievable action."
+<end speech t=0024.000s>
+
+<begin speech t=0024.000s>
+content: "What inspires you?"
+<end speech t=0025.000s>
+
+<begin speech t=0025.000s>
+content: "How do you come up with these unbelievable ideas?"
+<end speech t=0027.000s>
+
+<begin speech t=0027.000s>
+content: "I create visual worlds that are so beyond everyone's normal life experiences."
+<end speech t=0032.000s>
+
+<begin speech t=0032.000s>
+content: "Hollywood is a place that creates a viewer escape."
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "And what I try to do is as a director, I try to..."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "The type is all off, sorry, but I'll just wing this."
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "Tell us what you think."
+<end speech t=0051.000s>
+
+<begin speech t=0051.000s>
+content: "Yeah, we'll wing it right now."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "I try to take people on an emotional ride."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "And..."
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "The curve?"
+<end speech t=0064.000s>
+
+<begin speech t=0064.000s>
+content: "How do you think it's going to impact how viewers experience your movies?"
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "Excuse me, I'm sorry."
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "I'm sorry."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "Okay."
+<end speech t=0074.000s>
+
+<begin speech t=0074.000s>
+content: "Ladies and gentlemen, let's thank Michael Bay for joining us."
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "Thank you."
+<end speech t=0080.000s>

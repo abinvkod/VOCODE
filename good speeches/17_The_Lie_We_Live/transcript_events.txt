@@ -1,0 +1,567 @@
+<begin speech t=0000.000s>
+content: "At this moment you could be anywhere doing anything."
+<end speech t=0004.000s>
+
+<begin speech t=0004.000s>
+content: "Instead you sit alone before a screen."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "So what's stopping us from doing what we want, being where we want to be?"
+<end speech t=0011.000s>
+
+<begin speech t=0011.000s>
+content: "Each day we wake up in the same room and follow the same path to live the same days yesterday."
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "Yet at one time each day was a new adventure."
+<end speech t=0019.000s>
+
+<begin speech t=0019.000s>
+content: "Along the way something changed."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "Before our days were timeless, now our days are scheduled."
+<end speech t=0025.000s>
+
+<begin speech t=0025.000s>
+content: "Is this what it means to be grown up?"
+<end speech t=0027.000s>
+
+<begin speech t=0027.000s>
+content: "To be free?"
+<end speech t=0029.000s>
+
+<begin speech t=0030.000s>
+content: "But are we really free?"
+<end speech t=0032.000s>
+
+<begin speech t=0032.000s>
+content: "Food."
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "Water."
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "Land."
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "At the very elements we need to survive are owned by corporations."
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "There's no food for us on trees."
+<end speech t=0040.000s>
+
+<begin speech t=0040.000s>
+content: "No fresh water and streams."
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "No land to build a home."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "If you try and take what the earth provides you'll be locked away."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "So we obey their rules."
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "We discover the world through a textbook."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "For years we sit and regurgitate what we're told."
+<end speech t=0055.000s>
+
+<begin speech t=0055.000s>
+content: "Test it and grade it, like subjects in a lab."
+<end speech t=0058.000s>
+
+<begin speech t=0058.000s>
+content: "Raise not to make a difference in this world."
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "Raise to be no different."
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "Smart enough to do our job, but not to question why we do it."
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "So we work and work, left with no time to live the life you work for."
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "Until a day comes when we're too old to do our job."
+<end speech t=0073.000s>
+
+<begin speech t=0073.000s>
+content: "It is here we're left to die."
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "Our children take our place in the game."
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "To us our path is unique, but together we are nothing more than fuel."
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "The fuel that powers the elite."
+<end speech t=0084.000s>
+
+<begin speech t=0084.000s>
+content: "The elite who hide behind the logos of corporations."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "This is their world and their most valuable resources known in the ground."
+<end speech t=0091.000s>
+
+<begin speech t=0091.000s>
+content: "It is us."
+<end speech t=0093.000s>
+
+<begin speech t=0093.000s>
+content: "We build their cities."
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "We run their machines."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "We fight their wars."
+<end speech t=0098.000s>
+
+<begin speech t=0098.000s>
+content: "After all money isn't what drives them."
+<end speech t=0100.000s>
+
+<begin speech t=0100.000s>
+content: "It's power."
+<end speech t=0101.000s>
+
+<begin speech t=0101.000s>
+content: "Money is simply the tool they use to control us."
+<end speech t=0104.000s>
+
+<begin speech t=0104.000s>
+content: "Workless pieces of paper we depend on the fetus."
+<end speech t=0107.000s>
+
+<begin speech t=0107.000s>
+content: "Move us."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "Entertain us."
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "They gave us money."
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "And in return we gave them the world."
+<end speech t=0114.000s>
+
+<begin speech t=0115.000s>
+content: "Where there are trees that cleaned our air are now factories that poisoned it."
+<end speech t=0119.000s>
+
+<begin speech t=0119.000s>
+content: "Where there was water to drink is toxic waste that stinks."
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "Where animals ran free, our factory farms were they are born and slaughtered endlessly for our satisfaction."
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "Over a billion people are starving, despite us having enough food for everybody."
+<end speech t=0133.000s>
+
+<begin speech t=0133.000s>
+content: "Where does it all go?"
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "70% of the grain we grow is fed to the animals we eat for dinner."
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "Why help the starving?"
+<end speech t=0139.000s>
+
+<begin speech t=0139.000s>
+content: "You can't profit off them."
+<end speech t=0141.000s>
+
+<begin speech t=0141.000s>
+content: "We are like a plague sweep in the air, tearing apart the very environment that allows us to live."
+<end speech t=0146.000s>
+
+<begin speech t=0146.000s>
+content: "We see everything as something to be sold, as an object to be owned."
+<end speech t=0150.000s>
+
+<begin speech t=0150.000s>
+content: "But what happens when we pollute the last river, poisoned the last breath of air, have no oil for the trucks that bring us our food?"
+<end speech t=0157.000s>
+
+<begin speech t=0157.000s>
+content: "When will we realize money can't be even, that it has no value?"
+<end speech t=0161.000s>
+
+<begin speech t=0161.000s>
+content: "We aren't destroying the planet, we're destroying all life on it."
+<end speech t=0166.000s>
+
+<begin speech t=0166.000s>
+content: "Every year thousands of species go extinct and time is running out before we are next."
+<end speech t=0171.000s>
+
+<begin speech t=0171.000s>
+content: "If you live in America, there's a 41% chance you can get cancer."
+<end speech t=0175.000s>
+
+<begin speech t=0175.000s>
+content: "Heart disease will kill one out of three Americans."
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "We take prescription drugs to deal with these problems, but medical care is the third living hazard death behind cancer and heart disease."
+<end speech t=0185.000s>
+
+<begin speech t=0185.000s>
+content: "We are told everything can be solved by throwing money at scientists so they can discover a pill to make a promise go away."
+<end speech t=0191.000s>
+
+<begin speech t=0191.000s>
+content: "But the drug companies and cancer societies rely on our suffering to make a profit."
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "We think we're running for a cure, but really we're running away from the cause."
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "Our body is a product of what we consume, and the food we eat is designed purely for profit."
+<end speech t=0204.000s>
+
+<begin speech t=0204.000s>
+content: "We fill ourselves with toxic chemicals, bodies of animals infested with drugs and diseases."
+<end speech t=0209.000s>
+
+<begin speech t=0209.000s>
+content: "But we don't see this."
+<end speech t=0211.000s>
+
+<begin speech t=0211.000s>
+content: "A small group of corporations that own the media don't want us to."
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "Surrounding us with a fantasy, we're told this reality."
+<end speech t=0218.000s>
+
+<begin speech t=0218.000s>
+content: "It's funny to think humans once thought the earth was the center of the universe."
+<end speech t=0223.000s>
+
+<begin speech t=0223.000s>
+content: "But then again, now we see ourselves as the center of the planet."
+<end speech t=0227.000s>
+
+<begin speech t=0227.000s>
+content: "We point to our technology and say we're the smartest."
+<end speech t=0230.000s>
+
+<begin speech t=0230.000s>
+content: "But to our computers, cars and factories really illustrate how intelligent we are?"
+<end speech t=0236.000s>
+
+<begin speech t=0236.000s>
+content: "Or do they show how lazy we become?"
+<end speech t=0238.000s>
+
+<begin speech t=0238.000s>
+content: "We put this civilized mask on, but when you strip that away, what are we?"
+<end speech t=0244.000s>
+
+<begin speech t=0244.000s>
+content: "How quickly we forget, only within the past hundred years, to be allowed woman to vote, allow blocks to live as equals."
+<end speech t=0251.000s>
+
+<begin speech t=0251.000s>
+content: "We act as if we're all knowing beings, yet there's much we fail to see."
+<end speech t=0255.000s>
+
+<begin speech t=0255.000s>
+content: "We walk down the street ignoring the little things."
+<end speech t=0258.000s>
+
+<begin speech t=0258.000s>
+content: "The eyes who stare, the stories they share, seeing everything is a background to me."
+<end speech t=0264.000s>
+
+<begin speech t=0264.000s>
+content: "Perhaps we fear we're not alone."
+<end speech t=0266.000s>
+
+<begin speech t=0266.000s>
+content: "That we're a part of a much bigger picture."
+<end speech t=0269.000s>
+
+<begin speech t=0269.000s>
+content: "But we fail to make the connection."
+<end speech t=0272.000s>
+
+<begin speech t=0272.000s>
+content: "We're okay killing pigs, cows, chickens, strangers from foreign lamps."
+<end speech t=0277.000s>
+
+<begin speech t=0277.000s>
+content: "But not our neighbors, not our dogs, our cats, those we have come to love and understand."
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "We call other creatures stupid, that we point to them to justify our actions."
+<end speech t=0287.000s>
+
+<begin speech t=0287.000s>
+content: "But just killing simply because we can, because we always have make it right,"
+<end speech t=0292.000s>
+
+<begin speech t=0292.000s>
+content: "or does it show how little we've learned that we continue to act out of primal aggression, rather than thought and compassion."
+<end speech t=0299.000s>
+
+<begin speech t=0301.000s>
+content: "One day the sensation we call life will leave us."
+<end speech t=0304.000s>
+
+<begin speech t=0304.000s>
+content: "Our bodies were wrought, our valuables recollected."
+<end speech t=0307.000s>
+
+<begin speech t=0307.000s>
+content: "Yesterday's actions will have remained."
+<end speech t=0309.000s>
+
+<begin speech t=0309.000s>
+content: "Death constantly surrounds us, still it seems so distant from our everyday reality."
+<end speech t=0315.000s>
+
+<begin speech t=0315.000s>
+content: "We live in a world on the verge of collapse."
+<end speech t=0318.000s>
+
+<begin speech t=0318.000s>
+content: "The wars of tomorrow will happen at winners."
+<end speech t=0321.000s>
+
+<begin speech t=0321.000s>
+content: "Her violence will never be the answer."
+<end speech t=0324.000s>
+
+<begin speech t=0324.000s>
+content: "It will destroy every possible solution."
+<end speech t=0327.000s>
+
+<begin speech t=0327.000s>
+content: "If we all look at our innermost desire, we will see our dreams are not so different."
+<end speech t=0331.000s>
+
+<begin speech t=0331.000s>
+content: "We share a common goal, happiness."
+<end speech t=0334.000s>
+
+<begin speech t=0334.000s>
+content: "We tear the world apart looking for joy, without ever looking within ourselves."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "Many of the happiest people are those who own the least."
+<end speech t=0342.000s>
+
+<begin speech t=0342.000s>
+content: "But are we really so happy with our iPhones, our bake houses, our fancy cars?"
+<end speech t=0347.000s>
+
+<begin speech t=0350.000s>
+content: "We've become disconnected, idolizing people we've never met."
+<end speech t=0355.000s>
+
+<begin speech t=0355.000s>
+content: "We witness the extraordinary on screens, but ordinary everywhere else."
+<end speech t=0360.000s>
+
+<begin speech t=0361.000s>
+content: "We wait for someone to bring change, without ever thinking of changing ourselves."
+<end speech t=0365.000s>
+
+<begin speech t=0365.000s>
+content: "Presidential elections might as well be a coin toss."
+<end speech t=0368.000s>
+
+<begin speech t=0368.000s>
+content: "It's two sides of the same coin."
+<end speech t=0370.000s>
+
+<begin speech t=0370.000s>
+content: "We choose which face we want, and the illusion of choice, of change is created."
+<end speech t=0375.000s>
+
+<begin speech t=0375.000s>
+content: "But the world remains the same."
+<end speech t=0377.000s>
+
+<begin speech t=0377.000s>
+content: "We fail to realize the politicians don't serve us."
+<end speech t=0380.000s>
+
+<begin speech t=0380.000s>
+content: "They serve those who fund them in the power."
+<end speech t=0383.000s>
+
+<begin speech t=0383.000s>
+content: "We need leaders, not politicians, but in this world a follower."
+<end speech t=0387.000s>
+
+<begin speech t=0387.000s>
+content: "We have forgotten to lead ourselves."
+<end speech t=0390.000s>
+
+<begin speech t=0390.000s>
+content: "Stop waiting for change, and be the change you want to see."
+<end speech t=0393.000s>
+
+<begin speech t=0393.000s>
+content: "We didn't get to this point by sitting on our asses."
+<end speech t=0396.000s>
+
+<begin speech t=0396.000s>
+content: "The human race survived not because we are the fastest, but the strongest."
+<end speech t=0400.000s>
+
+<begin speech t=0400.000s>
+content: "But because we work together."
+<end speech t=0402.000s>
+
+<begin speech t=0402.000s>
+content: "We have mastered the act of killing."
+<end speech t=0404.000s>
+
+<begin speech t=0404.000s>
+content: "Now let's master the joy of living."
+<end speech t=0407.000s>
+
+<begin speech t=0411.000s>
+content: "This isn't about saving the planet."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "The planet will be here, whether we are or not."
+<end speech t=0416.000s>
+
+<begin speech t=0416.000s>
+content: "Earth has been around for billions of years."
+<end speech t=0418.000s>
+
+<begin speech t=0418.000s>
+content: "Each of us will be lucky to last 80."
+<end speech t=0420.000s>
+
+<begin speech t=0420.000s>
+content: "We are a flash in time, but our impact is forever."
+<end speech t=0424.000s>
+
+<begin speech t=0426.000s>
+content: "I often wish I lived in an age before computers."
+<end speech t=0428.000s>
+
+<begin speech t=0428.000s>
+content: "But we didn't have screens to distract us."
+<end speech t=0431.000s>
+
+<begin speech t=0431.000s>
+content: "But I realized there's one reason why this is the only time I want to be alive."
+<end speech t=0435.000s>
+
+<begin speech t=0435.000s>
+content: "Because here today we have an opportunity we never had before."
+<end speech t=0438.000s>
+
+<begin speech t=0438.000s>
+content: "The Internet gives us the power to share a message and unite millions around the world."
+<end speech t=0443.000s>
+
+<begin speech t=0443.000s>
+content: "While we still can, we must use our screens to bring us closer together"
+<end speech t=0447.000s>
+
+<begin speech t=0447.000s>
+content: "rather than farther apart."
+<end speech t=0449.000s>
+
+<begin speech t=0449.000s>
+content: "For better or worse, our generation will determine the future of life on this planet."
+<end speech t=0453.000s>
+
+<begin speech t=0453.000s>
+content: "We can either continue to serve this system of destruction until no memory of our existence remains."
+<end speech t=0459.000s>
+
+<begin speech t=0459.000s>
+content: "Or we can wake up, realize we aren't evolving upwards, or rather falling down."
+<end speech t=0464.000s>
+
+<begin speech t=0464.000s>
+content: "We just have screens in our faces so we don't see what we're heading."
+<end speech t=0467.000s>
+
+<begin speech t=0469.000s>
+content: "This present moment is what every step, every breath, and every death has led to."
+<end speech t=0474.000s>
+
+<begin speech t=0475.000s>
+content: "We are the faces of all who came before us."
+<end speech t=0477.000s>
+
+<begin speech t=0478.000s>
+content: "Now it is our turn."
+<end speech t=0479.000s>
+
+<begin speech t=0479.000s>
+content: "You can choose to carve your own path, or follow the road countless others have already taken."
+<end speech t=0484.000s>
+
+<begin speech t=0485.000s>
+content: "Life is not a movie. The script isn't already written."
+<end speech t=0488.000s>
+
+<begin speech t=0489.000s>
+content: "We are the writers. This is your story."
+<end speech t=0492.000s>
+
+<begin speech t=0493.000s>
+content: "Their story."
+<end speech t=0494.000s>
+
+<begin speech t=0495.000s>
+content: "Our story."
+<end speech t=0497.000s>

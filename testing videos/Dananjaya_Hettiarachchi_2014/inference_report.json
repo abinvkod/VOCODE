@@ -1,0 +1,38 @@
+{
+  "title": "Dananjaya Hettiarachchi - World Champion of Public Speaking 2014 - Full Speech",
+  "input_audio": "testing videos/Dananjaya Hettiarachchi - World Champion of Public Speaking 2014 - Full Speech.wav",
+  "clean_audio": "testing videos/Dananjaya_Hettiarachchi_2014/preprocessed_clean.wav",
+  "transcript_preview": "Denajeja Hirirachi, I see something. I see something. Denajeja Hirirachi. You and I are not very different from this flower. Just like this flower is unique, you are unique. All of us have something special that makes us as beautiful. Do you know what makes you special? Now the answer to that can be...",
+  "grades": {
+    "strict_leniency_0": 10.0,
+    "moderate_leniency_50": 10.0,
+    "lenient_leniency_100": 10.0
+  },
+  "performance_band": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_count": 0,
+  "deductions": [],
+  "disfluencies": {
+    "total_fillers": 8,
+    "fillers_per_minute": 1.03,
+    "word_repetitions": 0
+  },
+  "metrics_summary": {
+    "duration_sec": 465.94,
+    "f0_mean_hz": 194.1,
+    "f0_semitones": 22.47,
+    "f0_velocity_hz_per_sec": 611.86,
+    "articulation_rate_sps": 5.82,
+    "pause_ratio": 0.198,
+    "hesitation_pause_count": 14,
+    "energy_dynamic_range_db": 52.91,
+    "papr_crest_factor": 34.16,
+    "spectral_flux": 4.855
+  }
+}

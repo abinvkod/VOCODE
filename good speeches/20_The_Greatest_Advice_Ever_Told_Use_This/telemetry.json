@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/20_The_Greatest_Advice_Ever_Told_Use_This/audio.mp3",
+  "clean_file": "good speeches/20_The_Greatest_Advice_Ever_Told_Use_This/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 721.119,
+  "clean_duration_sec": 720.292,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.827,
+  "measured_lufs_raw": -20.13,
+  "target_lufs": -20.0,
+  "gain_applied_db": 0.13,
+  "snr_raw_db": 20.27,
+  "snr_clean_db": 25.68,
+  "snr_improvement_db": 5.41,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1588,
+    "utterance_count": 226
+  },
+  "status": "READY_FOR_EVALUATION"
+}

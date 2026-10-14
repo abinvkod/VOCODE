@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/26_A_Reason_To_Stop_Worrying_Watch_This_Whenever_Youre_Stressed/audio.mp3",
+  "clean_file": "good speeches/26_A_Reason_To_Stop_Worrying_Watch_This_Whenever_Youre_Stressed/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 258.194,
+  "clean_duration_sec": 257.222,
+  "lead_trim_sec": 0.16,
+  "tail_trim_sec": 0.812,
+  "measured_lufs_raw": -20.4,
+  "target_lufs": -20.0,
+  "gain_applied_db": -1.68,
+  "snr_raw_db": 19.5,
+  "snr_clean_db": 20.97,
+  "snr_improvement_db": 1.47,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 840,
+    "utterance_count": 47
+  },
+  "status": "READY_FOR_EVALUATION"
+}

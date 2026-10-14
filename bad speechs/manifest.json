@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01_Bad_Public_Speaking_Example_1",
+    "title": "Bad Public Speaking Example 1 (Emily Marketing Presentation)",
+    "url": "https://www.youtube.com/watch?v=YivQYeI0vys",
+    "source_playlist": "Bad speeches (Stephertan)",
+    "file": "bad speechs/01_Bad_Public_Speaking_Example_1/raw_audio.wav"
+  },
+  {
+    "id": "02_Bad_Public_Speaking_Example_3",
+    "title": "Bad Public Speaking Example 3 (Informative Speech Pitfalls)",
+    "url": "https://www.youtube.com/watch?v=ck5vVU8qQWA",
+    "source_playlist": "Bad speeches (Stephertan)",
+    "file": "bad speechs/02_Bad_Public_Speaking_Example_3/raw_audio.wav"
+  },
+  {
+    "id": "03_Bad_Public_Speaking_Example_4",
+    "title": "Bad Public Speaking Example 4 (Disfluent Delivery)",
+    "url": "https://www.youtube.com/watch?v=kql-pvnid0s",
+    "source_playlist": "Bad speeches (Stephertan)",
+    "file": "bad speechs/03_Bad_Public_Speaking_Example_4/raw_audio.wav"
+  },
+  {
+    "id": "04_Miss_California_Flubs_Answer",
+    "title": "Miss California Flubs Her Answer About Inequality at Miss USA 2016",
+    "url": "https://www.youtube.com/watch?v=kbMEUVte5FE",
+    "source_playlist": "Bad Examples of Speeches (Kim Rockley)",
+    "file": "bad speechs/04_Miss_California_Flubs_Answer/raw_audio.wav"
+  },
+  {
+    "id": "05_Mariahs_Bizarre_Acceptance_Speech",
+    "title": "Mariah's Bizarre Acceptance Speech",
+    "url": "https://www.youtube.com/watch?v=TZvh4QS3q7k",
+    "source_playlist": "Bad Examples of Speeches (Kim Rockley)",
+    "file": "bad speechs/05_Mariahs_Bizarre_Acceptance_Speech/raw_audio.wav"
+  },
+  {
+    "id": "06_Bad_Public_Speaking_Example_2",
+    "title": "Bad Public Speaking Example 2 (Monotone & Lack of Eye Contact)",
+    "url": "https://www.youtube.com/watch?v=1ZiYMrjFFc4",
+    "source_playlist": "Bad speeches (Stephertan)",
+    "file": "bad speechs/06_Bad_Public_Speaking_Example_2/raw_audio.wav"
+  }
+]

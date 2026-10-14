@@ -1,0 +1,1195 @@
+<begin speech t=0000.000s>
+content: "We've been programmed with a belief that if you have a good life and you die, you get"
+<end speech t=0015.680s>
+
+<begin speech t=0015.680s>
+content: "a chance to go to heaven, which is what?"
+<end speech t=0019.000s>
+
+<begin speech t=0019.000s>
+content: "Heaven is anybody's individual thing."
+<end speech t=0021.200s>
+
+<begin speech t=0021.200s>
+content: "I talk to you."
+<end speech t=0022.200s>
+
+<begin speech t=0022.200s>
+content: "You give me your definition, heaven."
+<end speech t=0023.840s>
+
+<begin speech t=0023.840s>
+content: "You listen to my definition."
+<end speech t=0024.840s>
+
+<begin speech t=0024.840s>
+content: "You listen to somebody else."
+<end speech t=0025.840s>
+
+<begin speech t=0025.840s>
+content: "They're all different."
+<end speech t=0026.840s>
+
+<begin speech t=0026.840s>
+content: "We all have creative vision."
+<end speech t=0028.880s>
+
+<begin speech t=0028.880s>
+content: "So heaven is a creative place."
+<end speech t=0030.880s>
+
+<begin speech t=0030.880s>
+content: "And I go, so what's relevant?"
+<end speech t=0032.480s>
+
+<begin speech t=0032.480s>
+content: "I go, once I started to understand this stuff, first of all, I never believed in spirituality,"
+<end speech t=0037.400s>
+
+<begin speech t=0037.400s>
+content: "but the science revealed using quantum physics and epigenetics, that we are a field, an"
+<end speech t=0043.240s>
+
+<begin speech t=0043.240s>
+content: "energy field playing through this body."
+<end speech t=0046.080s>
+
+<begin speech t=0046.080s>
+content: "What I learned through this is, first of all, there's no such thing as death of who we are."
+<end speech t=0051.600s>
+
+<begin speech t=0051.600s>
+content: "There's death of the body."
+<end speech t=0053.340s>
+
+<begin speech t=0053.340s>
+content: "But the body is like a virtual reality soup that an energy field that is different for"
+<end speech t=0058.160s>
+
+<begin speech t=0058.160s>
+content: "each one of us is operating in this body."
+<end speech t=0061.880s>
+
+<begin speech t=0061.880s>
+content: "My self-receptors on my cells, which distinguish me as being different from you, respond to"
+<end speech t=0068.440s>
+
+<begin speech t=0068.440s>
+content: "a different environmental signal than your self-receptor."
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "So each of us is receiving like a broadcast that is running this biology."
+<end speech t=0075.680s>
+
+<begin speech t=0075.680s>
+content: "Consciousness is running the biology."
+<end speech t=0077.800s>
+
+<begin speech t=0077.800s>
+content: "Consciousness isn't physical."
+<end speech t=0079.160s>
+
+<begin speech t=0079.160s>
+content: "It's an energy."
+<end speech t=0080.160s>
+
+<begin speech t=0080.160s>
+content: "And I go, why is it relevant?"
+<end speech t=0081.960s>
+
+<begin speech t=0081.960s>
+content: "Because the answer was this."
+<end speech t=0083.680s>
+
+<begin speech t=0083.680s>
+content: "The belief that if you do really well and you persevere and when you die, you're going"
+<end speech t=0089.400s>
+
+<begin speech t=0089.400s>
+content: "to go to this place called heaven."
+<end speech t=0091.040s>
+
+<begin speech t=0091.040s>
+content: "I go, consider this, that we were born into heaven, that we came here to create."
+<end speech t=0099.440s>
+
+<begin speech t=0099.440s>
+content: "That's what we're doing."
+<end speech t=0100.960s>
+
+<begin speech t=0100.960s>
+content: "We're creating."
+<end speech t=0101.960s>
+
+<begin speech t=0101.960s>
+content: "And I say, when we're creating it right, heaven on earth is here."
+<end speech t=0107.360s>
+
+<begin speech t=0107.360s>
+content: "When we're creating it wrong, struggle is here."
+<end speech t=0111.600s>
+
+<begin speech t=0111.600s>
+content: "And all of a sudden I say, oh my God, don't wait till you die that you're going to go"
+<end speech t=0115.600s>
+
+<begin speech t=0115.600s>
+content: "to heaven."
+<end speech t=0116.600s>
+
+<begin speech t=0116.600s>
+content: "You're, this is it."
+<end speech t=0118.640s>
+
+<begin speech t=0118.640s>
+content: "This is where you came to create."
+<end speech t=0119.640s>
+
+<begin speech t=0119.640s>
+content: "What do you want to create?"
+<end speech t=0121.200s>
+
+<begin speech t=0121.200s>
+content: "Love?"
+<end speech t=0122.200s>
+
+<begin speech t=0122.200s>
+content: "Coronavirus?"
+<end speech t=0123.200s>
+
+<begin speech t=0123.200s>
+content: "You could create a damn thing you want."
+<end speech t=0125.120s>
+
+<begin speech t=0125.120s>
+content: "This is creation plays."
+<end speech t=0127.440s>
+
+<begin speech t=0127.440s>
+content: "But if you don't know that your creations are being controlled, then we become a victim"
+<end speech t=0132.600s>
+
+<begin speech t=0132.600s>
+content: "of a world out of control."
+<end speech t=0134.680s>
+
+<begin speech t=0134.680s>
+content: "And yet we were the creators."
+<end speech t=0136.520s>
+
+<begin speech t=0136.520s>
+content: "We gave in to other people's beliefs."
+<end speech t=0140.760s>
+
+<begin speech t=0140.760s>
+content: "And then we now are creating, not with our wishes and desires, we're creating with the"
+<end speech t=0146.120s>
+
+<begin speech t=0146.120s>
+content: "program."
+<end speech t=0147.960s>
+
+<begin speech t=0147.960s>
+content: "Where's the program taking us right now?"
+<end speech t=0149.960s>
+
+<begin speech t=0149.960s>
+content: "And the answer is fear, shutdown, loss of community, breakdown of the system."
+<end speech t=0155.840s>
+
+<begin speech t=0155.840s>
+content: "I go, we can learn or not."
+<end speech t=0161.320s>
+
+<begin speech t=0161.320s>
+content: "That's it."
+<end speech t=0162.320s>
+
+<begin speech t=0162.320s>
+content: "And this is a learning moment."
+<end speech t=0165.440s>
+
+<begin speech t=0165.440s>
+content: "Take your power back."
+<end speech t=0167.320s>
+
+<begin speech t=0167.320s>
+content: "You are beyond power wise beyond any virus that ever existed."
+<end speech t=0173.240s>
+
+<begin speech t=0173.240s>
+content: "You are very powerful."
+<end speech t=0180.600s>
+
+<begin speech t=0180.600s>
+content: "Every human, and this is a fact."
+<end speech t=0183.000s>
+
+<begin speech t=0183.000s>
+content: "Every human for seven years is a download."
+<end speech t=0186.080s>
+
+<begin speech t=0186.080s>
+content: "A hypnosis."
+<end speech t=0187.080s>
+
+<begin speech t=0187.080s>
+content: "The brain of a child under seven is in a lower vibrational frequency."
+<end speech t=0190.920s>
+
+<begin speech t=0190.920s>
+content: "We need to put wires on a person's head."
+<end speech t=0192.800s>
+
+<begin speech t=0192.800s>
+content: "You read electroencephalograph, reading brain activity."
+<end speech t=0196.160s>
+
+<begin speech t=0196.160s>
+content: "A child below seven has a lower vibration than consciousness."
+<end speech t=0200.120s>
+
+<begin speech t=0200.120s>
+content: "It's called theta."
+<end speech t=0201.760s>
+
+<begin speech t=0201.760s>
+content: "Theta is imagination."
+<end speech t=0202.760s>
+
+<begin speech t=0202.760s>
+content: "Oh, that's how kids play a tea party with mud pies."
+<end speech t=0207.360s>
+
+<begin speech t=0207.360s>
+content: "But to them, it's a real thing."
+<end speech t=0208.840s>
+
+<begin speech t=0208.840s>
+content: "A kid rides a broom."
+<end speech t=0210.080s>
+
+<begin speech t=0210.080s>
+content: "It's a horse."
+<end speech t=0211.280s>
+
+<begin speech t=0211.280s>
+content: "It's that's theta, imagination."
+<end speech t=0213.720s>
+
+<begin speech t=0213.720s>
+content: "Theta is also hypnosis."
+<end speech t=0215.600s>
+
+<begin speech t=0215.600s>
+content: "And the idea is this."
+<end speech t=0217.800s>
+
+<begin speech t=0217.800s>
+content: "Before you can become conscious, if you don't have any programs, what are you going to be"
+<end speech t=0221.520s>
+
+<begin speech t=0221.520s>
+content: "conscious of?"
+<end speech t=0223.040s>
+
+<begin speech t=0223.040s>
+content: "So nature makes the first seven years."
+<end speech t=0226.080s>
+
+<begin speech t=0226.080s>
+content: "What kind of programs are required to live on this planet?"
+<end speech t=0228.320s>
+
+<begin speech t=0228.320s>
+content: "I say, how do you get them?"
+<end speech t=0229.720s>
+
+<begin speech t=0229.720s>
+content: "Theta is hypnosis."
+<end speech t=0231.760s>
+
+<begin speech t=0231.760s>
+content: "You just watch your parents, your watch your siblings, and your community, because you"
+<end speech t=0236.000s>
+
+<begin speech t=0236.000s>
+content: "have to learn how many hundred thousand rules think about it."
+<end speech t=0239.680s>
+
+<begin speech t=0239.680s>
+content: "Just to be a functional member of a family and a functional member of a community, they're"
+<end speech t=0243.440s>
+
+<begin speech t=0243.440s>
+content: "rules."
+<end speech t=0244.440s>
+
+<begin speech t=0244.440s>
+content: "I got to teach and invent these rules."
+<end speech t=0245.440s>
+
+<begin speech t=0245.440s>
+content: "I say, you don't have to."
+<end speech t=0247.640s>
+
+<begin speech t=0247.640s>
+content: "First seven years, they just observe it and just download it."
+<end speech t=0250.800s>
+
+<begin speech t=0250.800s>
+content: "Look, this is not new."
+<end speech t=0251.800s>
+
+<begin speech t=0251.800s>
+content: "I mean, there's a famous book, Rich Dad Poor Dad."
+<end speech t=0254.880s>
+
+<begin speech t=0254.880s>
+content: "And basically said you come from a poor family and you could struggle your whole life and"
+<end speech t=0258.160s>
+
+<begin speech t=0258.160s>
+content: "try to get rich, but you're not going to make it."
+<end speech t=0259.760s>
+
+<begin speech t=0259.760s>
+content: "And if you come from a rich family, you could be stupid your whole life and make it."
+<end speech t=0264.120s>
+
+<begin speech t=0264.120s>
+content: "Not because it was thinking, but it was unconscious behavior that was downloaded from rich families"
+<end speech t=0269.440s>
+
+<begin speech t=0269.440s>
+content: "into kids, which is unconscious."
+<end speech t=0272.120s>
+
+<begin speech t=0272.120s>
+content: "So they're making the right moves unconsciously."
+<end speech t=0275.120s>
+
+<begin speech t=0275.120s>
+content: "If they engage their conscious mind, then they look stupid, but it's unconscious."
+<end speech t=0278.920s>
+
+<begin speech t=0278.920s>
+content: "And that's the same thing with poor people."
+<end speech t=0280.880s>
+
+<begin speech t=0280.880s>
+content: "Poor people have beliefs from the family, or you can't make it."
+<end speech t=0284.440s>
+
+<begin speech t=0284.440s>
+content: "Life's a struggle."
+<end speech t=0285.440s>
+
+<begin speech t=0285.440s>
+content: "Things are hard."
+<end speech t=0286.440s>
+
+<begin speech t=0286.440s>
+content: "Who do you think you are?"
+<end speech t=0287.740s>
+
+<begin speech t=0287.740s>
+content: "And if that's the program you get, then 95% of the day you will sabotage yourself."
+<end speech t=0292.640s>
+
+<begin speech t=0292.640s>
+content: "And that's why poor people stay poor and rich people stay rich because of the programming."
+<end speech t=0297.480s>
+
+<begin speech t=0297.480s>
+content: "95% of our life is the fact."
+<end speech t=0301.560s>
+
+<begin speech t=0301.560s>
+content: "Comes from those programs in the subconscious."
+<end speech t=0304.400s>
+
+<begin speech t=0304.400s>
+content: "Every day, only about 5% of their life are you using conscious, which is creative."
+<end speech t=0309.120s>
+
+<begin speech t=0309.120s>
+content: "5%."
+<end speech t=0310.120s>
+
+<begin speech t=0310.120s>
+content: "So your life is being lived, even though you think you're living your life."
+<end speech t=0313.680s>
+
+<begin speech t=0313.680s>
+content: "Exactly."
+<end speech t=0314.680s>
+
+<begin speech t=0314.680s>
+content: "And you don't see it because it's called subconscious, below conscious."
+<end speech t=0317.920s>
+
+<begin speech t=0317.920s>
+content: "And the Jesuits for 400 years, they were both."
+<end speech t=0321.120s>
+
+<begin speech t=0321.120s>
+content: "And people didn't understand."
+<end speech t=0322.200s>
+
+<begin speech t=0322.200s>
+content: "They say, give me a child until it's seven and I will show you the man."
+<end speech t=0326.480s>
+
+<begin speech t=0326.480s>
+content: "They've been saying that for 400 years because they knew seven years was the program period."
+<end speech t=0330.880s>
+
+<begin speech t=0330.880s>
+content: "And 95% of your life after that will be whatever that program is."
+<end speech t=0335.000s>
+
+<begin speech t=0335.000s>
+content: "Your life is a printout of your subconscious behavior."
+<end speech t=0339.560s>
+
+<begin speech t=0339.560s>
+content: "So you don't have to try and think about what happened."
+<end speech t=0342.040s>
+
+<begin speech t=0342.040s>
+content: "I just say, look at your life."
+<end speech t=0344.120s>
+
+<begin speech t=0344.120s>
+content: "The things you like that come into your life come in because you have a program that supports"
+<end speech t=0347.800s>
+
+<begin speech t=0347.800s>
+content: "them."
+<end speech t=0348.800s>
+
+<begin speech t=0348.800s>
+content: "But anything you struggle with, work hard at, put a lot of effort into making it happen."
+<end speech t=0354.080s>
+
+<begin speech t=0354.080s>
+content: "Why you're working so hard."
+<end speech t=0355.880s>
+
+<begin speech t=0355.880s>
+content: "And inevitably, you have a program that doesn't support that conclusion and you're trying"
+<end speech t=0359.680s>
+
+<begin speech t=0359.680s>
+content: "to override the program."
+<end speech t=0361.520s>
+
+<begin speech t=0361.520s>
+content: "So you don't need to do a lot of shrink and psychology stuff."
+<end speech t=0365.240s>
+
+<begin speech t=0365.240s>
+content: "You just look at your life and say, where am I struggling?"
+<end speech t=0367.960s>
+
+<begin speech t=0367.960s>
+content: "Because wherever you're struggling, inevitably it's a program in your subconscious that"
+<end speech t=0372.120s>
+
+<begin speech t=0372.120s>
+content: "does not support that destination you've been looking for."
+<end speech t=0375.360s>
+
+<begin speech t=0375.360s>
+content: "The conscious mind is creative and can learn in any number of ways."
+<end speech t=0379.720s>
+
+<begin speech t=0379.720s>
+content: "Read a self-help book, go to a lecture, listen to this program and conscious mind is going"
+<end speech t=0383.160s>
+
+<begin speech t=0383.160s>
+content: "to get some awareness."
+<end speech t=0384.160s>
+
+<begin speech t=0384.160s>
+content: "And I go, yeah, but subconscious mind doesn't learn that way."
+<end speech t=0387.360s>
+
+<begin speech t=0387.360s>
+content: "I go, right, it doesn't."
+<end speech t=0388.360s>
+
+<begin speech t=0388.360s>
+content: "Self-conscious mind learns in two fundamental ways naturally."
+<end speech t=0392.120s>
+
+<begin speech t=0392.120s>
+content: "Hypnosis, which is the first seven years."
+<end speech t=0395.120s>
+
+<begin speech t=0395.120s>
+content: "And after age seven, how do you put new programs in repetition?"
+<end speech t=0398.880s>
+
+<begin speech t=0398.880s>
+content: "Practice."
+<end speech t=0399.880s>
+
+<begin speech t=0399.880s>
+content: "You want to drive a car?"
+<end speech t=0401.080s>
+
+<begin speech t=0401.080s>
+content: "You didn't learn how by just getting in the seat for the key and you had to practice"
+<end speech t=0404.720s>
+
+<begin speech t=0404.720s>
+content: "driving a car."
+<end speech t=0405.880s>
+
+<begin speech t=0405.880s>
+content: "You want to learn the alphabet."
+<end speech t=0407.560s>
+
+<begin speech t=0407.560s>
+content: "How many times did you go from A to Z?"
+<end speech t=0410.040s>
+
+<begin speech t=0410.040s>
+content: "You know, try to go to it."
+<end speech t=0411.200s>
+
+<begin speech t=0411.200s>
+content: "Is that before you can complete it?"
+<end speech t=0413.160s>
+
+<begin speech t=0413.160s>
+content: "Once you completed it, you didn't have to go back and do it again."
+<end speech t=0416.360s>
+
+<begin speech t=0416.360s>
+content: "So two phases, you want to train the subconscious mind?"
+<end speech t=0420.960s>
+
+<begin speech t=0420.960s>
+content: "Hypnosis?"
+<end speech t=0421.960s>
+
+<begin speech t=0421.960s>
+content: "Repetition."
+<end speech t=0422.960s>
+
+<begin speech t=0422.960s>
+content: "I like the last one because there's a new phrase that's bandied about called fake it"
+<end speech t=0427.600s>
+
+<begin speech t=0427.600s>
+content: "till you make it."
+<end speech t=0428.600s>
+
+<begin speech t=0428.600s>
+content: "Meaning if you're not a happy person, I say you want to be a happy person, then repeat"
+<end speech t=0431.680s>
+
+<begin speech t=0431.680s>
+content: "it all the time."
+<end speech t=0432.680s>
+
+<begin speech t=0432.680s>
+content: "I'm happy."
+<end speech t=0433.680s>
+
+<begin speech t=0433.680s>
+content: "I'm happy."
+<end speech t=0434.680s>
+
+<begin speech t=0434.680s>
+content: "I say, well, you don't look happy, right?"
+<end speech t=0436.240s>
+
+<begin speech t=0436.240s>
+content: "They say, no, who am I talking to?"
+<end speech t=0438.880s>
+
+<begin speech t=0438.880s>
+content: "My repetition, I'm talking to subconscious."
+<end speech t=0442.000s>
+
+<begin speech t=0442.000s>
+content: "If subconscious gets, I am happy and 95% of your life come from that subconscious,"
+<end speech t=0447.920s>
+
+<begin speech t=0447.920s>
+content: "there will be a point once the subconscious got, I am happy, you don't have to say it"
+<end speech t=0451.760s>
+
+<begin speech t=0451.760s>
+content: "again."
+<end speech t=0452.760s>
+
+<begin speech t=0452.760s>
+content: "Okay."
+<end speech t=0453.760s>
+
+<begin speech t=0453.760s>
+content: "It'll be automatic."
+<end speech t=0454.760s>
+
+<begin speech t=0454.760s>
+content: "And that's why we see people do affirmations in the gratitude journals and stuff because"
+<end speech t=0457.880s>
+
+<begin speech t=0457.880s>
+content: "if you do that daily, it's repetitive."
+<end speech t=0460.480s>
+
+<begin speech t=0460.480s>
+content: "And that's the secret part."
+<end speech t=0462.400s>
+
+<begin speech t=0462.400s>
+content: "Putting a sticky note on the refrigerator is more like a suggestion, but it's not a"
+<end speech t=0466.480s>
+
+<begin speech t=0466.480s>
+content: "repetition."
+<end speech t=0467.680s>
+
+<begin speech t=0467.680s>
+content: "So it doesn't work very well."
+<end speech t=0469.520s>
+
+<begin speech t=0469.600s>
+content: "But you have to repetition is a habit."
+<end speech t=0472.440s>
+
+<begin speech t=0472.440s>
+content: "It's making habit."
+<end speech t=0473.440s>
+
+<begin speech t=0473.440s>
+content: "So you got to do something religiously in a sense of repeating it, repeating it, repeating"
+<end speech t=0477.760s>
+
+<begin speech t=0477.760s>
+content: "it to make it work."
+<end speech t=0481.400s>
+
+<begin speech t=0481.400s>
+content: "If you don't like the program, you don't like the way it's turning out, well, then you can"
+<end speech t=0485.640s>
+
+<begin speech t=0485.640s>
+content: "reprogram it and you could get the things you want."
+<end speech t=0489.680s>
+
+<begin speech t=0489.680s>
+content: "The movie The Matrix is not science fiction."
+<end speech t=0493.520s>
+
+<begin speech t=0493.520s>
+content: "It's a documentary."
+<end speech t=0494.720s>
+
+<begin speech t=0494.720s>
+content: "This is the whole story of The Matrix."
+<end speech t=0497.360s>
+
+<begin speech t=0497.360s>
+content: "Matrix, you've been programmed."
+<end speech t=0498.360s>
+
+<begin speech t=0498.840s>
+content: "We can take a red pill and get out of the program."
+<end speech t=0501.680s>
+
+<begin speech t=0501.680s>
+content: "Okay."
+<end speech t=0502.680s>
+
+<begin speech t=0502.680s>
+content: "Falling in love is the equivalent of taking the red pill biologically."
+<end speech t=0508.760s>
+
+<begin speech t=0508.760s>
+content: "Scientists have studied what is called mind wandering."
+<end speech t=0511.040s>
+
+<begin speech t=0511.040s>
+content: "I said, what is mind wandering?"
+<end speech t=0512.520s>
+
+<begin speech t=0512.520s>
+content: "I said, whether your conscious mind could be focused on a task or your conscious mind"
+<end speech t=0516.120s>
+
+<begin speech t=0516.120s>
+content: "could go off into it, you know, think about things."
+<end speech t=0518.920s>
+
+<begin speech t=0518.920s>
+content: "Okay."
+<end speech t=0519.920s>
+
+<begin speech t=0519.920s>
+content: "And the relevance about that is when the conscious mind is staying in the front, you're in absolute"
+<end speech t=0525.720s>
+
+<begin speech t=0525.720s>
+content: "control, wishes, desires, what you want conscious mind creative, you're in control."
+<end speech t=0531.320s>
+
+<begin speech t=0531.320s>
+content: "But the moment your conscious mind takes off into a thought or starts thinking or whatever,"
+<end speech t=0536.040s>
+
+<begin speech t=0536.040s>
+content: "going on, let's go the wheel, the autopilot takes over."
+<end speech t=0540.400s>
+
+<begin speech t=0540.400s>
+content: "Okay."
+<end speech t=0541.400s>
+
+<begin speech t=0541.400s>
+content: "So the idea is this, if your mind is wandering, then you're being run by the subconscious."
+<end speech t=0546.520s>
+
+<begin speech t=0546.520s>
+content: "And it turns out this is very negative."
+<end speech t=0549.120s>
+
+<begin speech t=0549.120s>
+content: "When your mind is straightforward in consciousness, you're controlling the vehicle."
+<end speech t=0553.920s>
+
+<begin speech t=0553.920s>
+content: "So I say falling in love has been demonstrated biologically to be equivalent to the red pill,"
+<end speech t=0560.480s>
+
+<begin speech t=0560.480s>
+content: "because what it does is it keeps you, what do they call mindful keeps you conscious."
+<end speech t=0564.760s>
+
+<begin speech t=0564.760s>
+content: "Look, you've been looking for this partner your whole life."
+<end speech t=0567.600s>
+
+<begin speech t=0567.600s>
+content: "They're now in front of your face."
+<end speech t=0569.360s>
+
+<begin speech t=0569.360s>
+content: "This is not the time to go thinking about things."
+<end speech t=0571.520s>
+
+<begin speech t=0571.520s>
+content: "It's time to be like, look what I got right here in front of me."
+<end speech t=0574.240s>
+
+<begin speech t=0574.240s>
+content: "And I say, well, think about it this way."
+<end speech t=0576.240s>
+
+<begin speech t=0576.240s>
+content: "Your life could suck every day, every day, every day, every day."
+<end speech t=0578.920s>
+
+<begin speech t=0578.920s>
+content: "And then you meet this person."
+<end speech t=0580.160s>
+
+<begin speech t=0580.160s>
+content: "And 24 hours later, it's heaven on earth."
+<end speech t=0583.760s>
+
+<begin speech t=0583.760s>
+content: "24 hours later, oh my God, I'm so in love."
+<end speech t=0586.320s>
+
+<begin speech t=0586.320s>
+content: "Even the job's not so bad anymore."
+<end speech t=0588.240s>
+
+<begin speech t=0588.240s>
+content: "And the food tastes great."
+<end speech t=0589.240s>
+
+<begin speech t=0589.240s>
+content: "And the music is so much better in love and love and love."
+<end speech t=0592.080s>
+
+<begin speech t=0592.080s>
+content: "I go, what the heck happened?"
+<end speech t=0594.280s>
+
+<begin speech t=0594.280s>
+content: "You had all of this negative, negative."
+<end speech t=0596.320s>
+
+<begin speech t=0596.320s>
+content: "And then in 24 hours, you have this heaven on earth."
+<end speech t=0600.200s>
+
+<begin speech t=0600.200s>
+content: "And the answer was it was taking the red pill."
+<end speech t=0603.240s>
+
+<begin speech t=0603.240s>
+content: "That's what falling in love is."
+<end speech t=0604.960s>
+
+<begin speech t=0604.960s>
+content: "At that moment, you stop playing the program."
+<end speech t=0607.080s>
+
+<begin speech t=0607.080s>
+content: "Now you're operating from conscious mind, which is creative, which by definition is"
+<end speech t=0611.440s>
+
+<begin speech t=0611.440s>
+content: "wishes and desires."
+<end speech t=0612.760s>
+
+<begin speech t=0612.760s>
+content: "What the heck do you want from your life?"
+<end speech t=0614.440s>
+
+<begin speech t=0614.440s>
+content: "If you answer that question, it's a creative answer."
+<end speech t=0616.960s>
+
+<begin speech t=0616.960s>
+content: "And by definition, it's conscious."
+<end speech t=0618.680s>
+
+<begin speech t=0618.680s>
+content: "So your wishes and desires are in your conscious mind."
+<end speech t=0621.800s>
+
+<begin speech t=0621.800s>
+content: "And a normal person's life, 5% of the day, you're moving toward that."
+<end speech t=0626.200s>
+
+<begin speech t=0626.200s>
+content: "95% you're playing the program."
+<end speech t=0628.400s>
+
+<begin speech t=0628.400s>
+content: "You fall in love."
+<end speech t=0629.400s>
+
+<begin speech t=0629.400s>
+content: "100% it was actually 90%."
+<end speech t=0632.200s>
+
+<begin speech t=0632.200s>
+content: "I think it's the number 90% from conscious mind."
+<end speech t=0635.280s>
+
+<begin speech t=0635.280s>
+content: "90% of the day you are now operating from creative wishes and desires."
+<end speech t=0639.400s>
+
+<begin speech t=0639.400s>
+content: "I go, look, I said your life sucked all the way up."
+<end speech t=0642.120s>
+
+<begin speech t=0642.120s>
+content: "And then 24 hours of operating on wishes and desires and not playing the program turned"
+<end speech t=0647.640s>
+
+<begin speech t=0647.640s>
+content: "earth into heaven for you at that moment."
+<end speech t=0651.000s>
+
+<begin speech t=0651.000s>
+content: "And then you go, well, how come the honeymoon doesn't last?"
+<end speech t=0652.920s>
+
+<begin speech t=0652.920s>
+content: "I go, because in everybody, you still have to think about things, your job, your chores,"
+<end speech t=0657.560s>
+
+<begin speech t=0657.560s>
+content: "your requirements, what you have to do."
+<end speech t=0659.120s>
+
+<begin speech t=0659.120s>
+content: "And at some point, once you start thinking, then the conscious mind is shut off."
+<end speech t=0664.160s>
+
+<begin speech t=0664.160s>
+content: "And guess what shows up?"
+<end speech t=0665.920s>
+
+<begin speech t=0665.920s>
+content: "All those behaviors in the subconscious mind that were negative, 70%."
+<end speech t=0670.520s>
+
+<begin speech t=0670.520s>
+content: "And your partner, remember your partner and you fall in love same time, both of you operating"
+<end speech t=0674.560s>
+
+<begin speech t=0674.560s>
+content: "from conscious mind with wishes and desires."
+<end speech t=0677.200s>
+
+<begin speech t=0677.200s>
+content: "And all of a sudden, you start thinking."
+<end speech t=0680.280s>
+
+<begin speech t=0680.280s>
+content: "And then this behavior shows up that was your mother, your father, whatever thing you learn."
+<end speech t=0685.200s>
+
+<begin speech t=0685.200s>
+content: "And your partner is like, where the hell did that come from?"
+<end speech t=0688.000s>
+
+<begin speech t=0688.000s>
+content: "Who are you?"
+<end speech t=0689.000s>
+
+<begin speech t=0689.000s>
+content: "It's a response."
+<end speech t=0690.000s>
+
+<begin speech t=0690.000s>
+content: "It's like, where are you coming from?"
+<end speech t=0691.840s>
+
+<begin speech t=0691.840s>
+content: "You know, we've been in this honeymoon."
+<end speech t=0693.280s>
+
+<begin speech t=0693.280s>
+content: "I've never seen that behavior."
+<end speech t=0694.600s>
+
+<begin speech t=0695.080s>
+content: "If you were to play that behavior in the first date, maybe we wouldn't have a second"
+<end speech t=0698.040s>
+
+<begin speech t=0698.040s>
+content: "day."
+<end speech t=0699.040s>
+
+<begin speech t=0699.040s>
+content: "But now it shows up."
+<end speech t=0700.040s>
+
+<begin speech t=0700.040s>
+content: "And I say, why did it show up?"
+<end speech t=0701.040s>
+
+<begin speech t=0701.040s>
+content: "Because I stopped being mindful."
+<end speech t=0703.120s>
+
+<begin speech t=0703.120s>
+content: "Okay."
+<end speech t=0704.120s>
+
+<begin speech t=0704.120s>
+content: "So how do you teach people to keep the honeymoon alive?"
+<end speech t=0707.760s>
+
+<begin speech t=0707.760s>
+content: "Is to change the subconscious program."
+<end speech t=0710.640s>
+
+<begin speech t=0710.640s>
+content: "And it's simple for reasoning a simple."
+<end speech t=0714.160s>
+
+<begin speech t=0714.160s>
+content: "Conscious mind wishes and desires, subconscious mind program."
+<end speech t=0717.000s>
+
+<begin speech t=0717.000s>
+content: "Well, what if you took the wishes and desires and made those programs?"
+<end speech t=0721.560s>
+
+<begin speech t=0721.560s>
+content: "Then guess what?"
+<end speech t=0723.440s>
+
+<begin speech t=0723.440s>
+content: "You don't even have to think about it."
+<end speech t=0725.240s>
+
+<begin speech t=0725.240s>
+content: "You will automatically 95% of the day be playing behaviors to manifest those wishes and desires."
+<end speech t=0731.800s>
+
+<begin speech t=0731.800s>
+content: "So reprogramming the subconscious with wishes and desires means you don't even have to"
+<end speech t=0735.880s>
+
+<begin speech t=0735.880s>
+content: "think about it."
+<end speech t=0736.880s>
+
+<begin speech t=0736.880s>
+content: "So when you fall in love, the cocktail of chemicals coming out of your brain are things that enhance"
+<end speech t=0741.720s>
+
+<begin speech t=0741.720s>
+content: "your vitality, your life, make you healthier, happier, and joy."
+<end speech t=0745.880s>
+
+<begin speech t=0745.880s>
+content: "I go, the same person, if they open their eyes and see something that scares them, none"
+<end speech t=0751.320s>
+
+<begin speech t=0751.320s>
+content: "of those love chemicals are going to come out of the brain."
+<end speech t=0753.680s>
+
+<begin speech t=0753.680s>
+content: "At that moment, stress hormones and inflammatory agents are going to be released by the brain."
+<end speech t=0758.400s>
+
+<begin speech t=0758.400s>
+content: "All of a sudden I said, well, then you changed the chemical composition, the culture medium."
+<end speech t=0761.600s>
+
+<begin speech t=0761.600s>
+content: "I go, yeah, result."
+<end speech t=0763.760s>
+
+<begin speech t=0763.760s>
+content: "The composition of the culture medium control the fate of the cells."
+<end speech t=0767.240s>
+
+<begin speech t=0767.240s>
+content: "The composition of your blood controls the fate of your cells."
+<end speech t=0770.840s>
+
+<begin speech t=0770.840s>
+content: "The composition of blood based on the picture in your mind."
+<end speech t=0774.120s>
+
+<begin speech t=0774.120s>
+content: "Change the picture."
+<end speech t=0775.120s>
+
+<begin speech t=0775.120s>
+content: "You change the chemistry."
+<end speech t=0777.560s>
+
+<begin speech t=0777.560s>
+content: "Once everybody has the same wishes and desires to be in love, to be happy, to be healthy,"
+<end speech t=0782.840s>
+
+<begin speech t=0782.840s>
+content: "to be peaceful, that's a standard wish and desire of everybody."
+<end speech t=0786.960s>
+
+<begin speech t=0786.960s>
+content: "And if we all live with those wishes and desires, this planet would change overnight."
+<end speech t=0792.360s>
+
+<begin speech t=0792.360s>
+content: "We would have harmony."
+<end speech t=0793.760s>
+
+<begin speech t=0793.760s>
+content: "We would have peace."
+<end speech t=0794.920s>
+
+<begin speech t=0794.920s>
+content: "We would have nature, community, environment."
+<end speech t=0799.120s>
+
+<begin speech t=0799.120s>
+content: "But until we change those subconscious programs and we become victims of the program and not"
+<end speech t=0804.080s>
+
+<begin speech t=0804.080s>
+content: "creators of our life."
+<end speech t=0806.320s>
+
+<begin speech t=0806.320s>
+content: "And when this is understood and people could say, wait, I have a choice."
+<end speech t=0810.200s>
+
+<begin speech t=0810.200s>
+content: "I say you do."
+<end speech t=0812.000s>
+
+<begin speech t=0812.000s>
+content: "You can play the programs you're playing or you can rewrite those programs and take power"
+<end speech t=0817.880s>
+
+<begin speech t=0817.880s>
+content: "back."
+<end speech t=0818.880s>
+
+<begin speech t=0818.880s>
+content: "And that's our destination."
+<end speech t=0820.480s>
+
+<begin speech t=0820.480s>
+content: "Hi, I'm Bruce Lit, an author of the best-selling books of biology, belief, spontaneous evolution"
+<end speech t=0837.800s>
+
+<begin speech t=0837.800s>
+content: "and the honeymoon effect."
+<end speech t=0838.800s>
+
+<begin speech t=0838.800s>
+content: "You know that knowledge is power, but more importantly, a lack of knowledge is a lack"
+<end speech t=0843.360s>
+
+<begin speech t=0843.360s>
+content: "of power."
+<end speech t=0844.680s>
+
+<begin speech t=0844.680s>
+content: "And science is revealing a whole new understanding of who we are."
+<end speech t=0848.240s>
+
+<begin speech t=0848.240s>
+content: "We've been programmed to be victims and yet science and quantum physics and the new"
+<end speech t=0852.000s>
+
+<begin speech t=0852.000s>
+content: "science of epigenetics especially reveal that we're not victims but we are creators."
+<end speech t=0857.560s>
+
+<begin speech t=0857.560s>
+content: "So with the knowledge of the new science, we can manifest heaven on earth."
+<end speech t=0861.160s>
+
+<begin speech t=0861.160s>
+content: "That would be our way of life."
+<end speech t=0863.160s>
+
+<begin speech t=0863.160s>
+content: "And in this regard, while I talk about this a lot, there's an idea that pictures present"
+<end speech t=0868.520s>
+
+<begin speech t=0868.520s>
+content: "a thousand words and an animation actually represents millions of words."
+<end speech t=0872.480s>
+
+<begin speech t=0872.480s>
+content: "And that's why I'm so excited and in gratitude to afterschool because afterschool has taken"
+<end speech t=0878.080s>
+
+<begin speech t=0878.080s>
+content: "the complexity of the words and made it in the simplicity of the images."
+<end speech t=0883.040s>
+
+<begin speech t=0883.040s>
+content: "And that's how we can learn more knowledge, more power."
+<end speech t=0886.760s>
+
+<begin speech t=0886.760s>
+content: "I hope this presentation enhances the quality and character of your life."
+<end speech t=0890.520s>

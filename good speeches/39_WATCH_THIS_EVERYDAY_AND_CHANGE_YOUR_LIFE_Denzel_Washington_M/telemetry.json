@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/39_WATCH_THIS_EVERYDAY_AND_CHANGE_YOUR_LIFE_Denzel_Washington_M/audio.mp3",
+  "clean_file": "good speeches/39_WATCH_THIS_EVERYDAY_AND_CHANGE_YOUR_LIFE_Denzel_Washington_M/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 605.135,
+  "clean_duration_sec": 595.212,
+  "lead_trim_sec": 3.58,
+  "tail_trim_sec": 6.343,
+  "measured_lufs_raw": -17.54,
+  "target_lufs": -20.0,
+  "gain_applied_db": -2.46,
+  "snr_raw_db": 16.53,
+  "snr_clean_db": 16.88,
+  "snr_improvement_db": 0.36,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1289,
+    "utterance_count": 155
+  },
+  "status": "READY_FOR_EVALUATION"
+}

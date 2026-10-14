@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/29_Robert_Kiyosaki_2019_The_Speech_That_Broke_The_Internet_KEEP/audio.mp3",
+  "clean_file": "good speeches/29_Robert_Kiyosaki_2019_The_Speech_That_Broke_The_Internet_KEEP/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 626.73,
+  "clean_duration_sec": 626.382,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.348,
+  "measured_lufs_raw": -21.32,
+  "target_lufs": -20.0,
+  "gain_applied_db": 0.2,
+  "snr_raw_db": 14.77,
+  "snr_clean_db": 18.69,
+  "snr_improvement_db": 3.92,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1719,
+    "utterance_count": 233
+  },
+  "status": "READY_FOR_EVALUATION"
+}

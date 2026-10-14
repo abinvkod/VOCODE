@@ -1,0 +1,103 @@
+<begin speech t=0000.000s>
+content: "Thank you, Adam Perna, our great director, Adam McKay, Christian Bale."
+<end speech t=0015.920s>
+
+<begin speech t=0015.920s>
+content: "What a... Oh, you're here."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "Go ahead."
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "Who's the free bet?"
+<end speech t=0026.000s>
+
+<begin speech t=0027.000s>
+content: "No, I already did."
+<end speech t=0029.000s>
+
+<begin speech t=0029.000s>
+content: "Oh, Plan B, Gary Sanchez."
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "The voting academy members and our fellow nominees from the UK in Sweden."
+<end speech t=0040.000s>
+
+<begin speech t=0040.000s>
+content: "Thank you."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "Christian Bale, you're fantastic."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "You're so great to work with and create with and everything."
+<end speech t=0048.000s>
+
+<begin speech t=0048.000s>
+content: "Thank you."
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "Amy Adams, thank you for bringing us up to your level of commitment."
+<end speech t=0054.000s>
+
+<begin speech t=0055.000s>
+content: "Sam Rockwell and the 150 others, SAG members."
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "Great job."
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "Susan Matheson."
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "Jeff Waxman and..."
+<end speech t=0068.000s>
+
+<begin speech t=0068.000s>
+content: "Jennifer Madeline."
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "Jennifer Madeline."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "Our D.P. Greg Frazier, our 50 Ks."
+<end speech t=0076.000s>
+
+<begin speech t=0076.000s>
+content: "Ann Hollow Williams, Jamie Kilman, Adrian Rowe, Leslie Walker, Christina Waltz."
+<end speech t=0082.000s>
+
+<begin speech t=0083.000s>
+content: "Chris Daller."
+<end speech t=0085.000s>
+
+<begin speech t=0085.000s>
+content: "Hey, Chris."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "Hannah Myers."
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "Jenny Meyer."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "Eric Horne."
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "Brian Wade."
+<end speech t=0091.000s>

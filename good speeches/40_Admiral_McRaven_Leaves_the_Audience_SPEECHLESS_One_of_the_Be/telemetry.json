@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/40_Admiral_McRaven_Leaves_the_Audience_SPEECHLESS_One_of_the_Be/audio.mp3",
+  "clean_file": "good speeches/40_Admiral_McRaven_Leaves_the_Audience_SPEECHLESS_One_of_the_Be/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 959.228,
+  "clean_duration_sec": 959.228,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -17.66,
+  "target_lufs": -20.0,
+  "gain_applied_db": -2.34,
+  "snr_raw_db": 13.65,
+  "snr_clean_db": 18.18,
+  "snr_improvement_db": 4.53,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 2528,
+    "utterance_count": 167
+  },
+  "status": "READY_FOR_EVALUATION"
+}

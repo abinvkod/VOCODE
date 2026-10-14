@@ -1,0 +1,1119 @@
+<begin speech t=0000.000s>
+content: "Thank you very much."
+<end speech t=0001.000s>
+
+<begin speech t=0001.000s>
+content: "Thank you."
+<end speech t=0002.000s>
+
+<begin speech t=0002.000s>
+content: "Well, thank you."
+<end speech t=0003.000s>
+
+<begin speech t=0003.000s>
+content: "President Powers, Provost Fendes, Deans, members of the faculty, family and friends, and most"
+<end speech t=0014.840s>
+
+<begin speech t=0014.840s>
+content: "importantly, the class of 2014."
+<end speech t=0018.080s>
+
+<begin speech t=0018.080s>
+content: "It is indeed an honor for me to be here tonight."
+<end speech t=0024.560s>
+
+<begin speech t=0024.560s>
+content: "It's been almost 37 years to the day that I graduated from UT."
+<end speech t=0029.560s>
+
+<begin speech t=0029.560s>
+content: "I remember a lot of things about that day."
+<end speech t=0032.880s>
+
+<begin speech t=0032.880s>
+content: "I remember I had a throbbing headache from a party the night before."
+<end speech t=0041.760s>
+
+<begin speech t=0041.760s>
+content: "I remember I had a serious girlfriend who I later married."
+<end speech t=0046.440s>
+
+<begin speech t=0046.440s>
+content: "That's important to remember, by the way."
+<end speech t=0048.840s>
+
+<begin speech t=0048.840s>
+content: "And I remember I was getting commissioned in the Navy that day."
+<end speech t=0051.480s>
+
+<begin speech t=0051.480s>
+content: "But of all the things I remember, I don't have a clue who the commencement speaker was,"
+<end speech t=0056.840s>
+
+<begin speech t=0056.840s>
+content: "and I certainly don't remember anything they said."
+<end speech t=0059.920s>
+
+<begin speech t=0059.920s>
+content: "So acknowledging that fact, if I can't make this commencement speech memorable, I will"
+<end speech t=0064.680s>
+
+<begin speech t=0064.680s>
+content: "at least try to make it short."
+<end speech t=0067.800s>
+
+<begin speech t=0067.800s>
+content: "So the University slogan is, what starts here change the world?"
+<end speech t=0071.720s>
+
+<begin speech t=0071.720s>
+content: "I've got to admit, I kind of like it."
+<end speech t=0073.760s>
+
+<begin speech t=0073.760s>
+content: "What starts here change is the world."
+<end speech t=0076.560s>
+
+<begin speech t=0076.560s>
+content: "Tonight there are almost 8,000 students, or there are more than 8,000 students, graduated"
+<end speech t=0081.640s>
+
+<begin speech t=0081.640s>
+content: "from UT."
+<end speech t=0083.160s>
+
+<begin speech t=0083.240s>
+content: "So that great paragon of analyticalrigger, ask.com, says that the average American will"
+<end speech t=0089.360s>
+
+<begin speech t=0089.360s>
+content: "meet 10,000 people in their lifetime."
+<end speech t=0092.920s>
+
+<begin speech t=0092.920s>
+content: "10,000 people."
+<end speech t=0093.920s>
+
+<begin speech t=0093.920s>
+content: "That's a lot of folks."
+<end speech t=0095.880s>
+
+<begin speech t=0095.880s>
+content: "But if every one of you changed the lives of just 10 people, and each one of those people"
+<end speech t=0102.920s>
+
+<begin speech t=0102.920s>
+content: "changed the lives of another 10 people, and another 10, then in five generations, 125"
+<end speech t=0109.000s>
+
+<begin speech t=0109.000s>
+content: "years, the class of 2014 will have changed the lives of 800 million people."
+<end speech t=0116.760s>
+
+<begin speech t=0116.760s>
+content: "800 million people."
+<end speech t=0119.680s>
+
+<begin speech t=0119.680s>
+content: "Think about it."
+<end speech t=0121.560s>
+
+<begin speech t=0121.560s>
+content: "Over twice the population of the United States, go one more generation, and you can change"
+<end speech t=0125.840s>
+
+<begin speech t=0125.840s>
+content: "the entire population of the world, 8 billion people."
+<end speech t=0129.720s>
+
+<begin speech t=0129.720s>
+content: "If you think it's hard to change the lives of 10 people, change their lives forever,"
+<end speech t=0134.840s>
+
+<begin speech t=0134.840s>
+content: "you're wrong."
+<end speech t=0135.840s>
+
+<begin speech t=0135.880s>
+content: "I saw it happen every day in Iraq and Afghanistan."
+<end speech t=0139.040s>
+
+<begin speech t=0139.040s>
+content: "A young army officer makes a decision to go left instead of right down a road in Baghdad,"
+<end speech t=0144.880s>
+
+<begin speech t=0144.880s>
+content: "and the 10 soldiers with him are saved from a close-in ambush."
+<end speech t=0149.040s>
+
+<begin speech t=0149.040s>
+content: "In Tenahar province Afghanistan, a non-commissioned officer from the female engagement team senses"
+<end speech t=0154.920s>
+
+<begin speech t=0154.920s>
+content: "that something isn't right, and directs the infantry platoon away from a 500-pound IED,"
+<end speech t=0161.920s>
+
+<begin speech t=0161.920s>
+content: "saving the lives of a dozen soldiers."
+<end speech t=0165.120s>
+
+<begin speech t=0165.120s>
+content: "If you think about it, not only were those soldiers saved by the decisions of one person,"
+<end speech t=0170.560s>
+
+<begin speech t=0170.560s>
+content: "but their children were saved, and their children's children, generations were saved"
+<end speech t=0176.280s>
+
+<begin speech t=0176.280s>
+content: "by one decision, one person, but changing the world can happen anywhere, and anyone can"
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "do it."
+<end speech t=0183.200s>
+
+<begin speech t=0183.200s>
+content: "So what starts here can indeed change the world?"
+<end speech t=0185.640s>
+
+<begin speech t=0185.640s>
+content: "But the question is, what will the world look like after you change it?"
+<end speech t=0190.240s>
+
+<begin speech t=0190.240s>
+content: "Well, I'm confident that it will look much, much better."
+<end speech t=0193.760s>
+
+<begin speech t=0193.760s>
+content: "But if you'll humor this old sailor for just a moment, I have a few suggestions that"
+<end speech t=0197.640s>
+
+<begin speech t=0197.640s>
+content: "may help you on your way to a better world."
+<end speech t=0200.080s>
+
+<begin speech t=0200.080s>
+content: "And while these lessons were learned during my time in the military, I can assure you"
+<end speech t=0205.120s>
+
+<begin speech t=0205.120s>
+content: "that it matters not whether you ever served a day in uniform."
+<end speech t=0208.480s>
+
+<begin speech t=0208.480s>
+content: "It matters not your gender, your ethnic or religious background, your orientation, or"
+<end speech t=0212.880s>
+
+<begin speech t=0212.880s>
+content: "your social status."
+<end speech t=0214.640s>
+
+<begin speech t=0214.640s>
+content: "Our struggles in this world are similar, and the lessons to overcome those struggles,"
+<end speech t=0218.920s>
+
+<begin speech t=0218.920s>
+content: "and to move forward, changing ourselves and changing the world around us, will apply"
+<end speech t=0223.640s>
+
+<begin speech t=0223.640s>
+content: "equally to all."
+<end speech t=0225.840s>
+
+<begin speech t=0225.840s>
+content: "I've been a Navy SEAL for 36 years, but it all began when I left UT for basic SEAL training"
+<end speech t=0231.520s>
+
+<begin speech t=0231.520s>
+content: "in Coronado, California."
+<end speech t=0233.720s>
+
+<begin speech t=0233.720s>
+content: "Basic SEAL training is six months, a long torturous runs in the soft sand, midnight swims in the"
+<end speech t=0239.520s>
+
+<begin speech t=0239.520s>
+content: "cold water off San Diego, obstacle courses, unending calisthenics, days without sleep,"
+<end speech t=0244.840s>
+
+<begin speech t=0244.840s>
+content: "and always being cold, wet, and miserable."
+<end speech t=0247.000s>
+
+<begin speech t=0247.000s>
+content: "It is six months of being constantly harassed by professionally trained warriors who seek"
+<end speech t=0253.360s>
+
+<begin speech t=0253.360s>
+content: "to find the weak of mind and body and eliminate them from ever becoming a Navy SEAL."
+<end speech t=0261.920s>
+
+<begin speech t=0261.920s>
+content: "But the training also seeks to find those students who can lead in an environment of"
+<end speech t=0266.720s>
+
+<begin speech t=0266.720s>
+content: "constant stress, chaos, failure, and hardships."
+<end speech t=0271.560s>
+
+<begin speech t=0271.560s>
+content: "To me, basic SEAL training was a lifetime of challenges crammed into six months."
+<end speech t=0276.920s>
+
+<begin speech t=0276.920s>
+content: "So here are the 10 lessons I learned from basic SEAL training that hopefully will be"
+<end speech t=0280.800s>
+
+<begin speech t=0280.800s>
+content: "of value to you as you move forward in life."
+<end speech t=0284.640s>
+
+<begin speech t=0284.640s>
+content: "Every morning in SEAL training, my instructors who at the time were all Vietnam veterans,"
+<end speech t=0290.360s>
+
+<begin speech t=0290.360s>
+content: "would show up in my barracks room, and the first thing they'd do was inspect my bed."
+<end speech t=0295.360s>
+
+<begin speech t=0295.360s>
+content: "If you did it right, the corners would be square, the covers would be pulled tight, the pillow"
+<end speech t=0300.080s>
+
+<begin speech t=0300.080s>
+content: "centered just under the headboard, and the extra blanket folded neatly at the foot of"
+<end speech t=0304.080s>
+
+<begin speech t=0304.080s>
+content: "the rack."
+<end speech t=0305.080s>
+
+<begin speech t=0305.400s>
+content: "It was a simple task, mundane at best, but every morning we were required to make our"
+<end speech t=0312.000s>
+
+<begin speech t=0312.000s>
+content: "bed to perfection."
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "That seemed a little ridiculous at the time, particularly in light of the fact that we"
+<end speech t=0317.080s>
+
+<begin speech t=0317.080s>
+content: "were aspiring to be real warriors, tough battle-hardened SEALs, but the wisdom of this simple act"
+<end speech t=0323.880s>
+
+<begin speech t=0323.880s>
+content: "has been proven to me many times over."
+<end speech t=0328.160s>
+
+<begin speech t=0328.160s>
+content: "If you make your bed every morning, you will have accomplished the first task of the day."
+<end speech t=0332.880s>
+
+<begin speech t=0333.600s>
+content: "It will give you a small sense of pride, and it will encourage you to do another task,"
+<end speech t=0338.560s>
+
+<begin speech t=0338.560s>
+content: "and another, and another."
+<end speech t=0341.040s>
+
+<begin speech t=0341.040s>
+content: "And by the end of the day, that one task completed will have turned into many tasks completed."
+<end speech t=0345.800s>
+
+<begin speech t=0345.800s>
+content: "Making your bed will also reinforce the fact that the little things in life matter."
+<end speech t=0351.040s>
+
+<begin speech t=0351.040s>
+content: "If you can't do the little things right, you'll never be able to do the big things right."
+<end speech t=0356.240s>
+
+<begin speech t=0356.240s>
+content: "And if by chance you have a miserable day, you will come home to a bed that is made."
+<end speech t=0361.200s>
+
+<begin speech t=0362.200s>
+content: "But you made, and a made bed gives you encouragement that tomorrow will be better."
+<end speech t=0368.880s>
+
+<begin speech t=0368.880s>
+content: "So if you want to change the world, start off by making your bed."
+<end speech t=0372.880s>
+
+<begin speech t=0372.880s>
+content: "During SEAL training the students are all broken down into boat crews."
+<end speech t=0380.640s>
+
+<begin speech t=0380.640s>
+content: "Each crew is seven students, three on each side of a small rubber boat, and one cocks"
+<end speech t=0385.280s>
+
+<begin speech t=0385.280s>
+content: "in to help guide the dinghy."
+<end speech t=0387.640s>
+
+<begin speech t=0387.640s>
+content: "Every day your boat crew forms up on the beach, and is instructed to get through the"
+<end speech t=0391.200s>
+
+<begin speech t=0391.200s>
+content: "surf zone and paddle several miles down the coast."
+<end speech t=0394.040s>
+
+<begin speech t=0394.040s>
+content: "In the winter, the surf off San Diego can get to be eight to ten feet high, and it is"
+<end speech t=0398.920s>
+
+<begin speech t=0398.920s>
+content: "exceedingly difficult to paddle through the plunging surf unless everyone digs in."
+<end speech t=0405.200s>
+
+<begin speech t=0405.200s>
+content: "Every paddle must be synchronized to the stroke count of the cocks in."
+<end speech t=0409.960s>
+
+<begin speech t=0409.960s>
+content: "Everyone must exert equal effort, or the boat will turn against the wave and be unceremoniously"
+<end speech t=0414.680s>
+
+<begin speech t=0414.680s>
+content: "dumped back on the beach."
+<end speech t=0417.360s>
+
+<begin speech t=0417.360s>
+content: "For the boat to make it to its destination, everyone must paddle."
+<end speech t=0422.240s>
+
+<begin speech t=0422.240s>
+content: "You can't change the world alone, you will need some help."
+<end speech t=0426.240s>
+
+<begin speech t=0426.240s>
+content: "And to truly get from your starting point to your destination takes friends, colleagues,"
+<end speech t=0431.200s>
+
+<begin speech t=0431.200s>
+content: "the goodwill of strangers, and a strong cocks in to guide you."
+<end speech t=0435.280s>
+
+<begin speech t=0435.280s>
+content: "If you want to change the world, find someone to help you paddle."
+<end speech t=0440.560s>
+
+<begin speech t=0440.560s>
+content: "Over a few weeks of difficult training, my SEAL class which started with 150 men, was"
+<end speech t=0446.000s>
+
+<begin speech t=0446.000s>
+content: "down to just 42."
+<end speech t=0448.160s>
+
+<begin speech t=0448.160s>
+content: "There were now six boat crews of seven men each."
+<end speech t=0451.320s>
+
+<begin speech t=0451.320s>
+content: "I was in the boat with the tall guys, but the best boat crew we had was made up of little"
+<end speech t=0456.760s>
+
+<begin speech t=0456.760s>
+content: "guys, the Munchkin crew we called them."
+<end speech t=0459.840s>
+
+<begin speech t=0459.840s>
+content: "No one was over five foot five."
+<end speech t=0462.680s>
+
+<begin speech t=0462.680s>
+content: "The Munchkin boat crew had one American Indian, one African American, one Polish American,"
+<end speech t=0468.320s>
+
+<begin speech t=0468.320s>
+content: "one Greek American, one Italian American, and two tough kids from the Midwest."
+<end speech t=0472.720s>
+
+<begin speech t=0472.720s>
+content: "They out-paddled, outran, and out-swam all the other boat crews."
+<end speech t=0477.640s>
+
+<begin speech t=0477.640s>
+content: "The big men and the other boat crews would always make good-natured fun of the tiny little"
+<end speech t=0483.760s>
+
+<begin speech t=0483.760s>
+content: "flippers the Munchkins put on their tiny little feet prior to every swim."
+<end speech t=0490.440s>
+
+<begin speech t=0490.440s>
+content: "But somehow these little guys, from every corner of the nation in the world, always had"
+<end speech t=0494.680s>
+
+<begin speech t=0494.680s>
+content: "the last laugh, so he'd faster than everyone reaching the shore long before the rest of"
+<end speech t=0499.080s>
+
+<begin speech t=0499.080s>
+content: "us."
+<end speech t=0500.840s>
+
+<begin speech t=0500.840s>
+content: "The whole training was a great equalizer."
+<end speech t=0503.360s>
+
+<begin speech t=0503.360s>
+content: "Nothing mattered but your will to succeed, not your color, not your ethnic background,"
+<end speech t=0507.640s>
+
+<begin speech t=0507.640s>
+content: "not your education, not your social status."
+<end speech t=0510.520s>
+
+<begin speech t=0510.520s>
+content: "If you want to change the world, measure a person by the size of their heart, not by"
+<end speech t=0515.440s>
+
+<begin speech t=0515.440s>
+content: "the size of their flippers."
+<end speech t=0518.680s>
+
+<begin speech t=0518.680s>
+content: "Several times a week, the instructors would line up the class and do a uniform inspection."
+<end speech t=0524.440s>
+
+<begin speech t=0524.440s>
+content: "It was exceptionally thorough."
+<end speech t=0526.280s>
+
+<begin speech t=0526.280s>
+content: "Your hat had to be perfectly starched, your uniform immaculately pressed, your belt buckle"
+<end speech t=0531.040s>
+
+<begin speech t=0531.040s>
+content: "shiny and void of any smudges."
+<end speech t=0534.160s>
+
+<begin speech t=0534.160s>
+content: "But it seemed that no matter how much effort you put into starching your hat, or pressing"
+<end speech t=0537.680s>
+
+<begin speech t=0537.680s>
+content: "your uniform, or polishing your belt buckle, it just wasn't good enough."
+<end speech t=0542.280s>
+
+<begin speech t=0542.280s>
+content: "The instructors would find something wrong."
+<end speech t=0545.160s>
+
+<begin speech t=0545.160s>
+content: "For family and uniform inspection, the student had to run, fully clothed, into the surf"
+<end speech t=0550.360s>
+
+<begin speech t=0550.360s>
+content: "zone, then wet from head to toe, roll around on the beach until every part of your body"
+<end speech t=0555.680s>
+
+<begin speech t=0555.720s>
+content: "was covered in the sand."
+<end speech t=0557.560s>
+
+<begin speech t=0557.560s>
+content: "The effect was known as sugar cooking."
+<end speech t=0562.040s>
+
+<begin speech t=0562.040s>
+content: "You stayed in the uniform the rest of the day, cold, wet and sandy."
+<end speech t=0566.800s>
+
+<begin speech t=0566.800s>
+content: "There were many a student who just couldn't accept the fact that all their efforts were"
+<end speech t=0570.480s>
+
+<begin speech t=0570.480s>
+content: "in vain."
+<end speech t=0571.480s>
+
+<begin speech t=0571.480s>
+content: "No matter how hard they tried to get the uniform right, it went unappreciated."
+<end speech t=0576.160s>
+
+<begin speech t=0576.160s>
+content: "Those students didn't make it through training."
+<end speech t=0578.560s>
+
+<begin speech t=0578.560s>
+content: "Those students didn't understand the purpose of the drill."
+<end speech t=0582.680s>
+
+<begin speech t=0582.680s>
+content: "You were never going to succeed."
+<end speech t=0584.640s>
+
+<begin speech t=0584.640s>
+content: "You were never going to have a perfect uniform."
+<end speech t=0586.480s>
+
+<begin speech t=0586.480s>
+content: "The instructors weren't going to allow it."
+<end speech t=0589.680s>
+
+<begin speech t=0589.680s>
+content: "Sometimes no matter how well you prepare, or how well you perform, you still end up as"
+<end speech t=0594.640s>
+
+<begin speech t=0594.640s>
+content: "a sugar cookie."
+<end speech t=0596.400s>
+
+<begin speech t=0596.400s>
+content: "It's just the way life is sometimes."
+<end speech t=0599.080s>
+
+<begin speech t=0599.080s>
+content: "If you want to change the world, get over being a sugar cookie and keep moving forward."
+<end speech t=0605.440s>
+
+<begin speech t=0605.440s>
+content: "Every day during training, you were challenged with multiple physical events, long runs,"
+<end speech t=0609.800s>
+
+<begin speech t=0609.800s>
+content: "long swams, obstacle courses, hours of calisthenics, something designed to test your mental health."
+<end speech t=0614.600s>
+
+<begin speech t=0614.600s>
+content: "Every event had standards."
+<end speech t=0617.320s>
+
+<begin speech t=0617.320s>
+content: "Times you had to meet."
+<end speech t=0618.320s>
+
+<begin speech t=0618.320s>
+content: "If you failed to meet those times, those standards, your name was posted on the list."
+<end speech t=0623.040s>
+
+<begin speech t=0623.040s>
+content: "At the end of the day, those on the list were invited to a circus."
+<end speech t=0629.040s>
+
+<begin speech t=0629.040s>
+content: "A circus was two hours of additional calisthenics, designed to wear you down, to break your spirit,"
+<end speech t=0633.600s>
+
+<begin speech t=0633.600s>
+content: "to force you to quit."
+<end speech t=0635.080s>
+
+<begin speech t=0635.080s>
+content: "No one wanted a circus."
+<end speech t=0637.520s>
+
+<begin speech t=0637.520s>
+content: "A circus meant that for that day, you didn't measure up."
+<end speech t=0640.960s>
+
+<begin speech t=0640.960s>
+content: "A circus meant more fatigue."
+<end speech t=0642.160s>
+
+<begin speech t=0642.160s>
+content: "A more fatigue meant that the following day would be more difficult and more circuses"
+<end speech t=0645.880s>
+
+<begin speech t=0645.880s>
+content: "were likely."
+<end speech t=0646.880s>
+
+<begin speech t=0646.880s>
+content: "But at some time during SEAL training, everyone, everyone made the circus list."
+<end speech t=0655.280s>
+
+<begin speech t=0655.280s>
+content: "But an interesting thing happened to those who were constantly on the list."
+<end speech t=0660.520s>
+
+<begin speech t=0660.520s>
+content: "Over time, those students who did two hours of extra calisthenics got stronger and stronger."
+<end speech t=0667.880s>
+
+<begin speech t=0667.880s>
+content: "The pain of the circuses built inner strength in physical resiliency."
+<end speech t=0672.600s>
+
+<begin speech t=0672.600s>
+content: "Life is filled with circuses."
+<end speech t=0675.160s>
+
+<begin speech t=0675.160s>
+content: "You will fail."
+<end speech t=0676.720s>
+
+<begin speech t=0676.720s>
+content: "You will likely fail often."
+<end speech t=0678.240s>
+
+<begin speech t=0678.240s>
+content: "It will be painful."
+<end speech t=0679.800s>
+
+<begin speech t=0679.800s>
+content: "It will be discouraging."
+<end speech t=0681.400s>
+
+<begin speech t=0681.400s>
+content: "At times, it will test you to your very core."
+<end speech t=0685.160s>
+
+<begin speech t=0685.160s>
+content: "But if you don't, if you want to change the world, don't be afraid of the circuses."
+<end speech t=0690.680s>
+
+<begin speech t=0690.680s>
+content: "At least twice a week, the trainees were required to run the obstacle course."
+<end speech t=0695.240s>
+
+<begin speech t=0695.240s>
+content: "The obstacle course contained 25 obstacles, including a 10-foot wall, a 30-foot cargo"
+<end speech t=0699.840s>
+
+<begin speech t=0699.840s>
+content: "net, a barbed wire crawl to name a few."
+<end speech t=0702.280s>
+
+<begin speech t=0702.280s>
+content: "But the most challenging obstacle was the slide for life."
+<end speech t=0706.080s>
+
+<begin speech t=0706.080s>
+content: "It had a three-level, 30-foot tower at one end and a one-level tower at the other."
+<end speech t=0711.280s>
+
+<begin speech t=0711.280s>
+content: "In between was a 200-foot long rope."
+<end speech t=0714.160s>
+
+<begin speech t=0714.160s>
+content: "You had to climb the three-tiered tower, and once at the top, you grabbed the rope, swung"
+<end speech t=0719.840s>
+
+<begin speech t=0719.840s>
+content: "underneath the rope, and pulled yourself hand over hand until you got to the other end."
+<end speech t=0725.200s>
+
+<begin speech t=0725.200s>
+content: "The record for the obstacle course had stood for years when my class began in 1977."
+<end speech t=0730.200s>
+
+<begin speech t=0730.200s>
+content: "The record seemed unbeatable until one day a student decided to go down the slide for"
+<end speech t=0735.400s>
+
+<begin speech t=0735.400s>
+content: "life head first."
+<end speech t=0738.720s>
+
+<begin speech t=0738.720s>
+content: "Instead of swinging his body underneath the rope and inching his way down, he bravely"
+<end speech t=0742.320s>
+
+<begin speech t=0742.320s>
+content: "mounted the top of the rope and thrust himself forward."
+<end speech t=0745.840s>
+
+<begin speech t=0745.840s>
+content: "It was a dangerous move, seemingly foolish and fraught with risk."
+<end speech t=0750.720s>
+
+<begin speech t=0750.720s>
+content: "Failure could mean injury and being dropped from the course."
+<end speech t=0752.680s>
+
+<begin speech t=0752.680s>
+content: "Without hesitation, the student slid down the rope perilously fast."
+<end speech t=0757.440s>
+
+<begin speech t=0757.440s>
+content: "Instead of several minutes, it only took him half that time, and by the end of the course,"
+<end speech t=0763.360s>
+
+<begin speech t=0763.360s>
+content: "he had broken the record."
+<end speech t=0764.920s>
+
+<begin speech t=0764.920s>
+content: "If you want to change the world, sometimes you have to slide down the obstacles head first."
+<end speech t=0772.280s>
+
+<begin speech t=0772.280s>
+content: "During the Land Warfare phase of training, the students are flown out to San Clemente"
+<end speech t=0775.920s>
+
+<begin speech t=0775.920s>
+content: "Island, which lies off the coast of San Diego."
+<end speech t=0778.800s>
+
+<begin speech t=0778.800s>
+content: "The waters off San Clemente are a breeding ground for the great white sharks."
+<end speech t=0782.920s>
+
+<begin speech t=0782.920s>
+content: "To pass seal training, there are a series of long swims that must be completed."
+<end speech t=0786.920s>
+
+<begin speech t=0786.920s>
+content: "One is the night swim."
+<end speech t=0788.840s>
+
+<begin speech t=0788.840s>
+content: "Before the swim, the instructors joyfully briefed the students on all the species of"
+<end speech t=0793.360s>
+
+<begin speech t=0793.360s>
+content: "sharks that inhabit the waters off San Clemente."
+<end speech t=0798.000s>
+
+<begin speech t=0798.000s>
+content: "They assure you, however, that no student has ever been eaten by a shark, at least not"
+<end speech t=0804.760s>
+
+<begin speech t=0804.760s>
+content: "that they can remember."
+<end speech t=0807.440s>
+
+<begin speech t=0807.440s>
+content: "But you are also taught that if a shark begins to circle your position, stay in your ground."
+<end speech t=0814.120s>
+
+<begin speech t=0814.120s>
+content: "Do not swim away."
+<end speech t=0816.040s>
+
+<begin speech t=0816.040s>
+content: "Do not act afraid."
+<end speech t=0818.320s>
+
+<begin speech t=0818.320s>
+content: "And if a shark hungry for a midnight snack darts towards you, then summons up all your"
+<end speech t=0823.120s>
+
+<begin speech t=0823.120s>
+content: "strength and punch him in the snout, and he will turn and swim away."
+<end speech t=0829.440s>
+
+<begin speech t=0829.440s>
+content: "There are a lot of sharks in the world."
+<end speech t=0831.720s>
+
+<begin speech t=0831.720s>
+content: "If you hope to complete the swim, you will have to deal with them."
+<end speech t=0836.360s>
+
+<begin speech t=0836.360s>
+content: "So if you want to change the world, don't back down from the sharks."
+<end speech t=0842.480s>
+
+<begin speech t=0842.480s>
+content: "As Navy SEALs, one of our jobs is to conduct underwater attacks against enemy shipping."
+<end speech t=0847.360s>
+
+<begin speech t=0847.360s>
+content: "We practice this technique extensively during training."
+<end speech t=0851.080s>
+
+<begin speech t=0851.080s>
+content: "The ship attack mission is where a pair of SEAL divers is dropped off outside an enemy"
+<end speech t=0854.400s>
+
+<begin speech t=0854.400s>
+content: "harbor and then swims well over two miles underwater, using nothing but a depth gauge"
+<end speech t=0861.240s>
+
+<begin speech t=0861.240s>
+content: "and a compass to get to the target."
+<end speech t=0863.960s>
+
+<begin speech t=0863.960s>
+content: "In the entire swim, even well below the surface, there is some light that comes through."
+<end speech t=0871.640s>
+
+<begin speech t=0871.640s>
+content: "It is comforting to know that there is open water above you."
+<end speech t=0876.080s>
+
+<begin speech t=0876.080s>
+content: "But as you approach the ship, which is tied to a pair the light begins to fade, the steel"
+<end speech t=0881.440s>
+
+<begin speech t=0881.440s>
+content: "structure of the ship blocks the moonlight."
+<end speech t=0883.840s>
+
+<begin speech t=0883.840s>
+content: "It blocks the surrounding street lamps."
+<end speech t=0886.760s>
+
+<begin speech t=0886.760s>
+content: "It blocks all ambient light."
+<end speech t=0889.920s>
+
+<begin speech t=0889.920s>
+content: "To be successful in your mission, you have to swim under the ship and find the keel,"
+<end speech t=0893.680s>
+
+<begin speech t=0893.680s>
+content: "the center line and the deepest part of the ship."
+<end speech t=0896.440s>
+
+<begin speech t=0896.440s>
+content: "This is your objective."
+<end speech t=0898.320s>
+
+<begin speech t=0898.320s>
+content: "But the keel is also the darkest part of the ship, where you cannot see your hand in front"
+<end speech t=0902.440s>
+
+<begin speech t=0902.440s>
+content: "of your face, where the noise from the ship's machinery is deafening and where it gets to"
+<end speech t=0907.840s>
+
+<begin speech t=0907.840s>
+content: "be easily disoriented and you can fail."
+<end speech t=0911.480s>
+
+<begin speech t=0911.480s>
+content: "Every SEAL knows that under the keel, at that darkest moment of the mission, is a time when"
+<end speech t=0917.840s>
+
+<begin speech t=0917.840s>
+content: "you need to be calm, when you must be calm, when you must be composed, when all your tactical"
+<end speech t=0925.000s>
+
+<begin speech t=0925.000s>
+content: "skills, your physical power and your inner strength must be brought to bear."
+<end speech t=0931.200s>
+
+<begin speech t=0931.200s>
+content: "If you want to change the world, you must be your very best in the darkest moments."
+<end speech t=0937.320s>
+
+<begin speech t=0937.320s>
+content: "The ninth week of training is referred to as Hell Week."
+<end speech t=0941.680s>
+
+<begin speech t=0941.680s>
+content: "It is six days of no sleep, constant physical and mental harassment, and one special day"
+<end speech t=0947.960s>
+
+<begin speech t=0947.960s>
+content: "at the mud flats."
+<end speech t=0949.680s>
+
+<begin speech t=0949.680s>
+content: "The mud flats are an area between San Diego and Tijuana, where the water runs off and"
+<end speech t=0954.000s>
+
+<begin speech t=0954.000s>
+content: "creates the Tijuana sloughs, a swampy patch of terrain where the mud will engulf you."
+<end speech t=0960.000s>
+
+<begin speech t=0960.000s>
+content: "It is on Wednesday at Hell Week that you paddle down to the mud flats and spend the next 15"
+<end speech t=0964.200s>
+
+<begin speech t=0964.200s>
+content: "hours trying to survive this freezing cold, the howling wind and the incessant pressure"
+<end speech t=0969.560s>
+
+<begin speech t=0969.560s>
+content: "to quit from the instructors."
+<end speech t=0972.400s>
+
+<begin speech t=0972.400s>
+content: "As the sun began to set that Wednesday evening, my training class, having committed some egregious"
+<end speech t=0978.000s>
+
+<begin speech t=0978.000s>
+content: "and fraction of the rules, was ordered into the mud."
+<end speech t=0982.320s>
+
+<begin speech t=0982.320s>
+content: "The mud consumed each man until there was nothing visible but our heads."
+<end speech t=0987.480s>
+
+<begin speech t=0987.480s>
+content: "The instructors told us we could leave the mud if only five men would quit."
+<end speech t=0992.360s>
+
+<begin speech t=0992.360s>
+content: "Only five men, just five men, and we could get out of the oppressive cold."
+<end speech t=0997.560s>
+
+<begin speech t=0997.560s>
+content: "Looking around the mud flat, it was apparent that some students were about to develop."
+<end speech t=1001.760s>
+
+<begin speech t=1001.760s>
+content: "It was still over eight hours until the sun came up."
+<end speech t=1004.160s>
+
+<begin speech t=1004.160s>
+content: "Eight more hours of bone chilling cold."
+<end speech t=1008.280s>
+
+<begin speech t=1008.280s>
+content: "A chattering teeth and shivering moans of the trainees were so loud it was hard to hear"
+<end speech t=1012.800s>
+
+<begin speech t=1012.800s>
+content: "anything."
+<end speech t=1014.560s>
+
+<begin speech t=1014.560s>
+content: "And then one voice began to echo through the night."
+<end speech t=1019.200s>
+
+<begin speech t=1019.200s>
+content: "One voice raised in song."
+<end speech t=1022.120s>
+
+<begin speech t=1022.120s>
+content: "The song was terribly out of tune."
+<end speech t=1025.120s>
+
+<begin speech t=1025.120s>
+content: "But sung with great enthusiasm."
+<end speech t=1027.800s>
+
+<begin speech t=1027.800s>
+content: "One voice became two, and two became three, and before long everyone in the class was"
+<end speech t=1032.320s>
+
+<begin speech t=1032.320s>
+content: "singing."
+<end speech t=1033.320s>
+
+<begin speech t=1033.320s>
+content: "The instructors threatened us with more time in the mud if we kept up the singing, but"
+<end speech t=1037.120s>
+
+<begin speech t=1037.120s>
+content: "the singing persisted."
+<end speech t=1039.040s>
+
+<begin speech t=1039.040s>
+content: "And somehow the mud seemed a little warmer, and the wind, a little tamer, and the dawn"
+<end speech t=1044.640s>
+
+<begin speech t=1044.640s>
+content: "not so far away."
+<end speech t=1046.800s>
+
+<begin speech t=1046.800s>
+content: "If I have learned anything in my time traveling the world, it is the power of hope."
+<end speech t=1052.800s>
+
+<begin speech t=1052.800s>
+content: "The power of one person, a Washington, a Lincoln, King, Mandela, and even a young girl from"
+<end speech t=1058.800s>
+
+<begin speech t=1058.800s>
+content: "Pakistan, Malala, one person can change the world by giving people hope."
+<end speech t=1064.760s>
+
+<begin speech t=1064.760s>
+content: "So if you want to change the world, start singing when you're up to your neck and mud."
+<end speech t=1070.480s>
+
+<begin speech t=1070.480s>
+content: "Finally, in seal training, there's a bell."
+<end speech t=1074.480s>
+
+<begin speech t=1074.480s>
+content: "A brass bell that hangs in the center of the compound for all the students to see."
+<end speech t=1079.440s>
+
+<begin speech t=1079.440s>
+content: "All you have to do to quit is ring the bell."
+<end speech t=1084.520s>
+
+<begin speech t=1084.520s>
+content: "Ring the bell, and you no longer have to wake up at five o'clock."
+<end speech t=1087.720s>
+
+<begin speech t=1087.720s>
+content: "Ring the bell, and you no longer have to be in the freezing cold swims."
+<end speech t=1092.480s>
+
+<begin speech t=1092.480s>
+content: "Ring the bell, and you no longer have to do the runs, the obstacle course, the PT, and"
+<end speech t=1097.400s>
+
+<begin speech t=1097.400s>
+content: "you no longer have to endure the hardships of training."
+<end speech t=1102.480s>
+
+<begin speech t=1102.480s>
+content: "All you have to do is ring the bell to get out."
+<end speech t=1106.080s>
+
+<begin speech t=1106.080s>
+content: "If you want to change the world, don't ever, ever ring the bell."
+<end speech t=1113.040s>
+
+<begin speech t=1113.040s>
+content: "To the class of 2014, you are moments away from graduating, moments away from beginning"
+<end speech t=1117.840s>
+
+<begin speech t=1117.840s>
+content: "your journey through life, moments away from starting to change the world for the better."
+<end speech t=1123.640s>
+
+<begin speech t=1123.640s>
+content: "It will not be easy, but you are the class of 2014, the class that can affect the lives"
+<end speech t=1128.440s>
+
+<begin speech t=1128.440s>
+content: "of 800 million people in the next century."
+<end speech t=1131.520s>
+
+<begin speech t=1131.520s>
+content: "Each day with a task completed, find someone to help you through life, respect everyone,"
+<end speech t=1137.560s>
+
+<begin speech t=1137.560s>
+content: "know that life is not fair and that you will fail often."
+<end speech t=1140.720s>
+
+<begin speech t=1140.720s>
+content: "But if you take some risks, step up on the times of the toughest, face down the bullies,"
+<end speech t=1145.680s>
+
+<begin speech t=1145.680s>
+content: "lift up the downtrodden, and never, ever give up."
+<end speech t=1148.720s>
+
+<begin speech t=1148.720s>
+content: "If you do these things, the next generation and the generations that follow will live"
+<end speech t=1154.200s>
+
+<begin speech t=1154.200s>
+content: "in a world far better than the one we have today."
+<end speech t=1157.240s>
+
+<begin speech t=1157.240s>
+content: "And what started here will indeed have changed the world for the better."
+<end speech t=1163.120s>
+
+<begin speech t=1163.120s>
+content: "Thank you very much."
+<end speech t=1164.120s>
+
+<begin speech t=1164.120s>
+content: "Harkam Horns."
+<end speech t=1165.120s>

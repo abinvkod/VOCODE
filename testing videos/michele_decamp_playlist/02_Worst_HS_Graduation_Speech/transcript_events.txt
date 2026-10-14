@@ -1,0 +1,431 @@
+<begin speech t=0000.000s>
+content: "I'm out of here."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "Easy there."
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "Can you all hear me?"
+<end speech t=0015.000s>
+
+<begin speech t=0015.000s>
+content: "Well, that's loud."
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "How about this?"
+<end speech t=0017.000s>
+
+<begin speech t=0017.000s>
+content: "All right, this seems good."
+<end speech t=0019.000s>
+
+<begin speech t=0019.000s>
+content: "Well, hi everyone."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "Hey."
+<end speech t=0022.000s>
+
+<begin speech t=0022.000s>
+content: "Good evening."
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "Yeah, good evening, ladies and gentlemen."
+<end speech t=0027.000s>
+
+<begin speech t=0027.000s>
+content: "This morning, after I put on my cap and gown,"
+<end speech t=0030.000s>
+
+<begin speech t=0030.000s>
+content: "I listened to that new little Wheezy song, you know,"
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "Mollipop, Dance in front of the mirror, check my sock out,"
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "and thought, whoa, I am finally graduating high school."
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "Ooh."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "Time has really flown by, hasn't it?"
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "It seems like just yesterday, we were little insecure BDI children"
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "who wet our beds and sort our pants."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "Oh, my God."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "But look where we are now."
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "Class of 2008, we are sitting amongst our future doctors,"
+<end speech t=0064.000s>
+
+<begin speech t=0064.000s>
+content: "business leaders, and Walmart executives."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "Oh, my God."
+<end speech t=0074.000s>
+
+<begin speech t=0074.000s>
+content: "Oh, my God."
+<end speech t=0076.000s>
+
+<begin speech t=0076.000s>
+content: "I love Walmart."
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "We are transforming into the wave of the future."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "We are this year's graduating class of JP Terrell High School."
+<end speech t=0085.000s>
+
+<begin speech t=0085.000s>
+content: "Sorry, I screwed up."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "You know what's great?"
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "What's great about our class is that we all possess the capacity"
+<end speech t=0093.000s>
+
+<begin speech t=0093.000s>
+content: "to exude greatness in one form or another."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "Hmm."
+<end speech t=0097.000s>
+
+<begin speech t=0097.000s>
+content: "So let's do it all."
+<end speech t=0098.000s>
+
+<begin speech t=0098.000s>
+content: "Let's use that inherent greatness."
+<end speech t=0100.000s>
+
+<begin speech t=0100.000s>
+content: "And why wouldn't we?"
+<end speech t=0102.000s>
+
+<begin speech t=0102.000s>
+content: "Don't just stay on all fours because you're just trying to move on two feet."
+<end speech t=0105.000s>
+
+<begin speech t=0105.000s>
+content: "Did you know how many times Thomas Edison screwed up"
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "before making a light bulb?"
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "And how many dozens of mix tapes sojiboy had to release"
+<end speech t=0113.000s>
+
+<begin speech t=0113.000s>
+content: "before going gold with his hit song?"
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "Even our senior class had to endure hundreds of after-schooled"
+<end speech t=0124.000s>
+
+<begin speech t=0124.000s>
+content: "attentions before learning how to effectively circumvent the attendance policy."
+<end speech t=0128.000s>
+
+<begin speech t=0128.000s>
+content: "Oh, my God."
+<end speech t=0132.000s>
+
+<begin speech t=0132.000s>
+content: "As my good friend, Macau says,"
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "you can't hit a home run unless you swing the bat, right, Andy Talver?"
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "Well, you're a kesher, don't mind."
+<end speech t=0142.000s>
+
+<begin speech t=0142.000s>
+content: "All of our heroes, Albert Einstein, Martin Luther King Jr.,"
+<end speech t=0147.000s>
+
+<begin speech t=0147.000s>
+content: "Bill Gates, Tupac, Barney, all of our heroes grew up."
+<end speech t=0152.000s>
+
+<begin speech t=0152.000s>
+content: "No, definitely then, we did."
+<end speech t=0153.000s>
+
+<begin speech t=0153.000s>
+content: "Y'all weren't diapers, put their pants on the same way,"
+<end speech t=0156.000s>
+
+<begin speech t=0156.000s>
+content: "confused left and right, and accidentally showed up naked to the fifth grade class."
+<end speech t=0160.000s>
+
+<begin speech t=0160.000s>
+content: "Just like we did, right?"
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "Well, at least maybe just like I did."
+<end speech t=0164.000s>
+
+<begin speech t=0164.000s>
+content: "And like us, these great figures all had a sense of curiosity"
+<end speech t=0168.000s>
+
+<begin speech t=0168.000s>
+content: "that they used in their full advantage."
+<end speech t=0170.000s>
+
+<begin speech t=0170.000s>
+content: "Curiosity is the forerunner to success and greatness,"
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "so chase those dreams as yours with unrelenting fervor."
+<end speech t=0176.000s>
+
+<begin speech t=0179.000s>
+content: "Ferris Bueller once said,"
+<end speech t=0181.000s>
+
+<begin speech t=0181.000s>
+content: "life was pretty fast, and if you don't stop to look around once in a while,"
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "you couldn't miss it."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "So remember that success is not a destination, but a continuous journey."
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "And while we should aspire for the future, we should never neglect the present."
+<end speech t=0194.000s>
+
+<begin speech t=0194.000s>
+content: "You know, laugh every day, read a good book, enjoy delicious peanut butter and jelly sandwich,"
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "and spy you next door neighbor, because if you don't learn how to chill out,"
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "you will burn out."
+<end speech t=0204.000s>
+
+<begin speech t=0215.000s>
+content: "And remember to reward yourself for your efforts and deeds."
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "Give yourself a pat on the bat and say,"
+<end speech t=0221.000s>
+
+<begin speech t=0221.000s>
+content: "job well done."
+<end speech t=0223.000s>
+
+<begin speech t=0223.000s>
+content: "Take yourself out to a nice dinner, and give yourself a toast next time you're out,"
+<end speech t=0226.000s>
+
+<begin speech t=0226.000s>
+content: "and an extra 30 minutes on my stage before you start your work."
+<end speech t=0229.000s>
+
+<begin speech t=0229.000s>
+content: "After all, you deserve it, right?"
+<end speech t=0231.000s>
+
+<begin speech t=0231.000s>
+content: "Do you know how many times I've helped my own can and taken myself out of my date?"
+<end speech t=0235.000s>
+
+<begin speech t=0235.000s>
+content: "Score yourself once in a while."
+<end speech t=0237.000s>
+
+<begin speech t=0249.000s>
+content: "Please."
+<end speech t=0251.000s>
+
+<begin speech t=0251.000s>
+content: "Please."
+<end speech t=0253.000s>
+
+<begin speech t=0257.000s>
+content: "At this time, I'd like to thank a few people who I hold dearest in my life."
+<end speech t=0262.000s>
+
+<begin speech t=0262.000s>
+content: "My loving family, the guidance department, my metaphorical surrogate mother,"
+<end speech t=0268.000s>
+
+<begin speech t=0268.000s>
+content: "Ms. Julie Gaverwishing, right there."
+<end speech t=0270.000s>
+
+<begin speech t=0270.000s>
+content: "And a few of my friends, Florence Vanessa,"
+<end speech t=0274.000s>
+
+<begin speech t=0274.000s>
+content: "Stephanie Chris Howard Harrison, Jeff Ray Trang, Sabrina, and my 9 year old son,"
+<end speech t=0279.000s>
+
+<begin speech t=0279.000s>
+content: "Macau."
+<end speech t=0280.000s>
+
+<begin speech t=0286.000s>
+content: "I would likely be homeless without them."
+<end speech t=0289.000s>
+
+<begin speech t=0289.000s>
+content: "But hmm, I'd like to thank all of you, you know, this section right here."
+<end speech t=0295.000s>
+
+<begin speech t=0295.000s>
+content: "We are the brave, the bold, and the beautiful, Class of 2008."
+<end speech t=0300.000s>
+
+<begin speech t=0300.000s>
+content: "As a prominent avant-garde hip-hop musician, one said,"
+<end speech t=0302.800s>
+
+<begin speech t=0302.800s>
+content: "we the best."
+<end speech t=0304.000s>
+
+<begin speech t=0304.000s>
+content: "Yeah!"
+<end speech t=0305.000s>
+
+<begin speech t=0305.000s>
+content: "Yeah!"
+<end speech t=0306.000s>
+
+<begin speech t=0306.000s>
+content: "Yeah!"
+<end speech t=0307.000s>
+
+<begin speech t=0307.000s>
+content: "Yeah!"
+<end speech t=0308.000s>
+
+<begin speech t=0308.000s>
+content: "Yeah!"
+<end speech t=0309.000s>
+
+<begin speech t=0309.000s>
+content: "Yeah!"
+<end speech t=0310.000s>
+
+<begin speech t=0310.000s>
+content: "Yeah!"
+<end speech t=0311.000s>
+
+<begin speech t=0311.000s>
+content: "Yeah!"
+<end speech t=0312.000s>
+
+<begin speech t=0312.000s>
+content: "Yeah!"
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "Yeah!"
+<end speech t=0314.000s>
+
+<begin speech t=0314.000s>
+content: "Yeah!"
+<end speech t=0315.000s>
+
+<begin speech t=0315.000s>
+content: "Yeah!"
+<end speech t=0316.000s>
+
+<begin speech t=0316.000s>
+content: "Yeah!"
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "Yeah!"
+<end speech t=0318.000s>
+
+<begin speech t=0318.000s>
+content: "Yeah!"
+<end speech t=0319.000s>
+
+<begin speech t=0319.000s>
+content: "Yeah!"
+<end speech t=0320.000s>
+
+<begin speech t=0320.000s>
+content: "Yeah!"
+<end speech t=0321.000s>
+
+<begin speech t=0321.000s>
+content: "Yeah!"
+<end speech t=0322.000s>
+
+<begin speech t=0322.000s>
+content: "Yeah!"
+<end speech t=0323.000s>
+
+<begin speech t=0323.000s>
+content: "Wherever your aspirations take you, like, for me, Paul's after this, um, I wish you all the best."
+<end speech t=0328.000s>
+
+<begin speech t=0328.000s>
+content: "Thank you for your time!"
+<end speech t=0329.000s>
+
+<begin speech t=0329.000s>
+content: "Thank you!"
+<end speech t=0332.000s>

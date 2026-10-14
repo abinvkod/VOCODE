@@ -1,0 +1,47 @@
+{
+  "id": "Iqq1roF4C8s",
+  "slug": "05_Mohammed_Qahtani_World_Champion",
+  "display_name": "Mohammed Qahtani - World Champion of Public Speaking 2015",
+  "duration_sec": 682.85,
+  "grades": {
+    "strict_leniency_0": 9.4,
+    "moderate_leniency_50": 9.6,
+    "lenient_leniency_100": 9.8
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.7,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.3,
+      "metric": "hesitations_per_min: 2.6",
+      "flaw": "Awkward Dead-Air Pauses",
+      "explanation": "Frequent silences exceeding 1.5 seconds (30 total) disrupted narrative flow."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 4,
+    "fillers_per_min": 0.35,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 203.02,
+    "f0_semitones": 21.55,
+    "f0_velocity_hz_per_sec": 714.94,
+    "articulation_rate_sps": 5.92,
+    "pause_ratio": 0.215,
+    "hesitation_pause_count": 30,
+    "energy_dynamic_range_db": 60.67,
+    "papr_crest_factor": 27.47,
+    "spectral_flux": 4.0797
+  },
+  "transcript_preview": "Please welcome our next contestant, Muhammad Khatani, the power of words. The power of words, Muhammad Khatani. What? All you all think smoking kills? Let me tell you something. Do you know that the amount of people dying from diabetes are three time..."
+}

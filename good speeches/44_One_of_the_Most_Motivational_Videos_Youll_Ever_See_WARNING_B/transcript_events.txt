@@ -1,0 +1,439 @@
+<begin speech t=0000.000s>
+content: "There is nothing you cannot be, there is nothing you cannot do, there is nothing you cannot have."
+<end speech t=0006.000s>
+
+<begin speech t=0010.000s>
+content: "You are the most magnificent, the most remarkable, the most splendid being God has ever created."
+<end speech t=0017.000s>
+
+<begin speech t=0017.000s>
+content: "But who could reject such wondrous magnificence?"
+<end speech t=0022.000s>
+
+<begin speech t=0022.000s>
+content: "But you do not know who you are."
+<end speech t=0026.000s>
+
+<begin speech t=0026.000s>
+content: "And you think you are a great deal with."
+<end speech t=0030.000s>
+
+<begin speech t=0032.000s>
+content: "I tell you this, you are your own filmmaker."
+<end speech t=0036.000s>
+
+<begin speech t=0036.000s>
+content: "You set the guidelines."
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "And you decide how well you have done, how well you are doing."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "But you are the one who has decided who and what you really are, and who you want to be."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "And you are the only one who can assess how well you are doing."
+<end speech t=0049.000s>
+
+<begin speech t=0052.000s>
+content: "All you see in your world is the outcome of your idea about it."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "Do you want your life to truly take off?"
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "Life will take off for you then, when you choose for it to."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "Make a choice, like you just decide."
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "You have not so chosen as yet, you have procrastinated, prolonged, protracted, protested."
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "Now it is time that you promulgated and produced what you have been promised."
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "What it is going to be, who you are going to be, how you are going to do it. Just decide."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "Your world would not be in its present condition where you would have simply listened to your experience."
+<end speech t=0092.000s>
+
+<begin speech t=0092.000s>
+content: "The result of you not listening to your experience is that you keep reliving it over and over again."
+<end speech t=0099.000s>
+
+<begin speech t=0099.000s>
+content: "You cannot resist something to which you grant no reality."
+<end speech t=0104.000s>
+
+<begin speech t=0104.000s>
+content: "The act of resisting a thing is the act of granting it life."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "When you resist an energy, you place it there."
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "You would track, not just what you fear, you would track, what you feel, what you are."
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "The more you resist, the more you make it real. Whatever it is you are resisting."
+<end speech t=0121.000s>
+
+<begin speech t=0121.000s>
+content: "What you open your eyes to look at disappears."
+<end speech t=0125.000s>
+
+<begin speech t=0125.000s>
+content: "That is, it ceases to hold, it is in use or reform."
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "If you look at something, truly look at it. You will see right through it."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "And right through any illusion it holds for you, leaving nothing but ultimate reality in your sight."
+<end speech t=0140.000s>
+
+<begin speech t=0140.000s>
+content: "In the face of ultimate reality, your puny illusion has no power."
+<end speech t=0145.000s>
+
+<begin speech t=0145.000s>
+content: "It cannot long hold you in its weakening grip. You see the truth of it."
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "And the truth sets you free."
+<end speech t=0153.000s>
+
+<begin speech t=0153.000s>
+content: "Only when you say, I did this, can you find the power to change it?"
+<end speech t=0158.000s>
+
+<begin speech t=0158.000s>
+content: "It is much easier to change what you are doing than to change what another is doing."
+<end speech t=0164.000s>
+
+<begin speech t=0164.000s>
+content: "The first step in changing anything is to know and accept that you have chosen it to be what it is."
+<end speech t=0171.000s>
+
+<begin speech t=0171.000s>
+content: "You are always in the process of creating every moment, every minute, every day."
+<end speech t=0175.000s>
+
+<begin speech t=0175.000s>
+content: "How you can create will go into later. For now, just take my word for it."
+<end speech t=0179.000s>
+
+<begin speech t=0179.000s>
+content: "You are a big creation machine."
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "And you are turning on a new manifestation literally as fast as you can think."
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "We really do paint our world with our thoughts and our levels healthily."
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "You are a threefold beam. You consist of body, mind and spirit."
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "You could also call these the physical, the non-physical and the metaphysically."
+<end speech t=0205.000s>
+
+<begin speech t=0205.000s>
+content: "The process of creation starts with thought and idea, conception, visualization."
+<end speech t=0211.000s>
+
+<begin speech t=0211.000s>
+content: "If you see it in your mind, you can hold it in your hand."
+<end speech t=0216.000s>
+
+<begin speech t=0216.000s>
+content: "Everything you see was once someone's idea. Nothing exists in your world that did not first exist as pure thought."
+<end speech t=0224.000s>
+
+<begin speech t=0224.000s>
+content: "You have a clear picture in your head if something is going to happen."
+<end speech t=0227.000s>
+
+<begin speech t=0227.000s>
+content: "A clear belief in that it will happen no matter what."
+<end speech t=0231.000s>
+
+<begin speech t=0231.000s>
+content: "Thought is the first left-left creation."
+<end speech t=0235.000s>
+
+<begin speech t=0235.000s>
+content: "If you can see it here, next comes the word."
+<end speech t=0239.000s>
+
+<begin speech t=0239.000s>
+content: "And you have the courage enough to speak it, it will happen."
+<end speech t=0244.000s>
+
+<begin speech t=0244.000s>
+content: "Everything you say is a thought expressed."
+<end speech t=0248.000s>
+
+<begin speech t=0248.000s>
+content: "It is creative and sends forth creative energy into the universe."
+<end speech t=0252.000s>
+
+<begin speech t=0252.000s>
+content: "I wrote myself a check for $10 million for acting services rendered, and I gave myself five years."
+<end speech t=0260.000s>
+
+<begin speech t=0260.000s>
+content: "There are three years maybe."
+<end speech t=0262.000s>
+
+<begin speech t=0262.000s>
+content: "And I put it in my wallet and I kept it there and it deteriorated and deteriorated and stuff."
+<end speech t=0267.000s>
+
+<begin speech t=0267.000s>
+content: "And then just before Thanksgiving 1995, I found out that I was going to make $10 million on a number."
+<end speech t=0278.000s>
+
+<begin speech t=0278.000s>
+content: "Next comes action. Actions are words moving."
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "Words are thoughts expressed. Thoughts are ideas formed."
+<end speech t=0287.000s>
+
+<begin speech t=0287.000s>
+content: "Visualization works if you work hard."
+<end speech t=0291.000s>
+
+<begin speech t=0291.000s>
+content: "Yeah, well, yeah."
+<end speech t=0292.000s>
+
+<begin speech t=0292.000s>
+content: "That's the thing that can't just visualize and then go eat a sandwich."
+<end speech t=0296.000s>
+
+<begin speech t=0296.000s>
+content: "Go first to your highest thought about yourself."
+<end speech t=0300.000s>
+
+<begin speech t=0300.000s>
+content: "Imagine that you would be if you lived that thought every day."
+<end speech t=0304.000s>
+
+<begin speech t=0304.000s>
+content: "Imagine what you would think, do and say, and how you would respond to what others do and say."
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "Every second of every day I was daydreaming."
+<end speech t=0316.000s>
+
+<begin speech t=0316.000s>
+content: "Put the new car up on your mirror. Put the weight you want to be on the refrigerator."
+<end speech t=0320.000s>
+
+<begin speech t=0320.000s>
+content: "If you could see it in your mind, you could hold it in your hand."
+<end speech t=0324.000s>
+
+<begin speech t=0324.000s>
+content: "So, do you want your life to tick off?"
+<end speech t=0327.000s>
+
+<begin speech t=0327.000s>
+content: "Begin at once to imagine it the way you want it to be."
+<end speech t=0330.000s>
+
+<begin speech t=0330.000s>
+content: "And move into that."
+<end speech t=0332.000s>
+
+<begin speech t=0332.000s>
+content: "Check every thought word and action that does not fall into harmony with that."
+<end speech t=0337.000s>
+
+<begin speech t=0337.000s>
+content: "Move away from us."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "When you have a thought that is not in alignment with your higher vision, change to a new thought, then and there."
+<end speech t=0346.000s>
+
+<begin speech t=0346.000s>
+content: "When you say a thing that is out of alignment with your grandest idea, make a note not to say something like that again."
+<end speech t=0353.000s>
+
+<begin speech t=0353.000s>
+content: "When you do a thing that is misaligned with your best intention, decide to make that the last time."
+<end speech t=0358.000s>
+
+<begin speech t=0358.000s>
+content: "And make it right with whomever was involved if you can."
+<end speech t=0363.000s>
+
+<begin speech t=0363.000s>
+content: "As they achieved my dreams and by doing it, eventually they came true."
+<end speech t=0368.000s>
+
+<begin speech t=0368.000s>
+content: "This will require tremendous mental and physical effort."
+<end speech t=0372.000s>
+
+<begin speech t=0372.000s>
+content: "You will entail constant momentum and monitoring of your every thought word and deed."
+<end speech t=0377.000s>
+
+<begin speech t=0377.000s>
+content: "You will involve continued choice-making consciously."
+<end speech t=0380.000s>
+
+<begin speech t=0380.000s>
+content: "This whole process is a massive move to consciousness."
+<end speech t=0384.000s>
+
+<begin speech t=0384.000s>
+content: "What you will find out if you want to take this challenge is that you've spent half your life unconscious."
+<end speech t=0391.000s>
+
+<begin speech t=0391.000s>
+content: "That is to say, unaware on a conscious level of what you are choosing with your thoughts, words and deeds"
+<end speech t=0397.000s>
+
+<begin speech t=0397.000s>
+content: "until you experience the aftermath of them."
+<end speech t=0400.000s>
+
+<begin speech t=0400.000s>
+content: "Then when you experience these results, you deny that your thoughts, words and deeds had anything to do with them."
+<end speech t=0407.000s>
+
+<begin speech t=0408.000s>
+content: "I want to remind you to continue to dream and dream big."
+<end speech t=0415.000s>
+
+<begin speech t=0418.000s>
+content: "What dream or vision do you want to turn into reality?"
+<end speech t=0424.000s>
+
+<begin speech t=0426.000s>
+content: "There is nothing you cannot be, there is nothing you cannot do, there is nothing you cannot have."
+<end speech t=0431.000s>
+
+<begin speech t=0431.000s>
+content: "If you are going to try, go all the way."
+<end speech t=0439.000s>
+
+<begin speech t=0439.000s>
+content: "Otherwise, don't even start."
+<end speech t=0442.000s>
+
+<begin speech t=0442.000s>
+content: "If you are going to try, go all the way."
+<end speech t=0446.000s>
+
+<begin speech t=0446.000s>
+content: "There is no other feeling like that."
+<end speech t=0450.000s>
+
+<begin speech t=0450.000s>
+content: "You will be alone with the gods and the night will flame with fire."
+<end speech t=0457.000s>
+
+<begin speech t=0457.000s>
+content: "Do it."
+<end speech t=0458.000s>
+
+<begin speech t=0458.000s>
+content: "Do it."
+<end speech t=0459.000s>
+
+<begin speech t=0459.000s>
+content: "Do it."
+<end speech t=0460.000s>
+
+<begin speech t=0460.000s>
+content: "Do it."
+<end speech t=0461.000s>
+
+<begin speech t=0461.000s>
+content: "Do it."
+<end speech t=0462.000s>
+
+<begin speech t=0462.000s>
+content: "Do it."
+<end speech t=0463.000s>
+
+<begin speech t=0463.000s>
+content: "All the way."
+<end speech t=0465.000s>
+
+<begin speech t=0465.000s>
+content: "All the way."
+<end speech t=0467.000s>
+
+<begin speech t=0467.000s>
+content: "You will ride live straight to perfect laughter."
+<end speech t=0473.000s>
+
+<begin speech t=0473.000s>
+content: "It's the only good find there is."
+<end speech t=0478.000s>
+
+<begin speech t=0481.000s>
+content: "If you are going to try, go all the way."
+<end speech t=0485.000s>
+
+<begin speech t=0519.000s>
+content: "You will be alone with the gods and the night will flame with fire."
+<end speech t=0525.000s>
+
+<begin speech t=0525.000s>
+content: "You will be alone with the Lord."
+<end speech t=0528.000s>
+
+<begin speech t=0528.000s>
+content: "You will be alone with the Lord."
+<end speech t=0532.000s>
+
+<begin speech t=0532.000s>
+content: "You will be alone with the Lord."
+<end speech t=0542.000s>
+
+<begin speech t=0542.000s>
+content: "Oh"
+<end speech t=0544.000s>
+
+<begin speech t=0572.000s>
+content: "Oh"
+<end speech t=0574.000s>
+
+<begin speech t=0602.000s>
+content: "Oh"
+<end speech t=0604.000s>

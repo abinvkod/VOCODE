@@ -1,0 +1,348 @@
+{
+  "MLK_I_Have_A_Dream": {
+    "name": "Martin Luther King Jr. - I Have A Dream",
+    "tiers": {
+      "Tier 0 (Masterclass)": {
+        "overall_score": 9.7,
+        "grade_band": "Masterclass Oratory (Tier 0)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.2,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 2.3,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 2.0,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 70.0,
+          "f0_semitones": 12.02,
+          "f0_velocity": 749.7,
+          "pause_ratio": 0.194,
+          "max_silence_sec": 1.65,
+          "papr_crest_factor": 25.67
+        },
+        "deductions_count": 1,
+        "key_flaws": [
+          "Mild Pitch Restraint"
+        ]
+      },
+      "Tier 1 (Distinguished)": {
+        "overall_score": 8.1,
+        "grade_band": "Distinguished / Minor Polish (Tier 1)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.7,
+        "critical_deficits": 1,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.65,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.75,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 71.2,
+          "f0_semitones": 10.17,
+          "f0_velocity": 698.3,
+          "pause_ratio": 0.198,
+          "max_silence_sec": 1.64,
+          "papr_crest_factor": 42.02
+        },
+        "deductions_count": 3,
+        "key_flaws": [
+          "Moderate Pitch Compression",
+          "Temporally Grounded Hesitation",
+          "Temporally Grounded Flatline (Monotone)"
+        ]
+      },
+      "Tier 2 (Proficient)": {
+        "overall_score": 6.6,
+        "grade_band": "Proficient / Noticeable Flaws (Tier 2)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.7,
+        "critical_deficits": 1,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.1,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.4,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 72.2,
+          "f0_semitones": 10.05,
+          "f0_velocity": 674.7,
+          "pause_ratio": 0.192,
+          "max_silence_sec": 2.17,
+          "papr_crest_factor": 33.87
+        },
+        "deductions_count": 3,
+        "key_flaws": [
+          "Moderate Pitch Compression",
+          "Temporally Grounded Hesitation",
+          "Temporally Grounded Flatline (Monotone)"
+        ]
+      },
+      "Tier 3 (Botched)": {
+        "overall_score": 2.4,
+        "grade_band": "Novice / Severely Flawed (Tier 3)",
+        "gate_ceiling": 7.97,
+        "systemic_impairment_index": 1.5,
+        "critical_deficits": 2,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.1,
+          "cadence_and_tempo_out_of_2_5": 1.6,
+          "rhetorical_pausing_out_of_2_0": 0.4,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 79.16,
+          "f0_semitones": 9.16,
+          "f0_velocity": 620.5,
+          "pause_ratio": 0.184,
+          "max_silence_sec": 4.77,
+          "papr_crest_factor": 54.12
+        },
+        "deductions_count": 5,
+        "key_flaws": [
+          "Moderate Pitch Compression",
+          "Extended Awkward Silence",
+          "Temporally Grounded Dead-Air Freeze"
+        ]
+      }
+    }
+  },
+  "JFK_Inaugural_Ask_Not": {
+    "name": "John F. Kennedy - Inaugural Address",
+    "tiers": {
+      "Tier 0 (Masterclass)": {
+        "overall_score": 9.5,
+        "grade_band": "Masterclass Oratory (Tier 0)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.0,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 2.5,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 2.0,
+          "dynamic_energy_out_of_1_5": 1.2,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 70.0,
+          "f0_semitones": 18.24,
+          "f0_velocity": 648.1,
+          "pause_ratio": 0.221,
+          "max_silence_sec": 1.18,
+          "papr_crest_factor": 13.06
+        },
+        "deductions_count": 1,
+        "key_flaws": [
+          "Low Vocal Punchiness"
+        ]
+      },
+      "Tier 1 (Distinguished)": {
+        "overall_score": 8.5,
+        "grade_band": "Distinguished / Minor Polish (Tier 1)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.0,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 2.15,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.75,
+          "dynamic_energy_out_of_1_5": 1.2,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 71.2,
+          "f0_semitones": 17.82,
+          "f0_velocity": 601.0,
+          "pause_ratio": 0.213,
+          "max_silence_sec": 1.17,
+          "papr_crest_factor": 14.18
+        },
+        "deductions_count": 3,
+        "key_flaws": [
+          "Low Vocal Punchiness",
+          "Temporally Grounded Hesitation",
+          "Temporally Grounded Flatline (Monotone)"
+        ]
+      },
+      "Tier 2 (Proficient)": {
+        "overall_score": 6.6,
+        "grade_band": "Proficient / Noticeable Flaws (Tier 2)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.0,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.4,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.4,
+          "dynamic_energy_out_of_1_5": 1.2,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 72.2,
+          "f0_semitones": 13.84,
+          "f0_velocity": 498.7,
+          "pause_ratio": 0.22,
+          "max_silence_sec": 2.17,
+          "papr_crest_factor": 13.35
+        },
+        "deductions_count": 4,
+        "key_flaws": [
+          "Mild Pitch Restraint",
+          "Low Vocal Punchiness",
+          "Temporally Grounded Hesitation"
+        ]
+      },
+      "Tier 3 (Botched)": {
+        "overall_score": 1.9,
+        "grade_band": "Novice / Severely Flawed (Tier 3)",
+        "gate_ceiling": 7.97,
+        "systemic_impairment_index": 1.5,
+        "critical_deficits": 2,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.1,
+          "cadence_and_tempo_out_of_2_5": 1.6,
+          "rhetorical_pausing_out_of_2_0": 0.4,
+          "dynamic_energy_out_of_1_5": 1.2,
+          "spectral_clarity_out_of_1_5": 1.5
+        },
+        "telemetry": {
+          "duration_sec": 80.16,
+          "f0_semitones": 10.52,
+          "f0_velocity": 426.1,
+          "pause_ratio": 0.204,
+          "max_silence_sec": 4.77,
+          "papr_crest_factor": 12.83
+        },
+        "deductions_count": 6,
+        "key_flaws": [
+          "Moderate Pitch Compression",
+          "Extended Awkward Silence",
+          "Low Vocal Punchiness"
+        ]
+      }
+    }
+  },
+  "Chaplin_Great_Dictator": {
+    "name": "Charlie Chaplin - The Great Dictator",
+    "tiers": {
+      "Tier 0 (Masterclass)": {
+        "overall_score": 9.0,
+        "grade_band": "Masterclass Oratory (Tier 0)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.2,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 2.3,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 2.0,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.1
+        },
+        "telemetry": {
+          "duration_sec": 75.0,
+          "f0_semitones": 11.41,
+          "f0_velocity": 522.9,
+          "pause_ratio": 0.178,
+          "max_silence_sec": 1.41,
+          "papr_crest_factor": 26.3
+        },
+        "deductions_count": 2,
+        "key_flaws": [
+          "Mild Pitch Restraint",
+          "Slurred Enunciation"
+        ]
+      },
+      "Tier 1 (Distinguished)": {
+        "overall_score": 8.0,
+        "grade_band": "Distinguished / Minor Polish (Tier 1)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.2,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.95,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.75,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.1
+        },
+        "telemetry": {
+          "duration_sec": 76.2,
+          "f0_semitones": 11.59,
+          "f0_velocity": 536.8,
+          "pause_ratio": 0.181,
+          "max_silence_sec": 1.3,
+          "papr_crest_factor": 26.72
+        },
+        "deductions_count": 4,
+        "key_flaws": [
+          "Mild Pitch Restraint",
+          "Slurred Enunciation",
+          "Temporally Grounded Hesitation"
+        ]
+      },
+      "Tier 2 (Proficient)": {
+        "overall_score": 6.0,
+        "grade_band": "Developing / Inconsistent (Tier 3)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 0.6,
+        "critical_deficits": 0,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.4,
+          "cadence_and_tempo_out_of_2_5": 2.5,
+          "rhetorical_pausing_out_of_2_0": 1.15,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.1
+        },
+        "telemetry": {
+          "duration_sec": 77.2,
+          "f0_semitones": 12.1,
+          "f0_velocity": 505.3,
+          "pause_ratio": 0.168,
+          "max_silence_sec": 2.17,
+          "papr_crest_factor": 27.05
+        },
+        "deductions_count": 5,
+        "key_flaws": [
+          "Mild Pitch Restraint",
+          "Insufficient Pausing",
+          "Slurred Enunciation"
+        ]
+      },
+      "Tier 3 (Botched)": {
+        "overall_score": 3.2,
+        "grade_band": "Novice / Severely Flawed (Tier 3)",
+        "gate_ceiling": 10.0,
+        "systemic_impairment_index": 1.0,
+        "critical_deficits": 1,
+        "pillars": {
+          "pitch_modulation_out_of_2_5": 1.4,
+          "cadence_and_tempo_out_of_2_5": 1.6,
+          "rhetorical_pausing_out_of_2_0": 0.4,
+          "dynamic_energy_out_of_1_5": 1.5,
+          "spectral_clarity_out_of_1_5": 1.1
+        },
+        "telemetry": {
+          "duration_sec": 87.16,
+          "f0_semitones": 11.53,
+          "f0_velocity": 488.8,
+          "pause_ratio": 0.201,
+          "max_silence_sec": 4.77,
+          "papr_crest_factor": 29.9
+        },
+        "deductions_count": 6,
+        "key_flaws": [
+          "Mild Pitch Restraint",
+          "Extended Awkward Silence",
+          "Slurred Enunciation"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<begin speech t=0000.000s>
+content: "You walk into this room at your own risk, because it leads to the future."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "Not a future that will be, but one that might be."
+<end speech t=0010.000s>
+
+<begin speech t=0010.000s>
+content: "This is not a new world."
+<end speech t=0012.000s>
+
+<begin speech t=0012.000s>
+content: "It is simply an extension of what began in the old one."
+<end speech t=0017.000s>
+
+<begin speech t=0017.000s>
+content: "It has patterned itself after every dictator who has ever planted the ripping imprint of a boot on the pages of history, since the beginning of time."
+<end speech t=0025.000s>
+
+<begin speech t=0025.000s>
+content: "It has refinements, technological advances, and a more sophisticated approach to the destruction of human freedom."
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "But like every one of the superstates that preceded it, it has one iron roar."
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "Logic is an enemy and truth is a menace."
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "The Chancellor of the late Chancellor was only partly correct. He was obsolete."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "But so is the state, the entity he worshipped."
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "Any state, any entity, any ideology that fails to recognize the worth, the dignity, the rights of man."
+<end speech t=0056.000s>
+
+<begin speech t=0056.000s>
+content: "That state is obsolete. A case to be filed under M for mankind."
+<end speech t=0061.000s>

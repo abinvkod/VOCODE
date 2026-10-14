@@ -1,0 +1,323 @@
+<begin speech t=0000.000s>
+content: "I'm sorry, but I don't want to be an emperor."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "That's not my business."
+<end speech t=0015.000s>
+
+<begin speech t=0015.000s>
+content: "I don't want to rule or conquer anyone."
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "I should like to help everyone if possible."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "Chew, gentile, like man, white."
+<end speech t=0024.000s>
+
+<begin speech t=0024.000s>
+content: "We all want to help one another."
+<end speech t=0026.000s>
+
+<begin speech t=0026.000s>
+content: "Human beings are like that."
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "We want to live by each other's happiness, not by each other's misery."
+<end speech t=0031.000s>
+
+<begin speech t=0031.000s>
+content: "We don't want to hate and despise one another."
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "In this world there's room for everyone, and the good earth is rich,"
+<end speech t=0037.000s>
+
+<begin speech t=0037.000s>
+content: "and can provide for everyone."
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "The way of life can be free and beautiful."
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "But we have lost the way."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "Greed has poisoned men's souls,"
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "has barricaded the world with hate,"
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "has goo stepped us into misery and bloodshed."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "We have developed speed,"
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "but we have shut ourselves in."
+<end speech t=0056.000s>
+
+<begin speech t=0056.000s>
+content: "A machinery that gives abundance has left us in want."
+<end speech t=0059.000s>
+
+<begin speech t=0059.000s>
+content: "Our knowledge has made us cynical."
+<end speech t=0061.000s>
+
+<begin speech t=0061.000s>
+content: "Our cleverness hard and unkind."
+<end speech t=0063.000s>
+
+<begin speech t=0063.000s>
+content: "We think too much, and we'll be human to it."
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "More the machinery, we need humanity."
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "More than cleverness, we need kindness and gentleness."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "Without these qualities life will be violent,"
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "and all will be lost."
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "The aeroplane and the radio have brought us closer together."
+<end speech t=0080.000s>
+
+<begin speech t=0080.000s>
+content: "Very nature of these inventions cries out to the innocent men."
+<end speech t=0083.000s>
+
+<begin speech t=0083.000s>
+content: "It cries out for universal brotherhood, for the unity of us all."
+<end speech t=0086.000s>
+
+<begin speech t=0086.000s>
+content: "Even now my voice is reaching millions throughout the world."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "Millions of despairing men, women and children."
+<end speech t=0092.000s>
+
+<begin speech t=0092.000s>
+content: "Victims of a system that makes men torture,"
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "and in prison, and so forth."
+<end speech t=0097.000s>
+
+<begin speech t=0097.000s>
+content: "But those who can hear me, I say, do not despair."
+<end speech t=0101.000s>
+
+<begin speech t=0101.000s>
+content: "The misery that is now upon us is the capacity of greed."
+<end speech t=0104.000s>
+
+<begin speech t=0104.000s>
+content: "The bitterness of men,"
+<end speech t=0106.000s>
+
+<begin speech t=0106.000s>
+content: "be the way of human progress."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "The hate of men will pass."
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "The dictators die."
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "The power they took from the people will return to the people."
+<end speech t=0115.000s>
+
+<begin speech t=0115.000s>
+content: "And so long as men die, the liberty will never perish."
+<end speech t=0119.000s>
+
+<begin speech t=0119.000s>
+content: "Soldiers, don't give yourselves to brooks."
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "Men who despise you and slay you will regiment your lives."
+<end speech t=0127.000s>
+
+<begin speech t=0127.000s>
+content: "Do you have to do what to think of what to feel?"
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "Who drill you, die or to treat you like cattle?"
+<end speech t=0132.000s>
+
+<begin speech t=0132.000s>
+content: "Use your skin and butter?"
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "Don't give yourselves to these unnatural men."
+<end speech t=0136.000s>
+
+<begin speech t=0136.000s>
+content: "Machine men with machine minds and machine hearts?"
+<end speech t=0140.000s>
+
+<begin speech t=0140.000s>
+content: "You are not machines? You are not cattle? You are men."
+<end speech t=0144.000s>
+
+<begin speech t=0144.000s>
+content: "You have a love of humanity in your hearts."
+<end speech t=0146.000s>
+
+<begin speech t=0146.000s>
+content: "You don't hate over the unloved hate."
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "You're loved and you're natural."
+<end speech t=0150.000s>
+
+<begin speech t=0150.000s>
+content: "Soldiers, don't fight for slavery, fight for liberty."
+<end speech t=0154.000s>
+
+<begin speech t=0154.000s>
+content: "In the 70s, chapters and bookabits,"
+<end speech t=0156.000s>
+
+<begin speech t=0156.000s>
+content: "the kingdom of darkness within land,"
+<end speech t=0158.000s>
+
+<begin speech t=0158.000s>
+content: "not one man nor a group of men,"
+<end speech t=0160.000s>
+
+<begin speech t=0160.000s>
+content: "but in all men in you,"
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "you the people of the power."
+<end speech t=0164.000s>
+
+<begin speech t=0164.000s>
+content: "The power to be perceived, the power to create happiness."
+<end speech t=0167.000s>
+
+<begin speech t=0167.000s>
+content: "You the people have the power to make this life"
+<end speech t=0169.000s>
+
+<begin speech t=0169.000s>
+content: "pretty and beautiful to make this life a wonderful adventure."
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "Then in the name of democracy,"
+<end speech t=0175.000s>
+
+<begin speech t=0175.000s>
+content: "there's a shoes that power let us all unite."
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "There's a spike for a new world, a decent world,"
+<end speech t=0181.000s>
+
+<begin speech t=0181.000s>
+content: "a forgiven and a chance to work that will give you the future"
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "and old age to security."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "And the brothers of these things,"
+<end speech t=0188.000s>
+
+<begin speech t=0188.000s>
+content: "who have presence of power,"
+<end speech t=0189.000s>
+
+<begin speech t=0189.000s>
+content: "that they lie, they do not fulfill their promise."
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "They never will."
+<end speech t=0193.000s>
+
+<begin speech t=0193.000s>
+content: "They just breathe themselves,"
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "but they enslaved the people."
+<end speech t=0197.000s>
+
+<begin speech t=0197.000s>
+content: "Now, at a spite, to fulfill that promise,"
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "they don't fight to free the world,"
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "to go away with national barrier,"
+<end speech t=0204.000s>
+
+<begin speech t=0204.000s>
+content: "to go away with greed, with hate and intolerance."
+<end speech t=0208.000s>
+
+<begin speech t=0208.000s>
+content: "There's a spike for a world of reason,"
+<end speech t=0210.000s>
+
+<begin speech t=0210.000s>
+content: "the world where science and progress"
+<end speech t=0212.000s>
+
+<begin speech t=0212.000s>
+content: "will lead to all men's happiness."
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "Soldiers, in the name of democracy,"
+<end speech t=0218.000s>
+
+<begin speech t=0218.000s>
+content: "let us all unite!"
+<end speech t=0220.000s>

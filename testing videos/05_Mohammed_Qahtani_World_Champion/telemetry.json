@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/05_Mohammed_Qahtani_World_Champion/raw_audio.wav",
+  "clean_file": "testing videos/05_Mohammed_Qahtani_World_Champion/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 685.14,
+  "clean_duration_sec": 682.85,
+  "lead_trim_sec": 2.29,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -21.28,
+  "target_lufs": -20.0,
+  "gain_applied_db": 1.28,
+  "snr_raw_db": 35.49,
+  "snr_clean_db": 39.29,
+  "snr_improvement_db": 3.8,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 986,
+    "utterance_count": 120
+  },
+  "status": "READY_FOR_EVALUATION"
+}

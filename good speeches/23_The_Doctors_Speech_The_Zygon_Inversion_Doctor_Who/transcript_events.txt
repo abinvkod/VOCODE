@@ -1,0 +1,351 @@
+<begin speech t=0000.000s>
+content: "So, let me ask you a question about this brave new world at yours."
+<end speech t=0004.800s>
+
+<begin speech t=0004.800s>
+content: "When you've killed all the bad guys,"
+<end speech t=0007.600s>
+
+<begin speech t=0007.600s>
+content: "and when it's all perfect and just and fair,"
+<end speech t=0010.600s>
+
+<begin speech t=0010.600s>
+content: "when you have finally got it exactly the way you want it,"
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "what are you going to do with the people like you,"
+<end speech t=0019.200s>
+
+<begin speech t=0019.200s>
+content: "the troublemakers?"
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "How are you going to protect your glorious revolution"
+<end speech t=0026.200s>
+
+<begin speech t=0026.200s>
+content: "from the next one?"
+<end speech t=0029.400s>
+
+<begin speech t=0029.400s>
+content: "Will win."
+<end speech t=0030.400s>
+
+<begin speech t=0030.400s>
+content: "Oh, will you?"
+<end speech t=0031.800s>
+
+<begin speech t=0031.800s>
+content: "Well, maybe you will win."
+<end speech t=0035.400s>
+
+<begin speech t=0035.400s>
+content: "The lovely winds for long."
+<end speech t=0038.200s>
+
+<begin speech t=0038.200s>
+content: "The wheel just keeps turning."
+<end speech t=0042.200s>
+
+<begin speech t=0042.200s>
+content: "So come on, break the cycle."
+<end speech t=0046.600s>
+
+<begin speech t=0046.600s>
+content: "Why are you still talking?"
+<end speech t=0048.200s>
+
+<begin speech t=0048.200s>
+content: "Because I want to get you to see and I'm almost there."
+<end speech t=0051.600s>
+
+<begin speech t=0051.600s>
+content: "You know what I see, Doctor?"
+<end speech t=0055.400s>
+
+<begin speech t=0055.400s>
+content: "A box."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "A box with everything I need."
+<end speech t=0059.800s>
+
+<begin speech t=0059.800s>
+content: "A 50% chance for us to."
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "And we're off fingers and buzzers."
+<end speech t=0067.400s>
+
+<begin speech t=0067.400s>
+content: "Are you feeling lucky?"
+<end speech t=0068.400s>
+
+<begin speech t=0068.400s>
+content: "Are you ready to play the game?"
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "Who's going to be quickest?"
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "Who's going to be luckiest?"
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "This is not a game!"
+<end speech t=0073.000s>
+
+<begin speech t=0073.000s>
+content: "Oh, it's not a game, sweetheart."
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "I mean, they're most sincerely."
+<end speech t=0076.600s>
+
+<begin speech t=0076.600s>
+content: "Why are you doing this?"
+<end speech t=0077.600s>
+
+<begin speech t=0077.600s>
+content: "Yes, I'd quite like to know that too."
+<end speech t=0079.600s>
+
+<begin speech t=0079.600s>
+content: "You set this up."
+<end speech t=0080.600s>
+
+<begin speech t=0080.600s>
+content: "Why?"
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "Because it's not a game, Kate."
+<end speech t=0084.200s>
+
+<begin speech t=0084.200s>
+content: "This is a scale model of war."
+<end speech t=0087.200s>
+
+<begin speech t=0087.200s>
+content: "Every war ever fought right there in front of you."
+<end speech t=0090.800s>
+
+<begin speech t=0090.800s>
+content: "Because it's almost the same."
+<end speech t=0093.200s>
+
+<begin speech t=0093.200s>
+content: "When you fire that first shot, no matter how right you feel,"
+<end speech t=0096.600s>
+
+<begin speech t=0096.600s>
+content: "you have no idea who's going to die."
+<end speech t=0099.600s>
+
+<begin speech t=0099.600s>
+content: "You don't know whose children are going to scream and burn."
+<end speech t=0105.200s>
+
+<begin speech t=0105.200s>
+content: "I'm really hurt when they're broken."
+<end speech t=0109.000s>
+
+<begin speech t=0109.000s>
+content: "How many lives shattered?"
+<end speech t=0110.800s>
+
+<begin speech t=0110.800s>
+content: "How much blood will spill until everybody does what they want?"
+<end speech t=0113.400s>
+
+<begin speech t=0113.400s>
+content: "Oh, it's going to have to do it from the very beginning."
+<end speech t=0115.600s>
+
+<begin speech t=0115.600s>
+content: "Sit down and talk!"
+<end speech t=0117.600s>
+
+<begin speech t=0122.400s>
+content: "Listen to me."
+<end speech t=0123.400s>
+
+<begin speech t=0123.400s>
+content: "Listen, I just want you to think."
+<end speech t=0126.400s>
+
+<begin speech t=0128.000s>
+content: "Do you ever think it is?"
+<end speech t=0129.400s>
+
+<begin speech t=0129.400s>
+content: "It's just a fancy word for changing your mind."
+<end speech t=0132.400s>
+
+<begin speech t=0132.400s>
+content: "I will not change my mind."
+<end speech t=0134.400s>
+
+<begin speech t=0134.400s>
+content: "Then you will die, stupid."
+<end speech t=0136.400s>
+
+<begin speech t=0136.400s>
+content: "Alternatively, you could step away from that box."
+<end speech t=0140.400s>
+
+<begin speech t=0140.400s>
+content: "She could walk right out of that door and you could stand your revolution down."
+<end speech t=0145.400s>
+
+<begin speech t=0145.400s>
+content: "No."
+<end speech t=0146.400s>
+
+<begin speech t=0146.400s>
+content: "I'm not stopping this doctor."
+<end speech t=0148.400s>
+
+<begin speech t=0148.400s>
+content: "I started it."
+<end speech t=0149.400s>
+
+<begin speech t=0149.400s>
+content: "I will not stop it."
+<end speech t=0150.400s>
+
+<begin speech t=0150.400s>
+content: "You think that?"
+<end speech t=0151.400s>
+
+<begin speech t=0151.400s>
+content: "Let me go after what I've done."
+<end speech t=0153.400s>
+
+<begin speech t=0153.400s>
+content: "You're all the same."
+<end speech t=0154.400s>
+
+<begin speech t=0154.400s>
+content: "You screaming kids."
+<end speech t=0155.400s>
+
+<begin speech t=0155.400s>
+content: "You know that?"
+<end speech t=0156.400s>
+
+<begin speech t=0156.400s>
+content: "Look at me."
+<end speech t=0157.400s>
+
+<begin speech t=0157.400s>
+content: "I'm unforgivable."
+<end speech t=0158.400s>
+
+<begin speech t=0158.400s>
+content: "Well, here's the unforeseeable."
+<end speech t=0159.400s>
+
+<begin speech t=0159.400s>
+content: "I forgive you."
+<end speech t=0161.400s>
+
+<begin speech t=0161.400s>
+content: "After all you've done."
+<end speech t=0163.400s>
+
+<begin speech t=0166.400s>
+content: "I forgive you."
+<end speech t=0167.400s>
+
+<begin speech t=0170.400s>
+content: "You don't understand."
+<end speech t=0172.400s>
+
+<begin speech t=0172.400s>
+content: "You will never understand."
+<end speech t=0176.400s>
+
+<begin speech t=0176.400s>
+content: "I don't understand."
+<end speech t=0178.400s>
+
+<begin speech t=0178.400s>
+content: "Are you kidding me?"
+<end speech t=0180.400s>
+
+<begin speech t=0180.400s>
+content: "Of course I understand."
+<end speech t=0182.400s>
+
+<begin speech t=0182.400s>
+content: "I mean, you call this a war this funny little thing."
+<end speech t=0184.400s>
+
+<begin speech t=0184.400s>
+content: "This is not a war."
+<end speech t=0186.400s>
+
+<begin speech t=0186.400s>
+content: "I thought in a bigger war than you will ever know."
+<end speech t=0189.400s>
+
+<begin speech t=0189.400s>
+content: "I did worse things than you could ever imagine."
+<end speech t=0192.400s>
+
+<begin speech t=0192.400s>
+content: "When I close my eyes."
+<end speech t=0194.400s>
+
+<begin speech t=0195.400s>
+content: "I hear more screams than anyone could ever be able to count."
+<end speech t=0199.400s>
+
+<begin speech t=0199.400s>
+content: "I don't know what you do with all that pain."
+<end speech t=0201.400s>
+
+<begin speech t=0201.400s>
+content: "Can I tell you where you put it?"
+<end speech t=0203.400s>
+
+<begin speech t=0203.400s>
+content: "All it takes."
+<end speech t=0205.400s>
+
+<begin speech t=0208.400s>
+content: "It burns your hand."
+<end speech t=0209.400s>
+
+<begin speech t=0209.400s>
+content: "And you say this."
+<end speech t=0211.400s>
+
+<begin speech t=0212.400s>
+content: "No one else will ever have to live like this."
+<end speech t=0216.400s>
+
+<begin speech t=0216.400s>
+content: "No one else will have to feel this pain."
+<end speech t=0219.400s>
+
+<begin speech t=0219.400s>
+content: "Not on my watch."
+<end speech t=0221.400s>
+
+<begin speech t=0230.400s>
+content: "I can't."
+<end speech t=0232.400s>
+
+<begin speech t=0232.400s>
+content: "Thank you."
+<end speech t=0234.400s>

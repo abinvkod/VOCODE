@@ -1,0 +1,419 @@
+<begin speech t=0000.000s>
+content: "Denajeja Hirirachi, I see something."
+<end speech t=0005.000s>
+
+<begin speech t=0005.000s>
+content: "I see something."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "Denajeja Hirirachi."
+<end speech t=0009.000s>
+
+<begin speech t=0009.000s>
+content: "You and I are not very different from this flower."
+<end speech t=0032.000s>
+
+<begin speech t=0032.000s>
+content: "Just like this flower is unique, you are unique."
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "All of us have something special that makes us as beautiful."
+<end speech t=0045.000s>
+
+<begin speech t=0045.000s>
+content: "Do you know what makes you special?"
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "Now the answer to that can be a little difficult to find."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "Because sometimes life has a cruel way of picking out your petals"
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "and breaking you into and throwing you into the trash."
+<end speech t=0074.000s>
+
+<begin speech t=0074.000s>
+content: "And when you're broken, it's very difficult to feel special."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "Mr. Condister, my fellow flowers."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "I can remember the first time I grew."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "I was 17 years old."
+<end speech t=0091.000s>
+
+<begin speech t=0091.000s>
+content: "I had already flunked high school and managed to get myself arrested."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "Now, I wasn't afraid of the cops."
+<end speech t=0100.000s>
+
+<begin speech t=0100.000s>
+content: "But there was one person that was very afraid."
+<end speech t=0102.000s>
+
+<begin speech t=0102.000s>
+content: "And that was my mom."
+<end speech t=0105.000s>
+
+<begin speech t=0105.000s>
+content: "Raise your hand if you have emotional mother."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "Let me see."
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "Put them all together."
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "You'll get my mom."
+<end speech t=0115.000s>
+
+<begin speech t=0115.000s>
+content: "I can hear her scream outside the police station."
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "Even the cops were afraid."
+<end speech t=0121.000s>
+
+<begin speech t=0121.000s>
+content: "She came up to me."
+<end speech t=0124.000s>
+
+<begin speech t=0124.000s>
+content: "Held the iron bars, looked into my eyes."
+<end speech t=0130.000s>
+
+<begin speech t=0130.000s>
+content: "And I saw a tear coming down her face."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "Now I've seen my mom cry before."
+<end speech t=0136.000s>
+
+<begin speech t=0136.000s>
+content: "But mothers cry three times as tears."
+<end speech t=0140.000s>
+
+<begin speech t=0140.000s>
+content: "Tears of joy."
+<end speech t=0142.000s>
+
+<begin speech t=0142.000s>
+content: "Tears of sorrow."
+<end speech t=0144.000s>
+
+<begin speech t=0144.000s>
+content: "And tears of shame."
+<end speech t=0146.000s>
+
+<begin speech t=0146.000s>
+content: "And when the sun sees the mother cry, tears of shame."
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "That's a life-changing moment."
+<end speech t=0151.000s>
+
+<begin speech t=0151.000s>
+content: "She looked at me and said, son, I want you to be a better man."
+<end speech t=0157.000s>
+
+<begin speech t=0157.000s>
+content: "That night, when I drove home, my dad was waiting for me at home."
+<end speech t=0165.000s>
+
+<begin speech t=0165.000s>
+content: "Now my dad is a cool dad."
+<end speech t=0170.000s>
+
+<begin speech t=0170.000s>
+content: "Raise your hand if you have a cool dad."
+<end speech t=0173.000s>
+
+<begin speech t=0174.000s>
+content: "Put them all together."
+<end speech t=0176.000s>
+
+<begin speech t=0176.000s>
+content: "You'll get mine."
+<end speech t=0179.000s>
+
+<begin speech t=0179.000s>
+content: "My dad came up to me and said, son, it's okay."
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "You flunked your exams."
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "You already got arrested."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "That's fine."
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "You get that from your mother's side."
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "I want you to stop working immediately."
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "And I said, okay."
+<end speech t=0197.000s>
+
+<begin speech t=0197.000s>
+content: "So my dad took me to meet one of his friends."
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "Called Sam."
+<end speech t=0201.000s>
+
+<begin speech t=0201.000s>
+content: "Sam was an accountant who had an accountant firm and had generously decided to make me his personal assistant."
+<end speech t=0208.000s>
+
+<begin speech t=0208.000s>
+content: "And there he was."
+<end speech t=0210.000s>
+
+<begin speech t=0210.000s>
+content: "He looked like a teddy bear."
+<end speech t=0212.000s>
+
+<begin speech t=0212.000s>
+content: "But this man was special."
+<end speech t=0218.000s>
+
+<begin speech t=0218.000s>
+content: "I looked at him and he looked at me."
+<end speech t=0221.000s>
+
+<begin speech t=0221.000s>
+content: "And then he said the most amazing thing."
+<end speech t=0224.000s>
+
+<begin speech t=0224.000s>
+content: "He said, son, I see something in you."
+<end speech t=0229.000s>
+
+<begin speech t=0229.000s>
+content: "But I don't know what he is."
+<end speech t=0234.000s>
+
+<begin speech t=0234.000s>
+content: "If you decide to work with me, I can help you find that something."
+<end speech t=0239.000s>
+
+<begin speech t=0239.000s>
+content: "And I was like, whoa."
+<end speech t=0240.000s>
+
+<begin speech t=0240.000s>
+content: "That's the first time in my whole life somebody has ever told they see something in me."
+<end speech t=0245.000s>
+
+<begin speech t=0245.000s>
+content: "And I started working for Sam."
+<end speech t=0247.000s>
+
+<begin speech t=0247.000s>
+content: "And every day after work, he used to tell me story about the world, about history, about culture, about philosophy."
+<end speech t=0254.000s>
+
+<begin speech t=0254.000s>
+content: "And it was much more interesting than what I learned in school."
+<end speech t=0258.000s>
+
+<begin speech t=0258.000s>
+content: "And I discovered I can't breathe."
+<end speech t=0261.000s>
+
+<begin speech t=0261.000s>
+content: "And I started to breathe, ladies and gentlemen."
+<end speech t=0264.000s>
+
+<begin speech t=0264.000s>
+content: "After one year, I went back into high school, competed in my exams, and went into college."
+<end speech t=0272.000s>
+
+<begin speech t=0272.000s>
+content: "After successfully completing college, I found a great girl."
+<end speech t=0279.000s>
+
+<begin speech t=0279.000s>
+content: "But not a job."
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "I didn't know what I wanted to do with my life."
+<end speech t=0286.000s>
+
+<begin speech t=0286.000s>
+content: "Have you ever had that problem?"
+<end speech t=0290.000s>
+
+<begin speech t=0290.000s>
+content: "I went in a loss."
+<end speech t=0292.000s>
+
+<begin speech t=0292.000s>
+content: "It's difficult to feel special."
+<end speech t=0297.000s>
+
+<begin speech t=0297.000s>
+content: "So I went back to my cool day."
+<end speech t=0301.000s>
+
+<begin speech t=0301.000s>
+content: "And I said, Dad, I feel lost."
+<end speech t=0303.000s>
+
+<begin speech t=0303.000s>
+content: "He said, you are like your mother."
+<end speech t=0308.000s>
+
+<begin speech t=0308.000s>
+content: "So my dad introduced me to this strange club that had a strange name."
+<end speech t=0314.000s>
+
+<begin speech t=0314.000s>
+content: "With strange people."
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "Talking."
+<end speech t=0319.000s>
+
+<begin speech t=0319.000s>
+content: "On the first meeting, they told me to do something called a pay more talk."
+<end speech t=0326.000s>
+
+<begin speech t=0326.000s>
+content: "I asked him."
+<end speech t=0328.000s>
+
+<begin speech t=0328.000s>
+content: "But while I was speaking, I feel a strange man feeling in the back row."
+<end speech t=0333.000s>
+
+<begin speech t=0333.000s>
+content: "Humble, simple."
+<end speech t=0335.000s>
+
+<begin speech t=0335.000s>
+content: "The unfailing quality of kindness in his eyes."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "As soon as I finished, he walked up to me, looked me, dead straight in his eye, and said,"
+<end speech t=0344.000s>
+
+<begin speech t=0344.000s>
+content: "Son, I see something in you."
+<end speech t=0348.000s>
+
+<begin speech t=0348.000s>
+content: "But I don't know."
+<end speech t=0350.000s>
+
+<begin speech t=0350.000s>
+content: "What is this?"
+<end speech t=0353.000s>
+
+<begin speech t=0353.000s>
+content: "If you come here twice a month, maybe we can find that something."
+<end speech t=0360.000s>
+
+<begin speech t=0360.000s>
+content: "Ladies and gentlemen, I discovered I could speak, and I love speaking."
+<end speech t=0365.000s>
+
+<begin speech t=0365.000s>
+content: "And that led me to become a teacher."
+<end speech t=0369.000s>
+
+<begin speech t=0369.000s>
+content: "I know what it's like to not have enough money in your bank."
+<end speech t=0375.000s>
+
+<begin speech t=0375.000s>
+content: "I know what it's like to worry when the bills start coming in."
+<end speech t=0380.000s>
+
+<begin speech t=0380.000s>
+content: "And sometimes, in the middle of the night, I wake up my beautiful wife and I ask her,"
+<end speech t=0387.000s>
+
+<begin speech t=0388.000s>
+content: "why did you marry her?"
+<end speech t=0390.000s>
+
+<begin speech t=0390.000s>
+content: "She says, I saw something in you."
+<end speech t=0396.000s>
+
+<begin speech t=0399.000s>
+content: "But I still don't know what it is."
+<end speech t=0402.000s>
+
+<begin speech t=0406.000s>
+content: "Ladies and gentlemen, today I'm a dreamer, I'm a speaker, and I learned the unfailing quality of one conditional love from my wife."
+<end speech t=0415.000s>
+
+<begin speech t=0416.000s>
+content: "I was broken, and I've been broken, lost, and broke many times in my life."
+<end speech t=0421.000s>
+
+<begin speech t=0421.000s>
+content: "But the people in my life were able to reach into the trash can and make me whole again."
+<end speech t=0428.000s>
+
+<begin speech t=0428.000s>
+content: "If it was up to me, I would have never been able to do that."
+<end speech t=0434.000s>
+
+<begin speech t=0434.000s>
+content: "And this is why if you have great people in your life, no matter how broke, how lost, or how broken you become,"
+<end speech t=0443.000s>
+
+<begin speech t=0443.000s>
+content: "they can piece you back together."
+<end speech t=0445.000s>
+
+<begin speech t=0445.000s>
+content: "Ladies and gentlemen, when I look at you, I see something in you."
+<end speech t=0450.000s>
+
+<begin speech t=0450.000s>
+content: "But I don't know what it is."
+<end speech t=0453.000s>
+
+<begin speech t=0453.000s>
+content: "Oh!"
+<end speech t=0455.000s>

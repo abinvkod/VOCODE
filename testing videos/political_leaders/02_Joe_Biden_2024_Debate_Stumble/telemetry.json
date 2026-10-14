@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/02_Joe_Biden_2024_Debate_Stumble/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/02_Joe_Biden_2024_Debate_Stumble/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 64.401,
+  "clean_duration_sec": 59.922,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 4.479,
+  "measured_lufs_raw": -26.57,
+  "target_lufs": -20.0,
+  "gain_applied_db": 4.66,
+  "snr_raw_db": 34.44,
+  "snr_clean_db": 36.21,
+  "snr_improvement_db": 1.77,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 159,
+    "utterance_count": 20
+  },
+  "status": "READY_FOR_EVALUATION"
+}

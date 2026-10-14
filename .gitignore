@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment secrets
+.env
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating System & IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Temporary audio & scratch
+scratch/
+tmp/
+*.tmp
+*.log
+
+# Audio files exceeding GitHub's 100MB limit
+testing videos/01_Admiral_William_McRaven/raw_audio.wav
+testing videos/05_Mohammed_Qahtani_World_Champion/raw_audio.wav
+good speeches/18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS/preprocessed_clean.wav

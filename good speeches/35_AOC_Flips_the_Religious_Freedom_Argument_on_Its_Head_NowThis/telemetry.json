@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/35_AOC_Flips_the_Religious_Freedom_Argument_on_Its_Head_NowThis/audio.mp3",
+  "clean_file": "good speeches/35_AOC_Flips_the_Religious_Freedom_Argument_on_Its_Head_NowThis/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 234.777,
+  "clean_duration_sec": 234.402,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.375,
+  "measured_lufs_raw": -28.74,
+  "target_lufs": -20.0,
+  "gain_applied_db": 4.02,
+  "snr_raw_db": 19.08,
+  "snr_clean_db": 22.27,
+  "snr_improvement_db": 3.18,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 472,
+    "utterance_count": 36
+  },
+  "status": "READY_FOR_EVALUATION"
+}

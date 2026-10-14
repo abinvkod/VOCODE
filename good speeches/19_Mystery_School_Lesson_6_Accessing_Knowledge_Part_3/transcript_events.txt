@@ -1,0 +1,611 @@
+<begin speech t=0000.000s>
+content: "I'm being told we're not quite finished with this yet."
+<end speech t=0018.840s>
+
+<begin speech t=0018.840s>
+content: "As much as I'd like to be, a teacher who expects patients from his students must also"
+<end speech t=0024.480s>
+
+<begin speech t=0024.480s>
+content: "be patient."
+<end speech t=0025.480s>
+
+<begin speech t=0026.480s>
+content: "Well, it's kind of difficult to argue with that."
+<end speech t=0030.760s>
+
+<begin speech t=0030.760s>
+content: "These aren't always things you're going to like to hear, quite often."
+<end speech t=0036.720s>
+
+<begin speech t=0036.720s>
+content: "But there are course correction on the navigation of your path."
+<end speech t=0040.840s>
+
+<begin speech t=0040.840s>
+content: "You can choose to ignore them, but don't be surprised if a beatdown comes along later."
+<end speech t=0047.240s>
+
+<begin speech t=0047.240s>
+content: "And this is what it's like, except for the added reverb, my head really isn't that empty."
+<end speech t=0052.920s>
+
+<begin speech t=0053.640s>
+content: "But I'm really not all that deep either."
+<end speech t=0055.800s>
+
+<begin speech t=0055.800s>
+content: "I don't sit around thinking thoughts of wisdom like some ancient Buddha."
+<end speech t=0060.520s>
+
+<begin speech t=0060.520s>
+content: "And this is why I listen to them, because I know they're not coming from my conscious"
+<end speech t=0065.200s>
+
+<begin speech t=0065.200s>
+content: "side of the mind."
+<end speech t=0066.360s>
+
+<begin speech t=0066.360s>
+content: "No, they're coming from the other side, the subconscious."
+<end speech t=0070.280s>
+
+<begin speech t=0070.280s>
+content: "And this is why the second saffron of chokma, which relates to the conscious mind in our"
+<end speech t=0075.520s>
+
+<begin speech t=0075.520s>
+content: "model, is associated with wisdom."
+<end speech t=0079.160s>
+
+<begin speech t=0079.160s>
+content: "But that doesn't make the conscious mind wise, unless it follows and employs the wisdom"
+<end speech t=0083.280s>
+
+<begin speech t=0083.280s>
+content: "being given to it."
+<end speech t=0085.320s>
+
+<begin speech t=0085.320s>
+content: "Those familiar with the lesser banishing ritual of the hexagram, the analysis of the keyword,"
+<end speech t=0090.480s>
+
+<begin speech t=0090.480s>
+content: "ISIS, the moon goddess, you know, LVX, the grade signs."
+<end speech t=0097.040s>
+
+<begin speech t=0097.040s>
+content: "Well, there's the L right there in this model with ISIS, the moon goddess, the subconscious"
+<end speech t=0103.920s>
+
+<begin speech t=0103.920s>
+content: "being the point that connects the two lines that make up the L."
+<end speech t=0108.240s>
+
+<begin speech t=0108.240s>
+content: "And this is showing the path of communication between the mind and the divine."
+<end speech t=0113.440s>
+
+<begin speech t=0113.440s>
+content: "The third saffron, BINA, is associated with understanding."
+<end speech t=0117.160s>
+
+<begin speech t=0117.160s>
+content: "It takes the data from the source and then passes that understanding of it along to the"
+<end speech t=0121.400s>
+
+<begin speech t=0121.400s>
+content: "conscious mind, who will then either use that understanding for wisdom or not."
+<end speech t=0127.160s>
+
+<begin speech t=0127.160s>
+content: "Now besides the past between the saffrots, the saffrots themselves also have tarot cards"
+<end speech t=0132.680s>
+
+<begin speech t=0132.680s>
+content: "associated with them."
+<end speech t=0134.880s>
+
+<begin speech t=0134.880s>
+content: "At Kethar, the crown, the collective unconscious in our model, we have the four aces of the"
+<end speech t=0139.760s>
+
+<begin speech t=0139.760s>
+content: "minor arcana."
+<end speech t=0141.400s>
+
+<begin speech t=0141.400s>
+content: "Those familiar with tarot will already know that these represent the highest, purest forms"
+<end speech t=0146.200s>
+
+<begin speech t=0146.200s>
+content: "of the elements."
+<end speech t=0148.200s>
+
+<begin speech t=0148.200s>
+content: "In Cavillistic teachings, they talk about the Godhead being the whirling force of the"
+<end speech t=0153.240s>
+
+<begin speech t=0153.240s>
+content: "elements."
+<end speech t=0155.240s>
+
+<begin speech t=0155.240s>
+content: "Aside from Earth, because Earth doesn't actually exist there, however, thoughts and desires"
+<end speech t=0160.720s>
+
+<begin speech t=0160.720s>
+content: "for material things do."
+<end speech t=0163.440s>
+
+<begin speech t=0163.440s>
+content: "Now with the placement of these aces, the magician between Bina and Kethar, the collective"
+<end speech t=0169.440s>
+
+<begin speech t=0169.440s>
+content: "unconscious and the subconscious makes even more sense."
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "Now the magician has collected what it needs from the collective unconscious, those symbolic"
+<end speech t=0178.200s>
+
+<begin speech t=0178.200s>
+content: "references to the elements, the data, and has them all on the table now."
+<end speech t=0184.040s>
+
+<begin speech t=0184.040s>
+content: "Chokma is associated with both the twos and the kings of the minor arcana."
+<end speech t=0190.720s>
+
+<begin speech t=0190.720s>
+content: "Those represent duality and polarity."
+<end speech t=0193.320s>
+
+<begin speech t=0193.320s>
+content: "The conscious mind has a tendency to think that it's the only one, but it's not."
+<end speech t=0198.840s>
+
+<begin speech t=0198.840s>
+content: "The subconscious takes over when you're sleeping."
+<end speech t=0201.600s>
+
+<begin speech t=0201.600s>
+content: "You don't have to think of your habits or your automatic biological functions."
+<end speech t=0206.640s>
+
+<begin speech t=0206.640s>
+content: "There are in fact two sides of the mind and you need to use both if you want to ever achieve"
+<end speech t=0212.360s>
+
+<begin speech t=0212.360s>
+content: "mind over matter."
+<end speech t=0214.520s>
+
+<begin speech t=0214.520s>
+content: "Polarity we've already gone over, most people only utilize their conscious egotistical side"
+<end speech t=0220.240s>
+
+<begin speech t=0220.240s>
+content: "of their mind and people are very polarized."
+<end speech t=0223.560s>
+
+<begin speech t=0223.560s>
+content: "The kings are an obvious reference to the law of gender and the male side of the mind."
+<end speech t=0229.600s>
+
+<begin speech t=0229.600s>
+content: "Bina is associated with the threes and the queens, the queens being the feminine receptive"
+<end speech t=0234.440s>
+
+<begin speech t=0234.440s>
+content: "side of the mind, with three being representative of manifestation as discussed earlier."
+<end speech t=0241.440s>
+
+<begin speech t=0241.440s>
+content: "The full card between the collective unconscious and the cautious mind, Kethar and Chokma."
+<end speech t=0247.200s>
+
+<begin speech t=0247.200s>
+content: "This card is very representative of the conscious mind trying to access the divine"
+<end speech t=0252.800s>
+
+<begin speech t=0252.800s>
+content: "by itself without going through the subconscious mind."
+<end speech t=0257.440s>
+
+<begin speech t=0257.440s>
+content: "The fool looking up thinks he has the link to the divine, yet the divine son is behind"
+<end speech t=0262.720s>
+
+<begin speech t=0262.720s>
+content: "him."
+<end speech t=0263.720s>
+
+<begin speech t=0263.720s>
+content: "He's going the wrong way and he's about to lead his follower of the little dog off"
+<end speech t=0267.440s>
+
+<begin speech t=0267.440s>
+content: "the cliff with him."
+<end speech t=0268.920s>
+
+<begin speech t=0268.920s>
+content: "The conscious analytical mind cannot access the divine on its own."
+<end speech t=0274.560s>
+
+<begin speech t=0274.560s>
+content: "Yet there's a lot of religious fools out there."
+<end speech t=0279.200s>
+
+<begin speech t=0279.200s>
+content: "And you see it all the time where the conscious mind will try to project its own personality"
+<end speech t=0283.640s>
+
+<begin speech t=0283.640s>
+content: "onto the divine."
+<end speech t=0285.640s>
+
+<begin speech t=0285.640s>
+content: "It's a projective male side of the mind."
+<end speech t=0289.400s>
+
+<begin speech t=0289.400s>
+content: "God hates this."
+<end speech t=0290.720s>
+
+<begin speech t=0290.720s>
+content: "God likes that."
+<end speech t=0292.160s>
+
+<begin speech t=0292.160s>
+content: "God hates bags."
+<end speech t=0293.480s>
+
+<begin speech t=0293.480s>
+content: "God loves everyone."
+<end speech t=0295.000s>
+
+<begin speech t=0295.000s>
+content: "It's their own personality that they're ascribing to that."
+<end speech t=0299.480s>
+
+<begin speech t=0299.480s>
+content: "And in reality they have no idea what the divine is like because they've never accessed"
+<end speech t=0304.560s>
+
+<begin speech t=0304.560s>
+content: "it."
+<end speech t=0305.560s>
+
+<begin speech t=0305.560s>
+content: "If they had, they probably wouldn't use the word God because there are many, many, many"
+<end speech t=0309.800s>
+
+<begin speech t=0309.800s>
+content: "gods."
+<end speech t=0311.720s>
+
+<begin speech t=0311.720s>
+content: "So when people reference God, I usually ask him which one."
+<end speech t=0318.160s>
+
+<begin speech t=0318.160s>
+content: "Many, many gods, but only one creator of all, which I can only describe as the battery that"
+<end speech t=0326.560s>
+
+<begin speech t=0326.560s>
+content: "the terminals connect to, to complete the circuit, the great electrical circuit for"
+<end speech t=0331.480s>
+
+<begin speech t=0331.480s>
+content: "a life."
+<end speech t=0333.160s>
+
+<begin speech t=0333.160s>
+content: "It's not a man sitting on a cloud."
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "It's more of a creative force generator, which to my knowledge, no one's been allowed"
+<end speech t=0343.680s>
+
+<begin speech t=0343.680s>
+content: "to have direct communication or look up on the face of."
+<end speech t=0347.320s>
+
+<begin speech t=0347.320s>
+content: "The closest you're going to get is probably the archangels, meek eye out and metatron."
+<end speech t=0353.520s>
+
+<begin speech t=0354.240s>
+content: "Now I don't want to get too sidetracked here, but just understand that you don't have to"
+<end speech t=0359.720s>
+
+<begin speech t=0359.720s>
+content: "believe in the divine to utilize this."
+<end speech t=0363.280s>
+
+<begin speech t=0363.280s>
+content: "Even if we take away in the model, the collective unconscious at the top, your subconscious is"
+<end speech t=0369.800s>
+
+<begin speech t=0369.800s>
+content: "still hooked up to that, whether you know it or not."
+<end speech t=0373.760s>
+
+<begin speech t=0373.760s>
+content: "So you don't have to believe in the divine for this to work for you."
+<end speech t=0378.880s>
+
+<begin speech t=0378.880s>
+content: "It has its definite advantages though, if you do, which we'll go over later."
+<end speech t=0384.840s>
+
+<begin speech t=0384.840s>
+content: "But conscious belief isn't required."
+<end speech t=0387.720s>
+
+<begin speech t=0387.720s>
+content: "It's what the subconscious believes that matters anyway."
+<end speech t=0391.320s>
+
+<begin speech t=0391.320s>
+content: "It's very easy for the conscious mind to not believe in the divine from the path of the"
+<end speech t=0395.240s>
+
+<begin speech t=0395.240s>
+content: "fool, as it has no direct access to it."
+<end speech t=0399.440s>
+
+<begin speech t=0399.440s>
+content: "So you might want to save your reservations for that until you get this part of the model"
+<end speech t=0403.360s>
+
+<begin speech t=0403.360s>
+content: "working for you."
+<end speech t=0404.960s>
+
+<begin speech t=0404.960s>
+content: "After you combine the conscious with the subconscious and you establish communication"
+<end speech t=0408.680s>
+
+<begin speech t=0408.680s>
+content: "between those two, then you can make up your entire mind and not just that half on whether"
+<end speech t=0414.120s>
+
+<begin speech t=0414.120s>
+content: "or not you believe in the divine."
+<end speech t=0417.040s>
+
+<begin speech t=0417.040s>
+content: "Some other details on the high priestess card."
+<end speech t=0419.840s>
+
+<begin speech t=0419.840s>
+content: "She sits between the pillars."
+<end speech t=0421.680s>
+
+<begin speech t=0421.680s>
+content: "The tree of life is actually in that card behind her."
+<end speech t=0424.440s>
+
+<begin speech t=0424.440s>
+content: "She's sitting in front of it, exactly centered."
+<end speech t=0427.800s>
+
+<begin speech t=0427.800s>
+content: "The moon, however, at her feet is now moved over toward Jiaqun, the positive."
+<end speech t=0433.080s>
+
+<begin speech t=0433.080s>
+content: "The side that the conscious mind resides on."
+<end speech t=0436.560s>
+
+<begin speech t=0436.560s>
+content: "Now Baina associated with Saturn is very interesting in relation to our model of the subconscious"
+<end speech t=0443.040s>
+
+<begin speech t=0443.040s>
+content: "here."
+<end speech t=0444.440s>
+
+<begin speech t=0444.440s>
+content: "Saturn is the highest of the traditional seven planets and often gets a bad rap for being"
+<end speech t=0448.760s>
+
+<begin speech t=0448.760s>
+content: "too restrictive and limiting."
+<end speech t=0450.760s>
+
+<begin speech t=0450.760s>
+content: "It also rules time and structures."
+<end speech t=0454.360s>
+
+<begin speech t=0454.360s>
+content: "And you can see how this would relate to the subconscious if that's the side that's"
+<end speech t=0458.080s>
+
+<begin speech t=0458.080s>
+content: "building and manifesting the structures."
+<end speech t=0461.880s>
+
+<begin speech t=0461.880s>
+content: "And after having watched that Bob Proctor video, you can see how it's the subconscious"
+<end speech t=0465.960s>
+
+<begin speech t=0465.960s>
+content: "beliefs that are going to hold you back."
+<end speech t=0468.720s>
+
+<begin speech t=0468.720s>
+content: "Those limiting restrictive paradigms."
+<end speech t=0471.920s>
+
+<begin speech t=0471.920s>
+content: "What kind of things do you hear people say over and over again that's going into your"
+<end speech t=0476.440s>
+
+<begin speech t=0476.440s>
+content: "subconscious and creating these things?"
+<end speech t=0478.880s>
+
+<begin speech t=0478.880s>
+content: "Oh, we can't afford it."
+<end speech t=0481.640s>
+
+<begin speech t=0481.640s>
+content: "It's one thing after another."
+<end speech t=0483.920s>
+
+<begin speech t=0483.920s>
+content: "40 is over the hell."
+<end speech t=0486.880s>
+
+<begin speech t=0486.880s>
+content: "Time."
+<end speech t=0487.880s>
+
+<begin speech t=0487.880s>
+content: "The average life expectancy is 72."
+<end speech t=0491.120s>
+
+<begin speech t=0491.120s>
+content: "All things are possible in the circle, but what you're trying to do is too improbable"
+<end speech t=0495.160s>
+
+<begin speech t=0495.160s>
+content: "so don't count on it."
+<end speech t=0496.800s>
+
+<begin speech t=0496.800s>
+content: "You have to work long and hard to get anywhere."
+<end speech t=0499.640s>
+
+<begin speech t=0499.640s>
+content: "Life must be a constant struggle."
+<end speech t=0502.400s>
+
+<begin speech t=0502.400s>
+content: "Insert religious beliefs here."
+<end speech t=0504.640s>
+
+<begin speech t=0504.640s>
+content: "I'm fat and or unattractive."
+<end speech t=0507.480s>
+
+<begin speech t=0507.480s>
+content: "On and on, etc, etc."
+<end speech t=0511.160s>
+
+<begin speech t=0511.160s>
+content: "It's the limiting beliefs in the subconscious that are going to restrict and limit you and"
+<end speech t=0515.560s>
+
+<begin speech t=0515.560s>
+content: "make those things come to pass."
+<end speech t=0518.360s>
+
+<begin speech t=0518.360s>
+content: "Those are the structures that it's going to build."
+<end speech t=0521.400s>
+
+<begin speech t=0521.400s>
+content: "Now the cautious mind can change those limiting beliefs in the subconscious, but it's going"
+<end speech t=0525.720s>
+
+<begin speech t=0525.720s>
+content: "to take the will."
+<end speech t=0526.720s>
+
+<begin speech t=0526.720s>
+content: "And if the conscious mind is just sitting there repeating those limiting beliefs, you"
+<end speech t=0531.440s>
+
+<begin speech t=0531.440s>
+content: "know, I can't afford it."
+<end speech t=0532.920s>
+
+<begin speech t=0532.920s>
+content: "It's one thing after another, etc."
+<end speech t=0535.240s>
+
+<begin speech t=0535.240s>
+content: "It's just reinforcing those."
+<end speech t=0538.080s>
+
+<begin speech t=0538.080s>
+content: "Those restrictive limiting beliefs of the subconscious and Bina, some have been reinforced"
+<end speech t=0542.680s>
+
+<begin speech t=0542.680s>
+content: "for years, if not our entire lives."
+<end speech t=0545.880s>
+
+<begin speech t=0545.880s>
+content: "Questions have just been put in there and repeated over and over and over again."
+<end speech t=0551.160s>
+
+<begin speech t=0551.160s>
+content: "Those need to be your first targets of change."
+<end speech t=0554.120s>
+
+<begin speech t=0554.120s>
+content: "And the exercise I gave you at the beginning of all these lessons about accepting or rejecting"
+<end speech t=0558.440s>
+
+<begin speech t=0558.440s>
+content: "your thoughts as they come and treating them as an offer is a good way to begin to do that"
+<end speech t=0563.800s>
+
+<begin speech t=0563.800s>
+content: "without the need for ritual magic for now."
+<end speech t=0568.120s>
+
+<begin speech t=0568.120s>
+content: "And with Chocma relating to the zodiac, we're going to get into that a little bit later on"
+<end speech t=0573.600s>
+
+<begin speech t=0573.600s>
+content: "as that corresponds to the law of rhythm, another other hermetic principles."
+<end speech t=0579.120s>
+
+<begin speech t=0579.120s>
+content: "And I don't think I'm going to have enough time in this video to go over all that."
+<end speech t=0583.720s>
+
+<begin speech t=0583.720s>
+content: "And I am aware that some teachings do reverse it that Chocma is the subconscious and Bina"
+<end speech t=0589.640s>
+
+<begin speech t=0589.640s>
+content: "is the conscious mind."
+<end speech t=0591.520s>
+
+<begin speech t=0591.520s>
+content: "I can get about half of the correspondences to fit that model, but not all of them."
+<end speech t=0597.120s>
+
+<begin speech t=0597.120s>
+content: "For instance, the kings and queens would not make sense that way in their positions."
+<end speech t=0602.240s>
+
+<begin speech t=0602.240s>
+content: "If you use whichever you feel more comfortable with, I'm going to be using this."
+<end speech t=0606.720s>
+
+<begin speech t=0606.720s>
+content: "It doesn't really matter so long as you recognize that you need to utilize both halves of your"
+<end speech t=0611.320s>
+
+<begin speech t=0611.320s>
+content: "mind."
+<end speech t=0612.800s>
+
+<begin speech t=0612.800s>
+content: "And I think that's about it to finish this particular lesson."
+<end speech t=0617.200s>
+
+<begin speech t=0617.200s>
+content: "See you soon."
+<end speech t=0617.720s>

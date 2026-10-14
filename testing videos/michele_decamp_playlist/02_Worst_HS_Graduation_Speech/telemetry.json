@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/michele_decamp_playlist/02_Worst_HS_Graduation_Speech/raw_audio.wav",
+  "clean_file": "testing videos/michele_decamp_playlist/02_Worst_HS_Graduation_Speech/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 346.395,
+  "clean_duration_sec": 346.395,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -27.02,
+  "target_lufs": -20.0,
+  "gain_applied_db": 6.44,
+  "snr_raw_db": 17.07,
+  "snr_clean_db": 20.52,
+  "snr_improvement_db": 3.44,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 704,
+    "utterance_count": 108
+  },
+  "status": "READY_FOR_EVALUATION"
+}

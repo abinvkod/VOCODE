@@ -1,0 +1,337 @@
+[
+  {
+    "id": "wefPGzG0Ypw",
+    "slug": "01_Donald_Trump_Iran_Remarks",
+    "title": "Donald Trump - Iran / San Diego Remarks ('Small Price')",
+    "leader": "Donald Trump (US 45th & 47th President)",
+    "country": "US",
+    "public_sentiment": "Heavily polarized and controversial. Condemned by CA leaders (Newsom, Bass, Gloria) as 'reckless' for calling San Diego and LA attacks a 'small price', while defenders framed it as hyperbole arguing military deterrence prevented strikes.",
+    "duration_sec": 156.63,
+    "grades": {
+      "strict_leniency_0": 6.7,
+      "moderate_leniency_50": 7.8,
+      "lenient_leniency_100": 8.9
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "performance_band_moderate": "Proficient / Noticeable Flaws (Tier 2)",
+    "performance_band_lenient": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.75,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 11.21 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 11.21 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.3,
+        "metric": "f0_velocity: 379.39 Hz/s",
+        "flaw": "Sluggish Vocal Inflection",
+        "explanation": "Pitch velocity was 379.39 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.1%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.6209",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.6209 is below corpus average (4.73)."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 4,
+      "fillers_per_min": 1.53,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 174.11,
+      "f0_semitones": 11.21,
+      "f0_velocity_hz_per_sec": 379.39,
+      "articulation_rate_sps": 5.51,
+      "pause_ratio": 0.161,
+      "hesitation_pause_count": 0,
+      "energy_dynamic_range_db": 46.44,
+      "papr_crest_factor": 21.05,
+      "spectral_flux": 2.6209
+    },
+    "transcript_preview": "I want to see a tremendous victory. You want to see a tremendous victory because it verifies all the things we did. And again, remember, with the words, this is artificial. It's a little bit high. It's a small price to pay for keeping the world safe,..."
+  },
+  {
+    "id": "KdOfiPyY87I",
+    "slug": "02_Joe_Biden_2024_Debate_Stumble",
+    "title": "Joe Biden - 2024 Presidential Debate Stumbles ('Beat Medicare')",
+    "leader": "Joe Biden (US 46th President)",
+    "country": "US",
+    "public_sentiment": "Catastrophic public and media reception. Widespread Democratic panic over faltering voice, lost trains of thought, and raspiness ('we finally beat Medicare'), directly triggering intense pressure that led to his withdrawal from the 2024 race.",
+    "duration_sec": 59.92,
+    "grades": {
+      "strict_leniency_0": 8.1,
+      "moderate_leniency_50": 8.7,
+      "lenient_leniency_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "performance_band_moderate": "Distinguished / Minor Polish (Tier 1)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 8.91 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 8.91 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "papr_crest_factor: 13.66",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 13.66 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 2,
+      "fillers_per_min": 2.0,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 153.3,
+      "f0_semitones": 8.91,
+      "f0_velocity_hz_per_sec": 510.47,
+      "articulation_rate_sps": 5.53,
+      "pause_ratio": 0.185,
+      "hesitation_pause_count": 0,
+      "energy_dynamic_range_db": 56.07,
+      "papr_crest_factor": 13.66,
+      "spectral_flux": 5.9418
+    },
+    "transcript_preview": "when I'm going to do a six a taxes. For example, we had 1,000 trillionaires in America, I mean, a billionaires in America. And what's happening during a situation where they in fact pay 8.2% in taxes. If they just pay 24%, 25%, either one of those nu..."
+  },
+  {
+    "id": "8zHURhs0DbM",
+    "slug": "03_Boris_Johnson_CBI_Peppa_Pig",
+    "title": "Boris Johnson - CBI Annual Conference ('Peppa Pig' Speech)",
+    "leader": "Boris Johnson (UK Prime Minister 2019-2022)",
+    "country": "UK",
+    "public_sentiment": "Widely derided as 'bizarre', 'embarrassing', and 'shambolic'. Johnson lost his place in his speech notes for over 20 seconds, muttered 'forgive me' multiple times, made car engine noises, and went on an impromptu rant about Peppa Pig World to business executives.",
+    "duration_sec": 122.3,
+    "grades": {
+      "strict_leniency_0": 9.5,
+      "moderate_leniency_50": 9.7,
+      "lenient_leniency_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.75,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.4%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.4% is below the 20% oratorical law."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 2,
+      "fillers_per_min": 0.98,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 156.77,
+      "f0_semitones": 16.91,
+      "f0_velocity_hz_per_sec": 813.49,
+      "articulation_rate_sps": 5.37,
+      "pause_ratio": 0.164,
+      "hesitation_pause_count": 2,
+      "energy_dynamic_range_db": 50.61,
+      "papr_crest_factor": 24.77,
+      "spectral_flux": 5.284
+    },
+    "transcript_preview": "So with safer streets, with great local schools, with fantastic broadband. For you, me. For you, me. For you, me. Yes, I went as we all must to pepper pig world. I don't know if you've been to pepper pig world. Who's been to pans? I've been to pepper..."
+  },
+  {
+    "id": "sxT9gOS6_j0",
+    "slug": "04_Liz_Truss_Resignation",
+    "title": "Liz Truss - Resignation Statement at 10 Downing Street",
+    "leader": "Liz Truss (UK Prime Minister 2022)",
+    "country": "UK",
+    "public_sentiment": "Solemn and politically fatal. Delivered after just 44 days in office following market turmoil from her mini-budget. Public and media sentiment viewed the delivery as curt, defiant, and lacking personal contrition or apology.",
+    "duration_sec": 104.88,
+    "grades": {
+      "strict_leniency_0": 8.9,
+      "moderate_leniency_50": 9.3,
+      "lenient_leniency_100": 9.7
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 9.21 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 9.21 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 0,
+      "fillers_per_min": 0.0,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 220.21,
+      "f0_semitones": 9.21,
+      "f0_velocity_hz_per_sec": 668.76,
+      "articulation_rate_sps": 5.59,
+      "pause_ratio": 0.179,
+      "hesitation_pause_count": 1,
+      "energy_dynamic_range_db": 39.93,
+      "papr_crest_factor": 52.08,
+      "spectral_flux": 6.9198
+    },
+    "transcript_preview": "I came into office at a time of great economic and international instability. Families and businesses were worried about how to pay their bills. Putin's illegal war in Ukraine threatens the security of our whole continent, and our country has been he..."
+  },
+  {
+    "id": "hY6Z36ejPmU",
+    "slug": "05_Rishi_Sunak_Rain_Election_Call",
+    "title": "Rishi Sunak - General Election Announcement in Torrential Rain",
+    "leader": "Rishi Sunak (UK Prime Minister 2022-2024)",
+    "country": "UK",
+    "public_sentiment": "Extensively mocked across social media and mainstream press as a PR disaster. Sunak stood soaked without an umbrella while protesters drowned out his voice with 'Things Can Only Get Better' ('Things can only get wetter'). Symbolized poor crisis management.",
+    "duration_sec": 464.9,
+    "grades": {
+      "strict_leniency_0": 9.5,
+      "moderate_leniency_50": 9.7,
+      "lenient_leniency_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.75,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.3%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.3% is below the 20% oratorical law."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 9,
+      "fillers_per_min": 1.16,
+      "word_repetitions": 1
+    },
+    "metrics": {
+      "f0_mean_hz": 195.9,
+      "f0_semitones": 23.67,
+      "f0_velocity_hz_per_sec": 936.8,
+      "articulation_rate_sps": 5.47,
+      "pause_ratio": 0.163,
+      "hesitation_pause_count": 2,
+      "energy_dynamic_range_db": 32.08,
+      "papr_crest_factor": 19.31,
+      "spectral_flux": 6.9178
+    },
+    "transcript_preview": "In the last five years our country has fought through the most challenging times since the Second World War. As I stand here as your Prime Minister, I can't help but reflect that my first proper introduction to you was just over four years ago. I sto..."
+  },
+  {
+    "id": "Md_dtJM_z4g",
+    "slug": "06_Justin_Trudeau_21_Second_Pause",
+    "title": "Justin Trudeau - 21-Second Silence on Trump / Protests",
+    "leader": "Justin Trudeau (Prime Minister of Canada)",
+    "country": "Canada",
+    "public_sentiment": "Fascinated and divided international response. A 21-second dead-air pause when asked about Trump's response to protests was praised by supporters as deep moral deliberation and careful diplomacy, but criticized by detractors as paralyzed political hesitation.",
+    "duration_sec": 266.72,
+    "grades": {
+      "strict_leniency_0": 8.7,
+      "moderate_leniency_50": 9.1,
+      "lenient_leniency_100": 9.6
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.77 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.77 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 3.1446",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 3.1446 is below corpus average (4.73)."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 6,
+      "fillers_per_min": 1.35,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 135.25,
+      "f0_semitones": 13.77,
+      "f0_velocity_hz_per_sec": 429.65,
+      "articulation_rate_sps": 5.69,
+      "pause_ratio": 0.197,
+      "hesitation_pause_count": 2,
+      "energy_dynamic_range_db": 43.79,
+      "papr_crest_factor": 80.45,
+      "spectral_flux": 3.1446
+    },
+    "transcript_preview": "We do have Donald Trump now calling for military action against protesters. We saw protesters tear gas yesterday to make way for a presidential photo. I'd like to ask you what you think about that. And if you don't want to comment, what message do yo..."
+  }
+]

@@ -1,0 +1,271 @@
+<begin speech t=0000.000s>
+content: "You've time to show Kennedy the Soundsware."
+<end speech t=0010.800s>
+
+<begin speech t=0010.800s>
+content: "I am Mr. Kennedy the Soundsware."
+<end speech t=0013.800s>
+
+<begin speech t=0013.800s>
+content: "You will faithfully execute the Office of President of the United States."
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "But I will faithfully execute the Office of President of the United States."
+<end speech t=0022.200s>
+
+<begin speech t=0022.200s>
+content: "And will to the best of your authority."
+<end speech t=0024.600s>
+
+<begin speech t=0024.600s>
+content: "And will to the best of my ability."
+<end speech t=0026.600s>
+
+<begin speech t=0026.600s>
+content: "Reserve protect and defend the Constitution of the United States."
+<end speech t=0031.200s>
+
+<begin speech t=0031.200s>
+content: "Reserve, protect and defend the Constitution of the United States."
+<end speech t=0035.600s>
+
+<begin speech t=0035.600s>
+content: "So help do God."
+<end speech t=0037.100s>
+
+<begin speech t=0037.100s>
+content: "So help me God."
+<end speech t=0039.100s>
+
+<begin speech t=0056.600s>
+content: "Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower, Vice President Nixon, President Truman,"
+<end speech t=0084.100s>
+
+<begin speech t=0084.100s>
+content: "President clergy, fellow citizens."
+<end speech t=0088.300s>
+
+<begin speech t=0088.300s>
+content: "We observe today not a victory or party, but a celebration of freedom."
+<end speech t=0096.700s>
+
+<begin speech t=0096.700s>
+content: "Symbolizing an end as well as a beginning, signifying renewal as well as change."
+<end speech t=0106.500s>
+
+<begin speech t=0106.500s>
+content: "For I have sworn before you and Almighty God, the same solemn oath are for theirs prescribed nearly a century and three quarters ago."
+<end speech t=0121.300s>
+
+<begin speech t=0121.300s>
+content: "The world is very different now."
+<end speech t=0124.700s>
+
+<begin speech t=0124.700s>
+content: "For man holds at his mortal hand, the power to abolish all forms of human poverty and all forms of human life."
+<end speech t=0136.300s>
+
+<begin speech t=0136.300s>
+content: "And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe."
+<end speech t=0147.100s>
+
+<begin speech t=0147.100s>
+content: "The belief that the rights of man come not from the generosity of the state, but from the hand of God."
+<end speech t=0156.100s>
+
+<begin speech t=0156.100s>
+content: "We do not forget today that we are the heirs of that first revolution."
+<end speech t=0163.100s>
+
+<begin speech t=0163.100s>
+content: "Let the word go forth from this time and place to friend and full life, that the torch has been passed to a new generation of Americans born in this century, tempered by war,"
+<end speech t=0183.100s>
+
+<begin speech t=0183.100s>
+content: "disciplined by a hard and bitter peace, proud of our ancient heritage, and unwilling to witness or permit the slow undoing of those human rights"
+<end speech t=0200.900s>
+
+<begin speech t=0200.900s>
+content: "to which this nation has always been committed and to which we are committed today at home and around the world."
+<end speech t=0211.300s>
+
+<begin speech t=0211.300s>
+content: "Let every nation know whether it wishes us well or ill that we shall pay any price,"
+<end speech t=0228.500s>
+
+<begin speech t=0228.500s>
+content: "there any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty."
+<end speech t=0248.500s>
+
+<begin speech t=0248.500s>
+content: "This much we pledge and law to those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends."
+<end speech t=0263.500s>
+
+<begin speech t=0263.500s>
+content: "United there is little we cannot do in a host of corporate adventures, divided there is little we can do, or we do not meet a powerful challenge at odds and split asunder."
+<end speech t=0280.500s>
+
+<begin speech t=0280.500s>
+content: "To those new states and we welcome to the ranks of the free, we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny."
+<end speech t=0299.500s>
+
+<begin speech t=0299.500s>
+content: "We shall not always expect to find them supporting our view, but we shall always hope to find them strongly supporting their own freedom."
+<end speech t=0311.500s>
+
+<begin speech t=0311.500s>
+content: "And to remember that in the past, those who foolishly sought power by riding the back of the tiger ended up inside."
+<end speech t=0323.500s>
+
+<begin speech t=0329.500s>
+content: "To those people in the Hudson villages of half the globe struggling to break the bonds of mass misery, we pledge our best efforts to help them help themselves."
+<end speech t=0345.500s>
+
+<begin speech t=0345.500s>
+content: "For whatever period is required, not because the communists may be doing it, not because we seek their votes, but because it is right."
+<end speech t=0356.500s>
+
+<begin speech t=0356.500s>
+content: "If a free society cannot help the many who are poor, it cannot save the few who are rich."
+<end speech t=0371.500s>
+
+<begin speech t=0371.500s>
+content: "To our sister republics south of our border, we offer a special pledge to convert our good words in a good deed."
+<end speech t=0383.500s>
+
+<begin speech t=0383.500s>
+content: "In a new alliance for progress, to assist free men and free governments in casting off the chains of poverty, but this peaceful revolution of hope cannot become the prey of hostile people."
+<end speech t=0400.500s>
+
+<begin speech t=0400.500s>
+content: "Let all our neighbors know that we shall join with them to oppose aggression or subversion anywhere in the Americas, and let every other power know that this hemisphere intends to remain the master of its own house."
+<end speech t=0422.500s>
+
+<begin speech t=0422.500s>
+content: "To that world assembly of sovereign state, the United Nations, our last best hope in an age where the instruments of war have far outpaced the instruments of peace, we renew our pledge of support."
+<end speech t=0448.500s>
+
+<begin speech t=0448.500s>
+content: "To prevent it from becoming merely a forum for invective, to strengthen its shield of the new and the weak, and to enlarge the area in which its written may run."
+<end speech t=0462.500s>
+
+<begin speech t=0463.500s>
+content: "Finally, to those nations who would make themselves our adversary, we offer not a pledge but a request that both sides begin anew the quest for peace, before the dark powers of destruction unleashed by science,"
+<end speech t=0486.500s>
+
+<begin speech t=0486.500s>
+content: "in golf, all humanity, in planned or accidental self-destruction."
+<end speech t=0493.500s>
+
+<begin speech t=0493.500s>
+content: "We dare not tempt them with weakness, for only when our arms are sufficient beyond doubt can we be certain beyond doubt that they will never be employed."
+<end speech t=0507.500s>
+
+<begin speech t=0507.500s>
+content: "But neither can two great and powerful groups of nations take comfort from our present course, both sides overburdened by the cost of modern weapons, both rightly alarmed by the steady spread of the deadly atom, yet both racing to order,"
+<end speech t=0530.500s>
+
+<begin speech t=0530.500s>
+content: "that uncertain balance of terror that stays the hand of mankind's final war. So let us begin anew."
+<end speech t=0540.500s>
+
+<begin speech t=0540.500s>
+content: "Remembering on both sides, that stability is not a sign of weakness, and sincerity is always subject to proof."
+<end speech t=0550.500s>
+
+<begin speech t=0550.500s>
+content: "Let us never negotiate out of fear, but let us never fear to negotiate."
+<end speech t=0557.500s>
+
+<begin speech t=0557.500s>
+content: "Let both sides explore what problems unite us, instead of belaboring those problems which divide us."
+<end speech t=0572.500s>
+
+<begin speech t=0572.500s>
+content: "Let both sides for the first time formulate serious and precise proposals for the inspection and control of arms, and bring the absolute power to destroy other nations under the absolute control of all nations."
+<end speech t=0593.500s>
+
+<begin speech t=0593.500s>
+content: "Let both sides seek to invoke the wonders of science instead of its terrors."
+<end speech t=0604.500s>
+
+<begin speech t=0604.500s>
+content: "Together, let us explore the stars, conquer the desert, eradicate disease, tap the ocean depth, and encourage the arts and commerce."
+<end speech t=0618.500s>
+
+<begin speech t=0618.500s>
+content: "Let both sides unite to heed, in all corners of the earth, the command of Isaiah, to undo the heavy burden, and let the oppressed go free."
+<end speech t=0632.500s>
+
+<begin speech t=0632.500s>
+content: "And, if a beachhead of cooperation may push back the jungle of suspicion, let both sides join in creating a new endeavor, not a new balance of power, but a new world of law, where the strong are just, and the weak secure, and the peace preserved."
+<end speech t=0658.500s>
+
+<begin speech t=0658.500s>
+content: "All this will not be finished in the first 100 days, nor will it be finished in the first 1000 days, nor in the life of this administration, nor even perhaps in our lifetime on this planet, but let us begin."
+<end speech t=0686.500s>
+
+<begin speech t=0686.500s>
+content: "In your hands, my fellow citizens, more than mine will rest the final success of failure of our course."
+<end speech t=0697.500s>
+
+<begin speech t=0697.500s>
+content: "Since this country was founded, each generation of Americans has been summoned to give testimony to its national loyalty."
+<end speech t=0709.500s>
+
+<begin speech t=0709.500s>
+content: "The graves of young America, who answered the call to service, surround the globe."
+<end speech t=0717.500s>
+
+<begin speech t=0717.500s>
+content: "Now the trumpet summons us again, not as they call to bear arms, no arms we need, not as a call to battle, no in battle we are, but a call to bear the burden of a long twilight struggle"
+<end speech t=0738.500s>
+
+<begin speech t=0738.500s>
+content: "year in and year out, rejoicing in hope, patient in tribulation, a struggle against the common enemies of man, tyranny, poverty, disease, and war itself."
+<end speech t=0755.500s>
+
+<begin speech t=0756.500s>
+content: "Can we forge against these enemies a grand and global alliance, north and south, east and west, that can assure a more fruitful life for all mankind?"
+<end speech t=0772.500s>
+
+<begin speech t=0772.500s>
+content: "Will you join in that historic effort?"
+<end speech t=0777.500s>
+
+<begin speech t=0777.500s>
+content: "In the long history of the world, only a few generations have been granted the role of defending freedom in its hour of maximum danger."
+<end speech t=0796.500s>
+
+<begin speech t=0796.500s>
+content: "I do not shrink from this responsibility, I welcome it."
+<end speech t=0801.500s>
+
+<begin speech t=0801.500s>
+content: "I do not believe that any of us would exchange places with any other people or any other generation."
+<end speech t=0815.500s>
+
+<begin speech t=0815.500s>
+content: "The energy, the faith, the devotion, which we bring to this endeavor will light our country and all who serve it, and the glow from that fire can truly light the world."
+<end speech t=0832.500s>
+
+<begin speech t=0832.500s>
+content: "And so my fellow America asked not what your country can do for you, asked what you can do for your country."
+<end speech t=0850.500s>
+
+<begin speech t=0850.500s>
+content: "My fellow citizens of the world asked not what America will do for you, but what together we can do for the freedom of man."
+<end speech t=0867.500s>
+
+<begin speech t=0867.500s>
+content: "And finally, whether you are citizens of America or citizens of the world, ask of us here, the same high standard of strength and sacrifice which we ask of you."
+<end speech t=0885.500s>
+
+<begin speech t=0885.500s>
+content: "With a good conscience, our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love, asking his blessings and his help."
+<end speech t=0903.500s>
+
+<begin speech t=0903.500s>
+content: "But knowing that here on earth God's work must truly be our own."
+<end speech t=0911.500s>

@@ -1,0 +1,140 @@
+1
+00:00:00,600 --> 00:00:07,000
+Every year, millions of orators compete in forensics, declamation, and public keynotes.
+
+2
+00:00:07,299 --> 00:00:14,199
+Yet speech evaluation remains trapped in an adjudication crisis: plagued by severe judge subjectivity...
+
+3
+00:00:14,500 --> 00:00:20,500
+...inconsistent scoring across ballots, and vague, non-actionable feedback.
+
+4
+00:00:20,800 --> 00:00:27,500
+Today, we introduce VOCODE: a physics-grounded multimodal engine that transforms oratorical evaluation.
+
+5
+00:00:28,600 --> 00:00:35,000
+Traditional speech tools suffer from three fatal flaws. First: unilateral penalization bias.
+
+6
+00:00:35,299 --> 00:00:42,500
+A dramatic rhetorical pause is naively flagged as dead air, and quiet emotional inflection as mumbling.
+
+7
+00:00:42,799 --> 00:00:49,500
+Second, human feedback lacks timestamps and acoustic measurements.
+
+8
+00:00:49,799 --> 00:00:57,000
+Third, existing ML corpora evaluate only what words were spoken, completely ignoring how they were delivered.
+
+9
+00:00:58,600 --> 00:01:05,200
+To ground evaluation objectively, we constructed a custom paired contrastive speech dataset.
+
+10
+00:01:05,500 --> 00:01:12,799
+We sourced and transcribed 48 masterclass public speeches—from MLK and JFK to Churchill and Steve Jobs.
+
+11
+00:01:13,099 --> 00:01:20,500
+Holding speech text constant as a scientific control, our 6-dimensional flaw injection engine synthesizes a 4-tier spectrum...
+
+12
+00:01:20,799 --> 00:01:27,500
+...from pristine delivery to severe panic, temporally grounding every flaw with millisecond precision.
+
+13
+00:01:28,599 --> 00:01:35,799
+The VOCODE pipeline begins with a 4-layer monologue gatekeeper, rejecting multi-speaker dialogue and background noise.
+
+14
+00:01:36,099 --> 00:01:43,500
+Raw audio passes through a 7-stage broadcast standardization pipeline: 16 kHz sinc resampling...
+
+15
+00:01:43,799 --> 00:01:51,000
+...a 70 Hz high-pass filter eliminating microphone handling rumble, and EBU R128 loudness normalization.
+
+16
+00:01:51,299 --> 00:01:59,000
+Next, our engine extracts dense 100 Hz physical telemetry: micro-prosodic pitch semitones, PAPR crest factor in dB...
+
+17
+00:01:59,299 --> 00:02:07,500
+...and adherence to the 20% Oratorical Pause Law, feeding directly into our non-unilateral rubric.
+
+18
+00:02:08,599 --> 00:02:16,000
+Let's see VOCODE in action on our live dashboard. The landing portal features dual rotating tape reels with zero-storage streaming.
+
+19
+00:02:16,500 --> 00:02:25,000
+First, we evaluate Dr. Martin Luther King Jr.'s masterclass delivery of 'I Have a Dream'. Overall score: 9.20 out of 10.
+
+20
+00:02:25,500 --> 00:02:33,500
+The multi-track waveform highlights brilliant pitch excursions and resonant cadence across all five oratorical pillars.
+
+21
+00:02:34,000 --> 00:02:42,000
+Now, we load the contrastive Tier 3 botched mirror of the exact same speech text. Instantly, the score drops to 4.70 out of 10.
+
+22
+00:02:42,500 --> 00:02:51,000
+Look at the waveform: VOCODE isolates a 4.8-second dead-air freeze in crimson red, capping the score under the Paralyzing Silence ceiling.
+
+23
+00:02:51,500 --> 00:03:00,000
+Clicking on any blunder card seeks the custom HTML5 audio player directly to the millisecond of failure.
+
+24
+00:03:00,500 --> 00:03:18,500
+In the Coach tab, VOCODE delivers actionable pedagogical training: prescribing the 1-second eye-contact reset and 4 daily practice routines.
+
+25
+00:03:23,599 --> 00:03:31,500
+Under the hood, VOCODE prevents unilateral false penalties through systemic impairment coupling.
+
+26
+00:03:32,000 --> 00:03:40,500
+If an orator speaks softly but maintains agile pitch modulation and natural pausing, our engine recognizes an intimate rhetorical choice.
+
+27
+00:03:41,000 --> 00:03:50,000
+Dynamic leniency calibration allows judges to toggle between strict competition forensics and novice coaching.
+
+28
+00:03:50,500 --> 00:04:01,500
+Furthermore, continuous speech is partitioned into discrete Chess.com Move Cards: Brilliant moves, Mistakes, and Blunders.
+
+29
+00:04:02,599 --> 00:04:09,500
+VOCODE rigorously addresses all five official Hackathon evaluation criteria.
+
+30
+00:04:10,000 --> 00:04:17,500
+Our 200-clip empirical benchmark demonstrates strong statistical correlation with expert human judges.
+
+31
+00:04:18,000 --> 00:04:27,000
+We deliver 25% causal explainability through dual DSP and LLM reasoning, 30% robust data engineering across 48 masterclass speeches...
+
+32
+00:04:27,500 --> 00:04:36,500
+...20% feature extraction via 100 Hz physics, 15% interactive dashboard usability, and 10% containerized reproducibility.
+
+33
+00:04:37,600 --> 00:04:44,500
+VOCODE is fully open source, containerized with Docker, and immediately reproducible across local environments.
+
+34
+00:04:45,000 --> 00:04:51,500
+By bridging digital signal processing, contrastive dataset engineering, and generative AI coaching...
+
+35
+00:04:52,000 --> 00:04:56,000
+...VOCODE transforms public speaking into an empowering, objective science. Thank you.
+

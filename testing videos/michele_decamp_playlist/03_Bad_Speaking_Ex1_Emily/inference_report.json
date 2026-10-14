@@ -1,0 +1,61 @@
+{
+  "id": "YivQYeI0vys",
+  "slug": "03_Bad_Speaking_Ex1_Emily",
+  "title": "Bad Public Speaking Example 1",
+  "duration_sec": 444.21,
+  "grades": {
+    "strict_leniency_0": 6.2,
+    "moderate_leniency_50": 7.5,
+    "lenient_leniency_100": 8.8
+  },
+  "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+  "performance_band_moderate": "Proficient / Noticeable Flaws (Tier 2)",
+  "performance_band_lenient": "Distinguished / Minor Polish (Tier 1)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 1.4,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.7,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.8,
+      "metric": "f0_semitones: 5.04 st",
+      "flaw": "Severe Monotone Compression",
+      "explanation": "Pitch range was severely compressed to 5.04 st (corpus floor: 10.56 st). Flat teleprompter-like delivery."
+    },
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.3,
+      "metric": "f0_velocity: 354.22 Hz/s",
+      "flaw": "Sluggish Vocal Inflection",
+      "explanation": "Pitch velocity was 354.22 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+    },
+    {
+      "pillar": "Rhetorical Pausing & Fluency",
+      "deduction": 0.3,
+      "metric": "filler_words_per_min: 3.5",
+      "flaw": "Frequent Filler Words",
+      "explanation": "Noticeable filler word frequency (3.5/min) disrupts smooth syntactic phrasing."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 26,
+    "fillers_per_min": 3.51,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 216.34,
+    "f0_semitones": 5.04,
+    "f0_velocity_hz_per_sec": 354.22,
+    "articulation_rate_sps": 5.7,
+    "pause_ratio": 0.186,
+    "hesitation_pause_count": 3,
+    "energy_dynamic_range_db": 45.14,
+    "papr_crest_factor": 71.08,
+    "spectral_flux": 3.3871
+  },
+  "transcript_preview": "Hi, I'm Emily Johnson. I'm going to be talking about the different areas in the marketing industry. So the first area that I want to talk about is the direct marketer, which is like a position usually in a company such as Sony or Nike. For example, a..."
+}

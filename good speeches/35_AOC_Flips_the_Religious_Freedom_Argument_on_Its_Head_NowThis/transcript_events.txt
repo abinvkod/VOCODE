@@ -1,0 +1,143 @@
+<begin speech t=0000.000s>
+content: "The only time religious freedom is invoked is in the name of bigotry and discrimination."
+<end speech t=0005.600s>
+
+<begin speech t=0005.600s>
+content: "I'm tired of it."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "I'm experiencing this hearing and I'm struggling whether I respond or launch into this question"
+<end speech t=0022.400s>
+
+<begin speech t=0022.400s>
+content: "as a legislator or from the perspective of a woman of faith because I cannot, it's"
+<end speech t=0032.400s>
+
+<begin speech t=0032.400s>
+content: "very difficult to sit here and listen to arguments in the long history of this country of using"
+<end speech t=0044.840s>
+
+<begin speech t=0044.840s>
+content: "scripture and weaponizing and abusing scripture to justify bigotry."
+<end speech t=0050.880s>
+
+<begin speech t=0050.880s>
+content: "White supremacists have done it, those who justified slavery did it, those who fought"
+<end speech t=0056.520s>
+
+<begin speech t=0056.520s>
+content: "against integration did it, and we're seeing it today."
+<end speech t=0061.520s>
+
+<begin speech t=0061.520s>
+content: "And sometimes, especially in this body, I feel as though if Christ himself walked through"
+<end speech t=0071.200s>
+
+<begin speech t=0071.200s>
+content: "these doors and said what he said thousands of years ago that we should love our neighbor"
+<end speech t=0078.800s>
+
+<begin speech t=0078.800s>
+content: "and our enemy, that we should welcome the stranger, fight for the least of us, that"
+<end speech t=0085.120s>
+
+<begin speech t=0085.120s>
+content: "it is easier for a rich man, it's easier for a camel to go through the eye of a needle"
+<end speech t=0090.360s>
+
+<begin speech t=0090.360s>
+content: "than for a rich man to get into a kingdom of heaven."
+<end speech t=0093.360s>
+
+<begin speech t=0093.360s>
+content: "He would be maligned as a radical and rejected from these doors."
+<end speech t=0100.880s>
+
+<begin speech t=0100.880s>
+content: "And I know, and it is part of my faith, that all people are holy, and all people are sacred,"
+<end speech t=0115.640s>
+
+<begin speech t=0115.640s>
+content: "unconditionally, and that is what makes faith sometimes, that's what prompts us to transform,"
+<end speech t=0123.400s>
+
+<begin speech t=0123.400s>
+content: "because it is unconditional."
+<end speech t=0125.720s>
+
+<begin speech t=0125.720s>
+content: "It's not about that it is up to us to love parts of people, we love all people."
+<end speech t=0132.800s>
+
+<begin speech t=0132.800s>
+content: "There is nothing holy about rejecting medical care of people, no matter who they are on"
+<end speech t=0140.680s>
+
+<begin speech t=0140.680s>
+content: "the grounds of what their identity is."
+<end speech t=0143.320s>
+
+<begin speech t=0143.320s>
+content: "There is nothing holy about turning someone away from a hospital."
+<end speech t=0148.440s>
+
+<begin speech t=0148.440s>
+content: "There's nothing holy about rejecting a child from a family."
+<end speech t=0154.360s>
+
+<begin speech t=0154.360s>
+content: "There's nothing holy about writing discrimination into the law, and I am tired of communities"
+<end speech t=0162.280s>
+
+<begin speech t=0162.280s>
+content: "of being of faith, being weaponized and being mischaracterized, because the only time religious"
+<end speech t=0169.440s>
+
+<begin speech t=0169.440s>
+content: "freedom is invoked is in the name of bigotry and discrimination."
+<end speech t=0174.000s>
+
+<begin speech t=0174.000s>
+content: "I'm tired of it."
+<end speech t=0176.800s>
+
+<begin speech t=0176.800s>
+content: "My faith commands me to treat Mr. Minton as holy, because he is sacred, because his life"
+<end speech t=0185.960s>
+
+<begin speech t=0185.960s>
+content: "is sacred, because you are not to be denied anything that I am entitled to, that we are"
+<end speech t=0191.880s>
+
+<begin speech t=0191.880s>
+content: "equal in the eyes of the law, and we are equal in my faith, in the eyes of the world."
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "And so I just have to get that out ahead of time, because it is deeply disturbing,"
+<end speech t=0207.360s>
+
+<begin speech t=0207.360s>
+content: "not just what is happening here, but what this administration is advancing, is the idea"
+<end speech t=0212.840s>
+
+<begin speech t=0212.840s>
+content: "that religion and faith is about exclusion."
+<end speech t=0216.960s>
+
+<begin speech t=0216.960s>
+content: "It is not up to us."
+<end speech t=0219.400s>
+
+<begin speech t=0219.400s>
+content: "It is not up to us to deny medical care."
+<end speech t=0222.400s>
+
+<begin speech t=0222.400s>
+content: "It is up to us to feed the hungry, to close the poor, to protect children, and to love"
+<end speech t=0229.200s>
+
+<begin speech t=0229.200s>
+content: "all people as ourselves."
+<end speech t=0230.560s>

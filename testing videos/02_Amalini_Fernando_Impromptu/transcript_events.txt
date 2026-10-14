@@ -1,0 +1,67 @@
+<begin speech t=0000.000s>
+content: "Aumalani Fernando, Knowledge is Power or Is it?"
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "Knowledge is Power or Is it Aumalani Fernando?"
+<end speech t=0017.500s>
+
+<begin speech t=0017.500s>
+content: "If I tell you that I know how to make a bomb and detonate it right here, what would you do?"
+<end speech t=0026.000s>
+
+<begin speech t=0026.000s>
+content: "Would you run away? Call 119 or would you call me a liar?"
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "Second is shame, ladies and gentlemen. Science and technology has changed my life so much."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "So I go to bed thinking that the solar system has nine planets, but wake up to learn that Pluto was a big, fat lie."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "The other day, I googled how to make a bomb. Few pieces of fire, a battery, an alarm, 30 minutes later, I had a bomb."
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "I went to my mum."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "Amma, if you don't buy me that leather shoes I want, I'm going to blow up your kitchen."
+<end speech t=0075.000s>
+
+<begin speech t=0076.000s>
+content: "Oh yeah? And how would you do that? Well, I googled online and now I have a bomb."
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "Well, does this Google person also tell you the system on how to use it?"
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "Wisdom? What wisdom? Sweetheart, you may know how to use something, but that doesn't mean you have wisdom on how to really use it."
+<end speech t=0098.000s>
+
+<begin speech t=0099.000s>
+content: "The great question of our generation is not how to produce. It's how to share. It's not how to create. It's how to share."
+<end speech t=0112.000s>
+
+<begin speech t=0113.000s>
+content: "It's not about blowing up, but about the wisdom on how to really use it."
+<end speech t=0121.000s>
+
+<begin speech t=0122.000s>
+content: "When I'm old and gray, I hope that I will look back about my generation and say that in my generation knowledge was not power."
+<end speech t=0134.000s>
+
+<begin speech t=0135.000s>
+content: "True power was wisdom over to you."
+<end speech t=0139.000s>
+
+<begin speech t=0151.000s>
+content: "You"
+<end speech t=0154.000s>

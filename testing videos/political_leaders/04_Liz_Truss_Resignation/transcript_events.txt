@@ -1,0 +1,71 @@
+<begin speech t=0000.000s>
+content: "I came into office at a time of great economic and international instability."
+<end speech t=0019.820s>
+
+<begin speech t=0019.820s>
+content: "Families and businesses were worried about how to pay their bills."
+<end speech t=0024.400s>
+
+<begin speech t=0024.400s>
+content: "Putin's illegal war in Ukraine threatens the security of our whole continent, and our"
+<end speech t=0030.400s>
+
+<begin speech t=0030.400s>
+content: "country has been held back for too long by low economic growth."
+<end speech t=0035.560s>
+
+<begin speech t=0035.560s>
+content: "I was elected by the Conservative Party with a mandate to change this."
+<end speech t=0040.840s>
+
+<begin speech t=0040.840s>
+content: "We delivered on energy bills and on cutting national insurance."
+<end speech t=0046.560s>
+
+<begin speech t=0046.560s>
+content: "We set out a vision for a low tax, high growth economy that would take advantage of the freedoms"
+<end speech t=0053.200s>
+
+<begin speech t=0053.200s>
+content: "of Brexit."
+<end speech t=0055.240s>
+
+<begin speech t=0055.240s>
+content: "I recognise though, given the situation, I cannot deliver the mandate on which I was elected"
+<end speech t=0062.560s>
+
+<begin speech t=0062.560s>
+content: "by the Conservative Party."
+<end speech t=0064.800s>
+
+<begin speech t=0064.800s>
+content: "I have therefore spoken to his Majesty the King to notify him that I am resigning as"
+<end speech t=0071.040s>
+
+<begin speech t=0071.040s>
+content: "leader of the Conservative Party."
+<end speech t=0074.440s>
+
+<begin speech t=0074.440s>
+content: "This morning I met the Chairman of the 1922 Committee, Sigrayan Brady."
+<end speech t=0079.680s>
+
+<begin speech t=0079.680s>
+content: "We have agreed that there will be a leadership election to be completed within the next week."
+<end speech t=0085.480s>
+
+<begin speech t=0085.480s>
+content: "This will ensure that we remain on a path to deliver our fiscal plans and maintain our"
+<end speech t=0091.160s>
+
+<begin speech t=0091.160s>
+content: "country's economic stability and national security."
+<end speech t=0095.600s>
+
+<begin speech t=0095.600s>
+content: "I will remain as Prime Minister until a successor has been chosen."
+<end speech t=0100.480s>
+
+<begin speech t=0100.480s>
+content: "Thank you."
+<end speech t=0101.000s>

@@ -1,0 +1,131 @@
+<begin speech t=0000.000s>
+content: "And my project is on this philosophy."
+<end speech t=0003.000s>
+
+<begin speech t=0004.000s>
+content: "What thing will you do?"
+<end speech t=0005.000s>
+
+<begin speech t=0005.000s>
+content: "It is fashionable today to believe that we should not sell for anything less than doing what we love."
+<end speech t=0009.000s>
+
+<begin speech t=0009.000s>
+content: "Break poetry, travel, world, and sell, but paint. Do whatever you love. And when you will follow them."
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "We tell ourselves that life is too short to spend our working hours doing anything less than ideal."
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "And we continue our search for the perfect place."
+<end speech t=0020.000s>
+
+<begin speech t=0021.000s>
+content: "The danger of that is that if our quest for ideal work focuses on future,"
+<end speech t=0027.000s>
+
+<begin speech t=0027.000s>
+content: "we miss that amazingly wonderful light as available today in a moment."
+<end speech t=0031.000s>
+
+<begin speech t=0031.000s>
+content: "The fact is that in the real world, our conditions with prevent us from changing perfect ideal job."
+<end speech t=0036.000s>
+
+<begin speech t=0036.000s>
+content: "Many of us have significant responsibilities to family members or a way of life."
+<end speech t=0040.000s>
+
+<begin speech t=0041.000s>
+content: "For others, the true calling has made itself visible yet."
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "Some of us are under still mistrust in our personal life that is literally no time for energy to seek the new work."
+<end speech t=0049.000s>
+
+<begin speech t=0049.000s>
+content: "The new line of work."
+<end speech t=0050.000s>
+
+<begin speech t=0051.000s>
+content: "This is a parable and an invented story about finding the deep source of energy, creativity, and passion that exists inside each of us by humanity to let what we do even within the fact that moment we may not be doing exactly what we love."
+<end speech t=0060.000s>
+
+<begin speech t=0066.000s>
+content: "Seattle Indian Morning."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "It was a cold, wet, dark, dreary, dismal Monday morning in Seattle, inside and out."
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "The best, the mediologist and channel for a cut-off for was a possible break in the clouds around noon."
+<end speech t=0077.000s>
+
+<begin speech t=0078.000s>
+content: "On days like this, Mary Jane Ramirez missed Southern California."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "Winter roller coaster shot as her mind retracts into the last three years."
+<end speech t=0084.000s>
+
+<begin speech t=0084.000s>
+content: "Dan, her husband, had received a great offer from Micro-Gro, and she had been confident that she could find a job once they were located."
+<end speech t=0092.000s>
+
+<begin speech t=0092.000s>
+content: "In just a four-shirt week, they had given notice packs and moved and found great daycare for the kids."
+<end speech t=0097.000s>
+
+<begin speech t=0097.000s>
+content: "Their house, hit the whole Los Angeles market, and just in time sold out immediately."
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "To their confidence, Mary Jane quickly found a supervisory position in the operations area for a guaranteed financial one seat of Seattle's various financial institutions."
+<end speech t=0112.000s>
+
+<begin speech t=0121.000s>
+content: "Mary Jane had begun leaving the building for lunch during the past five weeks."
+<end speech t=0124.000s>
+
+<begin speech t=0124.000s>
+content: "She knew the cafeteria lunch group would be doing what they always did, discussing the sins of the company in morning about the third floor."
+<end speech t=0129.000s>
+
+<begin speech t=0130.000s>
+content: "It was now too personal and too much depressing to listen to their complaints. She needs some fresh air."
+<end speech t=0134.000s>
+
+<begin speech t=0138.000s>
+content: "Oh boy, what now she wants her to listen to the voice of her new boss."
+<end speech t=0141.000s>
+
+<begin speech t=0141.000s>
+content: "Bill was another reason she had thought twice about taking the job on three."
+<end speech t=0146.000s>
+
+<begin speech t=0149.000s>
+content: "He would issue commands, cut-off, mid-sentence, and he had an annoying habit of asking about the status of projects in the eternal way."
+<end speech t=0156.000s>
+
+<begin speech t=0159.000s>
+content: "I launched her on Tuesday. She walked quickly down, first straight into the market."
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "Lani was still watching for her immediate, he immediately remarched from the crowd and redirected her down and ran past the t-shirt concession."
+<end speech t=0182.000s>
+
+<begin speech t=0184.000s>
+content: "Thank you, that's all."
+<end speech t=0186.000s>
+
+<begin speech t=0189.000s>
+content: "Thank you."
+<end speech t=0191.000s>

@@ -1,0 +1,63 @@
+<begin speech t=0000.000s>
+content: "It's one thing, if you really understand it, it can make your life 100% better."
+<end speech t=0005.840s>
+
+<begin speech t=0005.840s>
+content: "And it's really simple."
+<end speech t=0007.440s>
+
+<begin speech t=0007.440s>
+content: "And it's this, the better I feel, the better life gets."
+<end speech t=0013.440s>
+
+<begin speech t=0013.440s>
+content: "The worse I feel, the worse life gets."
+<end speech t=0017.680s>
+
+<begin speech t=0017.680s>
+content: "Remember, your thoughts, your feelings are magnetic in nature."
+<end speech t=0022.480s>
+
+<begin speech t=0022.480s>
+content: "You attract based on what you feel."
+<end speech t=0025.120s>
+
+<begin speech t=0025.120s>
+content: "If you're feeling negative, you are in the process of attracting more negative things"
+<end speech t=0029.920s>
+
+<begin speech t=0029.920s>
+content: "to you."
+<end speech t=0030.920s>
+
+<begin speech t=0030.920s>
+content: "It's really that cut and dry."
+<end speech t=0032.960s>
+
+<begin speech t=0032.960s>
+content: "It's simple."
+<end speech t=0033.960s>
+
+<begin speech t=0033.960s>
+content: "But if you're positive and loving and you feel good, you are in the process of attracting"
+<end speech t=0040.800s>
+
+<begin speech t=0040.800s>
+content: "more things that make you feel good."
+<end speech t=0043.760s>
+
+<begin speech t=0043.760s>
+content: "It's really that simple."
+<end speech t=0045.440s>
+
+<begin speech t=0045.440s>
+content: "Your job is to feel good as much as possible."
+<end speech t=0050.360s>
+
+<begin speech t=0050.360s>
+content: "I don't answer emails, I don't answer phone calls unless I feel good."
+<end speech t=0054.720s>
+
+<begin speech t=0054.720s>
+content: "Sometimes my life is responding to how I feel."
+<end speech t=0057.800s>

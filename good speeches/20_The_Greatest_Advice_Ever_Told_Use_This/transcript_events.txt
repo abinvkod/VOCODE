@@ -1,0 +1,903 @@
+<begin speech t=0000.000s>
+content: "What do you want to do?"
+<end speech t=0002.000s>
+
+<begin speech t=0002.000s>
+content: "I think we do everything I think."
+<end speech t=0005.000s>
+
+<begin speech t=0005.000s>
+content: "Try to take over the world."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "Whatever it takes to get you to try harder,"
+<end speech t=0010.000s>
+
+<begin speech t=0010.000s>
+content: "read more, set your goals and go for it."
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "Here's the next attitude disease."
+<end speech t=0017.000s>
+
+<begin speech t=0017.000s>
+content: "Over caution."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "Some people never will have much."
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "They're too cautious."
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "Now you can also be too reckless,"
+<end speech t=0030.000s>
+
+<begin speech t=0030.000s>
+content: "but you can also be too cautious."
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "This is called the timid approach to life."
+<end speech t=0038.000s>
+
+<begin speech t=0041.000s>
+content: "And my caution was always the risk."
+<end speech t=0043.000s>
+
+<begin speech t=0043.000s>
+content: "Risk used to drive me right up the wall."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "I used to say, what if this happens?"
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "It's called the language of the poor."
+<end speech t=0053.000s>
+
+<begin speech t=0053.000s>
+content: "What if this happens?"
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "And on top of that, if this was to happen,"
+<end speech t=0056.000s>
+
+<begin speech t=0056.000s>
+content: "look at the fix I'd be in."
+<end speech t=0058.000s>
+
+<begin speech t=0058.000s>
+content: "I'd better not try."
+<end speech t=0061.000s>
+
+<begin speech t=0061.000s>
+content: "I could always ace myself out."
+<end speech t=0064.000s>
+
+<begin speech t=0064.000s>
+content: "Then I'll tell you what changed my whole life"
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "when I finally discovered it's all risky."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "The minute you were born, it got risky."
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "If you think trying is risky,"
+<end speech t=0076.000s>
+
+<begin speech t=0076.000s>
+content: "wait till they hand you the bill for not trying."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "If you think investing is risky,"
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "wait till you get the tab for not investing."
+<end speech t=0084.000s>
+
+<begin speech t=0084.000s>
+content: "See, it's all risky."
+<end speech t=0085.000s>
+
+<begin speech t=0085.000s>
+content: "Getting married is risky."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "Having children is risky."
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "Going into business is risky."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "Investing your money is risky."
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "It's all risky."
+<end speech t=0093.000s>
+
+<begin speech t=0093.000s>
+content: "I'll tell you how risky life is."
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "You're not going to get out alive."
+<end speech t=0099.000s>
+
+<begin speech t=0099.000s>
+content: "That's risky."
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "The Englishman says, well, if that's the way it's going to work out,"
+<end speech t=0105.000s>
+
+<begin speech t=0105.000s>
+content: "let's give it a go."
+<end speech t=0106.000s>
+
+<begin speech t=0106.000s>
+content: "Right."
+<end speech t=0107.000s>
+
+<begin speech t=0107.000s>
+content: "That's what it's for."
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "Give it a go."
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "Somebody says, yeah,"
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "but I'm looking for safety and security."
+<end speech t=0114.000s>
+
+<begin speech t=0114.000s>
+content: "Find and huddle in a corner."
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "We'll cover you with a sheet,"
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "bring you three meals a day,"
+<end speech t=0120.000s>
+
+<begin speech t=0120.000s>
+content: "and we'll protect you, feed you."
+<end speech t=0122.000s>
+
+<begin speech t=0122.000s>
+content: "Look after you, care for you,"
+<end speech t=0124.000s>
+
+<begin speech t=0124.000s>
+content: "we won't let anything happen to you,"
+<end speech t=0126.000s>
+
+<begin speech t=0126.000s>
+content: "and you'll probably live to be 100."
+<end speech t=0130.000s>
+
+<begin speech t=0130.000s>
+content: "The guy said, well, yeah, I'd live to be 100,"
+<end speech t=0132.000s>
+
+<begin speech t=0132.000s>
+content: "but what a way to live."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "Right."
+<end speech t=0135.000s>
+
+<begin speech t=0135.000s>
+content: "What a way to live, safe and secure."
+<end speech t=0137.000s>
+
+<begin speech t=0137.000s>
+content: "Don't ask for security."
+<end speech t=0139.000s>
+
+<begin speech t=0139.000s>
+content: "Ask for adventure."
+<end speech t=0141.000s>
+
+<begin speech t=0141.000s>
+content: "Better to live 30 years full of adventure than 100 years safe in the corner."
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "And see, it's not important how long you live."
+<end speech t=0154.000s>
+
+<begin speech t=0154.000s>
+content: "What's important is how you live."
+<end speech t=0160.000s>
+
+<begin speech t=0160.000s>
+content: "Here's the next attitude disease."
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "We're almost through with this monthly list."
+<end speech t=0163.000s>
+
+<begin speech t=0163.000s>
+content: "In fact, we're almost through."
+<end speech t=0165.000s>
+
+<begin speech t=0165.000s>
+content: "Hang on."
+<end speech t=0168.000s>
+
+<begin speech t=0168.000s>
+content: "The next one is pessimism."
+<end speech t=0174.000s>
+
+<begin speech t=0174.000s>
+content: "Testimism, the deadly disease of always looking on the bad side,"
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "the problem side, the difficult side,"
+<end speech t=0180.000s>
+
+<begin speech t=0180.000s>
+content: "checking all the reasons why it can't be done."
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "The poor pessimist leads in ugly life."
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "He doesn't try to figure out what's right."
+<end speech t=0189.000s>
+
+<begin speech t=0189.000s>
+content: "He tries to figure out what's wrong."
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "He doesn't look for virtue."
+<end speech t=0193.000s>
+
+<begin speech t=0193.000s>
+content: "He looks for faults, and when he finds him,"
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "he's delighted how ugly."
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "This is the poor guy looks through the window,"
+<end speech t=0201.000s>
+
+<begin speech t=0201.000s>
+content: "doesn't see the sunset."
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "He sees the specs on the window."
+<end speech t=0205.000s>
+
+<begin speech t=0209.000s>
+content: "And this is the poor guy who rushes up,"
+<end speech t=0211.000s>
+
+<begin speech t=0211.000s>
+content: "takes us to leave with his senses."
+<end speech t=0213.000s>
+
+<begin speech t=0213.000s>
+content: "This guy rushes up and he says,"
+<end speech t=0214.000s>
+
+<begin speech t=0214.000s>
+content: "I've got five good reasons why it won't work."
+<end speech t=0217.000s>
+
+<begin speech t=0217.000s>
+content: "He's so dumb he doesn't know."
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "All he needs is, he's got five."
+<end speech t=0222.000s>
+
+<begin speech t=0226.000s>
+content: "To the pessimist, the glass is always half empty."
+<end speech t=0233.000s>
+
+<begin speech t=0233.000s>
+content: "To the optimist, the glass is half full."
+<end speech t=0237.000s>
+
+<begin speech t=0237.000s>
+content: "Why would the same measure affect people two different ways?"
+<end speech t=0240.000s>
+
+<begin speech t=0240.000s>
+content: "Answer."
+<end speech t=0241.000s>
+
+<begin speech t=0241.000s>
+content: "It all depends on how you look at it."
+<end speech t=0244.000s>
+
+<begin speech t=0244.000s>
+content: "Our lives are mostly affected by the way we think things are."
+<end speech t=0249.000s>
+
+<begin speech t=0249.000s>
+content: "Not the way they are."
+<end speech t=0251.000s>
+
+<begin speech t=0252.000s>
+content: "The way we think they are affects us knows."
+<end speech t=0255.000s>
+
+<begin speech t=0258.000s>
+content: "There's a subject we don't have time to get into tonight"
+<end speech t=0260.000s>
+
+<begin speech t=0260.000s>
+content: "called Better Thinking Habits."
+<end speech t=0263.000s>
+
+<begin speech t=0263.000s>
+content: "One of the major things she'll taught me when I met him,"
+<end speech t=0266.000s>
+
+<begin speech t=0266.000s>
+content: "he said, poor thinking habits keeps most people poor."
+<end speech t=0272.000s>
+
+<begin speech t=0272.000s>
+content: "Not poor working habits."
+<end speech t=0274.000s>
+
+<begin speech t=0274.000s>
+content: "Most people work hard, but they don't think hard."
+<end speech t=0277.000s>
+
+<begin speech t=0277.000s>
+content: "And she'll taught me that the mind is like a factory,"
+<end speech t=0280.000s>
+
+<begin speech t=0280.000s>
+content: "a mental factory, and whatever you think about all day long,"
+<end speech t=0283.000s>
+
+<begin speech t=0283.000s>
+content: "pours ingredients into this mental factory."
+<end speech t=0286.000s>
+
+<begin speech t=0286.000s>
+content: "And that's what builds the economic, social, financial fabric of your life."
+<end speech t=0293.000s>
+
+<begin speech t=0295.000s>
+content: "He quoted me a bible phrase that says,"
+<end speech t=0298.000s>
+
+<begin speech t=0298.000s>
+content: "as you think so you become."
+<end speech t=0302.000s>
+
+<begin speech t=0302.000s>
+content: "How awesome."
+<end speech t=0304.000s>
+
+<begin speech t=0305.000s>
+content: "When he talked about poor thinking habits he had me,"
+<end speech t=0308.000s>
+
+<begin speech t=0308.000s>
+content: "I used to start the day reading the morning newsroom."
+<end speech t=0312.000s>
+
+<begin speech t=0312.000s>
+content: "I mean you can believe that or not."
+<end speech t=0314.000s>
+
+<begin speech t=0314.000s>
+content: "I'd get a cup of coffee and read the paper."
+<end speech t=0316.000s>
+
+<begin speech t=0316.000s>
+content: "I'd load up on wars and riots and murders and stabbings and killings"
+<end speech t=0319.000s>
+
+<begin speech t=0319.000s>
+content: "and bank robberies and muggings and car wrecks and tragedies."
+<end speech t=0322.000s>
+
+<begin speech t=0322.000s>
+content: "I'd even read the back pages."
+<end speech t=0323.000s>
+
+<begin speech t=0323.000s>
+content: "I seem to like that stuff for some weird reason."
+<end speech t=0325.000s>
+
+<begin speech t=0325.000s>
+content: "I'd load up on all that and then I'd start the day."
+<end speech t=0327.000s>
+
+<begin speech t=0327.000s>
+content: "You can imagine the kind of days I used to have."
+<end speech t=0330.000s>
+
+<begin speech t=0330.000s>
+content: "You walk around on your fine end of the day"
+<end speech t=0333.000s>
+
+<begin speech t=0333.000s>
+content: "and you're around on your financial knees."
+<end speech t=0336.000s>
+
+<begin speech t=0336.000s>
+content: "They call you economic pee-wee."
+<end speech t=0339.000s>
+
+<begin speech t=0345.000s>
+content: "The guy says,"
+<end speech t=0347.000s>
+
+<begin speech t=0347.000s>
+content: "I want to be a great leader."
+<end speech t=0349.000s>
+
+<begin speech t=0349.000s>
+content: "Wonderful."
+<end speech t=0350.000s>
+
+<begin speech t=0350.000s>
+content: "The first thing we do is following to his house."
+<end speech t=0353.000s>
+
+<begin speech t=0353.000s>
+content: "When we get there, we walk in and check his library."
+<end speech t=0358.000s>
+
+<begin speech t=0358.000s>
+content: "Number one."
+<end speech t=0361.000s>
+
+<begin speech t=0361.000s>
+content: "Somebody says,"
+<end speech t=0362.000s>
+
+<begin speech t=0362.000s>
+content: "well, why check his library?"
+<end speech t=0364.000s>
+
+<begin speech t=0364.000s>
+content: "The reason is because what a man reads"
+<end speech t=0368.000s>
+
+<begin speech t=0368.000s>
+content: "pours massive ingredients into his mental factory"
+<end speech t=0372.000s>
+
+<begin speech t=0372.000s>
+content: "and the fabric of his life is built from those ingredients."
+<end speech t=0377.000s>
+
+<begin speech t=0379.000s>
+content: "You would not believe what some people have got in their house to read."
+<end speech t=0383.000s>
+
+<begin speech t=0385.000s>
+content: "You would not believe."
+<end speech t=0386.000s>
+
+<begin speech t=0386.000s>
+content: "One of the best tests that I know for a lot of it is,"
+<end speech t=0389.000s>
+
+<begin speech t=0389.000s>
+content: "a little trash."
+<end speech t=0391.000s>
+
+<begin speech t=0391.000s>
+content: "Can you imagine dumping a barrel of trash into this mental factory every day"
+<end speech t=0395.000s>
+
+<begin speech t=0395.000s>
+content: "and coming out with a rich dynamic, positive life?"
+<end speech t=0398.000s>
+
+<begin speech t=0398.000s>
+content: "It can't be done."
+<end speech t=0401.000s>
+
+<begin speech t=0401.000s>
+content: "You might as well try making a cake with cement."
+<end speech t=0404.000s>
+
+<begin speech t=0407.000s>
+content: "The kids back in Danbury, Connecticut, high school,"
+<end speech t=0411.000s>
+
+<begin speech t=0411.000s>
+content: "they're asking me questions one day."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "I'm talking to the kids."
+<end speech t=0414.000s>
+
+<begin speech t=0414.000s>
+content: "The kids got good questions each day."
+<end speech t=0416.000s>
+
+<begin speech t=0416.000s>
+content: "One of them said to me,"
+<end speech t=0417.000s>
+
+<begin speech t=0417.000s>
+content: "Mr. O'odh, how do you build the good life?"
+<end speech t=0420.000s>
+
+<begin speech t=0420.000s>
+content: "I said, it's simple."
+<end speech t=0423.000s>
+
+<begin speech t=0424.000s>
+content: "It's not easy, but it's simple."
+<end speech t=0428.000s>
+
+<begin speech t=0428.000s>
+content: "Here's how you build anything."
+<end speech t=0430.000s>
+
+<begin speech t=0430.000s>
+content: "Select the right ingredients."
+<end speech t=0432.000s>
+
+<begin speech t=0432.000s>
+content: "Keep out the wrong ingredients and it starts with thought."
+<end speech t=0436.000s>
+
+<begin speech t=0438.000s>
+content: "Everything starts with thought."
+<end speech t=0440.000s>
+
+<begin speech t=0440.000s>
+content: "So you must be wise and careful what you think about"
+<end speech t=0445.000s>
+
+<begin speech t=0445.000s>
+content: "because that starts everything."
+<end speech t=0447.000s>
+
+<begin speech t=0450.000s>
+content: "You've got to be wise and careful."
+<end speech t=0453.000s>
+
+<begin speech t=0454.000s>
+content: "I asked the kids,"
+<end speech t=0456.000s>
+
+<begin speech t=0456.000s>
+content: "what would happen if somebody dropped sugar in my coffee?"
+<end speech t=0459.000s>
+
+<begin speech t=0460.000s>
+content: "They said, will you be okay?"
+<end speech t=0462.000s>
+
+<begin speech t=0462.000s>
+content: "I said, what if somebody dropped strict nine in my coffee?"
+<end speech t=0465.000s>
+
+<begin speech t=0466.000s>
+content: "They said, will you be good?"
+<end speech t=0468.000s>
+
+<begin speech t=0468.000s>
+content: "I said, correct."
+<end speech t=0470.000s>
+
+<begin speech t=0470.000s>
+content: "Lesson one."
+<end speech t=0471.000s>
+
+<begin speech t=0471.000s>
+content: "Life is both sugar and strict nine."
+<end speech t=0474.000s>
+
+<begin speech t=0476.000s>
+content: "You've got to be careful."
+<end speech t=0479.000s>
+
+<begin speech t=0480.000s>
+content: "I said, what if my worst enemy dropped in the sugar?"
+<end speech t=0483.000s>
+
+<begin speech t=0484.000s>
+content: "They said, will you be okay?"
+<end speech t=0485.000s>
+
+<begin speech t=0485.000s>
+content: "I said, what if my best friend,"
+<end speech t=0487.000s>
+
+<begin speech t=0487.000s>
+content: "even my accident dropped in the strict nine?"
+<end speech t=0489.000s>
+
+<begin speech t=0489.000s>
+content: "They said, will you be dead?"
+<end speech t=0491.000s>
+
+<begin speech t=0491.000s>
+content: "I said, correct."
+<end speech t=0492.000s>
+
+<begin speech t=0492.000s>
+content: "Lesson two."
+<end speech t=0493.000s>
+
+<begin speech t=0493.000s>
+content: "Watch your coffee."
+<end speech t=0495.000s>
+
+<begin speech t=0500.000s>
+content: "You've got to be careful."
+<end speech t=0502.000s>
+
+<begin speech t=0502.000s>
+content: "See, it doesn't matter who hands you the bad stuff."
+<end speech t=0504.000s>
+
+<begin speech t=0505.000s>
+content: "It doesn't matter who you get the bad stuff."
+<end speech t=0507.000s>
+
+<begin speech t=0507.000s>
+content: "It'll still do its damage on your bank account."
+<end speech t=0509.000s>
+
+<begin speech t=0510.000s>
+content: "Wherever you get it."
+<end speech t=0512.000s>
+
+<begin speech t=0514.000s>
+content: "Mr. Scholff gave me one of the greatest phrases when I first met him when he said, Jim,"
+<end speech t=0517.000s>
+
+<begin speech t=0517.000s>
+content: "every day, stand guard at the door of your mind."
+<end speech t=0522.000s>
+
+<begin speech t=0527.000s>
+content: "How important."
+<end speech t=0528.000s>
+
+<begin speech t=0529.000s>
+content: "Stand guard at the door of your mind."
+<end speech t=0534.000s>
+
+<begin speech t=0536.000s>
+content: "And you decide what goes into your mental factory."
+<end speech t=0538.000s>
+
+<begin speech t=0538.000s>
+content: "Don't let anybody just dump anything they want to in your mental factory,"
+<end speech t=0542.000s>
+
+<begin speech t=0542.000s>
+content: "because you've got to live with the result."
+<end speech t=0545.000s>
+
+<begin speech t=0548.000s>
+content: "Okay, here's the last disease, and we're through with this list."
+<end speech t=0551.000s>
+
+<begin speech t=0551.000s>
+content: "In fact, we're almost through."
+<end speech t=0553.000s>
+
+<begin speech t=0553.000s>
+content: "Hang on."
+<end speech t=0554.000s>
+
+<begin speech t=0554.000s>
+content: "The last subject is very brief."
+<end speech t=0556.000s>
+
+<begin speech t=0557.000s>
+content: "The last disease, but this one is deadly."
+<end speech t=0560.000s>
+
+<begin speech t=0560.000s>
+content: "Engage in this one indulgent, and even slightly,"
+<end speech t=0563.000s>
+
+<begin speech t=0563.000s>
+content: "and you might as well forget the future, because it's going to forget you."
+<end speech t=0566.000s>
+
+<begin speech t=0567.000s>
+content: "Complaining."
+<end speech t=0568.000s>
+
+<begin speech t=0570.000s>
+content: "Crying."
+<end speech t=0571.000s>
+
+<begin speech t=0571.000s>
+content: "Crying."
+<end speech t=0572.000s>
+
+<begin speech t=0572.000s>
+content: "Gripping."
+<end speech t=0573.000s>
+
+<begin speech t=0573.000s>
+content: "A Bible word called murmuring."
+<end speech t=0575.000s>
+
+<begin speech t=0576.000s>
+content: "See, that'll ace your future."
+<end speech t=0578.000s>
+
+<begin speech t=0579.000s>
+content: "Spend five minutes complaining, and you have wasted five."
+<end speech t=0582.000s>
+
+<begin speech t=0583.000s>
+content: "And you may have begun what's known as economic cancer of the bone."
+<end speech t=0586.000s>
+
+<begin speech t=0588.000s>
+content: "Surely they will soon haul you off into a financial desert,"
+<end speech t=0591.000s>
+
+<begin speech t=0591.000s>
+content: "and there, let you choke on the dust of your own regret."
+<end speech t=0595.000s>
+
+<begin speech t=0596.000s>
+content: "I hope I said that well, so you won't forget."
+<end speech t=0599.000s>
+
+<begin speech t=0599.000s>
+content: "It's a deadly disease."
+<end speech t=0601.000s>
+
+<begin speech t=0602.000s>
+content: "If you don't think it's bad, ask the children of Israel, a bold testament thing."
+<end speech t=0607.000s>
+
+<begin speech t=0607.000s>
+content: "Typical of us all, their story just happened to get in the book."
+<end speech t=0611.000s>
+
+<begin speech t=0611.000s>
+content: "Story says, children of Israel were slaves."
+<end speech t=0615.000s>
+
+<begin speech t=0615.000s>
+content: "God performed a series of dazzling miracles, and got them out."
+<end speech t=0619.000s>
+
+<begin speech t=0620.000s>
+content: "And now they're hidden for the promised land."
+<end speech t=0622.000s>
+
+<begin speech t=0622.000s>
+content: "Remember the story?"
+<end speech t=0623.000s>
+
+<begin speech t=0623.000s>
+content: "Hidden for the promised land."
+<end speech t=0625.000s>
+
+<begin speech t=0625.000s>
+content: "Tragedy of the story?"
+<end speech t=0626.000s>
+
+<begin speech t=0626.000s>
+content: "They never got the reason."
+<end speech t=0631.000s>
+
+<begin speech t=0632.000s>
+content: "From day one, they started to complain."
+<end speech t=0636.000s>
+
+<begin speech t=0637.000s>
+content: "They griped about the water."
+<end speech t=0640.000s>
+
+<begin speech t=0640.000s>
+content: "They griped about the weather."
+<end speech t=0642.000s>
+
+<begin speech t=0642.000s>
+content: "They find and cried and griped about the food."
+<end speech t=0646.000s>
+
+<begin speech t=0646.000s>
+content: "They griped about the leadership."
+<end speech t=0648.000s>
+
+<begin speech t=0648.000s>
+content: "They find and cried because it was too far, too cold, too hot, too difficult, too miserable."
+<end speech t=0654.000s>
+
+<begin speech t=0654.000s>
+content: "I mean, they find and cried for years."
+<end speech t=0657.000s>
+
+<begin speech t=0657.000s>
+content: "Finally, God said, I've had it, trip canceled."
+<end speech t=0661.000s>
+
+<begin speech t=0664.000s>
+content: "Or something like that."
+<end speech t=0666.000s>
+
+<begin speech t=0668.000s>
+content: "The story says, they died in the desert, never got to the promised land."
+<end speech t=0675.000s>
+
+<begin speech t=0676.000s>
+content: "Which I think means two things."
+<end speech t=0678.000s>
+
+<begin speech t=0678.000s>
+content: "Indulge in this long enough, you get your future canceled."
+<end speech t=0681.000s>
+
+<begin speech t=0681.000s>
+content: "And I guess it also means, even God himself can only take so much."
+<end speech t=0686.000s>
+
+<begin speech t=0695.000s>
+content: "Just be on the lookout of the things that can destroy all the goods you start."
+<end speech t=0698.000s>
+
+<begin speech t=0698.000s>
+content: "The war is on."
+<end speech t=0700.000s>
+
+<begin speech t=0701.000s>
+content: "And this evening, tomorrow, mentally, personally, socially, economically."
+<end speech t=0705.000s>
+
+<begin speech t=0705.000s>
+content: "You got to make sure you're winning the war."
+<end speech t=0708.000s>
+
+<begin speech t=0708.000s>
+content: "And this is part of it."
+<end speech t=0710.000s>

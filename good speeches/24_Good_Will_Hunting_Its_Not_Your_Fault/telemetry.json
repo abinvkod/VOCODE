@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/24_Good_Will_Hunting_Its_Not_Your_Fault/audio.mp3",
+  "clean_file": "good speeches/24_Good_Will_Hunting_Its_Not_Your_Fault/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 92.81,
+  "clean_duration_sec": 92.802,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.008,
+  "measured_lufs_raw": -33.83,
+  "target_lufs": -20.0,
+  "gain_applied_db": 8.18,
+  "snr_raw_db": 22.9,
+  "snr_clean_db": 30.85,
+  "snr_improvement_db": 7.95,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 114,
+    "utterance_count": 31
+  },
+  "status": "READY_FOR_EVALUATION"
+}

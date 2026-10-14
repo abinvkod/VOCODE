@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/16_Why_I_as_a_black_man_attend_KKK_rallies_Daryl_Davis_TEDxNape/audio.mp3",
+  "clean_file": "good speeches/16_Why_I_as_a_black_man_attend_KKK_rallies_Daryl_Davis_TEDxNape/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1132.414,
+  "clean_duration_sec": 1129.532,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 2.882,
+  "measured_lufs_raw": -20.02,
+  "target_lufs": -20.0,
+  "gain_applied_db": -1.41,
+  "snr_raw_db": 26.81,
+  "snr_clean_db": 30.87,
+  "snr_improvement_db": 4.06,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 3150,
+    "utterance_count": 337
+  },
+  "status": "READY_FOR_EVALUATION"
+}

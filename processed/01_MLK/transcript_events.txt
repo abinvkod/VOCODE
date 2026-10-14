@@ -1,0 +1,1215 @@
+<begin speech t=00:00.288s>
+content: "We now, we now, we now, we now, we now."
+<end speech t=00:11.648s>
+
+<begin speech t=00:11.984s>
+content: "We now recover frompassword."
+<end speech t=00:21.440s>
+
+<begin speech t=00:21.712s>
+content: "Oh may we laugh so confirm who might be"
+<end speech t=00:34.144s>
+
+<begin speech t=00:34.496s>
+content: "oter"
+<end speech t=00:38.752s>
+
+<begin speech t=00:39.104s>
+content: "oUw ap E"
+<end speech t=00:43.520s>
+
+<begin speech t=00:44.576s>
+content: "This time I'm helping out a present to you."
+<end speech t=00:47.008s>
+
+<begin speech t=00:48.336s>
+content: "Tomorrow, we'll hear about it."
+<end speech t=00:50.304s>
+
+<begin speech t=00:52.384s>
+content: "I have the pleasure to present to you."
+<end speech t=00:54.384s>
+
+<begin speech t=00:54.992s>
+content: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA XD"
+<end speech t=01:04.288s>
+
+<begin speech t=01:05.552s>
+content: "I am happy to join with you today."
+<end speech t=01:09.408s>
+
+<begin speech t=01:11.184s>
+content: "and what will go down in history."
+<end speech t=01:14.560s>
+
+<begin speech t=01:16.464s>
+content: "was the greatest demonstration for freedom and the history of our needs."
+<end speech t=01:21.568s>
+
+<begin speech t=01:22.816s>
+content: "WH"
+<end speech t=01:29.424s>
+
+<begin speech t=01:30.864s>
+content: "I've gone years ago."
+<end speech t=01:33.680s>
+
+<begin speech t=01:36.144s>
+content: "Great American in who's symbolic."
+<end speech t=01:38.432s>
+
+<begin speech t=01:39.040s>
+content: "We've got to we'll stand today."
+<end speech t=01:40.736s>
+
+<begin speech t=01:42.448s>
+content: "Time to be an emancipation person. Go, go, go. Let's go."
+<end speech t=01:45.536s>
+
+<begin speech t=01:48.016s>
+content: "This moment is to pre-change."
+<end speech t=01:50.288s>
+
+<begin speech t=01:51.888s>
+content: "as the dead, we can rather cope in living in your growth moving."
+<end speech t=01:56.000s>
+
+<begin speech t=01:57.536s>
+content: "who have been scared and the flames of withering and"
+<end speech t=02:01.120s>
+
+<begin speech t=02:03.920s>
+content: "came as a joyous living."
+<end speech t=02:05.968s>
+
+<begin speech t=02:08.112s>
+content: "We'll end the long night."
+<end speech t=02:09.888s>
+
+<begin speech t=02:10.368s>
+content: "bad activity."
+<end speech t=02:11.600s>
+
+<begin speech t=02:13.952s>
+content: "or 100 years."
+<end speech t=02:16.112s>
+
+<begin speech t=02:18.704s>
+content: "Can this rock still have?"
+<end speech t=02:20.976s>
+
+<begin speech t=02:21.600s>
+content: "is not free."
+<end speech t=02:22.720s>
+
+<begin speech t=02:24.624s>
+content: "100"
+<end speech t=02:25.920s>
+
+<begin speech t=02:28.160s>
+content: "The life of the middle feels sadly simple by the medical accommodation."
+<end speech t=02:34.528s>
+
+<begin speech t=02:35.680s>
+content: "when the chains of the discrimination."
+<end speech t=02:37.920s>
+
+<begin speech t=02:39.104s>
+content: "100 years."
+<end speech t=02:40.240s>
+
+<begin speech t=02:42.272s>
+content: "The drill is on a lonely island."
+<end speech t=02:44.768s>
+
+<begin speech t=02:47.120s>
+content: "When the mist of the vase opens up."
+<end speech t=02:49.536s>
+
+<begin speech t=02:49.808s>
+content: "superior paciser details."
+<end speech t=02:51.232s>
+
+<begin speech t=02:51.600s>
+content: "100 hair filter."
+<end speech t=02:53.024s>
+
+<begin speech t=02:58.240s>
+content: "The network is still landing in the corners of American society."
+<end speech t=03:03.008s>
+
+<begin speech t=03:04.448s>
+content: "He finds himself in exile in his own land."
+<end speech t=03:07.776s>
+
+<begin speech t=03:09.184s>
+content: "forward come here today."
+<end speech t=03:10.640s>
+
+<begin speech t=03:12.592s>
+content: "Romanticize the same"
+<end speech t=03:15.120s>
+
+<begin speech t=03:16.928s>
+content: "I'm going to send it to me. It's coming to my name."
+<end speech t=03:18.768s>
+
+<begin speech t=03:20.256s>
+content: "Bye!"
+<end speech t=03:20.560s>
+
+<begin speech t=03:22.800s>
+content: "I"
+<end speech t=03:24.928s>
+
+<begin speech t=03:26.736s>
+content: "Most of the magnificent words of the con..."
+<end speech t=03:29.200s>
+
+<begin speech t=03:29.712s>
+content: "and then the death penalty again."
+<end speech t=03:31.344s>
+
+<begin speech t=03:33.632s>
+content: "They were finding this commercial."
+<end speech t=03:36.240s>
+
+<begin speech t=03:37.744s>
+content: "is there that Americans lost to fall eggs?"
+<end speech t=03:40.432s>
+
+<begin speech t=03:42.368s>
+content: "There's no sense of comment at all."
+<end speech t=03:44.608s>
+
+<begin speech t=03:46.256s>
+content: "Yeah."
+<end speech t=03:46.704s>
+
+<begin speech t=03:47.744s>
+content: "Well, you mean as well as hope? You're going hypotheticalism with that?"
+<end speech t=03:48.992s>
+
+<begin speech t=03:50.704s>
+content: "The big guarantee beyond here, you're gonna go wrong."
+<end speech t=03:53.552s>
+
+<begin speech t=03:54.000s>
+content: "..."
+<end speech t=03:54.912s>
+
+<begin speech t=03:56.272s>
+content: "And it does both seem different. The question is, yes. I'll see how they do the thing in a hit, just because the entry of the I'll think of it more. Okay."
+<end speech t=03:57.472s>
+
+<begin speech t=03:59.728s>
+content: "No time toti"
+<end speech t=04:01.232s>
+
+<begin speech t=04:02.704s>
+content: "And America has the sole basis on its voicemail."
+<end speech t=04:06.272s>
+
+<begin speech t=04:06.656s>
+content: "coach"
+<end speech t=04:08.272s>
+
+<begin speech t=04:08.624s>
+content: "many health center questions."
+<end speech t=04:10.320s>
+
+<begin speech t=04:12.704s>
+content: "Dedats grunting"
+<end speech t=04:14.080s>
+
+<begin speech t=04:14.544s>
+content: "This is an application."
+<end speech t=04:15.920s>
+
+<begin speech t=04:17.744s>
+content: "America has given the mission."
+<end speech t=04:19.792s>
+
+<begin speech t=04:20.288s>
+content: "Go ahead."
+<end speech t=04:20.608s>
+
+<begin speech t=04:22.896s>
+content: "put an instant here sure here"
+<end speech t=04:24.256s>
+
+<begin speech t=04:24.704s>
+content: "and thanks for watching."
+<end speech t=04:36.608s>
+
+<begin speech t=04:38.384s>
+content: "But we refuse to believe that the force is full."
+<end speech t=04:41.584s>
+
+<begin speech t=04:42.016s>
+content: "Bye. Thank you."
+<end speech t=04:42.448s>
+
+<begin speech t=04:46.368s>
+content: "We're fools who beneath without an"
+<end speech t=04:48.640s>
+
+<begin speech t=04:49.376s>
+content: "Oh, Mary, we don't."
+<end speech t=04:49.792s>
+
+<begin speech t=04:50.160s>
+content: "the"
+<end speech t=04:50.896s>
+
+<begin speech t=04:53.392s>
+content: "by might Night Night Night H"
+<end speech t=04:53.808s>
+
+<begin speech t=04:55.120s>
+content: "Hey. All right. So I'm not going. Talk to you. We're. Did she put her in there? Okay? Nice. Now is that a massage fill? Okay. The breathing session was going to move her right here. Now it's down again."
+<end speech t=04:57.264s>
+
+<begin speech t=04:57.568s>
+content: "from the mandolin"
+<end speech t=04:58.896s>
+
+<begin speech t=05:00.416s>
+content: "and the security of the..."
+<end speech t=05:02.000s>
+
+<begin speech t=05:02.336s>
+content: "We are home!"
+<end speech t=05:13.184s>
+
+<begin speech t=05:13.472s>
+content: "I'm falling to the tallest one in the handling periods."
+<end speech t=05:14.640s>
+
+<begin speech t=05:17.168s>
+content: "to remind America of the fierce presidency of the"
+<end speech t=05:20.832s>
+
+<begin speech t=05:23.424s>
+content: "This is more time."
+<end speech t=05:24.640s>
+
+<begin speech t=05:26.160s>
+content: "who engaged in the luxury of cooling off of"
+<end speech t=05:29.504s>
+
+<begin speech t=05:30.112s>
+content: "Then close the floor"
+<end speech t=05:32.368s>
+
+<begin speech t=05:33.424s>
+content: "Now is the time."
+<end speech t=05:39.744s>
+
+<begin speech t=05:41.152s>
+content: "and we're thrilled to promise you."
+<end speech t=05:42.704s>
+
+<begin speech t=05:45.184s>
+content: "Now is the time."
+<end speech t=05:46.336s>
+
+<begin speech t=05:47.664s>
+content: "Rise from the dark and desolate valley."
+<end speech t=05:50.512s>
+
+<begin speech t=05:50.864s>
+content: "I'm going to take a look at the and and and and and and and and and and and and and and and and and"
+<end speech t=05:53.808s>
+
+<begin speech t=05:54.656s>
+content: "Well as the time. The left our nation from the kitchen, the royal and sister."
+<end speech t=06:03.888s>
+
+<begin speech t=06:04.224s>
+content: "to the solid rock of brotherhood. Now is the time."
+<end speech t=06:10.224s>
+
+<begin speech t=06:10.544s>
+content: "It makes sense just the reality for all of us."
+<end speech t=06:13.456s>
+
+<begin speech t=06:15.456s>
+content: "we have been savings for a nation."
+<end speech t=06:17.360s>
+
+<begin speech t=06:18.768s>
+content: "who have a look at the action to the moment."
+<end speech t=06:21.104s>
+
+<begin speech t=06:23.072s>
+content: "it's sometimes somewhat of a new goal and it means National Health Hospital highwayses service loved merchandise SFS SFS SS coming with"
+<end speech t=06:25.824s>
+
+<begin speech t=06:27.840s>
+content: "We're not bad."
+<end speech t=06:28.720s>
+
+<begin speech t=06:29.824s>
+content: "Until that is an invigorating all form of freedom and it"
+<end speech t=06:33.264s>
+
+<begin speech t=06:35.264s>
+content: "like 10 such a firm as not an end."
+<end speech t=06:37.728s>
+
+<begin speech t=06:38.144s>
+content: "there's no other bit in her."
+<end speech t=06:38.704s>
+
+<begin speech t=06:39.904s>
+content: "We got to hold."
+<end speech t=06:41.072s>
+
+<begin speech t=06:41.808s>
+content: "That can be grown needed to grow our state."
+<end speech t=06:44.224s>
+
+<begin speech t=06:45.520s>
+content: "I'm gonna go now, I'm gonna go."
+<end speech t=06:46.400s>
+
+<begin speech t=06:48.064s>
+content: "and have a rule to make the nation return to business as he"
+<end speech t=06:52.240s>
+
+<begin speech t=06:52.832s>
+content: "Asking a"
+<end speech t=07:06.128s>
+
+<begin speech t=07:06.832s>
+content: "I will be neither with my tranicility in America."
+<end speech t=07:10.784s>
+
+<begin speech t=07:11.840s>
+content: "will the new goal is granted his citizens the winner."
+<end speech t=07:14.896s>
+
+<begin speech t=07:15.808s>
+content: "where when the revolt will continue to shake the confidence that I need."
+<end speech t=07:20.336s>
+
+<begin speech t=07:21.248s>
+content: "save."
+<end speech t=07:22.640s>
+
+<begin speech t=07:23.424s>
+content: "and for you doesn't have any is sucka oops c's"
+<end speech t=07:24.752s>
+
+<begin speech t=07:26.048s>
+content: "That is something that I must say to my..."
+<end speech t=07:28.128s>
+
+<begin speech t=07:28.400s>
+content: "Will it be the same way? Like I was, might a bit ah? No? No. No. Tis the whole point. Luxute. No. That's all Dal Peters. It's good to see people. S- BC's the same way as out."
+<end speech t=07:28.720s>
+
+<begin speech t=07:30.368s>
+content: "Stand on the wand, or call the police into the palace."
+<end speech t=07:34.432s>
+
+<begin speech t=07:36.928s>
+content: "in the process of gaining our rights for community."
+<end speech t=07:39.456s>
+
+<begin speech t=07:41.184s>
+content: "We must not be here to the ground."
+<end speech t=07:43.904s>
+
+<begin speech t=07:45.904s>
+content: "Good afternoon."
+<end speech t=07:46.608s>
+
+<begin speech t=07:47.104s>
+content: "I"
+<end speech t=07:48.448s>
+
+<begin speech t=07:50.112s>
+content: "My chance to inform the cop of bitterness and hate."
+<end speech t=07:52.512s>
+
+<begin speech t=08:02.160s>
+content: "We must forever conduct our struggle on the hot team."
+<end speech t=08:05.616s>
+
+<begin speech t=08:06.160s>
+content: "It'saiarg My"
+<end speech t=08:06.640s>
+
+<begin speech t=08:08.272s>
+content: "He must not allow our creative focus."
+<end speech t=08:10.960s>
+
+<begin speech t=08:12.176s>
+content: "You degenerate in physical violence."
+<end speech t=08:14.192s>
+
+<begin speech t=08:15.184s>
+content: "Lay another day."
+<end speech t=08:16.000s>
+
+<begin speech t=08:17.472s>
+content: "We must rise to the..."
+<end speech t=08:18.784s>
+
+<begin speech t=08:20.912s>
+content: "plantating alphabetically resulting from teacher who will be staying in flames for more than 3 minutes."
+<end speech t=08:23.296s>
+
+<begin speech t=08:24.560s>
+content: "A marvelous new militant."
+<end speech t=08:26.112s>
+
+<begin speech t=08:27.472s>
+content: "which has in cost in the state community."
+<end speech t=08:29.360s>
+
+<begin speech t=08:31.040s>
+content: "not lead us to a distrust of all hope."
+<end speech t=08:33.680s>
+
+<begin speech t=08:34.624s>
+content: "In many of our folks' troubles, there's evidence by that presence here to be."
+<end speech t=08:38.688s>
+
+<begin speech t=08:39.296s>
+content: "to realize."
+<end speech t=08:40.240s>
+
+<begin speech t=08:40.960s>
+content: "it, and ifhhhh-"
+<end speech t=08:52.144s>
+
+<begin speech t=08:52.528s>
+content: "They have come to realize that"
+<end speech t=08:54.400s>
+
+<begin speech t=08:54.816s>
+content: "We're going to move."
+<end speech t=08:55.280s>
+
+<begin speech t=08:56.320s>
+content: "Go on, go on. Hug yourales ears."
+<end speech t=08:57.568s>
+
+<begin speech t=08:58.832s>
+content: "We cannot..."
+<end speech t=08:59.520s>
+
+<begin speech t=09:00.240s>
+content: "We flip with you right to the control motor though, which is ... I think. We plan our situation with COVID as importantly ... of sports. And the CAT"
+<end speech t=09:00.800s>
+
+<begin speech t=09:02.192s>
+content: "Has to do well."
+<end speech t=09:03.104s>
+
+<begin speech t=09:04.624s>
+content: "A three-mmm estimate."
+<end speech t=09:05.328s>
+
+<begin speech t=09:05.584s>
+content: "better than just grace."
+<end speech t=09:07.856s>
+
+<begin speech t=09:08.368s>
+content: "March ahead."
+<end speech t=09:09.248s>
+
+<begin speech t=09:10.736s>
+content: "You come after."
+<end speech t=09:11.744s>
+
+<begin speech t=09:13.712s>
+content: "have those who ask them to..."
+<end speech t=09:15.264s>
+
+<begin speech t=09:16.176s>
+content: "He does it right away. Okay. And… And…"
+<end speech t=09:16.768s>
+
+<begin speech t=09:18.400s>
+content: "When will you be satisfied?"
+<end speech t=09:20.224s>
+
+<begin speech t=09:21.712s>
+content: "You can never do satisfied as long as"
+<end speech t=09:23.968s>
+
+<begin speech t=09:24.336s>
+content: "I can go evils on it. It's done. It has been completely slow. If we miss anything,"
+<end speech t=09:24.832s>
+
+<begin speech t=09:25.424s>
+content: "I leave you mac Riyadh. Uh, people have"
+<end speech t=09:26.240s>
+
+<begin speech t=09:26.528s>
+content: "different Harry S"
+<end speech t=09:27.472s>
+
+<begin speech t=09:28.064s>
+content: "The loose is good coming up."
+<end speech t=09:29.008s>
+
+<begin speech t=09:30.352s>
+content: "He can never be satisfied."
+<end speech t=09:31.968s>
+
+<begin speech t=09:33.824s>
+content: "As long as our body is heavy with the"
+<end speech t=09:35.936s>
+
+<begin speech t=09:36.304s>
+content: "That's carried out."
+<end speech t=09:37.200s>
+
+<begin speech t=09:38.528s>
+content: "and that gain marching in the multiples of a highway."
+<end speech t=09:41.616s>
+
+<begin speech t=09:41.920s>
+content: "Okay."
+<end speech t=09:42.608s>
+
+<begin speech t=09:48.320s>
+content: "We cannot..."
+<end speech t=09:49.104s>
+
+<begin speech t=09:49.472s>
+content: "That is fine."
+<end speech t=09:50.240s>
+
+<begin speech t=09:51.184s>
+content: "Did the"
+<end speech t=09:52.880s>
+
+<begin speech t=09:53.808s>
+content: "from a smile that got close to a lager."
+<end speech t=09:56.208s>
+
+<begin speech t=09:57.632s>
+content: "He can never be satisfied."
+<end speech t=09:59.344s>
+
+<begin speech t=10:00.112s>
+content: "as long as I have children."
+<end speech t=10:01.440s>
+
+<begin speech t=10:02.000s>
+content: "Don't go fast so put in."
+<end speech t=10:03.504s>
+
+<begin speech t=10:04.016s>
+content: "Definitely."
+<end speech t=10:04.400s>
+
+<begin speech t=10:04.944s>
+content: "Last time, sitting."
+<end speech t=10:06.400s>
+
+<begin speech t=10:08.080s>
+content: "We cannot be satisfied as long as in this bro."
+<end speech t=10:17.424s>
+
+<begin speech t=10:17.728s>
+content: "Inlet."
+<end speech t=10:18.096s>
+
+<begin speech t=10:18.752s>
+content: "I cannot vote."
+<end speech t=10:19.536s>
+
+<begin speech t=10:19.792s>
+content: "and a new girl in New York believe he has no"
+<end speech t=10:22.272s>
+
+<begin speech t=10:24.048s>
+content: "We got it!"
+<end speech t=10:31.792s>
+
+<begin speech t=10:33.440s>
+content: "We are not satisfied and we will not"
+<end speech t=10:36.304s>
+
+<begin speech t=10:37.024s>
+content: "Put on the bottom."
+<end speech t=10:37.536s>
+
+<begin speech t=10:38.416s>
+content: "and long come up water!\""
+<end speech t=10:40.224s>
+
+<begin speech t=10:40.592s>
+content: "I'm gonna hit."
+<end speech t=10:41.024s>
+
+<begin speech t=10:41.712s>
+content: "from all this school."
+<end speech t=10:51.120s>
+
+<begin speech t=10:52.064s>
+content: "I am not my conmane"
+<end speech t=10:54.448s>
+
+<begin speech t=10:54.848s>
+content: "Some of you have come here."
+<end speech t=10:58.080s>
+
+<begin speech t=10:59.840s>
+content: "V"
+<end speech t=11:00.160s>
+
+<begin speech t=11:00.560s>
+content: "Bye!"
+<end speech t=11:01.168s>
+
+<begin speech t=11:04.848s>
+content: "I'm gonna give you that corn sauce from now or two."
+<end speech t=11:07.248s>
+
+<begin speech t=11:09.872s>
+content: "Some of you have come from areas where your folks go."
+<end speech t=11:12.864s>
+
+<begin speech t=11:15.632s>
+content: "A sigh"
+<end speech t=11:17.728s>
+
+<begin speech t=11:19.648s>
+content: "Get about a room."
+<end speech t=11:20.832s>
+
+<begin speech t=11:23.728s>
+content: "who have been the better and the creative."
+<end speech t=11:26.032s>
+
+<begin speech t=11:28.320s>
+content: "Continue to work with the pain."
+<end speech t=11:29.760s>
+
+<begin speech t=11:31.504s>
+content: "Head on on!"
+<end speech t=11:32.432s>
+
+<begin speech t=11:34.080s>
+content: "Good, good."
+<end speech t=11:34.528s>
+
+<begin speech t=11:36.416s>
+content: "Good, bye."
+<end speech t=11:36.848s>
+
+<begin speech t=11:39.168s>
+content: "We're back to Alabama."
+<end speech t=11:40.448s>
+
+<begin speech t=11:41.472s>
+content: "Cool."
+<end speech t=11:42.048s>
+
+<begin speech t=11:42.672s>
+content: "God."
+<end speech t=11:43.136s>
+
+<begin speech t=11:43.520s>
+content: "Go back to New York, down to go back. Go back."
+<end speech t=11:45.472s>
+
+<begin speech t=11:46.272s>
+content: "Do the friends and couples around Melbourne?"
+<end speech t=11:48.192s>
+
+<begin speech t=11:50.112s>
+content: "vedger somehow"
+<end speech t=11:51.696s>
+
+<begin speech t=11:52.032s>
+content: "Purple"
+<end speech t=11:52.608s>
+
+<begin speech t=11:52.992s>
+content: "And it will be changed."
+<end speech t=11:54.528s>
+
+<begin speech t=11:55.488s>
+content: "Let us not wallow in the valley of"
+<end speech t=11:57.264s>
+
+<begin speech t=11:59.248s>
+content: "I say to you today my friend."
+<end speech t=12:01.872s>
+
+<begin speech t=12:03.808s>
+content: "Now, will you see Flores Highway 12 Road?"
+<end speech t=12:10.144s>
+
+<begin speech t=12:12.240s>
+content: "Go even though."
+<end speech t=12:13.424s>
+
+<begin speech t=12:15.264s>
+content: "Come on."
+<end speech t=12:15.648s>
+
+<begin speech t=12:16.768s>
+content: "Can't even finish hard guys then."
+<end speech t=12:17.152s>
+
+<begin speech t=12:19.120s>
+content: "My steel has it."
+<end speech t=12:20.272s>
+
+<begin speech t=12:22.864s>
+content: "It is a dream since you're a little in the American."
+<end speech t=12:25.664s>
+
+<begin speech t=12:27.552s>
+content: "I have a."
+<end speech t=12:28.096s>
+
+<begin speech t=12:30.176s>
+content: "one thing Morgan"
+<end speech t=12:30.784s>
+
+<begin speech t=12:32.688s>
+content: "This nation will rise."
+<end speech t=12:34.512s>
+
+<begin speech t=12:36.432s>
+content: "We have a..."
+<end speech t=12:36.880s>
+
+<begin speech t=12:37.184s>
+content: "Amenolm."
+<end speech t=12:37.840s>
+
+<begin speech t=12:39.888s>
+content: "We will hold these tools to be self-evident."
+<end speech t=12:42.544s>
+
+<begin speech t=12:43.280s>
+content: "Oh man, I created..."
+<end speech t=12:44.896s>
+
+<begin speech t=12:45.872s>
+content: "The getting they ... ... ... blast ..."
+<end speech t=12:52.448s>
+
+<begin speech t=12:54.448s>
+content: "I have a dream."
+<end speech t=12:55.680s>
+
+<begin speech t=12:57.584s>
+content: "One day on the red hill."
+<end speech t=12:59.376s>
+
+<begin speech t=13:01.984s>
+content: "Then the pharma 660 orchestra,"
+<end speech t=13:03.568s>
+
+<begin speech t=13:04.064s>
+content: "I'm in the pharmacy."
+<end speech t=13:05.440s>
+
+<begin speech t=13:06.928s>
+content: "With the Griz"
+<end speech t=13:08.128s>
+
+<begin speech t=13:08.432s>
+content: "down and prepare that at the table of property."
+<end speech t=13:10.928s>
+
+<begin speech t=13:11.280s>
+content: "Ha ha."
+<end speech t=13:11.696s>
+
+<begin speech t=13:13.600s>
+content: "in one."
+<end speech t=13:14.064s>
+
+<begin speech t=13:16.304s>
+content: "We've understood in this."
+<end speech t=13:17.520s>
+
+<begin speech t=13:17.984s>
+content: "My friend, I think you have to be our partner. I've been spending so many months all of Aurad Arsene. So I'm off in radar and got to go. And students can be involved in this Peninsula or anything. So I picked a little bit of Unc CDs that the world did. I just found a lot of flexible stuff to start. And I just found tools that people help us acYES"
+<end speech t=13:18.768s>
+
+<begin speech t=13:19.312s>
+content: "I'm Callgery four"
+<end speech t=13:20.976s>
+
+<begin speech t=13:21.520s>
+content: "drawal. This video is missing senator at the administration desk."
+<end speech t=13:21.904s>
+
+<begin speech t=13:22.640s>
+content: "10 psh!"
+<end speech t=13:23.136s>
+
+<begin speech t=13:25.648s>
+content: "starting that can be heard of the flu. s"
+<end speech t=13:26.784s>
+
+<begin speech t=13:28.672s>
+content: "transformed into an oasis."
+<end speech t=13:30.832s>
+
+<begin speech t=13:31.440s>
+content: "and taste as I have it."
+<end speech t=13:32.976s>
+
+<begin speech t=13:36.880s>
+content: "High for little seren!"
+<end speech t=13:38.960s>
+
+<begin speech t=13:40.560s>
+content: "One day living in a nation where they will not"
+<end speech t=13:42.992s>
+
+<begin speech t=13:43.648s>
+content: "at him at another quality..."
+<end speech t=13:44.464s>
+
+<begin speech t=13:44.928s>
+content: "And the..."
+<end speech t=13:45.376s>
+
+<begin speech t=13:46.128s>
+content: "back david i"
+<end speech t=13:46.976s>
+
+<begin speech t=13:47.488s>
+content: "I have a dream today. I have a dream that one day..."
+<end speech t=14:00.768s>
+
+<begin speech t=14:02.352s>
+content: "Bye!"
+<end speech t=14:03.552s>
+
+<begin speech t=14:04.304s>
+content: "An Alabama Cyclops"
+<end speech t=14:05.728s>
+
+<begin speech t=14:06.576s>
+content: "Sanchez and"
+<end speech t=14:07.104s>
+
+<begin speech t=14:08.384s>
+content: "With it, it's time for now!"
+<end speech t=14:09.600s>
+
+<begin speech t=14:10.128s>
+content: "heading here for this."
+<end speech t=14:11.136s>
+
+<begin speech t=14:11.824s>
+content: "Come on."
+<end speech t=14:12.432s>
+
+<begin speech t=14:15.056s>
+content: "When they write that in Alabama, little..."
+<end speech t=14:17.392s>
+
+<begin speech t=14:17.856s>
+content: "é"
+<end speech t=14:18.176s>
+
+<begin speech t=14:18.800s>
+content: "Go!"
+<end speech t=14:19.280s>
+
+<begin speech t=14:19.792s>
+content: "be able to turn hands a little."
+<end speech t=14:21.488s>
+
+<begin speech t=14:21.808s>
+content: "I"
+<end speech t=14:22.288s>
+
+<begin speech t=14:22.624s>
+content: "be"
+<end speech t=14:23.008s>
+
+<begin speech t=14:23.904s>
+content: "I have a queen to be. I have a queen that won't get it."
+<end speech t=14:36.608s>
+
+<begin speech t=14:38.624s>
+content: "That's what we're feeling now."
+<end speech t=14:39.600s>
+
+<begin speech t=14:40.096s>
+content: "We made a long go."
+<end speech t=14:41.184s>
+
+<begin speech t=14:41.904s>
+content: "It just.. It's megamaj Raleigh from Mind Wellness St nutTV. I know it's a good time. transparent I Everything but fatigue If he's having fun I'm celling Sc t E I"
+<end speech t=14:42.832s>
+
+<begin speech t=14:44.224s>
+content: "will be made when the car of the life."
+<end speech t=14:46.624s>
+
+<begin speech t=14:47.264s>
+content: "I'm building off..."
+<end speech t=14:48.592s>
+
+<begin speech t=14:48.912s>
+content: "Kinda"
+<end speech t=14:49.312s>
+
+<begin speech t=14:50.848s>
+content: "Listen up."
+<end speech t=14:51.488s>
+
+<begin speech t=14:53.040s>
+content: "Okay hopefully so i'll get a build-in and i'll get to be fair"
+<end speech t=14:54.416s>
+
+<begin speech t=14:56.720s>
+content: "Volvo"
+<end speech t=14:57.520s>
+
+<begin speech t=14:58.592s>
+content: "We will be able to chew out of the mouth to the..."
+<end speech t=15:01.056s>
+
+<begin speech t=15:01.392s>
+content: "Tour on which side we are facing. I'm a Yeti-"
+<end speech t=15:01.792s>
+
+<begin speech t=15:02.288s>
+content: "Good."
+<end speech t=15:02.720s>
+
+<begin speech t=15:04.352s>
+content: "The B"
+<end speech t=15:05.120s>
+
+<begin speech t=15:06.096s>
+content: "We will be able to transform the dungling."
+<end speech t=15:08.720s>
+
+<begin speech t=15:09.360s>
+content: "Well, no, no. Oh, that's right. Oh, my God. The man if you have the hand, that God knew this. The man is asking him if the man would go to email the man's emails about the manhole."
+<end speech t=15:09.920s>
+
+<begin speech t=15:10.560s>
+content: "Until a beautiful mid-eline and something else coming soon."
+<end speech t=15:11.696s>
+
+<begin speech t=15:12.016s>
+content: "Beverly candy a Pro favorites for"
+<end speech t=15:13.040s>
+
+<begin speech t=15:15.120s>
+content: "We will be able to work together."
+<end speech t=15:16.976s>
+
+<begin speech t=15:18.416s>
+content: "Can AM sleep"
+<end speech t=15:19.312s>
+
+<begin speech t=15:20.032s>
+content: "They will a"
+<end speech t=15:20.432s>
+
+<begin speech t=15:21.376s>
+content: "Stand up."
+<end speech t=15:21.808s>
+
+<begin speech t=15:22.096s>
+content: "We live together."
+<end speech t=15:22.960s>
+
+<begin speech t=15:23.280s>
+content: "more that we will."
+<end speech t=15:24.800s>
+
+<begin speech t=15:25.376s>
+content: "I know my baby! You want something baby? Ok..."
+<end speech t=15:26.240s>
+
+<begin speech t=15:27.888s>
+content: "This will be the day."
+<end speech t=15:29.456s>
+
+<begin speech t=15:31.248s>
+content: "This will be the day when I'll..."
+<end speech t=15:32.928s>
+
+<begin speech t=15:35.088s>
+content: "We are able to train if no minute."
+<end speech t=15:37.104s>
+
+<begin speech t=15:40.288s>
+content: "We'd land the blue-bed tree up here."
+<end speech t=15:42.304s>
+
+<begin speech t=15:43.744s>
+content: "trying to come up for thefdy"
+<end speech t=15:46.768s>
+
+<begin speech t=15:48.288s>
+content: "And that's it."
+<end speech t=15:49.056s>
+
+<begin speech t=15:49.744s>
+content: "Bye."
+<end speech t=15:50.048s>
+
+<begin speech t=15:51.280s>
+content: "the TV is anywhere you're gonna find them? About 3 because they have 7 clueless life. If you have a response back to them then come to the office to find help instead of start meeting them coming in IT. If you just leave Twitter and all of that and then you do the thing for $240, IT is consistent for a few minutes to come to the office. Let me give you one quick insights about the news, and when I see you to come to iPhone 2, you just let me back directly to the office,"
+<end speech t=15:52.576s>
+
+<begin speech t=15:56.912s>
+content: "Give me an hour menu for you. And we will have to read out all that it matters. We will go left for you to read.LETZE FINIGHT"
+<end speech t=15:58.048s>
+
+<begin speech t=15:59.216s>
+content: "When the phone does just…"
+<end speech t=16:00.016s>
+
+<begin speech t=16:02.384s>
+content: "Dam"
+<end speech t=16:03.072s>
+
+<begin speech t=16:04.224s>
+content: "all the northern mountains"
+<end speech t=16:05.136s>
+
+<begin speech t=16:05.488s>
+content: "Macaulay and Milo."
+<end speech t=16:06.208s>
+
+<begin speech t=16:07.616s>
+content: "fruit and rain from the pestoning Allek Italians. AND toy"
+<end speech t=16:09.808s>
+
+<begin speech t=16:12.048s>
+content: "I'm ready."
+<end speech t=16:12.816s>
+
+<begin speech t=16:14.304s>
+content: "Run around."
+<end speech t=16:14.992s>
+
+<begin speech t=16:16.592s>
+content: "At the bottom right Rudd"
+<end speech t=16:17.488s>
+
+<begin speech t=16:20.672s>
+content: "Not only that."
+<end speech t=16:21.504s>
+
+<begin speech t=16:22.976s>
+content: "Play bottom lane."
+<end speech t=16:23.872s>
+
+<begin speech t=16:24.464s>
+content: "Whoa, whoa. Come on."
+<end speech t=16:25.056s>
+
+<begin speech t=16:27.632s>
+content: "Peter Wayne x Ultra"
+<end speech t=16:28.512s>
+
+<begin speech t=16:29.424s>
+content: "Bye bye."
+<end speech t=16:29.984s>
+
+<begin speech t=16:32.304s>
+content: "I'm gonna win a movie. I'm gonna win a movie, I'm gonna win a movie. certain certain certain certain certain certain certain certain certain certain"
+<end speech t=16:33.584s>
+
+<begin speech t=16:33.952s>
+content: "yo to just hope that isn't the one that we will visit The protests that we could fill"
+<end speech t=16:34.432s>
+
+<begin speech t=16:34.784s>
+content: "And now all three elements"
+<end speech t=16:35.904s>
+
+<begin speech t=16:37.120s>
+content: "and every lesson from"
+<end speech t=16:38.848s>
+
+<begin speech t=16:39.168s>
+content: "Let's see the ring and when this happens Then we allow freedom ring"
+<end speech t=16:47.040s>
+
+<begin speech t=16:48.528s>
+content: "when we let it rain, come at it."
+<end speech t=16:50.320s>
+
+<begin speech t=16:51.184s>
+content: "Mummy."
+<end speech t=16:51.568s>
+
+<begin speech t=16:52.032s>
+content: "Come on."
+<end speech t=16:52.400s>
+
+<begin speech t=16:55.680s>
+content: "We will be able to..."
+<end speech t=16:56.736s>
+
+<begin speech t=16:57.136s>
+content: "Vby leu? Yeah. There you go. Well, bye."
+<end speech t=16:57.568s>
+
+<begin speech t=16:58.560s>
+content: "I'm in home."
+<end speech t=16:59.280s>
+
+<begin speech t=16:59.968s>
+content: "I don't even know about that but I also found two episodes of this episode and I'm already back reading all the beautiful books that I can see cause listening to their collections while they're filming and they haven't posted it. But yeah, a lot of people think it's very pretty around. This was something for them to talk about and I've already been skeptical of these Pat and I was wondering if we sushi"
+<end speech t=17:00.496s>
+
+<begin speech t=17:00.800s>
+content: "Lab"
+<end speech t=17:01.360s>
+
+<begin speech t=17:01.664s>
+content: "Good night."
+<end speech t=17:02.016s>
+
+<begin speech t=17:02.448s>
+content: "Come on."
+<end speech t=17:02.784s>
+
+<begin speech t=17:03.152s>
+content: "we are in shock to hear them say SMART"
+<end speech t=17:03.792s>
+
+<begin speech t=17:05.744s>
+content: "will be able to turn hand."
+<end speech t=17:07.504s>
+
+<begin speech t=17:08.176s>
+content: "in the Word."
+<end speech t=17:08.960s>
+
+<begin speech t=17:09.216s>
+content: "I'm a girl."
+<end speech t=17:09.760s>
+
+<begin speech t=17:11.056s>
+content: "We have land."
+<end speech t=17:11.952s>
+
+<begin speech t=17:12.400s>
+content: "we are now..."
+<end speech t=17:13.312s>
+
+<begin speech t=17:14.224s>
+content: "All the matter, feel free at night."
+<end speech t=17:22.896s>

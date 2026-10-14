@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/michele_decamp_playlist/07_Miss_South_Carolina_2007/raw_audio.wav",
+  "clean_file": "testing videos/michele_decamp_playlist/07_Miss_South_Carolina_2007/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 48.507,
+  "clean_duration_sec": 48.507,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -25.92,
+  "target_lufs": -20.0,
+  "gain_applied_db": 5.92,
+  "snr_raw_db": 13.59,
+  "snr_clean_db": 19.12,
+  "snr_improvement_db": 5.53,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 108,
+    "utterance_count": 10
+  },
+  "status": "READY_FOR_EVALUATION"
+}

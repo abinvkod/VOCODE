@@ -1,0 +1,47 @@
+{
+  "id": "vTRPITCIPv0",
+  "slug": "02_Worst_HS_Graduation_Speech",
+  "title": "Worst High School Graduation Speech Ever!",
+  "duration_sec": 346.4,
+  "grades": {
+    "strict_leniency_0": 9.4,
+    "moderate_leniency_50": 9.6,
+    "lenient_leniency_100": 9.8
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.7,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing & Fluency",
+      "deduction": 0.3,
+      "metric": "filler_words_per_min: 2.4",
+      "flaw": "Frequent Filler Words",
+      "explanation": "Noticeable filler word frequency (2.4/min) disrupts smooth syntactic phrasing."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 14,
+    "fillers_per_min": 2.42,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 188.84,
+    "f0_semitones": 23.23,
+    "f0_velocity_hz_per_sec": 750.68,
+    "articulation_rate_sps": 5.71,
+    "pause_ratio": 0.186,
+    "hesitation_pause_count": 2,
+    "energy_dynamic_range_db": 34.84,
+    "papr_crest_factor": 15.44,
+    "spectral_flux": 4.2123
+  },
+  "transcript_preview": "I'm out of here. Easy there. Can you all hear me? Well, that's loud. How about this? All right, this seems good. Well, hi everyone. Hey. Good evening. Yeah, good evening, ladies and gentlemen. This morning, after I put on my cap and gown, I listened ..."
+}

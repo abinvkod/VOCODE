@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS/audio.mp3",
+  "clean_file": "good speeches/18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 6482.837,
+  "clean_duration_sec": 6464.442,
+  "lead_trim_sec": 0.04,
+  "tail_trim_sec": 18.355,
+  "measured_lufs_raw": -22.54,
+  "target_lufs": -20.0,
+  "gain_applied_db": 1.62,
+  "snr_raw_db": 49.86,
+  "snr_clean_db": 49.69,
+  "snr_improvement_db": -0.17,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 16457,
+    "utterance_count": 1350
+  },
+  "status": "READY_FOR_EVALUATION"
+}

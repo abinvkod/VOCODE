@@ -1,0 +1,299 @@
+<begin speech t=0000.000s>
+content: "Success is no accident. Living a great life will not come by luck or chance."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "It won't fall from the sky. There's no magic wand. There's no quick fix."
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "The good news is there are principles that lead to success."
+<end speech t=0020.000s>
+
+<begin speech t=0020.000s>
+content: "If you commit to do the thing successful people do, you will lead a life of success and happiness."
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "Live by these 20 principles and you will ensure you live a great life."
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "Number one, there's nothing you can't have or achieve in life if you're willing to work for it."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "There are no reasonable limits relating to what you can achieve, other than those that exist in your own mind."
+<end speech t=0048.000s>
+
+<begin speech t=0048.000s>
+content: "What you can have is up to you. Who you can be is up to you."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "You are your only limit. No one else can stop you from having anything or being anyone you decide to be."
+<end speech t=0063.000s>
+
+<begin speech t=0063.000s>
+content: "Don't let any unsuccessful person convince you otherwise."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "Number two, take responsibility for your life and you will take control of your life."
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "Take responsibility for where you are in life and accept the challenge required to get you where you want to be."
+<end speech t=0083.000s>
+
+<begin speech t=0083.000s>
+content: "Successful people don't make excuses or blame others. They just focus on what they can do."
+<end speech t=0090.000s>
+
+<begin speech t=0090.000s>
+content: "As Florence Nightingale once said, I attribute my success to this. I never gave nor took any excuse."
+<end speech t=0099.000s>
+
+<begin speech t=0099.000s>
+content: "Those who succeed in this world aren't those who have escaped hardship."
+<end speech t=0104.000s>
+
+<begin speech t=0104.000s>
+content: "Every one of us carries our own baggage through life. Some let go of it and put forward without the way to excuses"
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "on their back. Holding on to that way of excuses is only ever going to slow you down."
+<end speech t=0119.000s>
+
+<begin speech t=0119.000s>
+content: "Hold you back from reaching your true potential. Let it go. Accept where you are and decide where you are going to be."
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "Number three, there's always something to be grateful for."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "Grateful people are successful people. It's been said many times, but it's worth repeating until it sinks in."
+<end speech t=0143.000s>
+
+<begin speech t=0143.000s>
+content: "When you are grateful for everything you do have in your life, your life is better."
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "Full stop. Spending every morning thinking about and writing down what you are grateful for will transform your life."
+<end speech t=0158.000s>
+
+<begin speech t=0158.000s>
+content: "The very act of doing this will lead to a better mood. A better mood will lead to better relationships."
+<end speech t=0165.000s>
+
+<begin speech t=0165.000s>
+content: "Clear our mind. Better results. And you will then attract more to be grateful for."
+<end speech t=0173.000s>
+
+<begin speech t=0173.000s>
+content: "Number four, follow your own path. The world is full of opinions."
+<end speech t=0179.000s>
+
+<begin speech t=0179.000s>
+content: "None of them should influence where you want to be in life. Focus on your path and walk that path."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "Regardless of others' opinions, you'll never be successful in life unless you are living the life you want to live."
+<end speech t=0196.000s>
+
+<begin speech t=0196.000s>
+content: "Don't wear masks to fit into this world. Be brave enough to stand tall and walk in the direction you really want."
+<end speech t=0205.000s>
+
+<begin speech t=0205.000s>
+content: "Be true to you. Number five, never stop learning and working on yourself."
+<end speech t=0212.000s>
+
+<begin speech t=0212.000s>
+content: "The key to a great life is growth that comes from self-development. The pride that comes from that growth."
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "The inner joy that comes from that pride. Knowing you are self-made. Knowing you made a great life for yourself."
+<end speech t=0228.000s>
+
+<begin speech t=0228.000s>
+content: "And set the example for all those close to you. Feed your mind with strength every day."
+<end speech t=0234.000s>
+
+<begin speech t=0234.000s>
+content: "Always rising to a new level of consciousness. Always seeking growth. The more you grow."
+<end speech t=0241.000s>
+
+<begin speech t=0241.000s>
+content: "The more you know. The more you learn. The more you will learn. Number six, live with integrity."
+<end speech t=0249.000s>
+
+<begin speech t=0249.000s>
+content: "Zig Ziglar put it best. With integrity, you have nothing to fear since you have nothing to hide."
+<end speech t=0256.000s>
+
+<begin speech t=0256.000s>
+content: "With integrity, you will do the right thing so you will have no guilt."
+<end speech t=0261.000s>
+
+<begin speech t=0261.000s>
+content: "Living a life of integrity is living a life of truth. And when you are living a life of truth, there's nothing to hide."
+<end speech t=0270.000s>
+
+<begin speech t=0270.000s>
+content: "When there's nothing to hide, there's nothing but pride. You do the right thing even when no one is watching."
+<end speech t=0278.000s>
+
+<begin speech t=0278.000s>
+content: "Not because you're getting rewarded, but because the reward is living a life of integrity."
+<end speech t=0284.000s>
+
+<begin speech t=0284.000s>
+content: "Number seven, give your all. Nothing great in life comes to those who give less than everything."
+<end speech t=0291.000s>
+
+<begin speech t=0291.000s>
+content: "Success doesn't have to be a struggle. It should never feel like a chore. You should be in a place where you are enthusiastic"
+<end speech t=0299.000s>
+
+<begin speech t=0299.000s>
+content: "about giving your all. Because you love what you do. Because you love the challenge. Because you love the growth."
+<end speech t=0305.000s>
+
+<begin speech t=0305.000s>
+content: "Because you love thinking about the end result. Number eight, you can change the way you feel at any moment by changing your focus."
+<end speech t=0316.000s>
+
+<begin speech t=0316.000s>
+content: "Any emotion, no matter how extreme can be changed by learning how to change your focus specifically to gratitude and perspective."
+<end speech t=0326.000s>
+
+<begin speech t=0326.000s>
+content: "If your life doesn't feel like a blessing, learn how to shift your focus until you get to a place where it does feel like a blessing."
+<end speech t=0336.000s>
+
+<begin speech t=0336.000s>
+content: "Number nine, don't chase money. Follow your purpose. Do nothing for the sole purpose of money. Do what is right."
+<end speech t=0345.000s>
+
+<begin speech t=0345.000s>
+content: "Do what you love. Do something that helps others and more than enough money will come."
+<end speech t=0351.000s>
+
+<begin speech t=0351.000s>
+content: "Chase the money and the money will run faster. Chase your purpose and the money will chase you."
+<end speech t=0358.000s>
+
+<begin speech t=0358.000s>
+content: "Number ten, there's no such thing as failure unless you fail to learn the lesson."
+<end speech t=0364.000s>
+
+<begin speech t=0364.000s>
+content: "Everyone fails at something. Successful people fail more than most. But the only true failure is to give up without learning the lesson the failure brought."
+<end speech t=0375.000s>
+
+<begin speech t=0375.000s>
+content: "Failure is never the end of the story. It's just a plot twist. Keep writing your story and find a way to become the hero of it."
+<end speech t=0384.000s>
+
+<begin speech t=0384.000s>
+content: "Number eleven, the end result will be worth the sacrifice. Unsuccessful people think about what they have to give up in order to achieve what they want."
+<end speech t=0395.000s>
+
+<begin speech t=0395.000s>
+content: "Successful people think about what they are going to get at the end of the process. They are happy to sacrifice now."
+<end speech t=0403.000s>
+
+<begin speech t=0403.000s>
+content: "Knowing they will be rewarded later."
+<end speech t=0406.000s>
+
+<begin speech t=0406.000s>
+content: "Number twelve, patience is power. This doesn't mean sit on your hands. Work hard, work fast, work smart."
+<end speech t=0415.000s>
+
+<begin speech t=0415.000s>
+content: "But if it doesn't come when you expect it to come, be patient. The only way it is not coming is if you quit. Keep going."
+<end speech t=0425.000s>
+
+<begin speech t=0425.000s>
+content: "Number thirteen, nothing worthwhile in life comes easy. If you really want it, you must be prepared to work for it, to fight for it, to give up everything for it."
+<end speech t=0437.000s>
+
+<begin speech t=0437.000s>
+content: "If it's worth the prize, it's worth the fight."
+<end speech t=0441.000s>
+
+<begin speech t=0441.000s>
+content: "Number fourteen, nothing that has happened in your past can stop you from creating a better future starting right now."
+<end speech t=0452.000s>
+
+<begin speech t=0452.000s>
+content: "Let go of the past. It's gone. Focus on the now. What can you do now that will create a better tomorrow?"
+<end speech t=0461.000s>
+
+<begin speech t=0461.000s>
+content: "Number fifteen, it's never too late to be great. It's never too late to amaze yourself, to shock yourself, to become someone no one thought you could be, not even you."
+<end speech t=0474.000s>
+
+<begin speech t=0474.000s>
+content: "Number sixteen, not everyone will be happy for you. Not everyone is going to enjoy your senses. Some will be jealous. Some will be resentful because they haven't reached their own true potential."
+<end speech t=0486.000s>
+
+<begin speech t=0486.000s>
+content: "This should never stop you from pursuing your greatest self. Those who truly belong in your life will be by your side during the journey."
+<end speech t=0497.000s>
+
+<begin speech t=0497.000s>
+content: "If you have to walk alone for a while, be strong enough to do so, knowing it won't be forever."
+<end speech t=0504.000s>
+
+<begin speech t=0504.000s>
+content: "Number seventeen, habits make or break you. Think about every major area of your life, health, financial, happiness. Are there any areas you have developed bad habits that hold you back?"
+<end speech t=0519.000s>
+
+<begin speech t=0520.000s>
+content: "If you have developed, you can create new, better habits that take you closer to your hopes. A habit is formed through consistent application and deep need."
+<end speech t=0532.000s>
+
+<begin speech t=0532.000s>
+content: "Make it important to you and plan it until it is a habit."
+<end speech t=0538.000s>
+
+<begin speech t=0538.000s>
+content: "Number eighteen, fear is an illusion. Fear is my name. It has no life outside your own imagination."
+<end speech t=0548.000s>
+
+<begin speech t=0548.000s>
+content: "Knowing this, you have no reason to hold yourself back. No reason to fear failure, rejection, embarrassment, anything. Go for what you want in life. Fearlessly."
+<end speech t=0561.000s>
+
+<begin speech t=0561.000s>
+content: "Number nineteen, without direction, you'll end up in the wrong section. If you don't know where you are going, you'll end up someplace else."
+<end speech t=0571.000s>
+
+<begin speech t=0571.000s>
+content: "Successful people know where they're going. They have clear goals, big, clear, meaningful goals, and they fight for them."
+<end speech t=0580.000s>
+
+<begin speech t=0580.000s>
+content: "Number twenty, no one will believe in you until you do. If you want people to support you, lead by example. Back yourself. If you want people to believe in you, believe in yourself."
+<end speech t=0594.000s>
+
+<begin speech t=0594.000s>
+content: "Progress leads to belief. Growth leads to belief."
+<end speech t=0598.000s>
+
+<begin speech t=0598.000s>
+content: "Lead your mind every day with self-development material. New knowledge, empowering speakers, and start taking action."
+<end speech t=0606.000s>
+
+<begin speech t=0606.000s>
+content: "Once you start making progress, belief will come. Belief will grow. Back yourself. You can do this."
+<end speech t=0615.000s>

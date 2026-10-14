@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/11_One_of_the_Greatest_Speeches_Ever_Jeff_Bezos/audio.mp3",
+  "clean_file": "good speeches/11_One_of_the_Greatest_Speeches_Ever_Jeff_Bezos/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 606.981,
+  "clean_duration_sec": 606.592,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.389,
+  "measured_lufs_raw": -15.85,
+  "target_lufs": -20.0,
+  "gain_applied_db": -4.15,
+  "snr_raw_db": 14.49,
+  "snr_clean_db": 22.47,
+  "snr_improvement_db": 7.98,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1726,
+    "utterance_count": 152
+  },
+  "status": "READY_FOR_EVALUATION"
+}

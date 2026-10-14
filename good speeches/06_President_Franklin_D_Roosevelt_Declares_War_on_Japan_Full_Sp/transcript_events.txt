@@ -1,0 +1,71 @@
+<begin speech t=0000.000s>
+content: "Senator and representative, I have the distinguished honor of presenting the President of the United States."
+<end speech t=0021.000s>
+
+<begin speech t=0031.000s>
+content: "Mr. Vice President, Mr. Speaker, members of the Senate, of the House of Representatives."
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "Yesterday, December 7, 1941, a date which will live in infamy, the United States of America,"
+<end speech t=0059.000s>
+
+<begin speech t=0059.000s>
+content: "was suddenly and deliberately attacked by naval and air forces of the Empire of Japan."
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "The United States was at peace with that nation, and at the solicitation of Japan was still in conversation with its government and its emperor,"
+<end speech t=0086.000s>
+
+<begin speech t=0086.000s>
+content: "looking toward the maintenance of peace in the Pacific."
+<end speech t=0091.000s>
+
+<begin speech t=0091.000s>
+content: "The attack yesterday on the Hawaiian Islands has caused severe damage to American naval and military forces."
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "I regret to tell you that very many American lives have been lost."
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "In addition, American ships have been reported torpedoed on the high seas between San Francisco and Honolulu."
+<end speech t=0120.000s>
+
+<begin speech t=0120.000s>
+content: "As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense."
+<end speech t=0130.000s>
+
+<begin speech t=0130.000s>
+content: "But always will our whole nation remember the character of the onslaught against us."
+<end speech t=0141.000s>
+
+<begin speech t=0141.000s>
+content: "No matter how long it may take us to overcome this premeditated invasion, the American people in their righteous might will win through to absolute victory."
+<end speech t=0166.000s>
+
+<begin speech t=0166.000s>
+content: "I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost,"
+<end speech t=0191.000s>
+
+<begin speech t=0191.000s>
+content: "but will make it very certain that this form of treachery shall not again endanger us."
+<end speech t=0207.000s>
+
+<begin speech t=0208.000s>
+content: "Hostilities exist. There is no blinking at the fact that our people, our territory, and our interests are in grave danger."
+<end speech t=0223.000s>
+
+<begin speech t=0224.000s>
+content: "With confidence in our armed forces, with the unbounding determination of our people, we will gain the inevitable triumph so help us God."
+<end speech t=0247.000s>
+
+<begin speech t=0248.000s>
+content: "I ask that the Congress declare that since the unprovoked and dastardly attack by Japan on Sunday, December 7, 1941, a state of war has existed between the United States"
+<end speech t=0275.000s>
+
+<begin speech t=0275.000s>
+content: "and the Japanese Empire."
+<end speech t=0281.000s>

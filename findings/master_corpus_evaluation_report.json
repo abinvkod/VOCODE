@@ -1,0 +1,3213 @@
+[
+  {
+    "title": "01_Martin_Luther_King",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/01_Martin_Luther_King",
+    "duration_sec": 1044.78,
+    "grades": {
+      "strict_0": 9.5,
+      "moderate_50": 9.6,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.1",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (37 total) disrupted narrative flow."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 16.68,
+      "f0_velocity": 740.3,
+      "pause_ratio": 0.182,
+      "max_pause_sec": 2.38,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.11,
+      "repetition_density_per_min": 8.56,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "01_Martin_Luther_King_I_Have_A_Dream_Speech",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/01_Martin_Luther_King_I_Have_A_Dream_Speech",
+    "duration_sec": 1044.78,
+    "grades": {
+      "strict_0": 9.5,
+      "moderate_50": 9.6,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.1",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (37 total) disrupted narrative flow."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 16.68,
+      "f0_velocity": 740.3,
+      "pause_ratio": 0.182,
+      "max_pause_sec": 2.38,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.11,
+      "repetition_density_per_min": 8.56,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "02_Best_Version_The_Great_Dictator_Speech_Charlie_Chaplin_Time_",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/02_Best_Version_The_Great_Dictator_Speech_Charlie_Chaplin_Time_",
+    "duration_sec": 242.41,
+    "grades": {
+      "strict_0": 5.8,
+      "moderate_50": 6.9,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.4,
+      "dynamic_energy_out_of_1_5": 1.2,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.3,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.68
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 5.9s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 5.9 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.2",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (9 total) disrupted narrative flow."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 13.9/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (13.9/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 10.89",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 10.89 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 25.63,
+      "f0_velocity": 847.77,
+      "pause_ratio": 0.204,
+      "max_pause_sec": 5.94,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.74,
+      "repetition_density_per_min": 13.86,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "03_Sams_Speech_Great_Stories_Compilation",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/03_Sams_Speech_Great_Stories_Compilation",
+    "duration_sec": 167.47,
+    "grades": {
+      "strict_0": 7.4,
+      "moderate_50": 8.1,
+      "lenient_100": 8.8
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.3,
+      "rhetorical_pausing_out_of_2_0": 0.9,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.2,
+        "metric": "articulation_rate: 6.19 syl/s",
+        "flaw": "Mild Cadence Acceleration",
+        "explanation": "Speech rate of 6.19 syl/s is slightly brisk compared to corpus average (5.68 syl/s)."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 6.3s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 6.3 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.5",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (7 total) disrupted narrative flow."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.949",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.949 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 21.0,
+      "f0_velocity": 505.66,
+      "pause_ratio": 0.242,
+      "max_pause_sec": 6.27,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.36,
+      "repetition_density_per_min": 2.51,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "04_President_John_F_Kennedys_Inaugural_Address",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/04_President_John_F_Kennedys_Inaugural_Address",
+    "duration_sec": 928.39,
+    "grades": {
+      "strict_0": 9.7,
+      "moderate_50": 9.8,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.2,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.42 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.42 st is slightly restrained compared to corpus average (17.8 st)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 13.42,
+      "f0_velocity": 503.88,
+      "pause_ratio": 0.21,
+      "max_pause_sec": 1.69,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 6.85,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "06_President_Franklin_D_Roosevelt_Declares_War_on_Japan_Full_Sp",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/06_President_Franklin_D_Roosevelt_Declares_War_on_Japan_Full_Sp",
+    "duration_sec": 287.57,
+    "grades": {
+      "strict_0": 8.8,
+      "moderate_50": 9.1,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.2,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 11.49",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 11.49 indicates lack of contrast between stressed and unstressed syllables."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 2.4655",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (2.4655) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 14.52,
+      "f0_velocity": 526.92,
+      "pause_ratio": 0.23,
+      "max_pause_sec": 2.13,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 0.21,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "09_Jon_Stewart_slams_Congress_over_benefits_for_911_first_respo",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/09_Jon_Stewart_slams_Congress_over_benefits_for_911_first_respo",
+    "duration_sec": 551.36,
+    "grades": {
+      "strict_0": 7.6,
+      "moderate_50": 8.2,
+      "lenient_100": 8.9
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.2,
+      "rhetorical_pausing_out_of_2_0": 0.9,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.3,
+        "metric": "tempo_stability_std: 0.85",
+        "flaw": "Erratic Cadence Fluctuation",
+        "explanation": "High tempo variance (0.85) reflects erratic speed changes across sentences."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 5.7s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 5.7 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.7",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (25 total) disrupted narrative flow."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.42,
+      "f0_velocity": 671.9,
+      "pause_ratio": 0.216,
+      "max_pause_sec": 5.71,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.76,
+      "repetition_density_per_min": 7.62,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "10_I_Went_From_3rd_Grade_Dropout_To_ULTRA_SUCCESSFUL_Rick_Rigsb",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/10_I_Went_From_3rd_Grade_Dropout_To_ULTRA_SUCCESSFUL_Rick_Rigsb",
+    "duration_sec": 621.89,
+    "grades": {
+      "strict_0": 9.7,
+      "moderate_50": 9.8,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 29.83 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 29.83 dB, slightly lower than typical masterclass contrast."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 19.91,
+      "f0_velocity": 698.77,
+      "pause_ratio": 0.185,
+      "max_pause_sec": 2.78,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.77,
+      "repetition_density_per_min": 10.03,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "11_One_of_the_Greatest_Speeches_Ever_Jeff_Bezos",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/11_One_of_the_Greatest_Speeches_Ever_Jeff_Bezos",
+    "duration_sec": 606.59,
+    "grades": {
+      "strict_0": 5.0,
+      "moderate_50": 6.3,
+      "lenient_100": 7.6
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.15,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.6,
+      "critical_deficits_count": 3,
+      "coupling_penalty": 1.1,
+      "gate_ceiling": 6.34
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.4%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.4% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 3.0s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 3.0 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 3.8",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (3.8/min) disrupts smooth syntactic phrasing."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 14.7/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (14.7/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 15",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (15 instances) impair fluency."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.21,
+      "f0_velocity": 686.84,
+      "pause_ratio": 0.164,
+      "max_pause_sec": 3.0,
+      "yelling_detected": false,
+      "filler_words_per_min": 3.76,
+      "repetition_density_per_min": 14.74,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "15_Valedictorian_Shocks_World_with_Brutally_Honest_Graduation_S",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/15_Valedictorian_Shocks_World_with_Brutally_Honest_Graduation_S",
+    "duration_sec": 288.4,
+    "grades": {
+      "strict_0": 8.6,
+      "moderate_50": 9.0,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.2,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.7,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 9.52 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 9.52 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 14.31",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 14.31 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 9.52,
+      "f0_velocity": 403.92,
+      "pause_ratio": 0.189,
+      "max_pause_sec": 1.48,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.62,
+      "repetition_density_per_min": 4.58,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "16_Why_I_as_a_black_man_attend_KKK_rallies_Daryl_Davis_TEDxNape",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/16_Why_I_as_a_black_man_attend_KKK_rallies_Daryl_Davis_TEDxNape",
+    "duration_sec": 1129.53,
+    "grades": {
+      "strict_0": 8.3,
+      "moderate_50": 8.8,
+      "lenient_100": 9.2
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.2,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 7.0s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 7.0 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.5281",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.5281 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.79,
+      "f0_velocity": 619.73,
+      "pause_ratio": 0.207,
+      "max_pause_sec": 7.01,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.58,
+      "repetition_density_per_min": 6.8,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "17_The_Lie_We_Live",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/17_The_Lie_We_Live",
+    "duration_sec": 498.52,
+    "grades": {
+      "strict_0": 9.3,
+      "moderate_50": 9.5,
+      "lenient_100": 9.7
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.2,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 12.23 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 12.23 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 25.59 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 25.59 dB, slightly lower than typical masterclass contrast."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 12.23,
+      "f0_velocity": 475.42,
+      "pause_ratio": 0.188,
+      "max_pause_sec": 2.19,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.24,
+      "repetition_density_per_min": 2.05,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS",
+    "duration_sec": 6464.44,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.3,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.2,
+        "metric": "articulation_rate: 4.96 syl/s",
+        "flaw": "Slow Pacing",
+        "explanation": "Speech rate of 4.96 syl/s is slower than typical oratorical tempo."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 4",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (4 instances) impair fluency."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 14.57,
+      "f0_velocity": 448.15,
+      "pause_ratio": 0.189,
+      "max_pause_sec": 2.61,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.08,
+      "repetition_density_per_min": 2.56,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "19_Mystery_School_Lesson_6_Accessing_Knowledge_Part_3",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/19_Mystery_School_Lesson_6_Accessing_Knowledge_Part_3",
+    "duration_sec": 617.86,
+    "grades": {
+      "strict_0": 8.5,
+      "moderate_50": 8.9,
+      "lenient_100": 9.3
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.2,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 10.78 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 10.78 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 7",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (7 instances) impair fluency."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 2.2863",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (2.2863) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 10.78,
+      "f0_velocity": 401.16,
+      "pause_ratio": 0.179,
+      "max_pause_sec": 2.1,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.68,
+      "repetition_density_per_min": 2.04,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "20_The_Greatest_Advice_Ever_Told_Use_This",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/20_The_Greatest_Advice_Ever_Told_Use_This",
+    "duration_sec": 720.29,
+    "grades": {
+      "strict_0": 8.8,
+      "moderate_50": 9.1,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.3,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 3.6s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 3.6 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 3",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (3 instances) impair fluency."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 25.47,
+      "f0_velocity": 914.78,
+      "pause_ratio": 0.202,
+      "max_pause_sec": 3.58,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.42,
+      "repetition_density_per_min": 9.91,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "22_Rod_Serling_Was_Prophetic_With_This_Warning",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/22_Rod_Serling_Was_Prophetic_With_This_Warning",
+    "duration_sec": 61.95,
+    "grades": {
+      "strict_0": 7.0,
+      "moderate_50": 7.7,
+      "lenient_100": 8.3
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.3,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.0,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 7.1
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 10.16 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 10.16 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      },
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.2,
+        "metric": "articulation_rate: 5.2 syl/s",
+        "flaw": "Slow Pacing",
+        "explanation": "Speech rate of 5.2 syl/s is slower than typical oratorical tempo."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.5,
+        "metric": "pause_ratio: 11.6%",
+        "flaw": "Severe Breathless Run-On",
+        "explanation": "Pause ratio was only 11.6% (corpus floor: 17.0%). Suffocating delivery with almost no breathing room."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 10.16,
+      "f0_velocity": 579.81,
+      "pause_ratio": 0.116,
+      "max_pause_sec": 0.72,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.97,
+      "repetition_density_per_min": 0.0,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "23_The_Doctors_Speech_The_Zygon_Inversion_Doctor_Who",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/23_The_Doctors_Speech_The_Zygon_Inversion_Doctor_Who",
+    "duration_sec": 252.81,
+    "grades": {
+      "strict_0": 10.0,
+      "moderate_50": 10.0,
+      "lenient_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [],
+    "metrics_summary": {
+      "f0_semitones": 23.34,
+      "f0_velocity": 718.85,
+      "pause_ratio": 0.191,
+      "max_pause_sec": 1.32,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.9,
+      "repetition_density_per_min": 8.54,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "24_Good_Will_Hunting_Its_Not_Your_Fault",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/24_Good_Will_Hunting_Its_Not_Your_Fault",
+    "duration_sec": 92.8,
+    "grades": {
+      "strict_0": 8.5,
+      "moderate_50": 8.9,
+      "lenient_100": 9.3
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.1,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.6,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.9,
+        "metric": "repetition_density: 53.7/min, false_starts: 0",
+        "flaw": "Severe Sentence Repetition & Syntactic Loop",
+        "explanation": "Heavy cyclic phrase restarts (53.7/min) and false starts (0) reflect cognitive stalling or loss of train of thought."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 28.22,
+      "f0_velocity": 1424.32,
+      "pause_ratio": 0.214,
+      "max_pause_sec": 2.16,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 53.66,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "26_A_Reason_To_Stop_Worrying_Watch_This_Whenever_Youre_Stressed",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/26_A_Reason_To_Stop_Worrying_Watch_This_Whenever_Youre_Stressed",
+    "duration_sec": 257.22,
+    "grades": {
+      "strict_0": 9.0,
+      "moderate_50": 9.2,
+      "lenient_100": 9.5
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 4.1s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 4.1 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.9981",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.9981 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 14.04,
+      "f0_velocity": 469.99,
+      "pause_ratio": 0.195,
+      "max_pause_sec": 4.13,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.17,
+      "repetition_density_per_min": 7.0,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "29_Robert_Kiyosaki_2019_The_Speech_That_Broke_The_Internet_KEEP",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/29_Robert_Kiyosaki_2019_The_Speech_That_Broke_The_Internet_KEEP",
+    "duration_sec": 626.38,
+    "grades": {
+      "strict_0": 4.4,
+      "moderate_50": 5.9,
+      "lenient_100": 7.4
+    },
+    "performance_band_strict": "Novice / Severely Flawed (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.0,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.9,
+      "critical_deficits_count": 3,
+      "coupling_penalty": 1.1,
+      "gate_ceiling": 6.07
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 6.1s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 6.1 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 3.0",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (3.0/min) disrupts smooth syntactic phrasing."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 12.6/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (12.6/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 4",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (4 instances) impair fluency."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 28.32 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 28.32 dB, slightly lower than typical masterclass contrast."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 15.31,
+      "f0_velocity": 465.05,
+      "pause_ratio": 0.192,
+      "max_pause_sec": 6.13,
+      "yelling_detected": false,
+      "filler_words_per_min": 2.97,
+      "repetition_density_per_min": 12.64,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "30_WATCH_Greta_Thunbergs_full_speech_to_world_leaders_at_UN_Cli",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/30_WATCH_Greta_Thunbergs_full_speech_to_world_leaders_at_UN_Cli",
+    "duration_sec": 315.82,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.2,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 12.73 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 12.73 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.1",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (11 total) disrupted narrative flow."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 12.73,
+      "f0_velocity": 810.41,
+      "pause_ratio": 0.206,
+      "max_pause_sec": 2.96,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.38,
+      "repetition_density_per_min": 0.76,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "31_Your_goal_is_to_feel_good_as_much_as_possible_Law_of_Attract",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/31_Your_goal_is_to_feel_good_as_much_as_possible_Law_of_Attract",
+    "duration_sec": 58.18,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 17.5/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (17.5/min) disrupt narrative coherence."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 19.71,
+      "f0_velocity": 760.08,
+      "pause_ratio": 0.18,
+      "max_pause_sec": 0.81,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 17.53,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "33_This_really_works_It_Really_does_work_The_Result_Is_Absolute",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/33_This_really_works_It_Really_does_work_The_Result_Is_Absolute",
+    "duration_sec": 604.6,
+    "grades": {
+      "strict_0": 6.3,
+      "moderate_50": 7.3,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.4,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.3,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.68
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 7.9s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 7.9 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 12.7/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (12.7/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 5",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (5 instances) impair fluency."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 15.45,
+      "f0_velocity": 631.24,
+      "pause_ratio": 0.227,
+      "max_pause_sec": 7.93,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.09,
+      "repetition_density_per_min": 12.7,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "34_Elven_Love_Walk_with_Elven_Baby_Steps_towards_Hope",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/34_Elven_Love_Walk_with_Elven_Baby_Steps_towards_Hope",
+    "duration_sec": 1403.0,
+    "grades": {
+      "strict_0": 8.5,
+      "moderate_50": 8.9,
+      "lenient_100": 9.3
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.68 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.68 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 17",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (17 instances) impair fluency."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 2.0767",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (2.0767) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 13.68,
+      "f0_velocity": 594.38,
+      "pause_ratio": 0.19,
+      "max_pause_sec": 2.63,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.56,
+      "repetition_density_per_min": 10.61,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "35_AOC_Flips_the_Religious_Freedom_Argument_on_Its_Head_NowThis",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/35_AOC_Flips_the_Religious_Freedom_Argument_on_Its_Head_NowThis",
+    "duration_sec": 234.4,
+    "grades": {
+      "strict_0": 10.0,
+      "moderate_50": 10.0,
+      "lenient_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [],
+    "metrics_summary": {
+      "f0_semitones": 22.78,
+      "f0_velocity": 720.75,
+      "pause_ratio": 0.177,
+      "max_pause_sec": 2.01,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 11.26,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "37_When_Life_GETS_HARD_Do_These_5_Things_To_Become_UNSTOPPABLE_",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/37_When_Life_GETS_HARD_Do_These_5_Things_To_Become_UNSTOPPABLE_",
+    "duration_sec": 1707.8,
+    "grades": {
+      "strict_0": 7.8,
+      "moderate_50": 8.4,
+      "lenient_100": 9.0
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.9,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 5.8s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 5.8 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 7",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (7 instances) impair fluency."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 29.34 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 29.34 dB, slightly lower than typical masterclass contrast."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 23.63,
+      "f0_velocity": 714.91,
+      "pause_ratio": 0.184,
+      "max_pause_sec": 5.82,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.05,
+      "repetition_density_per_min": 8.54,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "38_How_To_REPROGRAM_Your_Mind_Dr_Bruce_Lipton",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/38_How_To_REPROGRAM_Your_Mind_Dr_Bruce_Lipton",
+    "duration_sec": 910.96,
+    "grades": {
+      "strict_0": 8.4,
+      "moderate_50": 8.8,
+      "lenient_100": 9.2
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.05,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.2,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.7%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.7% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 4.1s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 4.1 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 8",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (8 instances) impair fluency."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.28,
+      "f0_velocity": 593.25,
+      "pause_ratio": 0.167,
+      "max_pause_sec": 4.08,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.25,
+      "repetition_density_per_min": 9.09,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "39_WATCH_THIS_EVERYDAY_AND_CHANGE_YOUR_LIFE_Denzel_Washington_M",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/39_WATCH_THIS_EVERYDAY_AND_CHANGE_YOUR_LIFE_Denzel_Washington_M",
+    "duration_sec": 595.21,
+    "grades": {
+      "strict_0": 6.3,
+      "moderate_50": 7.3,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.4,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.3,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.68
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 12.5s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 12.5 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.4",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (24 total) disrupted narrative flow."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 17.8/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (17.8/min) disrupt narrative coherence."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 21.78,
+      "f0_velocity": 517.02,
+      "pause_ratio": 0.211,
+      "max_pause_sec": 12.5,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.4,
+      "repetition_density_per_min": 17.84,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "40_Admiral_McRaven_Leaves_the_Audience_SPEECHLESS_One_of_the_Be",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/40_Admiral_McRaven_Leaves_the_Audience_SPEECHLESS_One_of_the_Be",
+    "duration_sec": 959.23,
+    "grades": {
+      "strict_0": 9.7,
+      "moderate_50": 9.8,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.3,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 28.93 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 28.93 dB, slightly lower than typical masterclass contrast."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 19.79,
+      "f0_velocity": 579.75,
+      "pause_ratio": 0.215,
+      "max_pause_sec": 2.27,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 6.26,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "41_20_Principles_You_Should_Live_By_To_Get_Everything_You_Want_",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/41_20_Principles_You_Should_Live_By_To_Get_Everything_You_Want_",
+    "duration_sec": 669.19,
+    "grades": {
+      "strict_0": 6.2,
+      "moderate_50": 7.2,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.7,
+      "dynamic_energy_out_of_1_5": 1.1,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.3,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.68
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 6.4s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 6.4 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 12.7/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (12.7/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.4,
+        "metric": "energy_dynamic_range: 20.2 dB",
+        "flaw": "Compressed Volume Dynamics",
+        "explanation": "Volume range was only 20.2 dB (corpus floor: 27.36 dB). Monotonous volume throughout."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 21.63,
+      "f0_velocity": 821.9,
+      "pause_ratio": 0.182,
+      "max_pause_sec": 6.38,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.36,
+      "repetition_density_per_min": 12.73,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "42_Brutally_Honest_Valedictorian_Regrets_Being_Top_of_the_Class",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/42_Brutally_Honest_Valedictorian_Regrets_Being_Top_of_the_Class",
+    "duration_sec": 483.58,
+    "grades": {
+      "strict_0": 10.0,
+      "moderate_50": 10.0,
+      "lenient_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [],
+    "metrics_summary": {
+      "f0_semitones": 15.26,
+      "f0_velocity": 629.58,
+      "pause_ratio": 0.206,
+      "max_pause_sec": 1.81,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.37,
+      "repetition_density_per_min": 2.98,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "43_Raw_Video_Barack_Obamas_2008_acceptance_speech",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/43_Raw_Video_Barack_Obamas_2008_acceptance_speech",
+    "duration_sec": 1089.8,
+    "grades": {
+      "strict_0": 8.6,
+      "moderate_50": 9.0,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 3.2s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 3.2 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 1.1859",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (1.1859) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.61,
+      "f0_velocity": 502.27,
+      "pause_ratio": 0.214,
+      "max_pause_sec": 3.24,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.11,
+      "repetition_density_per_min": 2.81,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "44_One_of_the_Most_Motivational_Videos_Youll_Ever_See_WARNING_B",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/44_One_of_the_Most_Motivational_Videos_Youll_Ever_See_WARNING_B",
+    "duration_sec": 608.89,
+    "grades": {
+      "strict_0": 7.5,
+      "moderate_50": 8.1,
+      "lenient_100": 8.8
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.9,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 8.4s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 8.4 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 3",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (3 instances) impair fluency."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 2.4971",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (2.4971) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 22.06,
+      "f0_velocity": 674.07,
+      "pause_ratio": 0.206,
+      "max_pause_sec": 8.36,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.39,
+      "repetition_density_per_min": 7.88,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "47_Elven_Love_Life_Without_Regrets",
+    "category": "Good Speeches (Masterclass)",
+    "folder": "good speeches/47_Elven_Love_Life_Without_Regrets",
+    "duration_sec": 1168.65,
+    "grades": {
+      "strict_0": 5.7,
+      "moderate_50": 6.8,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.4,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.1
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.3,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.68
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 18.0s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 18.0 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 12.3/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (12.3/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "word_repetitions: 16",
+        "flaw": "Audible Lexical Stutter Repetitions",
+        "explanation": "Direct consecutive word stutter repetitions (16 instances) impair fluency."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.4,
+        "metric": "spectral_flux: 2.2133",
+        "flaw": "Slurred Enunciation",
+        "explanation": "Low spectral flux (2.2133) indicates sluggish consonant articulation and muddled diction."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 18.07,
+      "f0_velocity": 651.67,
+      "pause_ratio": 0.196,
+      "max_pause_sec": 18.01,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.33,
+      "repetition_density_per_min": 12.32,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "01_Bad_Public_Speaking_Example_1",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/01_Bad_Public_Speaking_Example_1",
+    "duration_sec": 444.21,
+    "grades": {
+      "strict_0": 6.5,
+      "moderate_50": 7.4,
+      "lenient_100": 8.2
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 1.4,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.1,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.95
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.8,
+        "metric": "f0_semitones: 5.04 st",
+        "flaw": "Severe Monotone Compression",
+        "explanation": "Pitch range was severely compressed to 5.04 st (corpus floor: 10.56 st). Flat teleprompter-like delivery."
+      },
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.3,
+        "metric": "f0_velocity: 354.22 Hz/s",
+        "flaw": "Sluggish Vocal Inflection",
+        "explanation": "Pitch velocity was 354.22 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 3.2",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (3.2/min) disrupts smooth syntactic phrasing."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 5.04,
+      "f0_velocity": 354.22,
+      "pause_ratio": 0.186,
+      "max_pause_sec": 2.17,
+      "yelling_detected": false,
+      "filler_words_per_min": 3.24,
+      "repetition_density_per_min": 3.51,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "02_Bad_Public_Speaking_Example_3",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/02_Bad_Public_Speaking_Example_3",
+    "duration_sec": 189.94,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.7,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 9.91 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 9.91 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 9.91,
+      "f0_velocity": 413.89,
+      "pause_ratio": 0.2,
+      "max_pause_sec": 2.23,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.32,
+      "repetition_density_per_min": 0.63,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "03_Bad_Public_Speaking_Example_4",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/03_Bad_Public_Speaking_Example_4",
+    "duration_sec": 110.96,
+    "grades": {
+      "strict_0": 9.6,
+      "moderate_50": 9.7,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.75,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.4,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.1%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.64,
+      "f0_velocity": 425.43,
+      "pause_ratio": 0.161,
+      "max_pause_sec": 1.14,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.54,
+      "repetition_density_per_min": 7.57,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "04_Miss_California",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/04_Miss_California",
+    "duration_sec": 58.69,
+    "grades": {
+      "strict_0": 5.8,
+      "moderate_50": 6.9,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.3,
+      "rhetorical_pausing_out_of_2_0": 1.0,
+      "dynamic_energy_out_of_1_5": 0.8,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.1,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.95
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.2,
+        "metric": "articulation_rate: 5.03 syl/s",
+        "flaw": "Slow Pacing",
+        "explanation": "Speech rate of 5.03 syl/s is slower than typical oratorical tempo."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.5,
+        "metric": "pause_ratio: 11.9%",
+        "flaw": "Severe Breathless Run-On",
+        "explanation": "Pause ratio was only 11.9% (corpus floor: 17.0%). Suffocating delivery with almost no breathing room."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 16.4/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (16.4/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.4,
+        "metric": "energy_dynamic_range: 20.82 dB",
+        "flaw": "Compressed Volume Dynamics",
+        "explanation": "Volume range was only 20.82 dB (corpus floor: 27.36 dB). Monotonous volume throughout."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 8.33",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 8.33 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 29.46,
+      "f0_velocity": 1230.37,
+      "pause_ratio": 0.119,
+      "max_pause_sec": 0.75,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 16.36,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "04_Miss_California_Flubs_Answer",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/04_Miss_California_Flubs_Answer",
+    "duration_sec": 58.69,
+    "grades": {
+      "strict_0": 5.8,
+      "moderate_50": 6.9,
+      "lenient_100": 8.0
+    },
+    "performance_band_strict": "Developing / Inconsistent (Tier 3)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.3,
+      "rhetorical_pausing_out_of_2_0": 1.0,
+      "dynamic_energy_out_of_1_5": 0.8,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.1,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.95
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Cadence & Tempo",
+        "deduction": 0.2,
+        "metric": "articulation_rate: 5.03 syl/s",
+        "flaw": "Slow Pacing",
+        "explanation": "Speech rate of 5.03 syl/s is slower than typical oratorical tempo."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.5,
+        "metric": "pause_ratio: 11.9%",
+        "flaw": "Severe Breathless Run-On",
+        "explanation": "Pause ratio was only 11.9% (corpus floor: 17.0%). Suffocating delivery with almost no breathing room."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 16.4/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (16.4/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.4,
+        "metric": "energy_dynamic_range: 20.82 dB",
+        "flaw": "Compressed Volume Dynamics",
+        "explanation": "Volume range was only 20.82 dB (corpus floor: 27.36 dB). Monotonous volume throughout."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 8.33",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 8.33 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 29.46,
+      "f0_velocity": 1230.37,
+      "pause_ratio": 0.119,
+      "max_pause_sec": 0.75,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 16.36,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "05_Mariahs_Bizarre_Acceptance_Speech",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/05_Mariahs_Bizarre_Acceptance_Speech",
+    "duration_sec": 101.77,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.9",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (5 total) disrupted narrative flow."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.9188",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.9188 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 22.49,
+      "f0_velocity": 538.75,
+      "pause_ratio": 0.19,
+      "max_pause_sec": 2.62,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.59,
+      "repetition_density_per_min": 1.77,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "06_Bad_Public_Speaking_Example_2",
+    "category": "Bad Speeches Corpus",
+    "folder": "bad speechs/06_Bad_Public_Speaking_Example_2",
+    "duration_sec": 364.24,
+    "grades": {
+      "strict_0": 8.8,
+      "moderate_50": 9.1,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 15.3/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (15.3/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 3.0685",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 3.0685 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.09,
+      "f0_velocity": 562.91,
+      "pause_ratio": 0.171,
+      "max_pause_sec": 1.77,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.49,
+      "repetition_density_per_min": 15.32,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "01_Michael_Bay_Samsung_CES",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/01_Michael_Bay_Samsung_CES",
+    "duration_sec": 79.28,
+    "grades": {
+      "strict_0": 8.5,
+      "moderate_50": 8.9,
+      "lenient_100": 9.3
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.0,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.31 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.31 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 6.8/min, false_starts: 2",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (6.8/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.7221",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.7221 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 13.31,
+      "f0_velocity": 451.65,
+      "pause_ratio": 0.185,
+      "max_pause_sec": 2.53,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 6.81,
+      "false_start_count": 2
+    }
+  },
+  {
+    "title": "02_Worst_HS_Graduation_Speech",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/02_Worst_HS_Graduation_Speech",
+    "duration_sec": 346.4,
+    "grades": {
+      "strict_0": 9.3,
+      "moderate_50": 9.5,
+      "lenient_100": 9.7
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.6,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 2.4",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (2.4/min) disrupts smooth syntactic phrasing."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 23.23,
+      "f0_velocity": 750.68,
+      "pause_ratio": 0.186,
+      "max_pause_sec": 1.76,
+      "yelling_detected": false,
+      "filler_words_per_min": 2.42,
+      "repetition_density_per_min": 9.18,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "03_Bad_Speaking_Ex1_Emily",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/03_Bad_Speaking_Ex1_Emily",
+    "duration_sec": 444.21,
+    "grades": {
+      "strict_0": 6.5,
+      "moderate_50": 7.4,
+      "lenient_100": 8.2
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 1.4,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.1,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 6.95
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.8,
+        "metric": "f0_semitones: 5.04 st",
+        "flaw": "Severe Monotone Compression",
+        "explanation": "Pitch range was severely compressed to 5.04 st (corpus floor: 10.56 st). Flat teleprompter-like delivery."
+      },
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.3,
+        "metric": "f0_velocity: 354.22 Hz/s",
+        "flaw": "Sluggish Vocal Inflection",
+        "explanation": "Pitch velocity was 354.22 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 3.4",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (3.4/min) disrupts smooth syntactic phrasing."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 5.04,
+      "f0_velocity": 354.22,
+      "pause_ratio": 0.186,
+      "max_pause_sec": 2.17,
+      "yelling_detected": false,
+      "filler_words_per_min": 3.38,
+      "repetition_density_per_min": 3.92,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "04_Bad_Speaking_Ex2",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/04_Bad_Speaking_Ex2",
+    "duration_sec": 364.24,
+    "grades": {
+      "strict_0": 8.8,
+      "moderate_50": 9.1,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 15.0/min, false_starts: 0",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (15.0/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 3.0685",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 3.0685 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.09,
+      "f0_velocity": 562.91,
+      "pause_ratio": 0.171,
+      "max_pause_sec": 1.77,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.33,
+      "repetition_density_per_min": 14.99,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "05_Bad_Speaking_Ex3",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/05_Bad_Speaking_Ex3",
+    "duration_sec": 189.94,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.7,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 9.91 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 9.91 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 9.91,
+      "f0_velocity": 413.89,
+      "pause_ratio": 0.2,
+      "max_pause_sec": 2.23,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.32,
+      "repetition_density_per_min": 0.63,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "06_Bad_Speaking_Ex4",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/06_Bad_Speaking_Ex4",
+    "duration_sec": 110.96,
+    "grades": {
+      "strict_0": 9.6,
+      "moderate_50": 9.7,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.75,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.4,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.1%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 17.64,
+      "f0_velocity": 425.43,
+      "pause_ratio": 0.161,
+      "max_pause_sec": 1.14,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.54,
+      "repetition_density_per_min": 7.03,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "07_Miss_South_Carolina_2007",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/07_Miss_South_Carolina_2007",
+    "duration_sec": 48.51,
+    "grades": {
+      "strict_0": 8.0,
+      "moderate_50": 8.6,
+      "lenient_100": 9.1
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.35,
+      "dynamic_energy_out_of_1_5": 1.0,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.0,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 15.8%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 15.8% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 2.5",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (2.5/min) disrupts smooth syntactic phrasing."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 28.17 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 28.17 dB, slightly lower than typical masterclass contrast."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 8.9",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 8.9 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 23.42,
+      "f0_velocity": 687.45,
+      "pause_ratio": 0.158,
+      "max_pause_sec": 1.19,
+      "yelling_detected": false,
+      "filler_words_per_min": 2.47,
+      "repetition_density_per_min": 6.18,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "08_Phil_Davison_GOP_Candidate",
+    "category": "Michele DeCamp Playlist",
+    "folder": "testing videos/michele_decamp_playlist/08_Phil_Davison_GOP_Candidate",
+    "duration_sec": 351.59,
+    "grades": {
+      "strict_0": 9.0,
+      "moderate_50": 9.2,
+      "lenient_100": 9.5
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.0,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.36 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.36 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 3.7s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 3.7 seconds exceeded rhetorical bounds."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 13.36,
+      "f0_velocity": 639.76,
+      "pause_ratio": 0.208,
+      "max_pause_sec": 3.74,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 11.95,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "01_Donald_Trump_Iran_Remarks",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/01_Donald_Trump_Iran_Remarks",
+    "duration_sec": 156.63,
+    "grades": {
+      "strict_0": 6.8,
+      "moderate_50": 7.5,
+      "lenient_100": 8.1
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 0.85,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 2.2,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 6.81
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 11.21 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 11.21 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.3,
+        "metric": "f0_velocity: 379.39 Hz/s",
+        "flaw": "Sluggish Vocal Inflection",
+        "explanation": "Pitch velocity was 379.39 Hz/s (baseline: 648 Hz/s), indicating slow inflectional modulation."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.1%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.1% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.9,
+        "metric": "repetition_density: 21.1/min, false_starts: 0",
+        "flaw": "Severe Sentence Repetition & Syntactic Loop",
+        "explanation": "Heavy cyclic phrase restarts (21.1/min) and false starts (0) reflect cognitive stalling or loss of train of thought."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 2.6209",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 2.6209 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 11.21,
+      "f0_velocity": 379.39,
+      "pause_ratio": 0.161,
+      "max_pause_sec": 1.4,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.15,
+      "repetition_density_per_min": 21.07,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "02_Joe_Biden_2024_Debate_Stumble",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/02_Joe_Biden_2024_Debate_Stumble",
+    "duration_sec": 59.92,
+    "grades": {
+      "strict_0": 6.9,
+      "moderate_50": 7.7,
+      "lenient_100": 8.5
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.5,
+      "dynamic_energy_out_of_1_5": 1.2,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 2,
+      "coupling_penalty": 0.55,
+      "gate_ceiling": 7.97
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 8.91 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 8.91 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.5,
+        "metric": "repetition_density: 17.0/min, false_starts: 1",
+        "flaw": "Frequent Phrase Duplication & Restarts",
+        "explanation": "Repeated phrase loops (17.0/min) disrupt narrative coherence."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 13.66",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 13.66 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 8.91,
+      "f0_velocity": 510.47,
+      "pause_ratio": 0.185,
+      "max_pause_sec": 1.09,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.0,
+      "repetition_density_per_min": 17.02,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "03_Boris_Johnson_CBI_Peppa_Pig",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/03_Boris_Johnson_CBI_Peppa_Pig",
+    "duration_sec": 122.3,
+    "grades": {
+      "strict_0": 8.9,
+      "moderate_50": 9.2,
+      "lenient_100": 9.5
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.35,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.2,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.4%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.4% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 4.4s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 4.4 seconds exceeded rhetorical bounds."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 16.91,
+      "f0_velocity": 813.49,
+      "pause_ratio": 0.164,
+      "max_pause_sec": 4.36,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.98,
+      "repetition_density_per_min": 6.87,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "04_Liz_Truss_Resignation",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/04_Liz_Truss_Resignation",
+    "duration_sec": 104.88,
+    "grades": {
+      "strict_0": 9.2,
+      "moderate_50": 9.4,
+      "lenient_100": 9.6
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.0,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.7,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.5,
+        "metric": "f0_semitones: 9.21 st",
+        "flaw": "Moderate Pitch Compression",
+        "explanation": "Pitch range was 9.21 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 9.21,
+      "f0_velocity": 668.76,
+      "pause_ratio": 0.179,
+      "max_pause_sec": 1.57,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 0.0,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "05_Rishi_Sunak_Rain_Election_Call",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/05_Rishi_Sunak_Rain_Election_Call",
+    "duration_sec": 464.9,
+    "grades": {
+      "strict_0": 8.9,
+      "moderate_50": 9.2,
+      "lenient_100": 9.5
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.35,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.2,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 16.3%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 16.3% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 4.2s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 4.2 seconds exceeded rhetorical bounds."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 23.67,
+      "f0_velocity": 936.8,
+      "pause_ratio": 0.163,
+      "max_pause_sec": 4.25,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.39,
+      "repetition_density_per_min": 1.42,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "06_Justin_Trudeau_21_Second_Pause",
+    "category": "Political Leaders",
+    "folder": "testing videos/political_leaders/06_Justin_Trudeau_21_Second_Pause",
+    "duration_sec": 266.72,
+    "grades": {
+      "strict_0": 8.0,
+      "moderate_50": 8.5,
+      "lenient_100": 9.0
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.2,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.3
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.5,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 13.77 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 13.77 st is slightly restrained compared to corpus average (17.8 st)."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.8,
+        "metric": "max_pause_duration: 21.9s",
+        "flaw": "Paralyzing Dead-Air Freeze",
+        "explanation": "Prolonged stage freeze of 21.9 seconds completely ruptured audience rapport."
+      },
+      {
+        "pillar": "Spectral Clarity",
+        "deduction": 0.2,
+        "metric": "spectral_flux: 3.1446",
+        "flaw": "Subdued Phonetic Contrast",
+        "explanation": "Spectral flux of 3.1446 is below corpus average (4.73)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 13.77,
+      "f0_velocity": 429.65,
+      "pause_ratio": 0.197,
+      "max_pause_sec": 21.85,
+      "yelling_detected": false,
+      "filler_words_per_min": 1.12,
+      "repetition_density_per_min": 2.92,
+      "false_start_count": 1
+    }
+  },
+  {
+    "title": "01_Admiral_William_McRaven",
+    "category": "Testing Videos",
+    "folder": "testing videos/01_Admiral_William_McRaven",
+    "duration_sec": 1166.07,
+    "grades": {
+      "strict_0": 9.7,
+      "moderate_50": 9.8,
+      "lenient_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.2,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 11.38 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 11.38 st is slightly restrained compared to corpus average (17.8 st)."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 11.38,
+      "f0_velocity": 476.92,
+      "pause_ratio": 0.211,
+      "max_pause_sec": 2.13,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.1,
+      "repetition_density_per_min": 6.07,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "02_Amalini_Fernando_Impromptu",
+    "category": "Testing Videos",
+    "folder": "testing videos/02_Amalini_Fernando_Impromptu",
+    "duration_sec": 152.48,
+    "grades": {
+      "strict_0": 10.0,
+      "moderate_50": 10.0,
+      "lenient_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [],
+    "metrics_summary": {
+      "f0_semitones": 26.63,
+      "f0_velocity": 948.2,
+      "pause_ratio": 0.2,
+      "max_pause_sec": 1.45,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 8.66,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "03_Acceptance_Speech_Analysis",
+    "category": "Testing Videos",
+    "folder": "testing videos/03_Acceptance_Speech_Analysis",
+    "duration_sec": 97.93,
+    "grades": {
+      "strict_0": 10.0,
+      "moderate_50": 10.0,
+      "lenient_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.0,
+      "critical_deficits_count": 0,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [],
+    "metrics_summary": {
+      "f0_semitones": 23.66,
+      "f0_velocity": 627.25,
+      "pause_ratio": 0.178,
+      "max_pause_sec": 1.1,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.0,
+      "repetition_density_per_min": 2.45,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "04_Miss_South_Carolina_2007",
+    "category": "Testing Videos",
+    "folder": "testing videos/04_Miss_South_Carolina_2007",
+    "duration_sec": 48.51,
+    "grades": {
+      "strict_0": 8.0,
+      "moderate_50": 8.6,
+      "lenient_100": 9.1
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.35,
+      "dynamic_energy_out_of_1_5": 1.0,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 1.0,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 15.8%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 15.8% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.4,
+        "metric": "filler_words_per_min: 2.5",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (2.5/min) disrupts smooth syntactic phrasing."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 28.17 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 28.17 dB, slightly lower than typical masterclass contrast."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.3,
+        "metric": "papr_crest_factor: 8.9",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 8.9 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 23.42,
+      "f0_velocity": 687.45,
+      "pause_ratio": 0.158,
+      "max_pause_sec": 1.19,
+      "yelling_detected": false,
+      "filler_words_per_min": 2.47,
+      "repetition_density_per_min": 6.18,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "05_Mohammed_Qahtani_World_Champion",
+    "category": "Testing Videos",
+    "folder": "testing videos/05_Mohammed_Qahtani_World_Champion",
+    "duration_sec": 682.85,
+    "grades": {
+      "strict_0": 8.8,
+      "moderate_50": 9.1,
+      "lenient_100": 9.4
+    },
+    "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.3,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 4.0s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 4.0 seconds exceeded rhetorical bounds."
+      },
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.6",
+        "flaw": "Frequent Hesitations",
+        "explanation": "Frequent silences exceeding 1.5 seconds (30 total) disrupted narrative flow."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 21.55,
+      "f0_velocity": 714.94,
+      "pause_ratio": 0.215,
+      "max_pause_sec": 3.96,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.35,
+      "repetition_density_per_min": 4.92,
+      "false_start_count": 0
+    }
+  },
+  {
+    "title": "Dananjaya_Hettiarachchi_2014",
+    "category": "Testing Videos",
+    "folder": "testing videos/Dananjaya_Hettiarachchi_2014",
+    "duration_sec": 465.94,
+    "grades": {
+      "strict_0": 9.3,
+      "moderate_50": 9.5,
+      "lenient_100": 9.7
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "pillar_scores_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.6,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "gating_diagnostics_strict": {
+      "psi_impairment_index": 0.8,
+      "critical_deficits_count": 1,
+      "coupling_penalty": 0.0,
+      "gate_ceiling": 10.0
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.4,
+        "metric": "max_pause_duration: 3.5s",
+        "flaw": "Extended Awkward Silence",
+        "explanation": "Unfilled silence of 3.5 seconds exceeded rhetorical bounds."
+      }
+    ],
+    "metrics_summary": {
+      "f0_semitones": 22.47,
+      "f0_velocity": 611.86,
+      "pause_ratio": 0.198,
+      "max_pause_sec": 3.48,
+      "yelling_detected": false,
+      "filler_words_per_min": 0.9,
+      "repetition_density_per_min": 3.22,
+      "false_start_count": 0
+    }
+  }
+]

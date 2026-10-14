@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/41_20_Principles_You_Should_Live_By_To_Get_Everything_You_Want_/audio.mp3",
+  "clean_file": "good speeches/41_20_Principles_You_Should_Live_By_To_Get_Everything_You_Want_/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 669.594,
+  "clean_duration_sec": 669.192,
+  "lead_trim_sec": 0.11,
+  "tail_trim_sec": 0.292,
+  "measured_lufs_raw": -15.38,
+  "target_lufs": -20.0,
+  "gain_applied_db": -4.62,
+  "snr_raw_db": 7.29,
+  "snr_clean_db": 12.09,
+  "snr_improvement_db": 4.8,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 1444,
+    "utterance_count": 75
+  },
+  "status": "READY_FOR_EVALUATION"
+}

@@ -1,0 +1,39 @@
+<begin speech t=0000.000s>
+content: "Recyples have shown a fifth of Americans can't locate the U.S. on a world map."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "Why do you think this is?"
+<end speech t=0009.000s>
+
+<begin speech t=0009.000s>
+content: "I personally believe that U.S. Americans are unable to do so"
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "because some people out there in our nation don't have maps"
+<end speech t=0022.000s>
+
+<begin speech t=0022.000s>
+content: "and I believe that our education, like South Africa and the Iraq,"
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "everywhere like such as and I believe that they should, our education over here"
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "and the U.S. should help the U.S. or should help South Africa"
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "and should help the Iraq and the Asian countries"
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "so we will be able to build up our future for it."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "Thank you very much South Carolina."
+<end speech t=0048.000s>

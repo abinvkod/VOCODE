@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/09_Jon_Stewart_slams_Congress_over_benefits_for_911_first_respo/audio.mp3",
+  "clean_file": "good speeches/09_Jon_Stewart_slams_Congress_over_benefits_for_911_first_respo/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 551.358,
+  "clean_duration_sec": 551.358,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -27.52,
+  "target_lufs": -20.0,
+  "gain_applied_db": 2.8,
+  "snr_raw_db": 46.35,
+  "snr_clean_db": 48.99,
+  "snr_improvement_db": 2.65,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 987,
+    "utterance_count": 98
+  },
+  "status": "READY_FOR_EVALUATION"
+}

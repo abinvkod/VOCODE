@@ -1,0 +1,50 @@
+{
+  "id": "sxT9gOS6_j0",
+  "slug": "04_Liz_Truss_Resignation",
+  "title": "Liz Truss - Resignation Statement at 10 Downing Street",
+  "leader": "Liz Truss (UK Prime Minister 2022)",
+  "country": "UK",
+  "public_sentiment": "Solemn and politically fatal. Delivered after just 44 days in office following market turmoil from her mini-budget. Public and media sentiment viewed the delivery as curt, defiant, and lacking personal contrition or apology.",
+  "duration_sec": 104.88,
+  "grades": {
+    "strict_leniency_0": 8.9,
+    "moderate_leniency_50": 9.3,
+    "lenient_leniency_100": 9.7
+  },
+  "performance_band_strict": "Distinguished / Minor Polish (Tier 1)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.0,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.5,
+      "metric": "f0_semitones: 9.21 st",
+      "flaw": "Moderate Pitch Compression",
+      "explanation": "Pitch range was 9.21 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 0,
+    "fillers_per_min": 0.0,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 220.21,
+    "f0_semitones": 9.21,
+    "f0_velocity_hz_per_sec": 668.76,
+    "articulation_rate_sps": 5.59,
+    "pause_ratio": 0.179,
+    "hesitation_pause_count": 1,
+    "energy_dynamic_range_db": 39.93,
+    "papr_crest_factor": 52.08,
+    "spectral_flux": 6.9198
+  },
+  "transcript_preview": "I came into office at a time of great economic and international instability. Families and businesses were worried about how to pay their bills. Putin's illegal war in Ukraine threatens the security of our whole continent, and our country has been he..."
+}

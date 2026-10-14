@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/03_Acceptance_Speech_Analysis/raw_audio.wav",
+  "clean_file": "testing videos/03_Acceptance_Speech_Analysis/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 103.828,
+  "clean_duration_sec": 97.932,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 5.896,
+  "measured_lufs_raw": -32.53,
+  "target_lufs": -20.0,
+  "gain_applied_db": 12.53,
+  "snr_raw_db": 19.28,
+  "snr_clean_db": 23.44,
+  "snr_improvement_db": 4.16,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 125,
+    "utterance_count": 26
+  },
+  "status": "READY_FOR_EVALUATION"
+}

@@ -1,0 +1,203 @@
+<begin speech t=0000.000s>
+content: "Greta, your first climate strike was a lonely event a little over a year ago,"
+<end speech t=0005.400s>
+
+<begin speech t=0005.400s>
+content: "and in the intervening time you have sparked the interest of millions, literally, of children around the globe,"
+<end speech t=0011.400s>
+
+<begin speech t=0011.400s>
+content: "demanding action for climate change."
+<end speech t=0014.800s>
+
+<begin speech t=0014.800s>
+content: "What's your message to world leaders today?"
+<end speech t=0017.800s>
+
+<begin speech t=0025.600s>
+content: "My message is that we'll be watching you."
+<end speech t=0028.600s>
+
+<begin speech t=0030.000s>
+content: "This is all wrong."
+<end speech t=0033.000s>
+
+<begin speech t=0033.000s>
+content: "I shouldn't be up here."
+<end speech t=0036.000s>
+
+<begin speech t=0036.000s>
+content: "I should be back in school on the other side of the ocean."
+<end speech t=0047.000s>
+
+<begin speech t=0047.000s>
+content: "Yet you all come to us young people for hope."
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "How dare you?"
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "You have stolen my dreams and my childhood with your empty words,"
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "and yet I'm one of the lucky ones."
+<end speech t=0064.000s>
+
+<begin speech t=0064.000s>
+content: "People are suffering."
+<end speech t=0066.000s>
+
+<begin speech t=0066.000s>
+content: "People are dying."
+<end speech t=0068.000s>
+
+<begin speech t=0068.000s>
+content: "And our ecosystems are collapsing."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "We are in the beginning of a mass extinction,"
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "and all you can talk about is the money and fairy tales of each hand economic growth."
+<end speech t=0081.000s>
+
+<begin speech t=0081.000s>
+content: "How dare you?"
+<end speech t=0083.000s>
+
+<begin speech t=0085.000s>
+content: "For more than 30 years, the science has been crystal clear."
+<end speech t=0097.000s>
+
+<begin speech t=0097.000s>
+content: "How dare you continue to look away and come here saying that you're doing enough"
+<end speech t=0103.000s>
+
+<begin speech t=0103.000s>
+content: "when the politics and solutions needed are still nowhere in sight."
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "You say you hear us and that you understand the urgency."
+<end speech t=0115.000s>
+
+<begin speech t=0115.000s>
+content: "But no matter how sad and angry I am, I do not want to believe that,"
+<end speech t=0121.000s>
+
+<begin speech t=0121.000s>
+content: "because if you really understood the situation and still kept on failing to act,"
+<end speech t=0127.000s>
+
+<begin speech t=0127.000s>
+content: "then you would be evil, and that I refuse to believe."
+<end speech t=0132.000s>
+
+<begin speech t=0132.000s>
+content: "The popular idea of cutting our emissions in half in ten years"
+<end speech t=0142.000s>
+
+<begin speech t=0142.000s>
+content: "only gives us a 50% chance of staying below 1.5 degrees"
+<end speech t=0147.000s>
+
+<begin speech t=0147.000s>
+content: "and the risk of setting up irreversible chain reactions beyond human control."
+<end speech t=0152.000s>
+
+<begin speech t=0152.000s>
+content: "50% may be acceptable to you,"
+<end speech t=0157.000s>
+
+<begin speech t=0158.000s>
+content: "but those numbers do not include tipping points, most feedback loops,"
+<end speech t=0163.000s>
+
+<begin speech t=0163.000s>
+content: "additional warming hidden by toxic air pollution or the aspects of equity and climate justice."
+<end speech t=0169.000s>
+
+<begin speech t=0169.000s>
+content: "They also rely on my generation sucking hundreds of billions of tons of your CO2 out of the air"
+<end speech t=0177.000s>
+
+<begin speech t=0177.000s>
+content: "with technologies that barely exist."
+<end speech t=0181.000s>
+
+<begin speech t=0181.000s>
+content: "So a 50% risk is simply not acceptable to us."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "We who have to live with the consequences."
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "To have a 67% chance of staying below a 1.5 degrees of global temperature rise,"
+<end speech t=0197.000s>
+
+<begin speech t=0197.000s>
+content: "the best odds given by the IPCC, the world had 420 gigatons of CO2 left to emit"
+<end speech t=0205.000s>
+
+<begin speech t=0205.000s>
+content: "back on January 1, 2018."
+<end speech t=0209.000s>
+
+<begin speech t=0209.000s>
+content: "Today that figure is already down to less than 350 gigatons."
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "How dare you pretend that this can be sold with just business as usual and some technical solutions?"
+<end speech t=0223.000s>
+
+<begin speech t=0223.000s>
+content: "With today's emissions levels, that remaining CO2 budgets will be entirely gone with less than eight and a half years."
+<end speech t=0235.000s>
+
+<begin speech t=0235.000s>
+content: "There will not be any solutions or plans presented in line with these figures here today"
+<end speech t=0242.000s>
+
+<begin speech t=0242.000s>
+content: "because these numbers are too uncomfortable and you are still not mature enough to tell it like it is."
+<end speech t=0250.000s>
+
+<begin speech t=0250.000s>
+content: "You are failing us, but the young people are starting to understand your betrayal."
+<end speech t=0257.000s>
+
+<begin speech t=0257.000s>
+content: "The eyes of all future generations are upon you."
+<end speech t=0262.000s>
+
+<begin speech t=0262.000s>
+content: "And if you choose to fail us, I say we will never forgive you."
+<end speech t=0269.000s>
+
+<begin speech t=0269.000s>
+content: "We will not let you get away with this."
+<end speech t=0278.000s>
+
+<begin speech t=0278.000s>
+content: "Right here, right now, is where we draw the line."
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "The world is waking up and change is coming whether you like it or not."
+<end speech t=0289.000s>
+
+<begin speech t=0289.000s>
+content: "Thank you."
+<end speech t=0291.000s>
+
+<begin speech t=0299.000s>
+content: "Thank you."
+<end speech t=0302.000s>

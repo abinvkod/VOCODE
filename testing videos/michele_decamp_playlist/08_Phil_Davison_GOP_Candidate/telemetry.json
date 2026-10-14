@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/michele_decamp_playlist/08_Phil_Davison_GOP_Candidate/raw_audio.wav",
+  "clean_file": "testing videos/michele_decamp_playlist/08_Phil_Davison_GOP_Candidate/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 351.875,
+  "clean_duration_sec": 351.592,
+  "lead_trim_sec": 0.07,
+  "tail_trim_sec": 0.213,
+  "measured_lufs_raw": -16.27,
+  "target_lufs": -20.0,
+  "gain_applied_db": -3.73,
+  "snr_raw_db": 26.07,
+  "snr_clean_db": 37.73,
+  "snr_improvement_db": 11.65,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 707,
+    "utterance_count": 112
+  },
+  "status": "READY_FOR_EVALUATION"
+}

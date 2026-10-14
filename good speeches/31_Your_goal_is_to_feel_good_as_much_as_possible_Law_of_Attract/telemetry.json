@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/31_Your_goal_is_to_feel_good_as_much_as_possible_Law_of_Attract/audio.mp3",
+  "clean_file": "good speeches/31_Your_goal_is_to_feel_good_as_much_as_possible_Law_of_Attract/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 58.901,
+  "clean_duration_sec": 58.182,
+  "lead_trim_sec": 0.18,
+  "tail_trim_sec": 0.539,
+  "measured_lufs_raw": -25.08,
+  "target_lufs": -20.0,
+  "gain_applied_db": 3.47,
+  "snr_raw_db": 29.31,
+  "snr_clean_db": 29.97,
+  "snr_improvement_db": 0.66,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 138,
+    "utterance_count": 16
+  },
+  "status": "READY_FOR_EVALUATION"
+}

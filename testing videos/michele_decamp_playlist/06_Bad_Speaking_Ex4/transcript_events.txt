@@ -1,0 +1,83 @@
+<begin speech t=0000.000s>
+content: "So the Excel Center, my presentation is on the Excel Center."
+<end speech t=0007.000s>
+
+<begin speech t=0007.000s>
+content: "It's the center of excellence in student leadership."
+<end speech t=0013.000s>
+
+<begin speech t=0013.000s>
+content: "They do a lot of things like they have a public speaking lab"
+<end speech t=0026.000s>
+
+<begin speech t=0026.000s>
+content: "and they do consultation."
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "They have teams and they have the consultation team"
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "and the workshop team."
+<end speech t=0041.000s>
+
+<begin speech t=0041.000s>
+content: "And these teams, the consultation team,"
+<end speech t=0045.000s>
+
+<begin speech t=0045.000s>
+content: "does the consulting student organization on campus."
+<end speech t=0053.000s>
+
+<begin speech t=0054.000s>
+content: "The workshop team presents workshops."
+<end speech t=0061.000s>
+
+<begin speech t=0061.000s>
+content: "And also, if you attend seven of the workshops,"
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "you get a leadership certificate."
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "So it's good."
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "They have the radio team."
+<end speech t=0074.000s>
+
+<begin speech t=0074.000s>
+content: "They present radio shows."
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "They have also, yes, that's it."
+<end speech t=0083.000s>
+
+<begin speech t=0083.000s>
+content: "So the Excel Center also, they have mock interviews."
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "And if you can go and practice your interviewing skills."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "And that's it."
+<end speech t=0104.000s>
+
+<begin speech t=0105.000s>
+content: "I don't know."
+<end speech t=0107.000s>
+
+<begin speech t=0107.000s>
+content: "And you have an inclusion."
+<end speech t=0109.000s>
+
+<begin speech t=0109.000s>
+content: "So I guess he was bad."
+<end speech t=0111.000s>

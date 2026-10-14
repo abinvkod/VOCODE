@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/01_Admiral_William_McRaven/raw_audio.wav",
+  "clean_file": "testing videos/01_Admiral_William_McRaven/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1166.071,
+  "clean_duration_sec": 1166.071,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -29.19,
+  "target_lufs": -20.0,
+  "gain_applied_db": 7.44,
+  "snr_raw_db": 27.45,
+  "snr_clean_db": 28.8,
+  "snr_improvement_db": 1.36,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 3209,
+    "utterance_count": 280
+  },
+  "status": "READY_FOR_EVALUATION"
+}

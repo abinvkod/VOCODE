@@ -1,0 +1,227 @@
+<begin speech t=0000.000s>
+content: "I want to see a tremendous victory."
+<end speech t=0007.720s>
+
+<begin speech t=0007.720s>
+content: "You want to see a tremendous victory because it verifies all the things we did."
+<end speech t=0011.240s>
+
+<begin speech t=0011.240s>
+content: "And again, remember, with the words, this is artificial."
+<end speech t=0014.160s>
+
+<begin speech t=0014.160s>
+content: "It's a little bit high."
+<end speech t=0015.440s>
+
+<begin speech t=0015.440s>
+content: "It's a small price to pay for keeping the world safe, keeping our country safe."
+<end speech t=0020.000s>
+
+<begin speech t=0020.000s>
+content: "They can take out a city, let them take out Los Angeles, let them take out San Diego."
+<end speech t=0026.120s>
+
+<begin speech t=0026.120s>
+content: "This is a very small price to pay."
+<end speech t=0030.120s>
+
+<begin speech t=0030.120s>
+content: "And it's going to be almost over."
+<end speech t=0034.120s>
+
+<begin speech t=0034.120s>
+content: "And they might keep going a little long."
+<end speech t=0036.120s>
+
+<begin speech t=0036.120s>
+content: "You know, they always say the hook of big thresholds for pain."
+<end speech t=0039.120s>
+
+<begin speech t=0039.120s>
+content: "They need it."
+<end speech t=0040.120s>
+
+<begin speech t=0040.120s>
+content: "Let me tell you, they need it."
+<end speech t=0041.120s>
+
+<begin speech t=0041.120s>
+content: "But it's going to end very soon."
+<end speech t=0043.120s>
+
+<begin speech t=0043.120s>
+content: "And it'll end one way or the other."
+<end speech t=0045.120s>
+
+<begin speech t=0045.120s>
+content: "And you're gas and gasoline and all of the things."
+<end speech t=0048.120s>
+
+<begin speech t=0048.120s>
+content: "And don't forget, we also took on a country known as Venezuela."
+<end speech t=0054.120s>
+
+<begin speech t=0054.120s>
+content: "They never talk about that."
+<end speech t=0056.120s>
+
+<begin speech t=0056.120s>
+content: "They never talk about Venezuela."
+<end speech t=0059.120s>
+
+<begin speech t=0059.120s>
+content: "And we're taking in hundreds of millions of barrels of oil every week."
+<end speech t=0064.120s>
+
+<begin speech t=0064.120s>
+content: "We're pouring oil."
+<end speech t=0065.120s>
+
+<begin speech t=0065.120s>
+content: "We're pouring oil into this country like nobody's ever seen before."
+<end speech t=0069.120s>
+
+<begin speech t=0069.120s>
+content: "We took it over."
+<end speech t=0070.120s>
+
+<begin speech t=0070.120s>
+content: "China left."
+<end speech t=0071.120s>
+
+<begin speech t=0071.120s>
+content: "Russia left."
+<end speech t=0072.120s>
+
+<begin speech t=0072.120s>
+content: "They all left."
+<end speech t=0073.120s>
+
+<begin speech t=0073.120s>
+content: "Because they wanted them to leave."
+<end speech t=0075.120s>
+
+<begin speech t=0075.120s>
+content: "But they all left."
+<end speech t=0076.120s>
+
+<begin speech t=0076.120s>
+content: "And we took over Venezuela one hour and 48 minutes."
+<end speech t=0079.120s>
+
+<begin speech t=0079.120s>
+content: "It took us."
+<end speech t=0080.120s>
+
+<begin speech t=0080.120s>
+content: "Nobody killed."
+<end speech t=0081.120s>
+
+<begin speech t=0081.120s>
+content: "Nobody killed."
+<end speech t=0082.120s>
+
+<begin speech t=0082.120s>
+content: "They don't talk about that."
+<end speech t=0087.120s>
+
+<begin speech t=0087.120s>
+content: "You know, we were in Vietnam for 21 years."
+<end speech t=0091.120s>
+
+<begin speech t=0091.120s>
+content: "Hundreds of thousands of people."
+<end speech t=0093.120s>
+
+<begin speech t=0093.120s>
+content: "We're in Afghanistan."
+<end speech t=0096.120s>
+
+<begin speech t=0096.120s>
+content: "Take a look at Afghanistan."
+<end speech t=0097.120s>
+
+<begin speech t=0097.120s>
+content: "We're in Afghanistan for years."
+<end speech t=0099.120s>
+
+<begin speech t=0099.120s>
+content: "We're all over everybody."
+<end speech t=0100.120s>
+
+<begin speech t=0100.120s>
+content: "Years, years, years, years, years, thousands, thousands, thousands of people killed."
+<end speech t=0105.120s>
+
+<begin speech t=0105.120s>
+content: "So we've been in Venezuela for one hour and 48 minutes."
+<end speech t=0110.120s>
+
+<begin speech t=0110.120s>
+content: "We took over the largest oil supply outside of our own in the world."
+<end speech t=0116.120s>
+
+<begin speech t=0116.120s>
+content: "Think of that."
+<end speech t=0117.120s>
+
+<begin speech t=0117.120s>
+content: "And even our own."
+<end speech t=0118.120s>
+
+<begin speech t=0118.120s>
+content: "We were number three or four in the world."
+<end speech t=0120.120s>
+
+<begin speech t=0120.120s>
+content: "Now we're number one."
+<end speech t=0121.120s>
+
+<begin speech t=0121.120s>
+content: "We're twice the size of Russia and Saudi Arabia combined without Venezuela."
+<end speech t=0128.120s>
+
+<begin speech t=0128.120s>
+content: "Without..."
+<end speech t=0129.120s>
+
+<begin speech t=0129.120s>
+content: "CHEERING AND APPLAUSE"
+<end speech t=0133.120s>
+
+<begin speech t=0133.120s>
+content: "But they don't talk about it."
+<end speech t=0135.120s>
+
+<begin speech t=0135.120s>
+content: "But it'll end very quickly and prices are going to come down very sharply."
+<end speech t=0139.120s>
+
+<begin speech t=0139.120s>
+content: "You might say, please, please, sir."
+<end speech t=0141.120s>
+
+<begin speech t=0141.120s>
+content: "It's going down too fast."
+<end speech t=0143.120s>
+
+<begin speech t=0143.120s>
+content: "You watch."
+<end speech t=0144.120s>
+
+<begin speech t=0144.120s>
+content: "You watch what's going to happen at a very short period of time."
+<end speech t=0147.120s>
+
+<begin speech t=0147.120s>
+content: "So if you want to have any information on the vote, swap the vote USA dot com to learn where and how to vote."
+<end speech t=0153.120s>
+
+<begin speech t=0153.120s>
+content: "Most of you pretty much know that."
+<end speech t=0155.120s>
+
+<begin speech t=0155.120s>
+content: "If you didn't, you probably wouldn't be here."
+<end speech t=0157.120s>

@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/17_The_Lie_We_Live/audio.mp3",
+  "clean_file": "good speeches/17_The_Lie_We_Live/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 504.999,
+  "clean_duration_sec": 498.522,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 6.477,
+  "measured_lufs_raw": -20.75,
+  "target_lufs": -20.0,
+  "gain_applied_db": -1.19,
+  "snr_raw_db": 11.32,
+  "snr_clean_db": 15.97,
+  "snr_improvement_db": 4.65,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1458,
+    "utterance_count": 142
+  },
+  "status": "READY_FOR_EVALUATION"
+}

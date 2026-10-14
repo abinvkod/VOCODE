@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/Dananjaya Hettiarachchi - World Champion of Public Speaking 2014 - Full Speech.wav",
+  "clean_file": "testing videos/Dananjaya_Hettiarachchi_2014/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 473.699,
+  "clean_duration_sec": 465.942,
+  "lead_trim_sec": 7.55,
+  "tail_trim_sec": 0.207,
+  "measured_lufs_raw": -24.74,
+  "target_lufs": -20.0,
+  "gain_applied_db": 4.74,
+  "snr_raw_db": 29.67,
+  "snr_clean_db": 41.73,
+  "snr_improvement_db": 12.05,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 885,
+    "utterance_count": 105
+  },
+  "status": "READY_FOR_EVALUATION"
+}

@@ -1,0 +1,79 @@
+<begin speech t=0000.000s>
+content: "when I'm going to do a six a taxes."
+<end speech t=0001.440s>
+
+<begin speech t=0001.440s>
+content: "For example, we had 1,000 trillionaires in America,"
+<end speech t=0005.000s>
+
+<begin speech t=0005.000s>
+content: "I mean, a billionaires in America."
+<end speech t=0006.800s>
+
+<begin speech t=0006.800s>
+content: "And what's happening during a situation"
+<end speech t=0008.880s>
+
+<begin speech t=0008.880s>
+content: "where they in fact pay 8.2% in taxes."
+<end speech t=0012.360s>
+
+<begin speech t=0012.360s>
+content: "If they just pay 24%, 25%,"
+<end speech t=0015.360s>
+
+<begin speech t=0015.360s>
+content: "either one of those numbers,"
+<end speech t=0016.600s>
+
+<begin speech t=0016.600s>
+content: "they've raised $500 million, billion I should say,"
+<end speech t=0020.600s>
+
+<begin speech t=0020.600s>
+content: "in a 10 year period."
+<end speech t=0021.960s>
+
+<begin speech t=0021.960s>
+content: "We'd be able to write wipe out his debt,"
+<end speech t=0023.560s>
+
+<begin speech t=0023.560s>
+content: "we'd be able to help make sure that all those things"
+<end speech t=0025.880s>
+
+<begin speech t=0025.880s>
+content: "we need to do childcare, healthcare,"
+<end speech t=0028.560s>
+
+<begin speech t=0028.600s>
+content: "making sure that we continue to strengthen our healthcare system,"
+<end speech t=0032.200s>
+
+<begin speech t=0032.200s>
+content: "making sure that we're able to make every single solitary person"
+<end speech t=0035.840s>
+
+<begin speech t=0037.200s>
+content: "eligible for what I've been able to do with the COVID,"
+<end speech t=0041.560s>
+
+<begin speech t=0041.560s>
+content: "I was going to be dealing with everything we have to do with."
+<end speech t=0045.840s>
+
+<begin speech t=0047.560s>
+content: "Look, if we finally beat Medicare."
+<end speech t=0053.040s>
+
+<begin speech t=0053.040s>
+content: "Thank you, President Biden, President Trump."
+<end speech t=0055.880s>
+
+<begin speech t=0055.880s>
+content: "Was right, he did beat Medicare, he beat it to death"
+<end speech t=0058.360s>
+
+<begin speech t=0058.360s>
+content: "and he's destroying Medicare."
+<end speech t=0059.960s>

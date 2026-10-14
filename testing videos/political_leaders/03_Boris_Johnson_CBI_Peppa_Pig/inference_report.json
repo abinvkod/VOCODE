@@ -1,0 +1,50 @@
+{
+  "id": "8zHURhs0DbM",
+  "slug": "03_Boris_Johnson_CBI_Peppa_Pig",
+  "title": "Boris Johnson - CBI Annual Conference ('Peppa Pig' Speech)",
+  "leader": "Boris Johnson (UK Prime Minister 2019-2022)",
+  "country": "UK",
+  "public_sentiment": "Widely derided as 'bizarre', 'embarrassing', and 'shambolic'. Johnson lost his place in his speech notes for over 20 seconds, muttered 'forgive me' multiple times, made car engine noises, and went on an impromptu rant about Peppa Pig World to business executives.",
+  "duration_sec": 122.3,
+  "grades": {
+    "strict_leniency_0": 9.5,
+    "moderate_leniency_50": 9.7,
+    "lenient_leniency_100": 9.8
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 1.75,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.25,
+      "metric": "pause_ratio: 16.4%",
+      "flaw": "Insufficient Pausing",
+      "explanation": "Pause ratio of 16.4% is below the 20% oratorical law."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 2,
+    "fillers_per_min": 0.98,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 156.77,
+    "f0_semitones": 16.91,
+    "f0_velocity_hz_per_sec": 813.49,
+    "articulation_rate_sps": 5.37,
+    "pause_ratio": 0.164,
+    "hesitation_pause_count": 2,
+    "energy_dynamic_range_db": 50.61,
+    "papr_crest_factor": 24.77,
+    "spectral_flux": 5.284
+  },
+  "transcript_preview": "So with safer streets, with great local schools, with fantastic broadband. For you, me. For you, me. For you, me. Yes, I went as we all must to pepper pig world. I don't know if you've been to pepper pig world. Who's been to pans? I've been to pepper..."
+}

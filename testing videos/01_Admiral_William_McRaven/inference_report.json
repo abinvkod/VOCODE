@@ -1,0 +1,47 @@
+{
+  "id": "pxBQLFLei70",
+  "slug": "01_Admiral_William_McRaven",
+  "display_name": "Admiral William H. McRaven - UT Austin Commencement 2014",
+  "duration_sec": 1166.07,
+  "grades": {
+    "strict_leniency_0": 9.6,
+    "moderate_leniency_50": 9.7,
+    "lenient_leniency_100": 9.9
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.3,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.2,
+      "metric": "f0_semitones: 11.38 st",
+      "flaw": "Mild Pitch Restraint",
+      "explanation": "Pitch range of 11.38 st is slightly restrained compared to corpus average (17.8 st)."
+    }
+  ],
+  "disfluencies": {
+    "total_fillers": 2,
+    "fillers_per_min": 0.1,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 174.27,
+    "f0_semitones": 11.38,
+    "f0_velocity_hz_per_sec": 476.92,
+    "articulation_rate_sps": 5.83,
+    "pause_ratio": 0.211,
+    "hesitation_pause_count": 9,
+    "energy_dynamic_range_db": 51.35,
+    "papr_crest_factor": 16.6,
+    "spectral_flux": 3.4451
+  },
+  "transcript_preview": "Thank you very much. Thank you. Well, thank you. President Powers, Provost Fendes, Deans, members of the faculty, family and friends, and most importantly, the class of 2014. It is indeed an honor for me to be here tonight. It's been almost 37 years ..."
+}

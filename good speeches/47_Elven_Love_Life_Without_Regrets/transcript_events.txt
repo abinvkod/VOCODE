@@ -1,0 +1,795 @@
+<begin speech t=0000.000s>
+content: "MIGO VODIMA, Elvin Brothers and Sisters. Today I'd like to have a very serious conversation"
+<end speech t=0026.600s>
+
+<begin speech t=0026.600s>
+content: "about the subject of regret and how so many people take to their graves the"
+<end speech t=0032.960s>
+
+<begin speech t=0032.960s>
+content: "regrets of things that they did or did not do throughout their lives. It might be"
+<end speech t=0037.240s>
+
+<begin speech t=0037.240s>
+content: "interesting to know that most regrets are those that did not do not the ones"
+<end speech t=0041.560s>
+
+<begin speech t=0041.560s>
+content: "that they did do, the ones that they did not do in their lives. It is very"
+<end speech t=0045.760s>
+
+<begin speech t=0045.760s>
+content: "important that we live true to ourselves so that should you leave this world that"
+<end speech t=0051.760s>
+
+<begin speech t=0051.760s>
+content: "you leave it with no regrets, that you live the life that was true for you. I"
+<end speech t=0055.760s>
+
+<begin speech t=0055.800s>
+content: "mentioned this a couple of times on Facebook lately, to diagnose self-"
+<end speech t=0059.400s>
+
+<begin speech t=0059.400s>
+content: "be true, William Shakespeare. Such a very simple statement, to diagnose self-"
+<end speech t=0064.440s>
+
+<begin speech t=0064.440s>
+content: "be true and yet most humans on this world right now do not live true to"
+<end speech t=0071.240s>
+
+<begin speech t=0071.240s>
+content: "themselves. They are more afraid of what others will say, how they'll be attacked,"
+<end speech t=0078.480s>
+
+<begin speech t=0078.480s>
+content: "sometimes even physically for wanting to express who they are. Certainly a lot"
+<end speech t=0083.400s>
+
+<begin speech t=0083.400s>
+content: "of people are attacked emotionally, spiritually, verbally because they have"
+<end speech t=0090.280s>
+
+<begin speech t=0090.280s>
+content: "the courage to try to be who they're supposed to be. And this is very evident"
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "in the element community. I mean how many people out there have heard others say"
+<end speech t=0101.000s>
+
+<begin speech t=0101.000s>
+content: "well there's no such things as L's or all you're actually must be crazy or"
+<end speech t=0104.920s>
+
+<begin speech t=0104.920s>
+content: "insane because you believe that you're an elf or that you believe that L's do"
+<end speech t=0108.080s>
+
+<begin speech t=0108.080s>
+content: "exist. And it's very sad and it causes a lot of people to put themselves into"
+<end speech t=0114.480s>
+
+<begin speech t=0114.480s>
+content: "their own self-imposed prison and it does not have to be. You hold the key to"
+<end speech t=0121.320s>
+
+<begin speech t=0121.320s>
+content: "your own prison, you can release yourself one of you like to and you can be who"
+<end speech t=0126.160s>
+
+<begin speech t=0126.160s>
+content: "you are and some people will say well that's easy for you to say. You know it's"
+<end speech t=0129.720s>
+
+<begin speech t=0129.720s>
+content: "easy for you to say you know you can go ahead and be yourself and maybe you"
+<end speech t=0133.520s>
+
+<begin speech t=0133.920s>
+content: "altered your life and that if we're created the circumstances to where you"
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "have a sanctuary to be able to do that. And I have done that. I agree that it is"
+<end speech t=0142.600s>
+
+<begin speech t=0142.600s>
+content: "easy to say it but I also have a walk of the persecution and the abuse for being"
+<end speech t=0149.720s>
+
+<begin speech t=0149.720s>
+content: "someone other than what conforms to society. And I've been blessed. I found"
+<end speech t=0157.280s>
+
+<begin speech t=0157.280s>
+content: "that within myself to be able to be who I am. Unfortunately most people end up"
+<end speech t=0163.880s>
+
+<begin speech t=0163.880s>
+content: "going to their graves deeply regretting what they did not do that they did not"
+<end speech t=0169.520s>
+
+<begin speech t=0169.520s>
+content: "allow themselves to be who they are. There is a very important story I think"
+<end speech t=0175.120s>
+
+<begin speech t=0175.120s>
+content: "I've told before in one of my other videos. The story, this is a true story."
+<end speech t=0181.120s>
+
+<begin speech t=0181.120s>
+content: "This was about a doctor who became the first professor to teach in the United"
+<end speech t=0187.400s>
+
+<begin speech t=0187.400s>
+content: "States to teach a course on the love. Not just mushy mushy love but the history,"
+<end speech t=0193.960s>
+
+<begin speech t=0193.960s>
+content: "the culture, the chemistry, tradition, all about what is love. What is this"
+<end speech t=0201.360s>
+
+<begin speech t=0201.360s>
+content: "thing called love? And he was teaching in Berkeley. I'm no surprise there. He was"
+<end speech t=0205.440s>
+
+<begin speech t=0205.440s>
+content: "teaching in Berkeley. And one day in class this story moved me and it changed my"
+<end speech t=0212.560s>
+
+<begin speech t=0212.560s>
+content: "life. He was standing up in front of class and he told the story of a young"
+<end speech t=0219.480s>
+
+<begin speech t=0219.480s>
+content: "lady, a student that he used to have and she related how it had changed his life."
+<end speech t=0227.640s>
+
+<begin speech t=0227.640s>
+content: "Well the story goes that one day as class was ending she she she always kind of"
+<end speech t=0234.720s>
+
+<begin speech t=0234.720s>
+content: "sat towards the back of the class. She came up front and handed me a note."
+<end speech t=0240.120s>
+
+<begin speech t=0240.120s>
+content: "And now she went. Two weeks after she gave him the note she committed suicide."
+<end speech t=0246.080s>
+
+<begin speech t=0246.080s>
+content: "All right and he read the note to the class and the note said it's not death"
+<end speech t=0253.720s>
+
+<begin speech t=0253.720s>
+content: "I'm afraid of obviously not. It's not death I'm afraid of. What I am afraid of"
+<end speech t=0258.600s>
+
+<begin speech t=0258.600s>
+content: "is that I will reach the point of death and never and learn that I never lived"
+<end speech t=0263.840s>
+
+<begin speech t=0263.840s>
+content: "my life at all. That moved me so incredibly to go how can we we waste"
+<end speech t=0272.080s>
+
+<begin speech t=0272.080s>
+content: "this precious gift that we were given? Yes I believe in the halls of Mondo as"
+<end speech t=0277.880s>
+
+<begin speech t=0277.880s>
+content: "I believe in reincarnation. But if you're wrong what if you're wrong and this is"
+<end speech t=0283.760s>
+
+<begin speech t=0283.760s>
+content: "the only life you have. Are you going to blow it because you were too afraid to"
+<end speech t=0289.600s>
+
+<begin speech t=0289.600s>
+content: "be who you are supposed to be to who you are inside. I have learned throughout my"
+<end speech t=0295.360s>
+
+<begin speech t=0295.360s>
+content: "life that the world will eventually catch up if you are who you are. Well so this"
+<end speech t=0300.520s>
+
+<begin speech t=0300.520s>
+content: "video is about regrets and about how not to live a life with regret. It"
+<end speech t=0306.720s>
+
+<begin speech t=0306.720s>
+content: "went aspired me to do this this video besides all the events that I've"
+<end speech t=0313.060s>
+
+<begin speech t=0313.060s>
+content: "experienced in my life. It's a wonderful book out right now. It's by Bronnie"
+<end speech t=0317.480s>
+
+<begin speech t=0317.480s>
+content: "Aware. Bronnie Aware in his top five regrets of the dying. Bronnie Aware was a"
+<end speech t=0325.000s>
+
+<begin speech t=0325.000s>
+content: "palliative nurse. Palliative means to just give them comfort that they these"
+<end speech t=0329.840s>
+
+<begin speech t=0329.840s>
+content: "are people who are dying. Usually they elderly they're dying and palliative means"
+<end speech t=0334.840s>
+
+<begin speech t=0334.840s>
+content: "to just try to make them comfortable while you wait for them to pass. And so"
+<end speech t=0339.880s>
+
+<begin speech t=0339.880s>
+content: "that was her job. What a horribly difficult job that can be. What an amazing heart"
+<end speech t=0346.280s>
+
+<begin speech t=0346.560s>
+content: "and sense of unconditional love to be able to do something like that. Well she did."
+<end speech t=0350.560s>
+
+<begin speech t=0350.560s>
+content: "And these are basically the memoirs of what she experienced through those"
+<end speech t=0357.080s>
+
+<begin speech t=0357.080s>
+content: "years and she wrote down the top five regrets of the dying. And if you will"
+<end speech t=0365.720s>
+
+<begin speech t=0365.720s>
+content: "please listen to this video and do your best to not have these regrets in your"
+<end speech t=0372.800s>
+
+<begin speech t=0372.800s>
+content: "life. You can do that now. You can start now. It had a kind of life that you dreamed"
+<end speech t=0378.200s>
+
+<begin speech t=0378.200s>
+content: "you could have no matter what anybody else thinks. What was okay so we'll go"
+<end speech t=0383.240s>
+
+<begin speech t=0383.240s>
+content: "through here. Number one the individual said that they wished that I had the"
+<end speech t=0389.600s>
+
+<begin speech t=0389.600s>
+content: "courage to live a life true to myself. Not the life others expected of me. That"
+<end speech t=0395.520s>
+
+<begin speech t=0395.520s>
+content: "was number one. The number one was that they wished that they had the courage to"
+<end speech t=0400.880s>
+
+<begin speech t=0400.880s>
+content: "live the life that was for them. Not that was true to them. Not what others"
+<end speech t=0405.280s>
+
+<begin speech t=0405.280s>
+content: "expected. And she goes on and she writes this was the most common of her grave"
+<end speech t=0410.240s>
+
+<begin speech t=0410.240s>
+content: "all when people realize that their life is almost over and look back clearly on"
+<end speech t=0414.680s>
+
+<begin speech t=0414.680s>
+content: "it. It's easy to see how many dreams have gone on for help. Most people have not"
+<end speech t=0420.320s>
+
+<begin speech t=0420.320s>
+content: "honored even half of their dreams and had to die knowing that it was due to"
+<end speech t=0426.560s>
+
+<begin speech t=0426.560s>
+content: "choices they had made or not made. Health brings a freedom very few realize"
+<end speech t=0431.840s>
+
+<begin speech t=0431.840s>
+content: "until they no longer have it. Okay that's what Brony wrote for the number one reason."
+<end speech t=0437.080s>
+
+<begin speech t=0437.080s>
+content: "Just make that choice to be who you are. You're an elf. Be an elf. Be whatever"
+<end speech t=0446.240s>
+
+<begin speech t=0446.240s>
+content: "your heart tells you to be. It really doesn't matter what others think in the"
+<end speech t=0450.160s>
+
+<begin speech t=0450.880s>
+content: "next one that they had wished that they wished that the hadn't worked so hard."
+<end speech t=0458.120s>
+
+<begin speech t=0458.120s>
+content: "All right you know people think that people in the olden days worked a lot"
+<end speech t=0462.200s>
+
+<begin speech t=0462.200s>
+content: "harder than they do now and for certain times of the year they did. They worked"
+<end speech t=0466.480s>
+
+<begin speech t=0466.480s>
+content: "really really hard about six to nine months of the year and then they all"
+<end speech t=0470.240s>
+
+<begin speech t=0470.240s>
+content: "kind of holed up during the wintertime and didn't work. They told stories they"
+<end speech t=0475.000s>
+
+<begin speech t=0475.080s>
+content: "from the stores they played music. There was there was in some ways more time"
+<end speech t=0480.680s>
+
+<begin speech t=0480.680s>
+content: "off. They have found there were some studies done that found that people were"
+<end speech t=0484.200s>
+
+<begin speech t=0484.200s>
+content: "longer hours today and yet life is supposed to be easier. Suicide has"
+<end speech t=0491.440s>
+
+<begin speech t=0491.440s>
+content: "increased greatly in the United States. It's epidemic in Japan people work too"
+<end speech t=0496.720s>
+
+<begin speech t=0496.720s>
+content: "hard and don't appreciate this divine gift that we were given of life. So they"
+<end speech t=0502.920s>
+
+<begin speech t=0502.920s>
+content: "wish they had worked so hard. This came from every male patient that I nursed"
+<end speech t=0507.240s>
+
+<begin speech t=0507.240s>
+content: "she wrote. They miss their children's youth and their partners companionship."
+<end speech t=0511.680s>
+
+<begin speech t=0511.680s>
+content: "Women also spoke with this regret but as most were from an older generation many"
+<end speech t=0517.160s>
+
+<begin speech t=0517.160s>
+content: "of the female patients had not been breadwinners. All of the men I nursed"
+<end speech t=0521.680s>
+
+<begin speech t=0521.680s>
+content: "deeply regret it spending so much of their lives on the treadmill of a work"
+<end speech t=0527.760s>
+
+<begin speech t=0527.760s>
+content: "existence. And so what you went out of life. Do you went a lot of material things"
+<end speech t=0533.800s>
+
+<begin speech t=0533.800s>
+content: "or do you want a lot of memories? Do you want a lot of experiences? Life especially"
+<end speech t=0538.800s>
+
+<begin speech t=0538.800s>
+content: "from a Zen Buddhist point of view is simply the life of the greater and we"
+<end speech t=0543.960s>
+
+<begin speech t=0543.960s>
+content: "know that from Thor and Oakenshield telling Bilbo you know a simple life."
+<end speech t=0550.560s>
+
+<begin speech t=0550.560s>
+content: "We can all live that way we don't need a lot of stuff no matter what the neighbors"
+<end speech t=0555.440s>
+
+<begin speech t=0555.440s>
+content: "tell us. Alright number three was that they wish I had the courage to express"
+<end speech t=0561.360s>
+
+<begin speech t=0561.360s>
+content: "my feelings. What a big one. Had the courage to express my feelings. As she"
+<end speech t=0566.080s>
+
+<begin speech t=0566.080s>
+content: "wrote many people suppressed their feelings in order to keep peace with"
+<end speech t=0569.520s>
+
+<begin speech t=0569.520s>
+content: "others. As a result they settled for a medial coexistence and never became who"
+<end speech t=0574.520s>
+
+<begin speech t=0574.520s>
+content: "they were truly capable of becoming. Many developed illnesses related to the"
+<end speech t=0580.040s>
+
+<begin speech t=0580.040s>
+content: "bitterness and resentment they carried as a result. As a doctor I could"
+<end speech t=0583.720s>
+
+<begin speech t=0583.720s>
+content: "absolutely speak for that. I had never ever ever in over 20 years of medical"
+<end speech t=0590.240s>
+
+<begin speech t=0590.240s>
+content: "practice had an adult cancer patient not the children but an adult cancer"
+<end speech t=0595.240s>
+
+<begin speech t=0595.240s>
+content: "patient that didn't have serious resentment bitterness regret from their"
+<end speech t=0600.200s>
+
+<begin speech t=0600.200s>
+content: "past not a single case. It does cause disease it's not worth it. You know all"
+<end speech t=0608.600s>
+
+<begin speech t=0608.600s>
+content: "that matters you know in the end of expressing your feelings is to save your"
+<end speech t=0612.320s>
+
+<begin speech t=0612.320s>
+content: "feelings. You don't owe anyone to try to modify your feelings for them."
+<end speech t=0619.880s>
+
+<begin speech t=0619.880s>
+content: "Okay how we may truly love you if you're not being who you're supposed to be."
+<end speech t=0624.560s>
+
+<begin speech t=0624.560s>
+content: "Alright the fourth that they said they wished I had stayed in touch with my"
+<end speech t=0630.280s>
+
+<begin speech t=0630.280s>
+content: "friends. She wrote often they would not really realize the full benefits of"
+<end speech t=0634.960s>
+
+<begin speech t=0634.960s>
+content: "old friends until they're dying weeks and it was not always possible to track"
+<end speech t=0639.480s>
+
+<begin speech t=0639.560s>
+content: "them down. I've seen this personally with patients as they were dying and they"
+<end speech t=0643.520s>
+
+<begin speech t=0643.520s>
+content: "tried to find their old friends and couldn't find that they waited too late."
+<end speech t=0647.200s>
+
+<begin speech t=0647.200s>
+content: "Many had become so caught up in their own lives that they hadn't not that they"
+<end speech t=0652.480s>
+
+<begin speech t=0652.480s>
+content: "had led golden friendships slipped by over the years. There were many deep"
+<end speech t=0656.960s>
+
+<begin speech t=0656.960s>
+content: "regrets about not giving friendships the time and effort that they deserve."
+<end speech t=0660.360s>
+
+<begin speech t=0660.360s>
+content: "Everyone misses their friends when they're dying. No fortunately I have seen that."
+<end speech t=0666.440s>
+
+<begin speech t=0667.160s>
+content: "Okay no more I have. But they wish that I'd let myself be happier with a simple"
+<end speech t=0673.040s>
+
+<begin speech t=0673.040s>
+content: "statement. That they wished that they had let themselves be happier. She wrote"
+<end speech t=0677.600s>
+
+<begin speech t=0677.600s>
+content: "this is surprisingly a common one. Many did not realize until the end that"
+<end speech t=0682.720s>
+
+<begin speech t=0682.720s>
+content: "happiness is a choice. They had stayed stuck in old patterns and habits the so"
+<end speech t=0688.880s>
+
+<begin speech t=0688.880s>
+content: "called comfort of familiarity overflowed into their emotions as well as their"
+<end speech t=0693.760s>
+
+<begin speech t=0693.760s>
+content: "physical lives. Fear of change had been pertaining to others and to those"
+<end speech t=0700.000s>
+
+<begin speech t=0700.000s>
+content: "themselves that they were content when deep within they loaned the lap properly"
+<end speech t=0705.080s>
+
+<begin speech t=0705.080s>
+content: "and had silliness in their life again. All right so they had gotten stuck in old"
+<end speech t=0710.760s>
+
+<begin speech t=0710.760s>
+content: "patterns they got comfortable there not realizing that they weren't really"
+<end speech t=0714.320s>
+
+<begin speech t=0714.320s>
+content: "living at all. One of the most important comments that comes from that statement"
+<end speech t=0720.280s>
+
+<begin speech t=0720.280s>
+content: "is now is happiness is a choice and I have told probably thousands of patients"
+<end speech t=0731.200s>
+
+<begin speech t=0731.200s>
+content: "over the years. Sometimes happiness is just a choice you make that you go what"
+<end speech t=0737.240s>
+
+<begin speech t=0737.240s>
+content: "have I got to be happy about. We know see the cliche if you look for smoke"
+<end speech t=0740.840s>
+
+<begin speech t=0740.840s>
+content: "enough eventually you'll find fire waiting for sunlight and eventually"
+<end speech t=0745.360s>
+
+<begin speech t=0745.360s>
+content: "Sunday. All right so sometimes you just have to make a choice today I'm gonna"
+<end speech t=0752.240s>
+
+<begin speech t=0752.240s>
+content: "be happy. I don't think about it yesterday I'm not gonna think about tomorrow."
+<end speech t=0755.640s>
+
+<begin speech t=0755.640s>
+content: "Today I'm going to be happy. I'm gonna be happy no matter what anybody else says."
+<end speech t=0762.520s>
+
+<begin speech t=0762.520s>
+content: "I'll deal with tomorrow and tomorrow comes. You know what eventually it"
+<end speech t=0767.000s>
+
+<begin speech t=0767.000s>
+content: "becomes a habit. Eventually you do where and what I really am happy and I don't"
+<end speech t=0771.480s>
+
+<begin speech t=0771.480s>
+content: "have a whole life to be sad about and the things that are happening in my life"
+<end speech t=0775.160s>
+
+<begin speech t=0775.160s>
+content: "well there are lessons there are challenges there are things I need to"
+<end speech t=0778.920s>
+
+<begin speech t=0778.920s>
+content: "learn so I can then move on to do something else. So the big take I have on"
+<end speech t=0784.920s>
+
+<begin speech t=0784.920s>
+content: "this thing is to live your life without regret. I mean most of us have things in"
+<end speech t=0791.760s>
+
+<begin speech t=0791.760s>
+content: "our past that we've done or experienced and we could sit back and we could have"
+<end speech t=0796.240s>
+
+<begin speech t=0796.240s>
+content: "regret about it but there's a difference between becoming bitter and"
+<end speech t=0800.160s>
+
+<begin speech t=0800.240s>
+content: "becoming wise. Two people can experience the very same event and there'll be those"
+<end speech t=0806.560s>
+
+<begin speech t=0806.560s>
+content: "who will become bitter and cast blame and they will just attract darkness and"
+<end speech t=0813.280s>
+
+<begin speech t=0813.280s>
+content: "become dark where there's those could go okay that was a real challenge that"
+<end speech t=0817.320s>
+
+<begin speech t=0817.320s>
+content: "was something I needed to learn I need to learn the lesson from it and then move"
+<end speech t=0821.600s>
+
+<begin speech t=0821.600s>
+content: "on and that's where wisdom comes from wisdom comes from."
+<end speech t=0825.040s>
+
+<begin speech t=0825.120s>
+content: "Properly assimilating an experience in a positive way and moving on with it"
+<end speech t=0830.920s>
+
+<begin speech t=0830.920s>
+content: "learning from it and learning from the experience. So I know it's probably again"
+<end speech t=0836.480s>
+
+<begin speech t=0836.480s>
+content: "easy for me to say here on this video be yourself no matter what anybody else"
+<end speech t=0842.920s>
+
+<begin speech t=0842.920s>
+content: "does. I have had the challenges in my life I'm not somebody who's speaking from a"
+<end speech t=0846.880s>
+
+<begin speech t=0846.880s>
+content: "sanctuary is headed easy as a whole life I've traveled around the world I've been"
+<end speech t=0851.320s>
+
+<begin speech t=0851.320s>
+content: "in the war zone so I've been shot at I've been in so many I've been in storms to"
+<end speech t=0855.400s>
+
+<begin speech t=0855.400s>
+content: "see and then in avalanches. I've always worked out sometimes I made some pretty"
+<end speech t=0863.320s>
+
+<begin speech t=0863.320s>
+content: "iffy choices I learned from those choices and I was able to move on and I"
+<end speech t=0868.840s>
+
+<begin speech t=0868.840s>
+content: "know if you choose to you can be whatever you want to be. I love the story from"
+<end speech t=0876.400s>
+
+<begin speech t=0876.400s>
+content: "Graelle it's a true story I just mentioned it before. Graelle is a story"
+<end speech t=0881.560s>
+
+<begin speech t=0881.560s>
+content: "of back in the early 1900s of an Englishman who loved the American Indian so"
+<end speech t=0887.280s>
+
+<begin speech t=0887.280s>
+content: "much and he moved to Canada and took on a persona of American Indian in the"
+<end speech t=0893.440s>
+
+<begin speech t=0893.440s>
+content: "North American Indian. This was in Canada and he had everyone believing that he"
+<end speech t=0898.360s>
+
+<begin speech t=0898.360s>
+content: "was Native American and he was adopted by this tribe and they named it who it was"
+<end speech t=0903.600s>
+
+<begin speech t=0903.680s>
+content: "but they adopted him and he became a member of their tribe and he then went on"
+<end speech t=0909.640s>
+
+<begin speech t=0909.640s>
+content: "and started pushing for this is in the early 1900s in Canada where they were"
+<end speech t=0914.400s>
+
+<begin speech t=0914.400s>
+content: "starting to fight against the Beaver trade and things like that he became a"
+<end speech t=0918.120s>
+
+<begin speech t=0918.120s>
+content: "major conservationist and he started writing books and he became famous the"
+<end speech t=0924.600s>
+
+<begin speech t=0924.600s>
+content: "world round of this American Indian who was trying to save his fellow brothers"
+<end speech t=0931.040s>
+
+<begin speech t=0931.040s>
+content: "and sisters the beavers and trees and so forth and when he became so"
+<end speech t=0937.840s>
+
+<begin speech t=0937.840s>
+content: "famous that this one year and they had this huge powwow it was nations Native"
+<end speech t=0946.720s>
+
+<begin speech t=0946.720s>
+content: "American nations from all different nations all met in this one area and"
+<end speech t=0951.560s>
+
+<begin speech t=0951.560s>
+content: "they all came together to discuss you know how to maintain their heritage and"
+<end speech t=0957.280s>
+
+<begin speech t=0957.280s>
+content: "how to help the environment how to help the world and he was given a personal"
+<end speech t=0961.520s>
+
+<begin speech t=0961.520s>
+content: "invitation to come and speak and it was so wonderful as when he went in there"
+<end speech t=0966.640s>
+
+<begin speech t=0966.640s>
+content: "this is at the end of the movie it's a wonderful movie grey out and he went in"
+<end speech t=0970.840s>
+
+<begin speech t=0970.840s>
+content: "there and he was invited into the big TV world the Chiefs were and when he walked"
+<end speech t=0975.640s>
+
+<begin speech t=0975.640s>
+content: "in they all got quiet because I knew who he was all the other Native Americans"
+<end speech t=0979.440s>
+
+<begin speech t=0979.440s>
+content: "there and he walked out and one of the main she just came up to him and walked up to him"
+<end speech t=0984.280s>
+
+<begin speech t=0984.280s>
+content: "to greet him and then he stopped and the chief didn't look at him really closely"
+<end speech t=0990.000s>
+
+<begin speech t=0990.000s>
+content: "and after just a few seconds he had been small and started laughing and laughing"
+<end speech t=0996.000s>
+
+<begin speech t=0996.000s>
+content: "at all the others in that TV all started laughing because they could see"
+<end speech t=1001.600s>
+
+<begin speech t=1001.600s>
+content: "through and they could see that okay he may not have been born in America and"
+<end speech t=1005.600s>
+
+<begin speech t=1005.600s>
+content: "they could see that he was not and they laughed but in a joyful way in the"
+<end speech t=1011.040s>
+
+<begin speech t=1011.040s>
+content: "Native American chief looked at grey out and he said you become what you dream"
+<end speech t=1017.440s>
+
+<begin speech t=1017.440s>
+content: "you dreamed well"
+<end speech t=1021.040s>
+
+<begin speech t=1041.040s>
+content: "I wanted to be here"
+<end speech t=1046.840s>
+
+<begin speech t=1101.040s>
+content: "oh"
+<end speech t=1105.120s>
+
+<begin speech t=1111.280s>
+content: "and"
+<end speech t=1116.740s>
+
+<begin speech t=1120.220s>
+content: "At last, I want you to go."
+<end speech t=1123.260s>
+
+<begin speech t=1123.360s>
+content: "a hard shoot."
+<end speech t=1123.760s>
+
+<begin speech t=1124.760s>
+content: "For you have become welcome."
+<end speech t=1128.680s>
+
+<begin speech t=1128.680s>
+content: "And the Buddha says, men become what they dream."
+<end speech t=1137.760s>
+
+<begin speech t=1137.760s>
+content: "You have dreamed well."
+<end speech t=1138.760s>
+
+<begin speech t=1138.760s>
+content: "Very, very important."
+<end speech t=1139.760s>
+
+<begin speech t=1139.760s>
+content: "You want to be in health, dream in health, be in health."
+<end speech t=1145.240s>
+
+<begin speech t=1145.240s>
+content: "You know, live a life of regret, that you could have been something far greater than"
+<end speech t=1150.280s>
+
+<begin speech t=1150.280s>
+content: "what you allowed yourself to be, simply because of the mood and the more of those around"
+<end speech t=1155.920s>
+
+<begin speech t=1155.920s>
+content: "you."
+<end speech t=1156.920s>
+
+<begin speech t=1156.920s>
+content: "You are who you are, live a life of love and light, to live a life of regret."
+<end speech t=1162.120s>
+
+<begin speech t=1162.120s>
+content: "You are very special, be what you want to be when your true heart tells you."
+<end speech t=1168.040s>
+
+<begin speech t=1168.040s>
+content: "Bye."
+<end speech t=1168.560s>

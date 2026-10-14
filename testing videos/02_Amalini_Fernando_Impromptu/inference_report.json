@@ -1,0 +1,39 @@
+{
+  "id": "ZWOHsO2tEGA",
+  "slug": "02_Amalini_Fernando_Impromptu",
+  "display_name": "Amalini Fernando - Impromptu Speech (Best Speaker 2015)",
+  "duration_sec": 152.48,
+  "grades": {
+    "strict_leniency_0": 10.0,
+    "moderate_leniency_50": 10.0,
+    "lenient_leniency_100": 10.0
+  },
+  "performance_band_strict": "Masterclass Oratory (Tier 0)",
+  "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+  "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+  "pillar_breakdown_strict": {
+    "pitch_modulation_out_of_2_5": 2.5,
+    "cadence_and_tempo_out_of_2_5": 2.5,
+    "rhetorical_pausing_out_of_2_0": 2.0,
+    "dynamic_energy_out_of_1_5": 1.5,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "deductions_strict": [],
+  "disfluencies": {
+    "total_fillers": 0,
+    "fillers_per_min": 0.0,
+    "word_repetitions": 0
+  },
+  "metrics": {
+    "f0_mean_hz": 271.48,
+    "f0_semitones": 26.63,
+    "f0_velocity_hz_per_sec": 948.2,
+    "articulation_rate_sps": 5.81,
+    "pause_ratio": 0.2,
+    "hesitation_pause_count": 0,
+    "energy_dynamic_range_db": 59.74,
+    "papr_crest_factor": 54.05,
+    "spectral_flux": 4.1907
+  },
+  "transcript_preview": "Aumalani Fernando, Knowledge is Power or Is it? Knowledge is Power or Is it Aumalani Fernando? If I tell you that I know how to make a bomb and detonate it right here, what would you do? Would you run away? Call 119 or would you call me a liar? Secon..."
+}

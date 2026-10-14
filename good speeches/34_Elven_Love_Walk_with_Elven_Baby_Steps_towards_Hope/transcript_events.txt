@@ -1,0 +1,1999 @@
+<begin speech t=0000.000s>
+content: "Teeeeeeeeeeeeeeee"
+<end speech t=0002.000s>
+
+<begin speech t=0002.000s>
+content: "Ooooooooh"
+<end speech t=0006.000s>
+
+<begin speech t=0006.000s>
+content: "Ooooooooh"
+<end speech t=0010.000s>
+
+<begin speech t=0010.000s>
+content: "Ooooooooh"
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "Ooooooooh"
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "Ooooooh"
+<end speech t=0020.000s>
+
+<begin speech t=0020.000s>
+content: "Ooooooh"
+<end speech t=0022.000s>
+
+<begin speech t=0026.000s>
+content: "You're an interesting species"
+<end speech t=0028.000s>
+
+<begin speech t=0028.000s>
+content: "An interesting mix"
+<end speech t=0030.000s>
+
+<begin speech t=0030.000s>
+content: "You're capable of such beautiful dreams"
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "And such horrible nightmares"
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "You feel so lost"
+<end speech t=0040.000s>
+
+<begin speech t=0040.000s>
+content: "So cut off"
+<end speech t=0042.000s>
+
+<begin speech t=0042.000s>
+content: "So alone"
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "All you know"
+<end speech t=0048.000s>
+
+<begin speech t=0048.000s>
+content: "See"
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "In all our searching"
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "The only thing we found in mixing empty and spareable"
+<end speech t=0056.000s>
+
+<begin speech t=0057.000s>
+content: "Is each other"
+<end speech t=0059.000s>
+
+<begin speech t=0062.000s>
+content: "What happens now?"
+<end speech t=0064.000s>
+
+<begin speech t=0065.000s>
+content: "Now"
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "You go home"
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "Home"
+<end speech t=0071.000s>
+
+<begin speech t=0071.000s>
+content: "But"
+<end speech t=0073.000s>
+
+<begin speech t=0073.000s>
+content: "I have so many questions"
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "Do we get to come back?"
+<end speech t=0077.000s>
+
+<begin speech t=0077.000s>
+content: "This was just the first time"
+<end speech t=0079.000s>
+
+<begin speech t=0079.000s>
+content: "In time you'll take another"
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "Little people didn't just see what I've seen"
+<end speech t=0085.000s>
+
+<begin speech t=0085.000s>
+content: "They need to see"
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "This is the way it's been done for millions of years"
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "Small and long time"
+<end speech t=0091.000s>
+
+<begin speech t=0091.000s>
+content: "Small and long time"
+<end speech t=0093.000s>
+
+<begin speech t=0093.000s>
+content: "Small and long"
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "Small and long"
+<end speech t=0097.000s>
+
+<begin speech t=0097.000s>
+content: "Small and long"
+<end speech t=0099.000s>
+
+<begin speech t=0099.000s>
+content: "May go on in my oven brothers and sisters"
+<end speech t=0102.000s>
+
+<begin speech t=0102.000s>
+content: "Today with a gentle musings of an oven scholar"
+<end speech t=0105.000s>
+
+<begin speech t=0105.000s>
+content: "I wanted to cover a topic I've been thinking about"
+<end speech t=0108.000s>
+
+<begin speech t=0108.000s>
+content: "For about a month now"
+<end speech t=0110.000s>
+
+<begin speech t=0110.000s>
+content: "Due to all the fears and concerns"
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "That are going on with the coronavirus"
+<end speech t=0114.000s>
+
+<begin speech t=0114.000s>
+content: "I had a video about this"
+<end speech t=0116.000s>
+
+<begin speech t=0116.000s>
+content: "I guess what?"
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "Several weeks ago"
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "But I wanted to cover something"
+<end speech t=0120.000s>
+
+<begin speech t=0120.000s>
+content: "Else that I've been seeing a lot of on Facebook and social media"
+<end speech t=0124.000s>
+
+<begin speech t=0124.000s>
+content: "About how people are thinking that this is going to change the world"
+<end speech t=0128.000s>
+
+<begin speech t=0128.000s>
+content: "Alright, in some ways for the better and some ways for the worse"
+<end speech t=0131.000s>
+
+<begin speech t=0131.000s>
+content: "As you just saw the little video clip"
+<end speech t=0133.000s>
+
+<begin speech t=0133.000s>
+content: "That was from Contact"
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "And that's really what this video is all about"
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "Is about baby steps"
+<end speech t=0140.000s>
+
+<begin speech t=0140.000s>
+content: "And where the world might really be going"
+<end speech t=0142.000s>
+
+<begin speech t=0142.000s>
+content: "And what we can really expect from it without"
+<end speech t=0145.000s>
+
+<begin speech t=0145.000s>
+content: "Too big, full-blown ideals and things of that nature"
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "So let's talk about that for a little bit"
+<end speech t=0150.000s>
+
+<begin speech t=0150.000s>
+content: "Alright"
+<end speech t=0152.000s>
+
+<begin speech t=0152.000s>
+content: "It's kind of sad for me to say this because a lot of people do see"
+<end speech t=0156.000s>
+
+<begin speech t=0156.000s>
+content: "A lot of uniting on a local level"
+<end speech t=0159.000s>
+
+<begin speech t=0159.000s>
+content: "And maybe even on a state level"
+<end speech t=0161.000s>
+
+<begin speech t=0161.000s>
+content: "And maybe a little country on a country wide level"
+<end speech t=0165.000s>
+
+<begin speech t=0165.000s>
+content: "But a lot of people are looking at the world as being united now in love"
+<end speech t=0170.000s>
+
+<begin speech t=0170.000s>
+content: "And I'm sad to say because I have seen this for myself"
+<end speech t=0174.000s>
+
+<begin speech t=0174.000s>
+content: "Over and over for a very long time"
+<end speech t=0176.000s>
+
+<begin speech t=0176.000s>
+content: "That the world is united"
+<end speech t=0178.000s>
+
+<begin speech t=0178.000s>
+content: "Absolutely is"
+<end speech t=0180.000s>
+
+<begin speech t=0180.000s>
+content: "But it's united in fear"
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "And people are making judgments based on fear"
+<end speech t=0185.000s>
+
+<begin speech t=0185.000s>
+content: "I remember how I've mentioned before in my past videos"
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "That life, if you want to compare it to a coin"
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "That it has two sides"
+<end speech t=0192.000s>
+
+<begin speech t=0192.000s>
+content: "And one side is fear and on the other side is love"
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "And every day that we wake up"
+<end speech t=0197.000s>
+
+<begin speech t=0197.000s>
+content: "Every action that we take"
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "We get a choice"
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "Do we choose out of fear or we choose out of love?"
+<end speech t=0204.000s>
+
+<begin speech t=0204.000s>
+content: "And unfortunately there has been"
+<end speech t=0206.000s>
+
+<begin speech t=0206.000s>
+content: "Mass hysteria over this"
+<end speech t=0208.000s>
+
+<begin speech t=0208.000s>
+content: "I am a doctor, my wife and I have a medical clinic"
+<end speech t=0211.000s>
+
+<begin speech t=0211.000s>
+content: "We treat these types of issues"
+<end speech t=0213.000s>
+
+<begin speech t=0213.000s>
+content: "We treat viruses"
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "Just about every day in the clinic"
+<end speech t=0217.000s>
+
+<begin speech t=0217.000s>
+content: "We know what's going on with this virus"
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "And we know that while there are some serious issues with this"
+<end speech t=0223.000s>
+
+<begin speech t=0223.000s>
+content: "Like any virus like the flu"
+<end speech t=0225.000s>
+
+<begin speech t=0225.000s>
+content: "There have also been exaggerations"
+<end speech t=0229.000s>
+
+<begin speech t=0229.000s>
+content: "But that's not what this video is about"
+<end speech t=0231.000s>
+
+<begin speech t=0231.000s>
+content: "I'm not going to get into all that"
+<end speech t=0233.000s>
+
+<begin speech t=0233.000s>
+content: "What I'm getting to is"
+<end speech t=0234.000s>
+
+<begin speech t=0234.000s>
+content: "Whether this is a great virus or a mild virus"
+<end speech t=0236.000s>
+
+<begin speech t=0236.000s>
+content: "We still have the choice"
+<end speech t=0238.000s>
+
+<begin speech t=0238.000s>
+content: "To choose out of fear and out of love"
+<end speech t=0240.000s>
+
+<begin speech t=0240.000s>
+content: "And so the world is united in fear"
+<end speech t=0242.000s>
+
+<begin speech t=0242.000s>
+content: "And making some very very bad choices"
+<end speech t=0245.000s>
+
+<begin speech t=0245.000s>
+content: "People are giving up their freedom for a false sense of security"
+<end speech t=0250.000s>
+
+<begin speech t=0250.000s>
+content: "I love what I saw"
+<end speech t=0253.000s>
+
+<begin speech t=0253.000s>
+content: "A old phrase from Henry Ford a long time ago"
+<end speech t=0256.000s>
+
+<begin speech t=0256.000s>
+content: "Any man who thinks he can be happy and prosperous"
+<end speech t=0259.000s>
+
+<begin speech t=0259.000s>
+content: "By letting the government take care of him"
+<end speech t=0261.000s>
+
+<begin speech t=0261.000s>
+content: "Better take a closer look at the American Indian"
+<end speech t=0263.000s>
+
+<begin speech t=0263.000s>
+content: "You think that you're being better taken care of"
+<end speech t=0265.000s>
+
+<begin speech t=0265.000s>
+content: "But you're not"
+<end speech t=0267.000s>
+
+<begin speech t=0267.000s>
+content: "We all have the capacity to make well informed decisions"
+<end speech t=0270.000s>
+
+<begin speech t=0270.000s>
+content: "And that's what is most lacking in this world today"
+<end speech t=0273.000s>
+
+<begin speech t=0273.000s>
+content: "And we'll talk about that in a few minutes"
+<end speech t=0275.000s>
+
+<begin speech t=0275.000s>
+content: "And that is education"
+<end speech t=0277.000s>
+
+<begin speech t=0277.000s>
+content: "Teach people, teach people to take care of themselves"
+<end speech t=0280.000s>
+
+<begin speech t=0280.000s>
+content: "You don't need to remove the civil liberties"
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "In order to be able to do that"
+<end speech t=0284.000s>
+
+<begin speech t=0284.000s>
+content: "Because what is happening now"
+<end speech t=0286.000s>
+
+<begin speech t=0286.000s>
+content: "Alright, and I have seen it"
+<end speech t=0288.000s>
+
+<begin speech t=0288.000s>
+content: "What is happening now has happened before"
+<end speech t=0291.000s>
+
+<begin speech t=0291.000s>
+content: "And it will happen again"
+<end speech t=0293.000s>
+
+<begin speech t=0293.000s>
+content: "Over and over again"
+<end speech t=0294.000s>
+
+<begin speech t=0294.000s>
+content: "Until people eventually learn"
+<end speech t=0296.000s>
+
+<begin speech t=0296.000s>
+content: "Alright, so"
+<end speech t=0297.000s>
+
+<begin speech t=0297.000s>
+content: "But one of the things that's come out of this"
+<end speech t=0299.000s>
+
+<begin speech t=0299.000s>
+content: "I've seen on social media"
+<end speech t=0300.000s>
+
+<begin speech t=0300.000s>
+content: "Is that we're heading for a new world"
+<end speech t=0303.000s>
+
+<begin speech t=0303.000s>
+content: "That people are going to get night"
+<end speech t=0305.000s>
+
+<begin speech t=0305.000s>
+content: "And are going to realize what's going on"
+<end speech t=0307.000s>
+
+<begin speech t=0307.000s>
+content: "And the world will change"
+<end speech t=0309.000s>
+
+<begin speech t=0310.000s>
+content: "And while I have a point of positivity to mention here in a minute"
+<end speech t=0314.000s>
+
+<begin speech t=0314.000s>
+content: "I will say something on a more pragmatic level"
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "The world is changing"
+<end speech t=0319.000s>
+
+<begin speech t=0319.000s>
+content: "But it's not going to be for the better"
+<end speech t=0321.000s>
+
+<begin speech t=0321.000s>
+content: "It is never happening in human history"
+<end speech t=0323.000s>
+
+<begin speech t=0323.000s>
+content: "It will not happen now"
+<end speech t=0324.000s>
+
+<begin speech t=0324.000s>
+content: "But what is changing"
+<end speech t=0326.000s>
+
+<begin speech t=0326.000s>
+content: "Is the individual"
+<end speech t=0328.000s>
+
+<begin speech t=0328.000s>
+content: "Okay, all the predictions of a new world"
+<end speech t=0331.000s>
+
+<begin speech t=0331.000s>
+content: "Whether you look at a Native American"
+<end speech t=0334.000s>
+
+<begin speech t=0334.000s>
+content: "Whether you look at Christian with revelations"
+<end speech t=0337.000s>
+
+<begin speech t=0337.000s>
+content: "Whether you look at the Muslim"
+<end speech t=0339.000s>
+
+<begin speech t=0339.000s>
+content: "All religions have some form of prophecy"
+<end speech t=0343.000s>
+
+<begin speech t=0343.000s>
+content: "Of a world that will eventually be"
+<end speech t=0346.000s>
+
+<begin speech t=0346.000s>
+content: "United and in tune with itself"
+<end speech t=0349.000s>
+
+<begin speech t=0349.000s>
+content: "The people living in tune with the world"
+<end speech t=0352.000s>
+
+<begin speech t=0352.000s>
+content: "And I do believe that will happen"
+<end speech t=0354.000s>
+
+<begin speech t=0354.000s>
+content: "Someday it will happen"
+<end speech t=0356.000s>
+
+<begin speech t=0356.000s>
+content: "But I think it is a long way from now"
+<end speech t=0358.000s>
+
+<begin speech t=0358.000s>
+content: "Because as you saw in the video with contact"
+<end speech t=0360.000s>
+
+<begin speech t=0360.000s>
+content: "A little video clip"
+<end speech t=0362.000s>
+
+<begin speech t=0362.000s>
+content: "This is a natural course of events"
+<end speech t=0365.000s>
+
+<begin speech t=0365.000s>
+content: "With a civilization on a civilization level"
+<end speech t=0368.000s>
+
+<begin speech t=0368.000s>
+content: "It will be a long time coming"
+<end speech t=0370.000s>
+
+<begin speech t=0370.000s>
+content: "But what can happen is you"
+<end speech t=0373.000s>
+
+<begin speech t=0373.000s>
+content: "Right now, you can change"
+<end speech t=0375.000s>
+
+<begin speech t=0375.000s>
+content: "You can create that new world for yourself"
+<end speech t=0378.000s>
+
+<begin speech t=0378.000s>
+content: "So all the predictions of a new world"
+<end speech t=0380.000s>
+
+<begin speech t=0380.000s>
+content: "May simply mean that not the world at large"
+<end speech t=0383.000s>
+
+<begin speech t=0383.000s>
+content: "But the one that lives within each of us individually"
+<end speech t=0386.000s>
+
+<begin speech t=0386.000s>
+content: "That your world can become a new world"
+<end speech t=0388.000s>
+
+<begin speech t=0388.000s>
+content: "That you can come out of this crisis"
+<end speech t=0391.000s>
+
+<begin speech t=0391.000s>
+content: "Whether we call it a viral crisis"
+<end speech t=0394.000s>
+
+<begin speech t=0394.000s>
+content: "Or a economic crisis or a crisis of freedom"
+<end speech t=0397.000s>
+
+<begin speech t=0397.000s>
+content: "You can create a new world for yourself"
+<end speech t=0400.000s>
+
+<begin speech t=0400.000s>
+content: "And from that, we can produce something even more beautiful"
+<end speech t=0405.000s>
+
+<begin speech t=0405.000s>
+content: "Because we then go out and we help others"
+<end speech t=0407.000s>
+
+<begin speech t=0407.000s>
+content: "And I imagine both of you have heard the little story of"
+<end speech t=0410.000s>
+
+<begin speech t=0410.000s>
+content: "Joni Applesea and how Joni went"
+<end speech t=0412.000s>
+
+<begin speech t=0412.000s>
+content: "And this is he was an actual person"
+<end speech t=0414.000s>
+
+<begin speech t=0414.000s>
+content: "Who went throughout the rural United States"
+<end speech t=0417.000s>
+
+<begin speech t=0417.000s>
+content: "Planting apple trees, planting seeds"
+<end speech t=0420.000s>
+
+<begin speech t=0420.000s>
+content: "And he is partly responsible for"
+<end speech t=0422.000s>
+
+<begin speech t=0422.000s>
+content: "So many of the apple trees that exist within the United States today"
+<end speech t=0426.000s>
+
+<begin speech t=0426.000s>
+content: "Well, what I'd like to believe is what can come out of this"
+<end speech t=0429.000s>
+
+<begin speech t=0429.000s>
+content: "That as each person creates their own new world"
+<end speech t=0431.000s>
+
+<begin speech t=0431.000s>
+content: "You each can become a Joni or Jane apple seed"
+<end speech t=0435.000s>
+
+<begin speech t=0435.000s>
+content: "But on a more cosmic level"
+<end speech t=0437.000s>
+
+<begin speech t=0437.000s>
+content: "That you can go plant seeds of growth"
+<end speech t=0439.000s>
+
+<begin speech t=0439.000s>
+content: "And you can help others learn from this"
+<end speech t=0442.000s>
+
+<begin speech t=0442.000s>
+content: "And remember"
+<end speech t=0443.000s>
+
+<begin speech t=0443.000s>
+content: "Let me show you a little video clip"
+<end speech t=0446.000s>
+
+<begin speech t=0446.000s>
+content: "Of what I think is going on with a lot of people here today"
+<end speech t=0449.000s>
+
+<begin speech t=0449.000s>
+content: "A lot of you are going to recognize that he is one of my absolute favorites"
+<end speech t=0453.000s>
+
+<begin speech t=0453.000s>
+content: "Simply from a philosophical point of view in Eschioda"
+<end speech t=0458.000s>
+
+<begin speech t=0458.000s>
+content: "So go ahead and take a look at this real quick"
+<end speech t=0461.000s>
+
+<begin speech t=0461.000s>
+content: "And then we'll be right back"
+<end speech t=0463.000s>
+
+<begin speech t=0466.000s>
+content: "How feel you?"
+<end speech t=0467.000s>
+
+<begin speech t=0468.000s>
+content: "Hold sir"
+<end speech t=0469.000s>
+
+<begin speech t=0471.000s>
+content: "Afraid are you?"
+<end speech t=0472.000s>
+
+<begin speech t=0472.000s>
+content: "No sir"
+<end speech t=0473.000s>
+
+<begin speech t=0474.000s>
+content: "Say through you, we can"
+<end speech t=0476.000s>
+
+<begin speech t=0477.000s>
+content: "Be mindful of your feelings"
+<end speech t=0478.000s>
+
+<begin speech t=0478.000s>
+content: "Your thoughts dwell on your mother"
+<end speech t=0481.000s>
+
+<begin speech t=0483.000s>
+content: "I miss her"
+<end speech t=0484.000s>
+
+<begin speech t=0485.000s>
+content: "Afraid to lose her I think"
+<end speech t=0487.000s>
+
+<begin speech t=0488.000s>
+content: "What does that got to do with anything?"
+<end speech t=0490.000s>
+
+<begin speech t=0490.000s>
+content: "Everything"
+<end speech t=0491.000s>
+
+<begin speech t=0492.000s>
+content: "Fear is the path to the dark side"
+<end speech t=0495.000s>
+
+<begin speech t=0495.000s>
+content: "Fear leads to anger"
+<end speech t=0497.000s>
+
+<begin speech t=0497.000s>
+content: "Anger leads to hate"
+<end speech t=0498.000s>
+
+<begin speech t=0498.000s>
+content: "Hate"
+<end speech t=0499.000s>
+
+<begin speech t=0499.000s>
+content: "leads to suffering"
+<end speech t=0501.000s>
+
+<begin speech t=0508.000s>
+content: "I sense much fear in you"
+<end speech t=0510.000s>
+
+<begin speech t=0513.000s>
+content: "So straight"
+<end speech t=0514.000s>
+
+<begin speech t=0515.000s>
+content: "Fear leads to anger"
+<end speech t=0517.000s>
+
+<begin speech t=0517.000s>
+content: "Anger leads to hate"
+<end speech t=0519.000s>
+
+<begin speech t=0519.000s>
+content: "And hate leads to suffering"
+<end speech t=0521.000s>
+
+<begin speech t=0521.000s>
+content: "When you make a decision out of fear"
+<end speech t=0523.000s>
+
+<begin speech t=0523.000s>
+content: "It will lead to anger"
+<end speech t=0525.000s>
+
+<begin speech t=0525.000s>
+content: "Then to hate"
+<end speech t=0526.000s>
+
+<begin speech t=0526.000s>
+content: "And then finally to suffer"
+<end speech t=0527.000s>
+
+<begin speech t=0527.000s>
+content: "Which is what we're seeing on a worldwide level"
+<end speech t=0529.000s>
+
+<begin speech t=0530.000s>
+content: "What about the reverse of that?"
+<end speech t=0531.000s>
+
+<begin speech t=0531.000s>
+content: "Alright, how about"
+<end speech t=0533.000s>
+
+<begin speech t=0533.000s>
+content: "Let's take the other side of the coin"
+<end speech t=0535.000s>
+
+<begin speech t=0535.000s>
+content: "That love leads to hope"
+<end speech t=0538.000s>
+
+<begin speech t=0538.000s>
+content: "Hope leads to action"
+<end speech t=0540.000s>
+
+<begin speech t=0540.000s>
+content: "And action leads to healing"
+<end speech t=0543.000s>
+
+<begin speech t=0543.000s>
+content: "Of both yourself and of the world"
+<end speech t=0545.000s>
+
+<begin speech t=0545.000s>
+content: "You can make that choice out of fear"
+<end speech t=0547.000s>
+
+<begin speech t=0547.000s>
+content: "Or you can make that choice out of love"
+<end speech t=0549.000s>
+
+<begin speech t=0549.000s>
+content: "It's up to you"
+<end speech t=0550.000s>
+
+<begin speech t=0550.000s>
+content: "But remember"
+<end speech t=0551.000s>
+
+<begin speech t=0551.000s>
+content: "Love leads to hope"
+<end speech t=0553.000s>
+
+<begin speech t=0553.000s>
+content: "Hope leads to action"
+<end speech t=0555.000s>
+
+<begin speech t=0555.000s>
+content: "And action leads to healing"
+<end speech t=0557.000s>
+
+<begin speech t=0557.000s>
+content: "Alright, so we have that option"
+<end speech t=0559.000s>
+
+<begin speech t=0559.000s>
+content: "Every day to make that kind of choice"
+<end speech t=0561.000s>
+
+<begin speech t=0562.000s>
+content: "Alright, so in some ways"
+<end speech t=0563.000s>
+
+<begin speech t=0563.000s>
+content: "This video is a little bit negative"
+<end speech t=0565.000s>
+
+<begin speech t=0565.000s>
+content: "Sounding like, okay"
+<end speech t=0566.000s>
+
+<begin speech t=0566.000s>
+content: "They're all doomed"
+<end speech t=0568.000s>
+
+<begin speech t=0568.000s>
+content: "The world's not going to come out of this"
+<end speech t=0570.000s>
+
+<begin speech t=0570.000s>
+content: "Any better than it was before"
+<end speech t=0572.000s>
+
+<begin speech t=0572.000s>
+content: "I recently saw"
+<end speech t=0573.000s>
+
+<begin speech t=0573.000s>
+content: "And that's not actually the case"
+<end speech t=0575.000s>
+
+<begin speech t=0575.000s>
+content: "I saw a very well written"
+<end speech t=0577.000s>
+
+<begin speech t=0577.000s>
+content: "dissertation on the web"
+<end speech t=0579.000s>
+
+<begin speech t=0579.000s>
+content: "Two weeks ago from this one lady"
+<end speech t=0582.000s>
+
+<begin speech t=0582.000s>
+content: "Who basically came out and said"
+<end speech t=0584.000s>
+
+<begin speech t=0584.000s>
+content: "Very similar to what I'm saying now"
+<end speech t=0586.000s>
+
+<begin speech t=0586.000s>
+content: "But it sounded more doomsday"
+<end speech t=0588.000s>
+
+<begin speech t=0588.000s>
+content: "You think the world's going to get better"
+<end speech t=0589.000s>
+
+<begin speech t=0589.000s>
+content: "It's not going to get better"
+<end speech t=0590.000s>
+
+<begin speech t=0590.000s>
+content: "In fact it's going to get worse"
+<end speech t=0591.000s>
+
+<begin speech t=0591.000s>
+content: "And things are going to get worse"
+<end speech t=0592.000s>
+
+<begin speech t=0592.000s>
+content: "Because you've lost your freedoms"
+<end speech t=0593.000s>
+
+<begin speech t=0593.000s>
+content: "And more freedoms are going to be taken"
+<end speech t=0595.000s>
+
+<begin speech t=0595.000s>
+content: "On and on and on"
+<end speech t=0596.000s>
+
+<begin speech t=0596.000s>
+content: "And the posts, the thread where people were commenting"
+<end speech t=0599.000s>
+
+<begin speech t=0599.000s>
+content: "Said, okay, now I want to kill myself"
+<end speech t=0601.000s>
+
+<begin speech t=0601.000s>
+content: "Now I'm really depressed"
+<end speech t=0602.000s>
+
+<begin speech t=0602.000s>
+content: "Okay"
+<end speech t=0603.000s>
+
+<begin speech t=0603.000s>
+content: "There's some truth to what she said"
+<end speech t=0606.000s>
+
+<begin speech t=0606.000s>
+content: "Okay, because this is human nature"
+<end speech t=0609.000s>
+
+<begin speech t=0609.000s>
+content: "Within a civilization that the civilizations"
+<end speech t=0612.000s>
+
+<begin speech t=0612.000s>
+content: "Don't really progress"
+<end speech t=0614.000s>
+
+<begin speech t=0614.000s>
+content: "On a spiritual level that people do"
+<end speech t=0616.000s>
+
+<begin speech t=0616.000s>
+content: "The civilization doesn't"
+<end speech t=0618.000s>
+
+<begin speech t=0618.000s>
+content: "There is never an any time"
+<end speech t=0620.000s>
+
+<begin speech t=0620.000s>
+content: "In any time in human history"
+<end speech t=0622.000s>
+
+<begin speech t=0622.000s>
+content: "That a civilization has ever lasted"
+<end speech t=0624.000s>
+
+<begin speech t=0624.000s>
+content: "Civilizations rise and fall"
+<end speech t=0626.000s>
+
+<begin speech t=0626.000s>
+content: "But the people themselves"
+<end speech t=0628.000s>
+
+<begin speech t=0628.000s>
+content: "Can grow"
+<end speech t=0630.000s>
+
+<begin speech t=0630.000s>
+content: "And maybe get a little bit better each time"
+<end speech t=0632.000s>
+
+<begin speech t=0632.000s>
+content: "And that's what I'm hoping for here"
+<end speech t=0634.000s>
+
+<begin speech t=0634.000s>
+content: "Is that you will come out of this"
+<end speech t=0636.000s>
+
+<begin speech t=0636.000s>
+content: "And you will have learned more about yourself"
+<end speech t=0639.000s>
+
+<begin speech t=0639.000s>
+content: "And then you will go forth"
+<end speech t=0641.000s>
+
+<begin speech t=0641.000s>
+content: "And be a Johnny or Jane Appleseed"
+<end speech t=0643.000s>
+
+<begin speech t=0643.000s>
+content: "And plant the next seed"
+<end speech t=0644.000s>
+
+<begin speech t=0644.000s>
+content: "And plant the next seed"
+<end speech t=0646.000s>
+
+<begin speech t=0646.000s>
+content: "I am hoping that there will one day be"
+<end speech t=0648.000s>
+
+<begin speech t=0648.000s>
+content: "It's been a long time coming and I haven't seen it yet"
+<end speech t=0651.000s>
+
+<begin speech t=0651.000s>
+content: "But I still believe in the elven concept of hope"
+<end speech t=0654.000s>
+
+<begin speech t=0654.000s>
+content: "Estelle that it will happen one day"
+<end speech t=0656.000s>
+
+<begin speech t=0656.000s>
+content: "And that is the hundredth monkey"
+<end speech t=0658.000s>
+
+<begin speech t=0658.000s>
+content: "I think I've talked about this once before"
+<end speech t=0660.000s>
+
+<begin speech t=0660.000s>
+content: "For those that don't know about it"
+<end speech t=0662.000s>
+
+<begin speech t=0662.000s>
+content: "It was an actual study"
+<end speech t=0665.000s>
+
+<begin speech t=0665.000s>
+content: "Animal behavioral study in Japan"
+<end speech t=0668.000s>
+
+<begin speech t=0668.000s>
+content: "Where they were looking at these monkeys"
+<end speech t=0670.000s>
+
+<begin speech t=0670.000s>
+content: "And they taught or they noticed"
+<end speech t=0672.000s>
+
+<begin speech t=0672.000s>
+content: "That this one monkey learned how to do something"
+<end speech t=0675.000s>
+
+<begin speech t=0676.000s>
+content: "And then the next monkey came along and watched that monkey"
+<end speech t=0678.000s>
+
+<begin speech t=0678.000s>
+content: "And that monkey eventually learned how to do it"
+<end speech t=0680.000s>
+
+<begin speech t=0680.000s>
+content: "And this kind of group and that group"
+<end speech t=0682.000s>
+
+<begin speech t=0682.000s>
+content: "And that group eventually taught another group"
+<end speech t=0684.000s>
+
+<begin speech t=0684.000s>
+content: "And they noticed something that sounds very metaphysical"
+<end speech t=0687.000s>
+
+<begin speech t=0687.000s>
+content: "But it was true it was an actual case study done"
+<end speech t=0691.000s>
+
+<begin speech t=0691.000s>
+content: "So here's this group, large group of monkeys"
+<end speech t=0694.000s>
+
+<begin speech t=0694.000s>
+content: "In this one area"
+<end speech t=0695.000s>
+
+<begin speech t=0695.000s>
+content: "Now there are other groups of monkeys in other places in Japan"
+<end speech t=0698.000s>
+
+<begin speech t=0698.000s>
+content: "Something magical happened"
+<end speech t=0701.000s>
+
+<begin speech t=0701.000s>
+content: "When they got to the hundredth monkey"
+<end speech t=0704.000s>
+
+<begin speech t=0705.000s>
+content: "All of a sudden all monkeys knew how to do this one trick"
+<end speech t=0708.000s>
+
+<begin speech t=0708.000s>
+content: "How to do this and they knew this lesson"
+<end speech t=0710.000s>
+
+<begin speech t=0710.000s>
+content: "And I'm hoping that with each lesson"
+<end speech t=0714.000s>
+
+<begin speech t=0714.000s>
+content: "That civilization goes through a few more people learn"
+<end speech t=0717.000s>
+
+<begin speech t=0717.000s>
+content: "A few more until we hit that"
+<end speech t=0720.000s>
+
+<begin speech t=0720.000s>
+content: "In our case, the hundredth elf"
+<end speech t=0723.000s>
+
+<begin speech t=0723.000s>
+content: "Eventually there will be the hundredth elf"
+<end speech t=0726.000s>
+
+<begin speech t=0726.000s>
+content: "And everybody will know and I hope for that one day"
+<end speech t=0729.000s>
+
+<begin speech t=0729.000s>
+content: "But for now it's okay"
+<end speech t=0731.000s>
+
+<begin speech t=0731.000s>
+content: "If the world doesn't become a better place"
+<end speech t=0733.000s>
+
+<begin speech t=0733.000s>
+content: "What happens is"
+<end speech t=0735.000s>
+
+<begin speech t=0735.000s>
+content: "Do you become a better person?"
+<end speech t=0737.000s>
+
+<begin speech t=0737.000s>
+content: "Do you and that you go forward and do your part"
+<end speech t=0740.000s>
+
+<begin speech t=0740.000s>
+content: "And plant those little cosmic seeds"
+<end speech t=0743.000s>
+
+<begin speech t=0743.000s>
+content: "And help the world eventually grow to that place"
+<end speech t=0745.000s>
+
+<begin speech t=0745.000s>
+content: "It's okay"
+<end speech t=0746.000s>
+
+<begin speech t=0746.000s>
+content: "Alright, so let's get to the positive part of this video"
+<end speech t=0750.000s>
+
+<begin speech t=0750.000s>
+content: "What can we each do?"
+<end speech t=0752.000s>
+
+<begin speech t=0752.000s>
+content: "Alright, and this is an elven video"
+<end speech t=0754.000s>
+
+<begin speech t=0754.000s>
+content: "So obviously I'm going to be speaking from an elven perspective"
+<end speech t=0757.000s>
+
+<begin speech t=0757.000s>
+content: "So where do we start?"
+<end speech t=0759.000s>
+
+<begin speech t=0759.000s>
+content: "Okay, we start with ourselves"
+<end speech t=0761.000s>
+
+<begin speech t=0761.000s>
+content: "We start with big steps"
+<end speech t=0763.000s>
+
+<begin speech t=0763.000s>
+content: "One person at a time"
+<end speech t=0765.000s>
+
+<begin speech t=0765.000s>
+content: "One person at a time"
+<end speech t=0767.000s>
+
+<begin speech t=0767.000s>
+content: "Reawakening to who we are"
+<end speech t=0769.000s>
+
+<begin speech t=0769.000s>
+content: "To remembering our elven selves"
+<end speech t=0772.000s>
+
+<begin speech t=0772.000s>
+content: "Alright, I've had many people ask me"
+<end speech t=0774.000s>
+
+<begin speech t=0774.000s>
+content: "How to get started in overcoming the negative events"
+<end speech t=0777.000s>
+
+<begin speech t=0777.000s>
+content: "That keep happening their lives"
+<end speech t=0779.000s>
+
+<begin speech t=0779.000s>
+content: "They'll talk to me and they'll go"
+<end speech t=0781.000s>
+
+<begin speech t=0781.000s>
+content: "Why do I keep repeating this"
+<end speech t=0783.000s>
+
+<begin speech t=0783.000s>
+content: "What is the same issue keep coming up in my life?"
+<end speech t=0786.000s>
+
+<begin speech t=0786.000s>
+content: "What is the same event or trigger keep happening"
+<end speech t=0788.000s>
+
+<begin speech t=0788.000s>
+content: "Even though I don't feel like I have anything to do with it"
+<end speech t=0790.000s>
+
+<begin speech t=0790.000s>
+content: "Why do I keep attracting this type of situation?"
+<end speech t=0793.000s>
+
+<begin speech t=0793.000s>
+content: "Well, there's an old saying"
+<end speech t=0795.000s>
+
+<begin speech t=0795.000s>
+content: "How others treat us as their karma"
+<end speech t=0798.000s>
+
+<begin speech t=0798.000s>
+content: "How we react as ours"
+<end speech t=0801.000s>
+
+<begin speech t=0801.000s>
+content: "In other words, whether it's reacting to someone else"
+<end speech t=0804.000s>
+
+<begin speech t=0804.000s>
+content: "Or to a particular event"
+<end speech t=0806.000s>
+
+<begin speech t=0806.000s>
+content: "It's how we react that dictates the future events"
+<end speech t=0811.000s>
+
+<begin speech t=0811.000s>
+content: "Alright, so once we learn to stop reacting"
+<end speech t=0816.000s>
+
+<begin speech t=0816.000s>
+content: "Which basically means on an instinctive emotional level"
+<end speech t=0820.000s>
+
+<begin speech t=0820.000s>
+content: "Once we learn to stop reacting and to embrace each moment"
+<end speech t=0824.000s>
+
+<begin speech t=0824.000s>
+content: "Embrace the moment"
+<end speech t=0826.000s>
+
+<begin speech t=0826.000s>
+content: "Each lesson and embrace each moment"
+<end speech t=0830.000s>
+
+<begin speech t=0830.000s>
+content: "With love"
+<end speech t=0832.000s>
+
+<begin speech t=0832.000s>
+content: "We will be able to move on from that lesson"
+<end speech t=0835.000s>
+
+<begin speech t=0835.000s>
+content: "And then move on to the next"
+<end speech t=0837.000s>
+
+<begin speech t=0837.000s>
+content: "Our life has been a great example of that"
+<end speech t=0839.000s>
+
+<begin speech t=0839.000s>
+content: "I've learned that I would keep repeating the same lesson"
+<end speech t=0842.000s>
+
+<begin speech t=0842.000s>
+content: "Overall these years until finally I go"
+<end speech t=0845.000s>
+
+<begin speech t=0845.000s>
+content: "I get it"
+<end speech t=0847.000s>
+
+<begin speech t=0847.000s>
+content: "It's okay"
+<end speech t=0848.000s>
+
+<begin speech t=0848.000s>
+content: "I will embrace that moment"
+<end speech t=0850.000s>
+
+<begin speech t=0850.000s>
+content: "And learn from it"
+<end speech t=0852.000s>
+
+<begin speech t=0852.000s>
+content: "Again, two people can experience the very same event"
+<end speech t=0855.000s>
+
+<begin speech t=0855.000s>
+content: "One will walk away with negativity and fear and anger"
+<end speech t=0859.000s>
+
+<begin speech t=0859.000s>
+content: "And the other one will walk away with wisdom"
+<end speech t=0862.000s>
+
+<begin speech t=0862.000s>
+content: "Because they embrace the lesson of the moment"
+<end speech t=0865.000s>
+
+<begin speech t=0865.000s>
+content: "They learn from it"
+<end speech t=0866.000s>
+
+<begin speech t=0866.000s>
+content: "And it's over with"
+<end speech t=0867.000s>
+
+<begin speech t=0867.000s>
+content: "It's kind of like graduating from first grade"
+<end speech t=0869.000s>
+
+<begin speech t=0869.000s>
+content: "If I don't embrace first grade"
+<end speech t=0871.000s>
+
+<begin speech t=0871.000s>
+content: "If I don't embrace the lessons that first grade offer me"
+<end speech t=0874.000s>
+
+<begin speech t=0874.000s>
+content: "I'm going to keep taking first grade over and over again"
+<end speech t=0877.000s>
+
+<begin speech t=0877.000s>
+content: "But if I embrace first grade"
+<end speech t=0879.000s>
+
+<begin speech t=0879.000s>
+content: "If I embrace the lessons of finger painting"
+<end speech t=0881.000s>
+
+<begin speech t=0881.000s>
+content: "And not eating glue"
+<end speech t=0883.000s>
+
+<begin speech t=0883.000s>
+content: "If I embrace those lessons"
+<end speech t=0885.000s>
+
+<begin speech t=0885.000s>
+content: "I will move on to second grade"
+<end speech t=0887.000s>
+
+<begin speech t=0887.000s>
+content: "And it's the same way with your life"
+<end speech t=0889.000s>
+
+<begin speech t=0889.000s>
+content: "On a spiritual and soul level"
+<end speech t=0891.000s>
+
+<begin speech t=0891.000s>
+content: "Embrace the moment"
+<end speech t=0893.000s>
+
+<begin speech t=0893.000s>
+content: "And then you'll be able to move on to the next"
+<end speech t=0896.000s>
+
+<begin speech t=0896.000s>
+content: "Alright, again, another thing is what the light shines within you"
+<end speech t=0901.000s>
+
+<begin speech t=0901.000s>
+content: "We'll attract the light from outside of you and we'll bring it back"
+<end speech t=0906.000s>
+
+<begin speech t=0906.000s>
+content: "Whatever, in other words, whatever is your predominant state"
+<end speech t=0909.000s>
+
+<begin speech t=0909.000s>
+content: "Are you generally a very happy person?"
+<end speech t=0911.000s>
+
+<begin speech t=0911.000s>
+content: "Or you're generally a very sad or dark person?"
+<end speech t=0914.000s>
+
+<begin speech t=0914.000s>
+content: "Whatever that predominance is"
+<end speech t=0916.000s>
+
+<begin speech t=0916.000s>
+content: "You may have moments of darkness"
+<end speech t=0918.000s>
+
+<begin speech t=0918.000s>
+content: "Or you may have moments of lightness"
+<end speech t=0921.000s>
+
+<begin speech t=0921.000s>
+content: "Whatever is the predominant, that is the type of situation"
+<end speech t=0924.000s>
+
+<begin speech t=0924.000s>
+content: "And other individuals that you attract yourself"
+<end speech t=0927.000s>
+
+<begin speech t=0927.000s>
+content: "So it's so important to remember that"
+<end speech t=0932.000s>
+
+<begin speech t=0932.000s>
+content: "Does your overall shine with light"
+<end speech t=0935.000s>
+
+<begin speech t=0935.000s>
+content: "Or does your light, is it hidden in a shadow of fear?"
+<end speech t=0939.000s>
+
+<begin speech t=0939.000s>
+content: "That is what will determine the overall course and growth of your life"
+<end speech t=0943.000s>
+
+<begin speech t=0943.000s>
+content: "Do you approach life with love or do you approach it with fear?"
+<end speech t=0947.000s>
+
+<begin speech t=0947.000s>
+content: "Do you shine your life forward"
+<end speech t=0949.000s>
+
+<begin speech t=0949.000s>
+content: "Or do you let it hidden under the shadow of fear?"
+<end speech t=0952.000s>
+
+<begin speech t=0952.000s>
+content: "Whatever choice you make, that is what you will attract"
+<end speech t=0955.000s>
+
+<begin speech t=0955.000s>
+content: "And that will determine the course of your life and the growth of your life"
+<end speech t=0959.000s>
+
+<begin speech t=0959.000s>
+content: "So shine, shine forth, be that"
+<end speech t=0962.000s>
+
+<begin speech t=0962.000s>
+content: "As I was just told recently again, be that city on a hill"
+<end speech t=0967.000s>
+
+<begin speech t=0967.000s>
+content: "Be that shining light that others can see, that others can learn from"
+<end speech t=0971.000s>
+
+<begin speech t=0971.000s>
+content: "And they can go up, that person can do it, suck an eye"
+<end speech t=0975.000s>
+
+<begin speech t=0975.000s>
+content: "I have experienced that myself"
+<end speech t=0977.000s>
+
+<begin speech t=0977.000s>
+content: "Alright, so make each day's potential"
+<end speech t=0981.000s>
+
+<begin speech t=0981.000s>
+content: "To be realized for the gift that it is"
+<end speech t=0984.000s>
+
+<begin speech t=0984.000s>
+content: "I know, I've told you, some of you this before"
+<end speech t=0987.000s>
+
+<begin speech t=0987.000s>
+content: "It's actually in our Elbin school, in my course on manifestation that we talk about"
+<end speech t=0992.000s>
+
+<begin speech t=0992.000s>
+content: "I talk a little bit about my story"
+<end speech t=0994.000s>
+
+<begin speech t=0994.000s>
+content: "Alright, a lot of people go, well, I can't manifest this or I can't manifest that"
+<end speech t=0999.000s>
+
+<begin speech t=0999.000s>
+content: "First of all, we're off the bat, but we're canned"
+<end speech t=1001.000s>
+
+<begin speech t=1001.000s>
+content: "You've already set yourself up, you've decided it can't happen, so to speak"
+<end speech t=1004.000s>
+
+<begin speech t=1004.000s>
+content: "Alright, okay, I won't go through my whole story here"
+<end speech t=1009.000s>
+
+<begin speech t=1009.000s>
+content: "But I've told you before, that there was a time, a very long time ago, that I lived in a forest"
+<end speech t=1014.000s>
+
+<begin speech t=1014.000s>
+content: "I was happy in the forest, and it was a grand time to be there"
+<end speech t=1018.000s>
+
+<begin speech t=1018.000s>
+content: "But I knew I had other things to do, I had other things to learn"
+<end speech t=1021.000s>
+
+<begin speech t=1021.000s>
+content: "And so one day I just chose to walk out of the forest"
+<end speech t=1025.000s>
+
+<begin speech t=1025.000s>
+content: "I had nothing to close on my back"
+<end speech t=1028.000s>
+
+<begin speech t=1028.000s>
+content: "I walked out of the forest, and by the time the sun had set that day"
+<end speech t=1033.000s>
+
+<begin speech t=1033.000s>
+content: "I had a job, and I had a place to stay"
+<end speech t=1036.000s>
+
+<begin speech t=1036.000s>
+content: "And from there I built onto it, until I am here where I am"
+<end speech t=1041.000s>
+
+<begin speech t=1041.000s>
+content: "Occasionally I would go back to the forest for healing, or quiet, but that's what happened"
+<end speech t=1046.000s>
+
+<begin speech t=1046.000s>
+content: "If you believe, you believe you can manifest it, let that shlight of hope shine from you, you can do it"
+<end speech t=1053.000s>
+
+<begin speech t=1053.000s>
+content: "Also, this is not something that only I can do, anyone can do it"
+<end speech t=1058.000s>
+
+<begin speech t=1058.000s>
+content: "Okay, so what I'd like to do here real quick, because the question was posed to me during a radio interview"
+<end speech t=1064.000s>
+
+<begin speech t=1064.000s>
+content: "And I actually didn't give as good an answer as I would have liked"
+<end speech t=1069.000s>
+
+<begin speech t=1069.000s>
+content: "And I was asked to explain, and I'd like to do it now in greater detail"
+<end speech t=1074.000s>
+
+<begin speech t=1074.000s>
+content: "What does it mean to be an elf? What is the original design of elves?"
+<end speech t=1080.000s>
+
+<begin speech t=1080.000s>
+content: "And I thought about that, I explained it a little bit in the radio interview"
+<end speech t=1084.000s>
+
+<begin speech t=1084.000s>
+content: "But I'd like to go in a little bit more detail about you, what is actually inherent within all of us"
+<end speech t=1090.000s>
+
+<begin speech t=1090.000s>
+content: "And what you can do to shine forth and bring about that true potential that your life is capable of"
+<end speech t=1098.000s>
+
+<begin speech t=1098.000s>
+content: "Okay, as I described in one of my previous videos, Edgar Casey answered the age's old question"
+<end speech t=1103.000s>
+
+<begin speech t=1103.000s>
+content: "Of what is the purpose of life? Age's old question"
+<end speech t=1108.000s>
+
+<begin speech t=1108.000s>
+content: "His answer was the most clearly defined that I've ever heard in my life"
+<end speech t=1113.000s>
+
+<begin speech t=1113.000s>
+content: "It was simply this, we were created to be companions with God"
+<end speech t=1119.000s>
+
+<begin speech t=1119.000s>
+content: "In Elvin we say, Adagut, but God works"
+<end speech t=1123.000s>
+
+<begin speech t=1123.000s>
+content: "We were simply created to be companions with God"
+<end speech t=1127.000s>
+
+<begin speech t=1127.000s>
+content: "To co-create in this vast and wonderful universe"
+<end speech t=1132.000s>
+
+<begin speech t=1132.000s>
+content: "To actually bring us here to work with God, to help God create"
+<end speech t=1138.000s>
+
+<begin speech t=1138.000s>
+content: "Keeping in mind that everything we do comes to us from God, and we are the conduits"
+<end speech t=1144.000s>
+
+<begin speech t=1144.000s>
+content: "And as elves we were here to learn to create and co-create with God"
+<end speech t=1149.000s>
+
+<begin speech t=1149.000s>
+content: "Okay, in one definition of elv, if one definition could be given"
+<end speech t=1154.000s>
+
+<begin speech t=1154.000s>
+content: "For me it would be that we have been given the gift to work with in this creation"
+<end speech t=1159.000s>
+
+<begin speech t=1159.000s>
+content: "And a balanced and centered manner to continue to add beauty and to build on to what Adagut got originally created"
+<end speech t=1166.000s>
+
+<begin speech t=1166.000s>
+content: "It was for us to expand on that creation"
+<end speech t=1171.000s>
+
+<begin speech t=1171.000s>
+content: "With God working through us"
+<end speech t=1173.000s>
+
+<begin speech t=1173.000s>
+content: "As elves it is our place to make the world a paradise"
+<end speech t=1177.000s>
+
+<begin speech t=1177.000s>
+content: "One in which the laws of creation are able to be manifested in our everyday lives"
+<end speech t=1183.000s>
+
+<begin speech t=1183.000s>
+content: "Rather than simply in stories or in myths"
+<end speech t=1186.000s>
+
+<begin speech t=1186.000s>
+content: "I do indeed believe that it is possible and I have witnessed this personally"
+<end speech t=1191.000s>
+
+<begin speech t=1191.000s>
+content: "Now having said that, how do we do it in a manner that allows creation to express itself as it needs"
+<end speech t=1198.000s>
+
+<begin speech t=1198.000s>
+content: "And not simply as we believe it should be"
+<end speech t=1201.000s>
+
+<begin speech t=1201.000s>
+content: "Too often man is destroyed the forests and ecosystems"
+<end speech t=1205.000s>
+
+<begin speech t=1205.000s>
+content: "Purely because they thought that they knew better and could improve upon nature"
+<end speech t=1210.000s>
+
+<begin speech t=1210.000s>
+content: "The arrogance of man"
+<end speech t=1212.000s>
+
+<begin speech t=1212.000s>
+content: "As elves we know, we will not so much improve on nature"
+<end speech t=1218.000s>
+
+<begin speech t=1218.000s>
+content: "But enhance and allow its true potential to be revealed"
+<end speech t=1222.000s>
+
+<begin speech t=1222.000s>
+content: "That may be one of the best definitions of manifestation"
+<end speech t=1226.000s>
+
+<begin speech t=1226.000s>
+content: "To simply allow the true potential of the time or the situation or the individual to be brought forth in fruition"
+<end speech t=1234.000s>
+
+<begin speech t=1234.000s>
+content: "Allow it to become what it is meant to be"
+<end speech t=1238.000s>
+
+<begin speech t=1238.000s>
+content: "Alright, okay, so you want to be Elden?"
+<end speech t=1242.000s>
+
+<begin speech t=1242.000s>
+content: "Then be Elden everyday"
+<end speech t=1244.000s>
+
+<begin speech t=1244.000s>
+content: "Do something Elden everyday"
+<end speech t=1246.000s>
+
+<begin speech t=1246.000s>
+content: "Take a forest bath"
+<end speech t=1248.000s>
+
+<begin speech t=1248.000s>
+content: "Take on a healthier and more compassionate diet"
+<end speech t=1252.000s>
+
+<begin speech t=1252.000s>
+content: "Do Elden art and music"
+<end speech t=1254.000s>
+
+<begin speech t=1254.000s>
+content: "Meditation"
+<end speech t=1256.000s>
+
+<begin speech t=1256.000s>
+content: "Learn new healing skills and most of all"
+<end speech t=1258.000s>
+
+<begin speech t=1258.000s>
+content: "Like each day you choose love over fear"
+<end speech t=1262.000s>
+
+<begin speech t=1262.000s>
+content: "Alright, alright, as elves"
+<end speech t=1265.000s>
+
+<begin speech t=1265.000s>
+content: "We can remember who we are and where we came from"
+<end speech t=1269.000s>
+
+<begin speech t=1269.000s>
+content: "We are the children of this world"
+<end speech t=1272.000s>
+
+<begin speech t=1272.000s>
+content: "Alright, the earth, we and the world are one"
+<end speech t=1275.000s>
+
+<begin speech t=1275.000s>
+content: "And the elifish, the phrase is alien the queen"
+<end speech t=1279.000s>
+
+<begin speech t=1279.000s>
+content: "Alien the queen"
+<end speech t=1281.000s>
+
+<begin speech t=1281.000s>
+content: "All is one, and we are"
+<end speech t=1284.000s>
+
+<begin speech t=1284.000s>
+content: "Alright, maybe now more than ever the world needs us all to awaken to our elven selves"
+<end speech t=1292.000s>
+
+<begin speech t=1292.000s>
+content: "To our true elven selves"
+<end speech t=1294.000s>
+
+<begin speech t=1294.000s>
+content: "Because we are the stewards of this world"
+<end speech t=1297.000s>
+
+<begin speech t=1297.000s>
+content: "Man is not the steward"
+<end speech t=1299.000s>
+
+<begin speech t=1299.000s>
+content: "Man attempts to mold and manipulate the world into his vision"
+<end speech t=1305.000s>
+
+<begin speech t=1305.000s>
+content: "Elves choose to let the vision come through them"
+<end speech t=1309.000s>
+
+<begin speech t=1309.000s>
+content: "To let it manifest through them"
+<end speech t=1311.000s>
+
+<begin speech t=1311.000s>
+content: "That is a huge difference"
+<end speech t=1313.000s>
+
+<begin speech t=1313.000s>
+content: "Man attempts to manipulate mold"
+<end speech t=1315.000s>
+
+<begin speech t=1315.000s>
+content: "And we allow the potential of the world to come through us"
+<end speech t=1319.000s>
+
+<begin speech t=1319.000s>
+content: "And be manifested into reality"
+<end speech t=1321.000s>
+
+<begin speech t=1321.000s>
+content: "Alright, so it means to find our true selves"
+<end speech t=1326.000s>
+
+<begin speech t=1326.000s>
+content: "And to reach that full potential"
+<end speech t=1329.000s>
+
+<begin speech t=1329.000s>
+content: "To realize the oneness we have at the land"
+<end speech t=1332.000s>
+
+<begin speech t=1332.000s>
+content: "The sea and the air"
+<end speech t=1334.000s>
+
+<begin speech t=1334.000s>
+content: "With our mother, the earth"
+<end speech t=1336.000s>
+
+<begin speech t=1336.000s>
+content: "It means to remember that we were created for one reason"
+<end speech t=1340.000s>
+
+<begin speech t=1340.000s>
+content: "To be companions of Eru"
+<end speech t=1343.000s>
+
+<begin speech t=1343.000s>
+content: "With God and co-create with the universe"
+<end speech t=1347.000s>
+
+<begin speech t=1347.000s>
+content: "To co-create with the universe"
+<end speech t=1349.000s>
+
+<begin speech t=1349.000s>
+content: "What an amazing gift"
+<end speech t=1351.000s>
+
+<begin speech t=1351.000s>
+content: "To take our place as healers of the world"
+<end speech t=1354.000s>
+
+<begin speech t=1354.000s>
+content: "And to bring it back to what it was always meant to be"
+<end speech t=1357.000s>
+
+<begin speech t=1357.000s>
+content: "That paradise sung in the beginning of the universe"
+<end speech t=1361.000s>
+
+<begin speech t=1362.000s>
+content: "That's our job"
+<end speech t=1363.000s>
+
+<begin speech t=1363.000s>
+content: "That's what we're here for"
+<end speech t=1365.000s>
+
+<begin speech t=1365.000s>
+content: "Alright, so that's what I wanted to talk about today for a little bit"
+<end speech t=1368.000s>
+
+<begin speech t=1368.000s>
+content: "I also wanted to say thank you"
+<end speech t=1371.000s>
+
+<begin speech t=1371.000s>
+content: "The Lain-Bain-Gomor, the Elden School of Loremasters"
+<end speech t=1376.000s>
+
+<begin speech t=1376.000s>
+content: "Is now just a little bit over one day old"
+<end speech t=1379.000s>
+
+<begin speech t=1379.000s>
+content: "And I wanted to say"
+<end speech t=1381.000s>
+
+<begin speech t=1381.000s>
+content: "We want to say thank you for all the students that have been joining up"
+<end speech t=1385.000s>
+
+<begin speech t=1385.000s>
+content: "It is such a gift to us that you allow us"
+<end speech t=1388.000s>
+
+<begin speech t=1388.000s>
+content: "To offer to you to the community this gift of teaching"
+<end speech t=1391.000s>
+
+<begin speech t=1391.000s>
+content: "So thank you very much for everything that you've all been doing"
+<end speech t=1395.000s>
+
+<begin speech t=1395.000s>
+content: "And we look forward to growing with all of you in this community"
+<end speech t=1398.000s>
+
+<begin speech t=1398.000s>
+content: "May you all have a most blessed and love-filled day"
+<end speech t=1402.000s>
+
+<begin speech t=1402.000s>
+content: "Namahriye"
+<end speech t=1403.000s>

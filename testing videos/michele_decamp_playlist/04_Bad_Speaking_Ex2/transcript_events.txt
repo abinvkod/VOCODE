@@ -1,0 +1,287 @@
+<begin speech t=0000.000s>
+content: "Hi, I'm here to read a book about the places you'll go. It's by Dr. Seuss. I'm Victoria, by the way."
+<end speech t=0011.000s>
+
+<begin speech t=0011.000s>
+content: "Congratulations! Today is your day. You're off to a great place. You're off to great places."
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "You're off and away. You have brains in your head. You have feet in your shoes. You can steer yourself out of your direction."
+<end speech t=0025.000s>
+
+<begin speech t=0025.000s>
+content: "You're on your way and you know what you want to know. And you are the guy who will decide where to go."
+<end speech t=0032.000s>
+
+<begin speech t=0032.000s>
+content: "You'll look up and down the streets, look at them everywhere with care. And some people say,"
+<end speech t=0037.000s>
+
+<begin speech t=0037.000s>
+content: "I don't choose to go there. With your head full of brains in your shoes full of feet, you're too smart to go down and you're not so good at the street."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "And you may not find any you'll want to go down. In that case, of course, you'll have straight out of town."
+<end speech t=0053.000s>
+
+<begin speech t=0053.000s>
+content: "There's over there the wide open air."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "There's things that happen. I'm frequently due to people who's pretty easy and footsy as you."
+<end speech t=0063.000s>
+
+<begin speech t=0063.000s>
+content: "And when things start to happen, don't worry, don'ts do. You'll go right along. You'll start happening too."
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "Oh, the places you'll go. You'll be right on your way up. You'll be sitting in great sights."
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "He'll join the flyhires who soar to high heights."
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "You won't lag behind because you'll have to speed. You'll pass the whole game and you'll soon to believe it."
+<end speech t=0089.000s>
+
+<begin speech t=0089.000s>
+content: "Wherever you fly, you'll be the best of the best. Wherever you go, you'll tough all the rest."
+<end speech t=0095.000s>
+
+<begin speech t=0095.000s>
+content: "Except when you don't, because sometimes you won't."
+<end speech t=0100.000s>
+
+<begin speech t=0100.000s>
+content: "I'm sorry to say so. Sadly, it's true that then-ups and hand-ups can happen to you."
+<end speech t=0106.000s>
+
+<begin speech t=0107.000s>
+content: "You can get off on not being the percoli perch and your gal will fly on. You'll be left in alert."
+<end speech t=0113.000s>
+
+<begin speech t=0113.000s>
+content: "You'll come down and alert whether or not the chances are that you'll be in a slump."
+<end speech t=0119.000s>
+
+<begin speech t=0119.000s>
+content: "And when you're in a slump, you're not an information bond. I'm slumping yourself and not easily done."
+<end speech t=0125.000s>
+
+<begin speech t=0125.000s>
+content: "You'll come to a place where the streets are not marked. Some windows are lighted."
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "Some mostly they're dark. Most of they're dark."
+<end speech t=0132.000s>
+
+<begin speech t=0132.000s>
+content: "A place you could spray in both your elbow and chin. Do you dare to stay out? Do you dare to go in?"
+<end speech t=0139.000s>
+
+<begin speech t=0139.000s>
+content: "How much can you lose? How much can you win? And if you go in, should you turn left or right?"
+<end speech t=0145.000s>
+
+<begin speech t=0145.000s>
+content: "The ray in three corners are leaning out quite?"
+<end speech t=0148.000s>
+
+<begin speech t=0148.000s>
+content: "Or go around back and speaking for behind simply, it's not for you to find for online and make a rubber to make up his hand."
+<end speech t=0157.000s>
+
+<begin speech t=0158.000s>
+content: "You can guess so confused that you'll start into race."
+<end speech t=0161.000s>
+
+<begin speech t=0161.000s>
+content: "Long down through those roads of a breath-making case and grind on for miles across weirdish wild space,"
+<end speech t=0169.000s>
+
+<begin speech t=0169.000s>
+content: "headed out here for the most useless place."
+<end speech t=0172.000s>
+
+<begin speech t=0172.000s>
+content: "Or later, yes."
+<end speech t=0174.000s>
+
+<begin speech t=0174.000s>
+content: "For people just waiting. Waiting for a train to go or a bus to come or a plane to go or a mail to come or the rain to go or the phone to a rain boy."
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "Or a snow to snow or a wedding around for a yes or a no."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "Waiting for their hair to grow. Everyone is just waiting."
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "Waiting for the fish to bite or waiting for the wind to fly or waiting around for Friday night or waiting for help to put their uncle back, drink."
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "Or a pup to boil or a better break or a string of prom or a pair of pants."
+<end speech t=0207.000s>
+
+<begin speech t=0207.000s>
+content: "Or a wing with curls or another chest. Everyone is just waiting."
+<end speech t=0213.000s>
+
+<begin speech t=0213.000s>
+content: "No, that's not for you."
+<end speech t=0215.000s>
+
+<begin speech t=0215.000s>
+content: "Somehow you'll escape all that waiting and stay."
+<end speech t=0219.000s>
+
+<begin speech t=0219.000s>
+content: "You'll find the bright places where boom there's a plane."
+<end speech t=0223.000s>
+
+<begin speech t=0223.000s>
+content: "With better fly flapping once more you'll ride high, running for anything under the sky, ready because you're that kind of guy."
+<end speech t=0234.000s>
+
+<begin speech t=0235.000s>
+content: "Other places you'll go, they're, they're fun to be done."
+<end speech t=0238.000s>
+
+<begin speech t=0238.000s>
+content: "There are points to be scored. There are games to be won."
+<end speech t=0241.000s>
+
+<begin speech t=0241.000s>
+content: "And the magic of places you can do with that ball will make you a winningest winner of all fame."
+<end speech t=0247.000s>
+
+<begin speech t=0247.000s>
+content: "You'll be famous as famous can be with the whole world wide world fortune."
+<end speech t=0252.000s>
+
+<begin speech t=0252.000s>
+content: "You win on TV."
+<end speech t=0254.000s>
+
+<begin speech t=0254.000s>
+content: "Except when they don't because sometimes they won't."
+<end speech t=0257.000s>
+
+<begin speech t=0258.000s>
+content: "I'm afraid that sometimes your play will only be instituted."
+<end speech t=0262.000s>
+
+<begin speech t=0262.000s>
+content: "Games you can't win because you'll play against you."
+<end speech t=0265.000s>
+
+<begin speech t=0266.000s>
+content: "All alone, whether you like it or not alone will be something you'll be quite alike."
+<end speech t=0271.000s>
+
+<begin speech t=0271.000s>
+content: "And when you're alone, there's a very good chance you'll meet things that scare you right out of your pants."
+<end speech t=0277.000s>
+
+<begin speech t=0277.000s>
+content: "There are some down the road between Hitter and Dion."
+<end speech t=0282.000s>
+
+<begin speech t=0282.000s>
+content: "That could scare you so much you won't want to go on."
+<end speech t=0285.000s>
+
+<begin speech t=0286.000s>
+content: "But on you will go through the weather befowl."
+<end speech t=0289.000s>
+
+<begin speech t=0289.000s>
+content: "On you will go through the hot things, how on with many of my great make through your arms."
+<end speech t=0299.000s>
+
+<begin speech t=0299.000s>
+content: "So what's your secret made it?"
+<end speech t=0302.000s>
+
+<begin speech t=0303.000s>
+content: "On an annual hike, I know you'll hike far and face up to your problems, whatever they are."
+<end speech t=0310.000s>
+
+<begin speech t=0311.000s>
+content: "You'll get mixed up of course as you already know."
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "You'll get mixed up with many streams for as you go."
+<end speech t=0316.000s>
+
+<begin speech t=0316.000s>
+content: "So be sure when you step with caring, great, tact, and remember that life's a great balance."
+<end speech t=0320.000s>
+
+<begin speech t=0320.000s>
+content: "And just never forget to make extras and death and never accept your right what would be your left."
+<end speech t=0325.000s>
+
+<begin speech t=0325.000s>
+content: "And will you succeed?"
+<end speech t=0326.000s>
+
+<begin speech t=0326.000s>
+content: "Yes, you will succeed indeed."
+<end speech t=0328.000s>
+
+<begin speech t=0328.000s>
+content: "Nineteen, three quarters percent guaranteed."
+<end speech t=0331.000s>
+
+<begin speech t=0331.000s>
+content: "Kid, you all move mountains."
+<end speech t=0334.000s>
+
+<begin speech t=0334.000s>
+content: "So be your name box upon our big beer braid."
+<end speech t=0338.000s>
+
+<begin speech t=0338.000s>
+content: "Or more to Cali, I'll even out I'll share your October places today, your day, your mountains, weeks."
+<end speech t=0343.000s>
+
+<begin speech t=0343.000s>
+content: "Get on your way."
+<end speech t=0345.000s>
+
+<begin speech t=0345.000s>
+content: "That was, oh the places you'll go by Dr. Seuss."
+<end speech t=0350.000s>
+
+<begin speech t=0350.000s>
+content: "Thank you."
+<end speech t=0351.000s>
+
+<begin speech t=0355.000s>
+content: "There was a list of people who have donated in the past."
+<end speech t=0358.000s>
+
+<begin speech t=0358.000s>
+content: "We can left the right."
+<end speech t=0360.000s>
+
+<begin speech t=0360.000s>
+content: "Well that's a quick preview."
+<end speech t=0361.000s>
+
+<begin speech t=0361.000s>
+content: "You can easily click through and see all the donors."
+<end speech t=0364.000s>

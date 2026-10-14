@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/06_President_Franklin_D_Roosevelt_Declares_War_on_Japan_Full_Sp/audio.mp3",
+  "clean_file": "good speeches/06_President_Franklin_D_Roosevelt_Declares_War_on_Japan_Full_Sp/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 287.568,
+  "clean_duration_sec": 287.568,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -16.58,
+  "target_lufs": -20.0,
+  "gain_applied_db": -3.42,
+  "snr_raw_db": 22.07,
+  "snr_clean_db": 29.83,
+  "snr_improvement_db": 7.76,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 321,
+    "utterance_count": 18
+  },
+  "status": "READY_FOR_EVALUATION"
+}

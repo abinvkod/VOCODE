@@ -1,0 +1,148 @@
+{
+  "title": "Leonardo DiCaprio - 88th Oscars Best Actor Acceptance Speech (2016)",
+  "grades": {
+    "strict_competition_standard": 6.2,
+    "moderate_professional_standard": 7.2,
+    "lenient_encouraging_standard": 8.2
+  },
+  "grade_band": "Developing / Inconsistent (Tier 3)",
+  "pillar_scores": {
+    "pitch_modulation_out_of_2_5": 2.0,
+    "cadence_and_tempo_out_of_2_5": 2.3,
+    "rhetorical_pausing_out_of_2_0": 1.5,
+    "dynamic_energy_out_of_1_5": 1.0,
+    "spectral_clarity_out_of_1_5": 1.5
+  },
+  "telemetry": {
+    "duration_sec": 143.0,
+    "words_per_minute": 169.1,
+    "f0_mean_hz": 152.19,
+    "f0_semitones": 8.96,
+    "f0_velocity_hz_per_sec": 409.55,
+    "articulation_rate_sps": 5.18,
+    "pause_ratio": 0.12,
+    "hesitation_pause_count": 0,
+    "max_pause_sec": 1.02,
+    "energy_dynamic_range_db": 29.55,
+    "papr_crest_factor": 13.56,
+    "word_repetitions": 0,
+    "repeated_words": [],
+    "filler_count": 0,
+    "filler_words_per_min": 0.0
+  },
+  "deductions": [
+    {
+      "pillar": "Pitch Modulation",
+      "deduction": 0.5,
+      "metric": "f0_semitones: 8.96 st",
+      "flaw": "Moderate Pitch Compression",
+      "explanation": "Pitch range was 8.96 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+    },
+    {
+      "pillar": "Cadence & Tempo",
+      "deduction": 0.2,
+      "metric": "articulation_rate: 5.18 syl/s",
+      "flaw": "Slow Pacing",
+      "explanation": "Speech rate of 5.18 syl/s is slower than typical oratorical tempo."
+    },
+    {
+      "pillar": "Rhetorical Pausing",
+      "deduction": 0.5,
+      "metric": "pause_ratio: 12.0%",
+      "flaw": "Severe Breathless Run-On",
+      "explanation": "Pause ratio was only 12.0% (corpus floor: 17.0%). Suffocating delivery with almost no breathing room."
+    },
+    {
+      "pillar": "Dynamic Energy",
+      "deduction": 0.2,
+      "metric": "energy_dynamic_range: 29.55 dB",
+      "flaw": "Mild Dynamic Flatness",
+      "explanation": "Volume dynamic range was 29.55 dB, slightly lower than typical masterclass contrast."
+    },
+    {
+      "pillar": "Dynamic Energy",
+      "deduction": 0.3,
+      "metric": "papr_crest_factor: 13.56",
+      "flaw": "Low Vocal Punchiness",
+      "explanation": "PAPR of 13.56 indicates lack of contrast between stressed and unstressed syllables."
+    }
+  ],
+  "move_counts": {
+    "BRILLIANT": 0,
+    "GREAT": 1,
+    "GOOD": 19,
+    "INACCURACY": 11,
+    "MISTAKE": 5,
+    "BLUNDER": 3
+  },
+  "notable_moves": [
+    {
+      "time": "3.44s-6.52s",
+      "type": "MISTAKE",
+      "text": "Thank you to the Academy, thank you to all of you in this room.",
+      "reason": "Rushed runaway: Speaking rate spiked to 273 WPM, hindering enunciation."
+    },
+    {
+      "time": "6.52s-13.0s",
+      "type": "BLUNDER",
+      "text": "I have to congratulate the other incredible nominees this year for their unbelievable performances.",
+      "reason": "Monotone flatline: Pitch modulation collapsed to 4.7 semitones."
+    },
+    {
+      "time": "70.16s-74.6s",
+      "type": "BLUNDER",
+      "text": "Thank you for helping me navigate my way through this industry and to my parents.",
+      "reason": "Monotone flatline: Pitch modulation collapsed to 4.8 semitones."
+    },
+    {
+      "time": "74.6s-77.28s",
+      "type": "MISTAKE",
+      "text": "None of this would be possible without you and to my friends.",
+      "reason": "Rushed runaway: Speaking rate spiked to 269 WPM, hindering enunciation."
+    },
+    {
+      "time": "77.28s-78.28s",
+      "type": "MISTAKE",
+      "text": "I love you dearly.",
+      "reason": "Rushed runaway: Speaking rate spiked to 240 WPM, hindering enunciation."
+    },
+    {
+      "time": "78.28s-79.28s",
+      "type": "MISTAKE",
+      "text": "You know who you are.",
+      "reason": "Rushed runaway: Speaking rate spiked to 300 WPM, hindering enunciation."
+    },
+    {
+      "time": "86.44s-92.24s",
+      "type": "BLUNDER",
+      "text": "felt in 2015 as the hottest year in recorded history, our production needed to move to",
+      "reason": "Monotone flatline: Pitch modulation collapsed to 5.0 semitones."
+    },
+    {
+      "time": "141.48s-142.08s",
+      "type": "MISTAKE",
+      "text": "Thank you so very much.",
+      "reason": "Rushed runaway: Speaking rate spiked to 500 WPM, hindering enunciation."
+    }
+  ],
+  "explanation": {
+    "executive_verdict": "The performance is capped at a 6.2 by a rigid gate ceiling of 7.1, driven by a severe lack of dynamic energy and inconsistent pitch control. While the spectral clarity is perfect, the delivery suffers from a 'flatline' effect in critical emotional moments, resulting in a Tier 3 'Developing' grade.",
+    "deterministic_explanation": "The 0.55 coupling penalty and 2.0 PSI impairment index mathematically limit the score, as the 13.56 dB PAPR crest factor indicates insufficient 'punch' in projection. Three distinct monotone flatlines (4.7, 4.8, and 5.0 semitones) triggered critical deficits, while the 273 WPM speaking rate spike at 3.44s-6.52s exceeded the enunciation threshold, causing a 0.5 deduction in the cadence pillar despite a high 409.55 Hz/s F0 velocity elsewhere.",
+    "semantic_explanation": "The audience likely experienced a disjointed and emotionally flat delivery. The 'rushed runaway' at the start created a sense of nervousness or lack of command, while the subsequent 'monotone flatlines' during key acknowledgments (nominees and parents) stripped the speech of its intended warmth and gratitude, making the speaker appear detached or robotic during the most human moments of the address.",
+    "pillar_critiques": {
+      "pitch_modulation": "Strong overall range (8.96 semitones) but critically undermined by three 'flatline' segments where modulation collapsed to ~5 semitones, failing to convey the necessary emotional weight for the specific text.",
+      "cadence_and_tempo": "Inconsistent pacing; while the 409.55 Hz/s velocity shows potential for dynamism, the 273 WPM spikes at the beginning and middle of the speech indicate a lack of rhythmic control and breath management.",
+      "rhetorical_pausing": "Adequate but underutilized; the 0.12 pause ratio and 1.02s max pause suggest the speaker is not using silence to create tension or emphasize key points, leading to a 'wall of sound' effect.",
+      "dynamic_energy": "The weakest pillar (1.0/1.5); the 13.56 dB PAPR crest factor is too low for a high-impact oratory performance, indicating the speaker is not 'projecting' or 'punching' the key words with sufficient acoustic force.",
+      "spectral_clarity": "Excellent (1.5/1.5); the 3.537 spectral flux indicates clean, crisp diction with no muddiness or consonant loss, providing a strong technical foundation for the delivery."
+    },
+    "actionable_vocal_drills": [
+      {
+        "title": "The Dynamic Punch",
+        "focus": "Dynamic Energy",
+        "instructions": "Select a 10-word sentence. Practice saying it with a 20% increase in volume and a 10% increase in speed on the final two words. Record and listen for a 'snap' in the audio waveform to ensure the PAPR crest factor increases."
+      }
+    ],
+    "source": "Groq Cloud (qwen/qwen3.8-27b)"
+  }
+}

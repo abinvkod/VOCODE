@@ -1,0 +1,87 @@
+<begin speech t=00:00.080s>
+content: "We don't want to dig through all of our areas. I get a lead to the future."
+<end speech t=00:07.040s>
+
+<begin speech t=00:10.736s>
+content: "Just let him move."
+<end speech t=00:11.760s>
+
+<begin speech t=00:12.080s>
+content: "You"
+<end speech t=00:12.576s>
+
+<begin speech t=00:12.976s>
+content: "Then all people catch you tomorrow!"
+<end speech t=00:14.752s>
+
+<begin speech t=00:15.120s>
+content: "Mm-hmm"
+<end speech t=00:16.944s>
+
+<begin speech t=00:17.488s>
+content: "Just turn the power back up. It will look good to do. It will look good to do."
+<end speech t=00:23.440s>
+
+<begin speech t=00:23.968s>
+content: "Speaking of"
+<end speech t=00:26.880s>
+
+<begin speech t=00:27.264s>
+content: "I want to get the beat."
+<end speech t=00:28.672s>
+
+<begin speech t=00:31.616s>
+content: "There's about government information. I'm in charge of four questions. We keep thinking."
+<end speech t=00:32.960s>
+
+<begin speech t=00:33.392s>
+content: "I can be one of the 50-50 that we need."
+<end speech t=00:36.368s>
+
+<begin speech t=00:36.656s>
+content: "and an animal."
+<end speech t=00:38.688s>
+
+<begin speech t=00:39.088s>
+content: ". . . . . ."
+<end speech t=00:39.440s>
+
+<begin speech t=00:39.696s>
+content: "You need to admit, the minimally!"
+<end speech t=00:41.840s>
+
+<begin speech t=00:42.624s>
+content: "program."
+<end speech t=00:43.760s>
+
+<begin speech t=00:44.592s>
+content: "Mhm."
+<end speech t=00:44.992s>
+
+<begin speech t=00:46.256s>
+content: "You go."
+<end speech t=00:46.560s>
+
+<begin speech t=00:48.032s>
+content: "The"
+<end speech t=00:48.512s>
+
+<begin speech t=00:51.504s>
+content: "Any entity, any entity."
+<end speech t=00:52.768s>
+
+<begin speech t=00:53.104s>
+content: "Just go eat again."
+<end speech t=00:54.560s>
+
+<begin speech t=00:54.912s>
+content: "Many times we"
+<end speech t=00:55.984s>
+
+<begin speech t=00:56.416s>
+content: "I did it."
+<end speech t=00:57.440s>
+
+<begin speech t=00:58.768s>
+content: "It to be followed under a harmful moment."
+<end speech t=01:01.264s>

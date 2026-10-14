@@ -1,0 +1,447 @@
+<begin speech t=0000.000s>
+content: "Ladies and gentlemen of the Star County Republican Party,"
+<end speech t=0004.640s>
+
+<begin speech t=0004.640s>
+content: "Executive Committee, good evening,"
+<end speech t=0007.560s>
+
+<begin speech t=0007.560s>
+content: "and thank you not only for your attendance,"
+<end speech t=0011.200s>
+
+<begin speech t=0011.200s>
+content: "but for allowing me the opportunity to speak."
+<end speech t=0014.600s>
+
+<begin speech t=0014.600s>
+content: "My name is Phil Davis,"
+<end speech t=0017.000s>
+
+<begin speech t=0017.000s>
+content: "and I am seeking our party's"
+<end speech t=0019.800s>
+
+<begin speech t=0019.800s>
+content: "nominations for the position of"
+<end speech t=0021.760s>
+
+<begin speech t=0021.760s>
+content: "stuck-duty treasure on November 10th,"
+<end speech t=0025.680s>
+
+<begin speech t=0025.680s>
+content: "November of 2010, excuse me."
+<end speech t=0029.680s>
+
+<begin speech t=0029.680s>
+content: "In terms of my background,"
+<end speech t=0032.240s>
+
+<begin speech t=0032.240s>
+content: "I am from the village of Minerva,"
+<end speech t=0034.920s>
+
+<begin speech t=0034.920s>
+content: "where I'm serving my first-heater,"
+<end speech t=0038.080s>
+
+<begin speech t=0038.080s>
+content: "President of elected service as a Minerva Council member."
+<end speech t=0042.760s>
+
+<begin speech t=0042.760s>
+content: "In terms of education,"
+<end speech t=0045.120s>
+
+<begin speech t=0045.120s>
+content: "I have a bachelor's degree in sociology,"
+<end speech t=0048.120s>
+
+<begin speech t=0048.120s>
+content: "a bachelor's degree in history,"
+<end speech t=0050.640s>
+
+<begin speech t=0050.640s>
+content: "a master's degree in public administration,"
+<end speech t=0054.440s>
+
+<begin speech t=0055.000s>
+content: "in a master's degree in communication."
+<end speech t=0060.200s>
+
+<begin speech t=0060.200s>
+content: "In terms of elections across Star County,"
+<end speech t=0063.920s>
+
+<begin speech t=0063.920s>
+content: "I have represented our party twice on the county ballot,"
+<end speech t=0068.480s>
+
+<begin speech t=0068.480s>
+content: "in both the primary and the general elections,"
+<end speech t=0072.160s>
+
+<begin speech t=0072.160s>
+content: "when I ran for Star County Purple Court in 1996,"
+<end speech t=0075.760s>
+
+<begin speech t=0075.760s>
+content: "and Star County Commissioner in 2000,"
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "and I will not apologize for my total tonight."
+<end speech t=0081.400s>
+
+<begin speech t=0082.400s>
+content: "I have been a Republican in terms of doing"
+<end speech t=0085.200s>
+
+<begin speech t=0085.200s>
+content: "and I have been a Republican in terms of respect."
+<end speech t=0088.640s>
+
+<begin speech t=0095.640s>
+content: "Alberts, I guess you're one of my most favorite quotes"
+<end speech t=0098.640s>
+
+<begin speech t=0098.640s>
+content: "in the history of the spoken word,"
+<end speech t=0101.040s>
+
+<begin speech t=0101.040s>
+content: "in ideas as follows,"
+<end speech t=0103.960s>
+
+<begin speech t=0103.960s>
+content: "in the middle of opportunity,"
+<end speech t=0106.960s>
+
+<begin speech t=0107.800s>
+content: "excuse me, in the middle of Democratic,"
+<end speech t=0111.040s>
+
+<begin speech t=0111.040s>
+content: "I have opportunity, I'm gonna repeat that"
+<end speech t=0113.240s>
+
+<begin speech t=0113.240s>
+content: "so I have clarity tonight."
+<end speech t=0114.960s>
+
+<begin speech t=0114.960s>
+content: "In the middle of Democratic,"
+<end speech t=0117.000s>
+
+<begin speech t=0117.000s>
+content: "I have a lot of opportunity."
+<end speech t=0119.200s>
+
+<begin speech t=0119.200s>
+content: "This is the opportunity we've been waiting for."
+<end speech t=0122.600s>
+
+<begin speech t=0123.800s>
+content: "The Star County treasures office in the back."
+<end speech t=0127.640s>
+
+<begin speech t=0127.640s>
+content: "It is a dire needing of structure and guidance."
+<end speech t=0131.480s>
+
+<begin speech t=0132.680s>
+content: "And now is the time to seize this opportunity,"
+<end speech t=0135.840s>
+
+<begin speech t=0136.280s>
+content: "with an aggressive campaign"
+<end speech t=0137.920s>
+
+<begin speech t=0137.920s>
+content: "and an even more aggressive campaign."
+<end speech t=0140.480s>
+
+<begin speech t=0143.720s>
+content: "If not in tonight,"
+<end speech t=0145.360s>
+
+<begin speech t=0145.360s>
+content: "I promise each and every person to this room,"
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "I will hit the ground running,"
+<end speech t=0150.600s>
+
+<begin speech t=0150.600s>
+content: "come out, sweetie, it ends up winning."
+<end speech t=0153.080s>
+
+<begin speech t=0157.680s>
+content: "Let's have a message tonight,"
+<end speech t=0160.000s>
+
+<begin speech t=0160.000s>
+content: "to the people of Star County,"
+<end speech t=0161.840s>
+
+<begin speech t=0161.840s>
+content: "and to the people of the Star County General,"
+<end speech t=0163.880s>
+
+<begin speech t=0163.920s>
+content: "the Democratic Party,"
+<end speech t=0165.880s>
+
+<begin speech t=0165.880s>
+content: "who are trying to business as usual."
+<end speech t=0168.880s>
+
+<begin speech t=0169.880s>
+content: "Drasty times replying our watch."
+<end speech t=0171.880s>
+
+<begin speech t=0173.280s>
+content: "Drasty, master, yes, you'll sit next."
+<end speech t=0176.360s>
+
+<begin speech t=0176.360s>
+content: "Thank you, Drasty times require drastic measures."
+<end speech t=0179.720s>
+
+<begin speech t=0182.640s>
+content: "We will not tolerate incompetence in your responsibility"
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "any longer."
+<end speech t=0188.720s>
+
+<begin speech t=0190.320s>
+content: "Now is the time to stand"
+<end speech t=0192.280s>
+
+<begin speech t=0192.280s>
+content: "the Democratic Strangle on the Treasurer's Office of Two."
+<end speech t=0196.240s>
+
+<begin speech t=0196.240s>
+content: "And I heard the vacuum on my friend Alex just said,"
+<end speech t=0198.720s>
+
+<begin speech t=0198.720s>
+content: "he really gets the treasure in 1996."
+<end speech t=0201.480s>
+
+<begin speech t=0201.480s>
+content: "It was a problem, man."
+<end speech t=0202.640s>
+
+<begin speech t=0202.640s>
+content: "It's a problem now."
+<end speech t=0203.920s>
+
+<begin speech t=0204.880s>
+content: "Investigation."
+<end speech t=0206.360s>
+
+<begin speech t=0209.800s>
+content: "Politics is not touch football."
+<end speech t=0212.760s>
+
+<begin speech t=0212.760s>
+content: "Politics is winner."
+<end speech t=0214.200s>
+
+<begin speech t=0214.200s>
+content: "Take all it always has been."
+<end speech t=0217.120s>
+
+<begin speech t=0217.120s>
+content: "It is always win or lead."
+<end speech t=0219.440s>
+
+<begin speech t=0220.440s>
+content: "If nominated tonight,"
+<end speech t=0222.440s>
+
+<begin speech t=0223.440s>
+content: "I want to develop and expand my campaign"
+<end speech t=0226.440s>
+
+<begin speech t=0226.440s>
+content: "for what I believe is the greatest strength"
+<end speech t=0228.440s>
+
+<begin speech t=0228.440s>
+content: "of the Star County Republican Party,"
+<end speech t=0230.440s>
+
+<begin speech t=0230.440s>
+content: "and that is its people."
+<end speech t=0232.440s>
+
+<begin speech t=0234.440s>
+content: "I believe in the axiom"
+<end speech t=0237.440s>
+
+<begin speech t=0237.440s>
+content: "that all politics is local."
+<end speech t=0240.440s>
+
+<begin speech t=0245.440s>
+content: "And because of this belief,"
+<end speech t=0247.440s>
+
+<begin speech t=0248.440s>
+content: "I want to harness the thoughts and ideas"
+<end speech t=0252.440s>
+
+<begin speech t=0252.440s>
+content: "that individuals in our party have."
+<end speech t=0254.440s>
+
+<begin speech t=0256.440s>
+content: "Concerning Star County and its political subdivisions."
+<end speech t=0260.440s>
+
+<begin speech t=0266.440s>
+content: "And use that to its fullest extent."
+<end speech t=0268.440s>
+
+<begin speech t=0268.440s>
+content: "Knowledge is power."
+<end speech t=0270.440s>
+
+<begin speech t=0271.440s>
+content: "Let's have indigenous knowledge and use it as a tool"
+<end speech t=0274.440s>
+
+<begin speech t=0274.440s>
+content: "to win the Treasurer's Office."
+<end speech t=0276.440s>
+
+<begin speech t=0277.440s>
+content: "Let's use this knowledge not only as a tool,"
+<end speech t=0280.440s>
+
+<begin speech t=0280.440s>
+content: "but as a weapon."
+<end speech t=0282.440s>
+
+<begin speech t=0284.440s>
+content: "We must win this election."
+<end speech t=0286.440s>
+
+<begin speech t=0286.440s>
+content: "And nominated tonight, I will win this election."
+<end speech t=0289.440s>
+
+<begin speech t=0289.440s>
+content: "And I'm going to say that again"
+<end speech t=0290.440s>
+
+<begin speech t=0290.440s>
+content: "to a bit of focus communication tonight."
+<end speech t=0292.440s>
+
+<begin speech t=0292.440s>
+content: "If nominated tonight, I win."
+<end speech t=0295.440s>
+
+<begin speech t=0295.440s>
+content: "Tell your friends, tell your neighbors,"
+<end speech t=0297.440s>
+
+<begin speech t=0297.440s>
+content: "tell me to control us."
+<end speech t=0299.440s>
+
+<begin speech t=0300.440s>
+content: "I'm coming."
+<end speech t=0301.440s>
+
+<begin speech t=0301.440s>
+content: "Both barrels guns loaded."
+<end speech t=0303.440s>
+
+<begin speech t=0303.440s>
+content: "I believe in the entities"
+<end speech t=0305.440s>
+
+<begin speech t=0305.440s>
+content: "and the principles of the National Republican Party,"
+<end speech t=0307.440s>
+
+<begin speech t=0307.440s>
+content: "the state of Ohio Republican Party,"
+<end speech t=0309.440s>
+
+<begin speech t=0309.440s>
+content: "and the Star County Republican Party."
+<end speech t=0311.440s>
+
+<begin speech t=0312.440s>
+content: "And if not, I will not hide those beliefs"
+<end speech t=0314.440s>
+
+<begin speech t=0314.440s>
+content: "on my march to victory on election day."
+<end speech t=0317.440s>
+
+<begin speech t=0317.440s>
+content: "And nominated tonight, I can guarantee with 100% certainty"
+<end speech t=0321.440s>
+
+<begin speech t=0321.440s>
+content: "that what you will receive from me tonight"
+<end speech t=0323.440s>
+
+<begin speech t=0323.440s>
+content: "is what everyone else on those doors"
+<end speech t=0325.440s>
+
+<begin speech t=0325.440s>
+content: "is going to get over the next eight weeks."
+<end speech t=0327.440s>
+
+<begin speech t=0327.440s>
+content: "I used to be an idealistic thinker"
+<end speech t=0329.440s>
+
+<begin speech t=0329.440s>
+content: "and an act in pragmatic paper."
+<end speech t=0331.440s>
+
+<begin speech t=0331.440s>
+content: "Government may be about service"
+<end speech t=0333.440s>
+
+<begin speech t=0333.440s>
+content: "politics is about winning."
+<end speech t=0335.440s>
+
+<begin speech t=0337.440s>
+content: "Tonight is a candidate seeking the"
+<end speech t=0339.440s>
+
+<begin speech t=0339.440s>
+content: "Republican nomination for the position of"
+<end speech t=0341.440s>
+
+<begin speech t=0341.440s>
+content: "Star County Treasurer."
+<end speech t=0342.440s>
+
+<begin speech t=0342.440s>
+content: "I humbly ask for your both members"
+<end speech t=0344.440s>
+
+<begin speech t=0344.440s>
+content: "of the Star County Republican Party Executive Committee."
+<end speech t=0347.440s>
+
+<begin speech t=0347.440s>
+content: "Thank you."
+<end speech t=0348.440s>

@@ -1,0 +1,479 @@
+<begin speech t=0000.000s>
+content: "Please welcome our next contestant,"
+<end speech t=0002.400s>
+
+<begin speech t=0002.400s>
+content: "Muhammad Khatani, the power of words."
+<end speech t=0006.000s>
+
+<begin speech t=0006.000s>
+content: "The power of words, Muhammad Khatani."
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "What?"
+<end speech t=0040.000s>
+
+<begin speech t=0040.000s>
+content: "All you all think smoking kills?"
+<end speech t=0044.000s>
+
+<begin speech t=0044.000s>
+content: "Let me tell you something."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "Do you know that the amount of people dying from diabetes"
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "are three times as many people dying from smoking?"
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "Yet if I put a sneaker bar, nobody will say anything."
+<end speech t=0061.000s>
+
+<begin speech t=0061.000s>
+content: "Do you know that the leading cause of mind cancer?"
+<end speech t=0065.000s>
+
+<begin speech t=0065.000s>
+content: "Is that actually a cigarette?"
+<end speech t=0067.000s>
+
+<begin speech t=0067.000s>
+content: "It's your DNA."
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "You could smoke for years and nothing would ever happen to you."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "This whole war against smoking is just to restrict the pharma gofte back up."
+<end speech t=0078.000s>
+
+<begin speech t=0078.000s>
+content: "Mr. Khatani, share, parathos, masters and guests."
+<end speech t=0083.000s>
+
+<begin speech t=0083.000s>
+content: "I use these arguments, even though I just made them up."
+<end speech t=0088.000s>
+
+<begin speech t=0088.000s>
+content: "We have proven my friends, and the results,"
+<end speech t=0098.000s>
+
+<begin speech t=0098.000s>
+content: "five of them believed what I said, two of them started smoking."
+<end speech t=0107.000s>
+
+<begin speech t=0107.000s>
+content: "Words when said and articulated in the right way can change someone's mind."
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "They can alter someone's belief."
+<end speech t=0116.000s>
+
+<begin speech t=0116.000s>
+content: "You have the power to bring someone from the slums of life"
+<end speech t=0120.000s>
+
+<begin speech t=0120.000s>
+content: "and make a successful person out of them."
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "Or destroy someone's happiness using only your words."
+<end speech t=0129.000s>
+
+<begin speech t=0129.000s>
+content: "Does that seem a bit too good to be true?"
+<end speech t=0133.000s>
+
+<begin speech t=0133.000s>
+content: "A simple choice of word can make a difference between someone accepting"
+<end speech t=0137.000s>
+
+<begin speech t=0137.000s>
+content: "or denying your message."
+<end speech t=0139.000s>
+
+<begin speech t=0139.000s>
+content: "You can have a very beautiful thing to say, but say it in the wrong words and..."
+<end speech t=0145.000s>
+
+<begin speech t=0146.000s>
+content: "It's gone."
+<end speech t=0147.000s>
+
+<begin speech t=0149.000s>
+content: "I have a son who was four, and he had this bad habit of writing on the walls with chaos."
+<end speech t=0156.000s>
+
+<begin speech t=0156.000s>
+content: "And what evening are you walking to his room and he's going out and just writing and drawing and so on and as it..."
+<end speech t=0162.000s>
+
+<begin speech t=0162.000s>
+content: "Hey, hey, hey!"
+<end speech t=0163.000s>
+
+<begin speech t=0167.000s>
+content: "Are you stupid?"
+<end speech t=0168.000s>
+
+<begin speech t=0171.000s>
+content: "Don't you ever do that again."
+<end speech t=0173.000s>
+
+<begin speech t=0176.000s>
+content: "And guess what happened?"
+<end speech t=0177.000s>
+
+<begin speech t=0178.000s>
+content: "He did it again."
+<end speech t=0179.000s>
+
+<begin speech t=0181.000s>
+content: "Nobody likes to be threatened. Nobody likes to be intimidated."
+<end speech t=0184.000s>
+
+<begin speech t=0185.000s>
+content: "His pride will not allow it."
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "He did it again just to spite me."
+<end speech t=0190.000s>
+
+<begin speech t=0191.000s>
+content: "A week later, I walked into his room and again, he's going at it."
+<end speech t=0194.000s>
+
+<begin speech t=0194.000s>
+content: "And this time he was even looking at me just..."
+<end speech t=0196.000s>
+
+<begin speech t=0206.000s>
+content: "I came down and said, sweetie, come here."
+<end speech t=0209.000s>
+
+<begin speech t=0212.000s>
+content: "Don't do that. You're a big boy now."
+<end speech t=0214.000s>
+
+<begin speech t=0216.000s>
+content: "And he never did it again."
+<end speech t=0218.000s>
+
+<begin speech t=0218.000s>
+content: "Because his pride wants him to be the big boy."
+<end speech t=0222.000s>
+
+<begin speech t=0225.000s>
+content: "Have you ever wondered why nobody cares about global warming, even though it's a very serious issue?"
+<end speech t=0231.000s>
+
+<begin speech t=0232.000s>
+content: "It could kill all of us."
+<end speech t=0234.000s>
+
+<begin speech t=0235.000s>
+content: "Because when you go home and you flip on the TV and you see a scientist trying to talk about global warming, it goes something like this."
+<end speech t=0245.000s>
+
+<begin speech t=0252.000s>
+content: "Ladies and gentlemen, I'm energy can see from the grass here."
+<end speech t=0254.000s>
+
+<begin speech t=0254.000s>
+content: "The sisters were..."
+<end speech t=0255.000s>
+
+<begin speech t=0256.000s>
+content: "For 2014, they chose the water level as writing."
+<end speech t=0258.000s>
+
+<begin speech t=0262.000s>
+content: "This table shows that they wanted the actual level and the third order was on the level."
+<end speech t=0267.000s>
+
+<begin speech t=0267.000s>
+content: "Is anybody on the warming position?"
+<end speech t=0269.000s>
+
+<begin speech t=0279.000s>
+content: "The message never get across."
+<end speech t=0282.000s>
+
+<begin speech t=0284.000s>
+content: "But most importantly, if you are a person who's a role model,"
+<end speech t=0288.000s>
+
+<begin speech t=0288.000s>
+content: "if you are a person who's been admired, anything you say could be believed."
+<end speech t=0292.000s>
+
+<begin speech t=0293.000s>
+content: "Anything you utter could be taken as truth."
+<end speech t=0296.000s>
+
+<begin speech t=0298.000s>
+content: "My friend, Nasa, he loved his father."
+<end speech t=0301.000s>
+
+<begin speech t=0302.000s>
+content: "Idealized his father. He would do anything to make him happy."
+<end speech t=0306.000s>
+
+<begin speech t=0308.000s>
+content: "But his father was the kind of person who's not easy to impress."
+<end speech t=0311.000s>
+
+<begin speech t=0311.000s>
+content: "And year after year Nasa tried and his father was like, man..."
+<end speech t=0315.000s>
+
+<begin speech t=0319.000s>
+content: "For us here in college, Nasa got straight A's."
+<end speech t=0321.000s>
+
+<begin speech t=0322.000s>
+content: "And he got to himself, this is it."
+<end speech t=0323.000s>
+
+<begin speech t=0324.000s>
+content: "This was what finally made my dad proud."
+<end speech t=0326.000s>
+
+<begin speech t=0327.000s>
+content: "He picked up the phone. He called his dad, dad."
+<end speech t=0330.000s>
+
+<begin speech t=0331.000s>
+content: "I got straight A's."
+<end speech t=0332.000s>
+
+<begin speech t=0335.000s>
+content: "Are you proud?"
+<end speech t=0336.000s>
+
+<begin speech t=0338.000s>
+content: "Please tell me you're proud, father."
+<end speech t=0340.000s>
+
+<begin speech t=0342.000s>
+content: "Yeah, listen son. I have to call you back and busy."
+<end speech t=0345.000s>
+
+<begin speech t=0349.000s>
+content: "And busy was the single sentence that broke the camel's back."
+<end speech t=0357.000s>
+
+<begin speech t=0360.000s>
+content: "And he started drinking."
+<end speech t=0361.000s>
+
+<begin speech t=0364.000s>
+content: "Doing drugs, hanging out with the wrong crowd."
+<end speech t=0368.000s>
+
+<begin speech t=0369.000s>
+content: "Nasa, why?"
+<end speech t=0370.000s>
+
+<begin speech t=0372.000s>
+content: "Why are you throwing your life away?"
+<end speech t=0374.000s>
+
+<begin speech t=0379.000s>
+content: "If the one person in the world that I care about the most doesn't care, then..."
+<end speech t=0382.000s>
+
+<begin speech t=0384.000s>
+content: "Then why should I?"
+<end speech t=0385.000s>
+
+<begin speech t=0387.000s>
+content: "And one evening I got the phone call."
+<end speech t=0389.000s>
+
+<begin speech t=0390.000s>
+content: "Nasa was in the emergency room."
+<end speech t=0391.000s>
+
+<begin speech t=0392.000s>
+content: "Drug overdose."
+<end speech t=0393.000s>
+
+<begin speech t=0394.000s>
+content: "I rushed to the hospital."
+<end speech t=0395.000s>
+
+<begin speech t=0396.000s>
+content: "I saw him on that bed."
+<end speech t=0398.000s>
+
+<begin speech t=0398.000s>
+content: "And I saw that machine go..."
+<end speech t=0400.000s>
+
+<begin speech t=0401.000s>
+content: "Beep, beep, beep."
+<end speech t=0404.000s>
+
+<begin speech t=0406.000s>
+content: "And I saw doctors trying to bring him back to life."
+<end speech t=0408.000s>
+
+<begin speech t=0410.000s>
+content: "Clear!"
+<end speech t=0411.000s>
+
+<begin speech t=0412.000s>
+content: "Clear!"
+<end speech t=0413.000s>
+
+<begin speech t=0414.000s>
+content: "Clear!"
+<end speech t=0415.000s>
+
+<begin speech t=0417.000s>
+content: "It's clear that a single word could have saved this life."
+<end speech t=0423.000s>
+
+<begin speech t=0427.000s>
+content: "Words have power."
+<end speech t=0428.000s>
+
+<begin speech t=0429.000s>
+content: "Words are power."
+<end speech t=0430.000s>
+
+<begin speech t=0431.000s>
+content: "Words could be your power."
+<end speech t=0433.000s>
+
+<begin speech t=0435.000s>
+content: "You can change your life, inspire our nation, and make this world a beautiful place."
+<end speech t=0441.000s>
+
+<begin speech t=0443.000s>
+content: "Isn't that what we all wanted?"
+<end speech t=0444.000s>
+
+<begin speech t=0445.000s>
+content: "Isn't that what we are all in this hall?"
+<end speech t=0447.000s>
+
+<begin speech t=0450.000s>
+content: "Your mouth can spit venom."
+<end speech t=0452.000s>
+
+<begin speech t=0453.000s>
+content: "Or it can mend a broken soul."
+<end speech t=0456.000s>
+
+<begin speech t=0457.000s>
+content: "Ladies and gentlemen, let that be our goal."
+<end speech t=0462.000s>
+
+<begin speech t=0463.000s>
+content: "Contissor."
+<end speech t=0464.000s>
+
+<begin speech t=0479.000s>
+content: "Alright."
+<end speech t=0480.000s>
+
+<begin speech t=0480.000s>
+content: "Then we'll shortly hear from our winner this year."
+<end speech t=0484.000s>
+
+<begin speech t=0485.000s>
+content: "Please welcome to the stage first place in our championship,"
+<end speech t=0488.000s>
+
+<begin speech t=0488.000s>
+content: "Muhammad Katani!"
+<end speech t=0489.000s>
+
+<begin speech t=0544.000s>
+content: "Thank you."
+<end speech t=0545.000s>
+
+<begin speech t=0563.000s>
+content: "In just one moment we'll hear from Muhammad."
+<end speech t=0565.000s>
+
+<begin speech t=0566.000s>
+content: "Alright, and let's hear from our first place winner,"
+<end speech t=0573.000s>
+
+<begin speech t=0573.000s>
+content: "Muhammad!"
+<end speech t=0574.000s>
+
+<begin speech t=0585.000s>
+content: "I did not know it's this big."
+<end speech t=0587.000s>
+
+<begin speech t=0592.000s>
+content: "Ladies and gentlemen,"
+<end speech t=0594.000s>
+
+<begin speech t=0596.000s>
+content: "when we did the semifinals and I wanted to ask me to say something,"
+<end speech t=0601.000s>
+
+<begin speech t=0601.000s>
+content: "and I said, honestly I didn't prepare anything because I did not expect to win."
+<end speech t=0606.000s>
+
+<begin speech t=0607.000s>
+content: "And I'm coming here today and again, I did not expect to win."
+<end speech t=0611.000s>
+
+<begin speech t=0616.000s>
+content: "But I wanted to think about what are your challenges,"
+<end speech t=0619.000s>
+
+<begin speech t=0620.000s>
+content: "and what are the things that you think is impossible."
+<end speech t=0623.000s>
+
+<begin speech t=0624.000s>
+content: "Because this was impossible."
+<end speech t=0627.000s>
+
+<begin speech t=0628.000s>
+content: "Not just for me, but for almost everybody who knows me."
+<end speech t=0631.000s>
+
+<begin speech t=0633.000s>
+content: "And yet here is."
+<end speech t=0635.000s>
+
+<begin speech t=0636.000s>
+content: "I don't want to say it again, but if I can't do this,"
+<end speech t=0640.000s>
+
+<begin speech t=0641.000s>
+content: "think about that thing that you thought you could never do."
+<end speech t=0645.000s>
+
+<begin speech t=0647.000s>
+content: "Or you just gave up on because maybe it's way up ahead and I cannot do it."
+<end speech t=0652.000s>
+
+<begin speech t=0654.000s>
+content: "And when you do, I want you to remember that Muhammad Katani got this."
+<end speech t=0658.000s>
+
+<begin speech t=0659.000s>
+content: "And also you can do the same. Thank you."
+<end speech t=0662.000s>

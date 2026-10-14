@@ -1,0 +1,270 @@
+{
+  "corpus_size": 34,
+  "feature_metrics": [
+    "f0_semitones",
+    "f0_velocity_hz_per_sec",
+    "energy_dynamic_range_db",
+    "papr_crest_factor",
+    "pause_ratio",
+    "pauses_per_minute",
+    "avg_pause_duration_sec",
+    "rhetorical_pause_ratio",
+    "articulation_rate_sps",
+    "tempo_stability_std",
+    "spectral_centroid_mean_hz",
+    "spectral_flux"
+  ],
+  "corpus_benchmarks": {
+    "f0_semitones": 17.8,
+    "f0_velocity_hz_per_sec": 648.38,
+    "energy_dynamic_range_db": 41.67,
+    "papr_crest_factor": 39.65,
+    "pause_ratio": 0.2,
+    "pauses_per_minute": 17.14,
+    "avg_pause_duration_sec": 0.72,
+    "rhetorical_pause_ratio": 0.48,
+    "articulation_rate_sps": 5.68,
+    "tempo_stability_std": 0.28,
+    "spectral_centroid_mean_hz": 1449.87,
+    "spectral_flux": 4.73
+  },
+  "pca_variance_explained": [
+    0.263,
+    0.201
+  ],
+  "clustering_metrics": {
+    "2": {
+      "silhouette": 0.42395578390664546,
+      "calinski_harabasz": 6.820930090782989
+    },
+    "3": {
+      "silhouette": 0.1522723693347038,
+      "calinski_harabasz": 7.332656968003711
+    },
+    "4": {
+      "silhouette": 0.1217978811148096,
+      "calinski_harabasz": 6.995596369499415
+    },
+    "5": {
+      "silhouette": 0.1620114059054007,
+      "calinski_harabasz": 6.966699861188472
+    }
+  },
+  "oratorical_groups": {
+    "0": {
+      "group_id": 0,
+      "name": "Intimate & Meditative Narrative Exposition",
+      "speech_count": 2,
+      "percentage_of_corpus": 5.9,
+      "style_definition": "Gentle vocal modulation, slower articulation tempo, wide studio mastering dynamic range, and extended meditative pauses.",
+      "rhetorical_intent": "Reflective philosophies, personal parables, deep pedagogical instruction, and introspective lectures.",
+      "rubric_grading_posture": "Judges reward warmth, steady breath control, vocal clarity, and unhurried pacing. Penalize harsh loudness spikes or rushed narrative transitions.",
+      "centroids": {
+        "f0_semitones": 16.0,
+        "f0_velocity_hz_per_sec": 560.02,
+        "energy_dynamic_range_db": 97.72,
+        "papr_crest_factor": 50.11,
+        "pause_ratio": 0.2,
+        "pauses_per_minute": 12.9,
+        "avg_pause_duration_sec": 1.03,
+        "rhetorical_pause_ratio": 0.59,
+        "articulation_rate_sps": 5.17,
+        "tempo_stability_std": 0.67,
+        "spectral_centroid_mean_hz": 1954.92,
+        "spectral_flux": 3.94
+      },
+      "deviations_vs_corpus_percent": {
+        "f0_semitones": -10.1,
+        "f0_velocity_hz_per_sec": -13.6,
+        "energy_dynamic_range_db": 134.5,
+        "papr_crest_factor": 26.4,
+        "pause_ratio": 0.0,
+        "pauses_per_minute": -24.7,
+        "avg_pause_duration_sec": 43.1,
+        "rhetorical_pause_ratio": 22.9,
+        "articulation_rate_sps": -9.0,
+        "tempo_stability_std": 139.3,
+        "spectral_centroid_mean_hz": 34.8,
+        "spectral_flux": -16.7
+      },
+      "representative_speeches": [
+        {
+          "title": "Jon Stewart slams Congress over benefits for 9/11 first responders",
+          "speaker": "Jon",
+          "pitch_semitones": 17.42,
+          "pause_ratio": 0.216,
+          "articulation_rate": 5.39
+        },
+        {
+          "title": "The Wisest Book Ever Written! (Law Of Attraction) *Learn THIS!",
+          "speaker": "The",
+          "pitch_semitones": 14.57,
+          "pause_ratio": 0.189,
+          "articulation_rate": 4.96
+        }
+      ]
+    },
+    "1": {
+      "group_id": 1,
+      "name": "Passionate Crescendo & High-Activation Orators",
+      "speech_count": 18,
+      "percentage_of_corpus": 52.9,
+      "style_definition": "High emotional activation, expansive musical dynamic range, dramatic pitch velocity, and deliberate extended theatrical pauses before thesis crescendos.",
+      "rhetorical_intent": "Inspirational appeals, moral declamations, urgent calls to action, and cinematic dramatic storytelling.",
+      "rubric_grading_posture": "Judges expect expansive pitch excursion on operative keywords (>=18 semitones) and substantial dramatic pauses (>=0.85s) before climaxes. Penalize flat inflection or rushed climaxes.",
+      "centroids": {
+        "f0_semitones": 19.62,
+        "f0_velocity_hz_per_sec": 725.08,
+        "energy_dynamic_range_db": 34.78,
+        "papr_crest_factor": 30.36,
+        "pause_ratio": 0.19,
+        "pauses_per_minute": 17.35,
+        "avg_pause_duration_sec": 0.68,
+        "rhetorical_pause_ratio": 0.42,
+        "articulation_rate_sps": 5.64,
+        "tempo_stability_std": 0.26,
+        "spectral_centroid_mean_hz": 1262.34,
+        "spectral_flux": 5.97
+      },
+      "deviations_vs_corpus_percent": {
+        "f0_semitones": 10.2,
+        "f0_velocity_hz_per_sec": 11.8,
+        "energy_dynamic_range_db": -16.5,
+        "papr_crest_factor": -23.4,
+        "pause_ratio": -5.0,
+        "pauses_per_minute": 1.2,
+        "avg_pause_duration_sec": -5.6,
+        "rhetorical_pause_ratio": -12.5,
+        "articulation_rate_sps": -0.7,
+        "tempo_stability_std": -7.1,
+        "spectral_centroid_mean_hz": -12.9,
+        "spectral_flux": 26.2
+      },
+      "representative_speeches": [
+        {
+          "title": "Martin Luther King | \"I Have A Dream\" Speech",
+          "speaker": "Martin Luther King",
+          "pitch_semitones": 16.68,
+          "pause_ratio": 0.182,
+          "articulation_rate": 5.67
+        },
+        {
+          "title": "Martin Luther King | \"I Have A Dream\" Speech",
+          "speaker": "Martin Luther King",
+          "pitch_semitones": 16.68,
+          "pause_ratio": 0.182,
+          "articulation_rate": 5.67
+        },
+        {
+          "title": "[Best Version] The Great Dictator Speech - Charlie Chaplin + Time - Hans Zimmer (INCEPTION Theme)",
+          "speaker": "[Best Version] The Great Dictator Speech",
+          "pitch_semitones": 25.63,
+          "pause_ratio": 0.204,
+          "articulation_rate": 5.86
+        },
+        {
+          "title": "\"I Went From 3rd Grade Dropout To ULTRA SUCCESSFUL\" | Rick Rigsby",
+          "speaker": "\"I Went From 3rd Grade Dropout To ULTRA SUCCESSFUL\"",
+          "pitch_semitones": 19.91,
+          "pause_ratio": 0.185,
+          "articulation_rate": 5.62
+        },
+        {
+          "title": "One of the Greatest Speeches Ever | Jeff Bezos",
+          "speaker": "One of the Greatest Speeches Ever",
+          "pitch_semitones": 17.21,
+          "pause_ratio": 0.164,
+          "articulation_rate": 5.51
+        },
+        {
+          "title": "The Lie We Live",
+          "speaker": "The",
+          "pitch_semitones": 12.23,
+          "pause_ratio": 0.188,
+          "articulation_rate": 5.65
+        }
+      ]
+    },
+    "2": {
+      "group_id": 2,
+      "name": "Authoritative & Measured Statesmen",
+      "speech_count": 14,
+      "percentage_of_corpus": 41.2,
+      "style_definition": "Controlled musical pitch dynamic range, steady articulation tempo, disciplined syntactic pause placement, and high pause cadence with medium pause lengths.",
+      "rhetorical_intent": "Presidential inaugurations, wartime declarations, motivational instruction, and strategic thought leadership.",
+      "rubric_grading_posture": "Judges reward disciplined clause bounding, steady cadence stability, and dignified vocal projection without theatrical melodrama. Penalize erratic pacing or disjointed syntax.",
+      "centroids": {
+        "f0_semitones": 15.73,
+        "f0_velocity_hz_per_sec": 562.38,
+        "energy_dynamic_range_db": 42.51,
+        "papr_crest_factor": 50.09,
+        "pause_ratio": 0.21,
+        "pauses_per_minute": 17.48,
+        "avg_pause_duration_sec": 0.74,
+        "rhetorical_pause_ratio": 0.54,
+        "articulation_rate_sps": 5.8,
+        "tempo_stability_std": 0.26,
+        "spectral_centroid_mean_hz": 1618.83,
+        "spectral_flux": 3.25
+      },
+      "deviations_vs_corpus_percent": {
+        "f0_semitones": -11.6,
+        "f0_velocity_hz_per_sec": -13.3,
+        "energy_dynamic_range_db": 2.0,
+        "papr_crest_factor": 26.3,
+        "pause_ratio": 5.0,
+        "pauses_per_minute": 2.0,
+        "avg_pause_duration_sec": 2.8,
+        "rhetorical_pause_ratio": 12.5,
+        "articulation_rate_sps": 2.1,
+        "tempo_stability_std": -7.1,
+        "spectral_centroid_mean_hz": 11.7,
+        "spectral_flux": -31.3
+      },
+      "representative_speeches": [
+        {
+          "title": "Sam's Speech - Great Stories Compilation",
+          "speaker": "Sam's Speech",
+          "pitch_semitones": 21.0,
+          "pause_ratio": 0.242,
+          "articulation_rate": 6.19
+        },
+        {
+          "title": "President John F. Kennedy's Inaugural Address",
+          "speaker": "President",
+          "pitch_semitones": 13.42,
+          "pause_ratio": 0.21,
+          "articulation_rate": 5.86
+        },
+        {
+          "title": "President Franklin D. Roosevelt Declares War on Japan (Full Speech) | War Archives",
+          "speaker": "President Franklin D. Roosevelt Declares War on Japan (Full Speech)",
+          "pitch_semitones": 14.52,
+          "pause_ratio": 0.23,
+          "articulation_rate": 6.09
+        },
+        {
+          "title": "Valedictorian Shocks World with Brutally Honest Graduation Speech",
+          "speaker": "Valedictorian",
+          "pitch_semitones": 9.52,
+          "pause_ratio": 0.189,
+          "articulation_rate": 5.55
+        },
+        {
+          "title": "Why I, as a black man, attend KKK rallies. | Daryl Davis | TEDxNaperville",
+          "speaker": "Why I, as a black man, attend KKK rallies.",
+          "pitch_semitones": 17.79,
+          "pause_ratio": 0.207,
+          "articulation_rate": 5.8
+        },
+        {
+          "title": "Mystery School Lesson 6: Accessing Knowledge Part 3",
+          "speaker": "Mystery",
+          "pitch_semitones": 10.78,
+          "pause_ratio": 0.179,
+          "articulation_rate": 5.53
+        }
+      ]
+    }
+  }
+}

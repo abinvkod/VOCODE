@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/47_Elven_Love_Life_Without_Regrets/audio.mp3",
+  "clean_file": "good speeches/47_Elven_Love_Life_Without_Regrets/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1171.133,
+  "clean_duration_sec": 1168.652,
+  "lead_trim_sec": 0.29,
+  "tail_trim_sec": 2.191,
+  "measured_lufs_raw": -27.99,
+  "target_lufs": -20.0,
+  "gain_applied_db": 3.73,
+  "snr_raw_db": 17.18,
+  "snr_clean_db": 19.16,
+  "snr_improvement_db": 1.98,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 2912,
+    "utterance_count": 199
+  },
+  "status": "READY_FOR_EVALUATION"
+}

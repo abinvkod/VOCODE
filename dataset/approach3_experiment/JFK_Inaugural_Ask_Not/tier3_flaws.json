@@ -1,0 +1,28 @@
+[
+  {
+    "flaw_type": "DEAD_AIR_PAUSE",
+    "t_start": 45.0,
+    "t_end": 49.8,
+    "duration": 4.8,
+    "method": "ambient_room_tone_inpainting",
+    "description": "Organic awkward pause of 4.80s with hall atmosphere inpainting"
+  },
+  {
+    "flaw_type": "MONOTONE",
+    "t_start": 25.0,
+    "t_end": 38.0,
+    "duration": 13.0,
+    "method": "world_vocoder_formant_preserving",
+    "flattening_ratio": 0.08,
+    "description": "Vocal tract preserved pitch flattening (8% F0 dynamism)"
+  },
+  {
+    "flaw_type": "NERVOUS_STAMMER_REPETITION",
+    "t_start": 17.5,
+    "t_end": 25.36,
+    "duration": 5.36,
+    "method": "phonetic_unit_splicing",
+    "repeats": 2,
+    "description": "Nervous repetition loop repeated 2 times with micro-hesitations"
+  }
+]

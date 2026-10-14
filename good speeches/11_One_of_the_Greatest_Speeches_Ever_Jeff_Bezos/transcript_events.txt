@@ -1,0 +1,607 @@
+<begin speech t=0000.000s>
+content: "You guys will find that you have passions and having a passion is a gift."
+<end speech t=0006.720s>
+
+<begin speech t=0006.720s>
+content: "I think we all have passions and you don't get to choose them."
+<end speech t=0010.760s>
+
+<begin speech t=0010.760s>
+content: "They pick you, but you have to be alert to them."
+<end speech t=0013.360s>
+
+<begin speech t=0013.360s>
+content: "You have to be looking for them."
+<end speech t=0015.240s>
+
+<begin speech t=0015.240s>
+content: "And when you find your passion, it's a fantastic gift for you because it gives you direction,"
+<end speech t=0020.440s>
+
+<begin speech t=0020.440s>
+content: "gives you purpose."
+<end speech t=0021.440s>
+
+<begin speech t=0021.440s>
+content: "You could have a job or you can have a career or you can have a calling and the best thing"
+<end speech t=0026.240s>
+
+<begin speech t=0026.240s>
+content: "is to have a calling."
+<end speech t=0027.240s>
+
+<begin speech t=0027.240s>
+content: "And if you find your passion, you'll have that and all your work won't feel like work"
+<end speech t=0030.720s>
+
+<begin speech t=0030.720s>
+content: "to you."
+<end speech t=0031.720s>
+
+<begin speech t=0031.720s>
+content: "Many, many kids and many grown-ups do figure out over time what their passions are."
+<end speech t=0038.920s>
+
+<begin speech t=0038.920s>
+content: "And sometimes we let our, I don't think it's that hard."
+<end speech t=0041.840s>
+
+<begin speech t=0041.840s>
+content: "I think what happens though sometimes is that we let our intellectual selves overrule those"
+<end speech t=0048.680s>
+
+<begin speech t=0048.680s>
+content: "passions."
+<end speech t=0050.000s>
+
+<begin speech t=0050.000s>
+content: "And so that's what needs to be guarded against."
+<end speech t=0052.280s>
+
+<begin speech t=0052.360s>
+content: "My job, one of my jobs as the leader of Amazon is to encourage people to be bold."
+<end speech t=0060.640s>
+
+<begin speech t=0060.640s>
+content: "And people love to focus on things that aren't yet working."
+<end speech t=0064.320s>
+
+<begin speech t=0064.320s>
+content: "And that's good as human nature."
+<end speech t=0066.240s>
+
+<begin speech t=0066.240s>
+content: "That kind of divide this content can be very helpful."
+<end speech t=0069.320s>
+
+<begin speech t=0069.320s>
+content: "But you really, it's incredibly hard to get people to take bold bets."
+<end speech t=0074.600s>
+
+<begin speech t=0074.600s>
+content: "And you need to encourage that."
+<end speech t=0076.400s>
+
+<begin speech t=0076.400s>
+content: "And if you're going to take bold bets, they're going to be experiments."
+<end speech t=0079.920s>
+
+<begin speech t=0079.920s>
+content: "And if they're experiments, you don't know ahead of time that they're going to work."
+<end speech t=0084.400s>
+
+<begin speech t=0084.400s>
+content: "Experiments are by their very nature prone to failure."
+<end speech t=0087.920s>
+
+<begin speech t=0087.920s>
+content: "But big successes, a few big successes compensate for dozens and dozens of things that didn't"
+<end speech t=0094.200s>
+
+<begin speech t=0094.200s>
+content: "work."
+<end speech t=0095.200s>
+
+<begin speech t=0095.200s>
+content: "So you know, bold bets, AWS, Kindle, Amazon Prime, our third-party seller business, all"
+<end speech t=0101.840s>
+
+<begin speech t=0101.840s>
+content: "of those things are examples of bold bets that did work."
+<end speech t=0107.640s>
+
+<begin speech t=0107.640s>
+content: "And they pay for a lot of experiments."
+<end speech t=0109.440s>
+
+<begin speech t=0109.480s>
+content: "I've made billions of dollars of failures at Amazon.com."
+<end speech t=0113.680s>
+
+<begin speech t=0113.680s>
+content: "Literally billions of dollars of failures."
+<end speech t=0117.040s>
+
+<begin speech t=0117.040s>
+content: "And you might remember pets.com or Cosmo or give myself a root canal with no anesthesia"
+<end speech t=0126.720s>
+
+<begin speech t=0126.720s>
+content: "very easily."
+<end speech t=0127.720s>
+
+<begin speech t=0127.720s>
+content: "None of those things are fun."
+<end speech t=0130.240s>
+
+<begin speech t=0130.240s>
+content: "But they also, they don't matter."
+<end speech t=0133.920s>
+
+<begin speech t=0133.920s>
+content: "What really matters is companies that don't continue to experiment."
+<end speech t=0138.160s>
+
+<begin speech t=0138.160s>
+content: "Companies that don't embrace failure, they eventually get in a desperate position where"
+<end speech t=0144.800s>
+
+<begin speech t=0144.800s>
+content: "they, the only thing they can do is make a kind of Hail Mary bet at the very end of their"
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "corporate existence."
+<end speech t=0150.480s>
+
+<begin speech t=0150.480s>
+content: "Whereas companies that are, you know, making bets all long, even, you know, big bets, but"
+<end speech t=0156.200s>
+
+<begin speech t=0156.200s>
+content: "not bet the company bets."
+<end speech t=0157.800s>
+
+<begin speech t=0157.800s>
+content: "I don't believe in bet the company bets."
+<end speech t=0160.440s>
+
+<begin speech t=0160.440s>
+content: "That's when you're desperate."
+<end speech t=0161.440s>
+
+<begin speech t=0161.440s>
+content: "That's the last thing you can do."
+<end speech t=0164.240s>
+
+<begin speech t=0164.240s>
+content: "It's not, you can be out of work and be, have terrible work, life, balance."
+<end speech t=0170.200s>
+
+<begin speech t=0170.200s>
+content: "You know, even though you've got all the time in the world, you could just feel like, oh"
+<end speech t=0173.400s>
+
+<begin speech t=0173.400s>
+content: "my God, you know, I'm miserable and you would be draining energy."
+<end speech t=0177.560s>
+
+<begin speech t=0177.560s>
+content: "And so you have to find that harmony."
+<end speech t=0179.720s>
+
+<begin speech t=0179.720s>
+content: "It's a much better word."
+<end speech t=0181.160s>
+
+<begin speech t=0181.160s>
+content: "And I think for most people, it's about meaning."
+<end speech t=0185.480s>
+
+<begin speech t=0185.480s>
+content: "People want to know that they're doing something interesting and useful."
+<end speech t=0189.480s>
+
+<begin speech t=0189.480s>
+content: "And for us, you know, because of the challenges that we have chosen for ourselves, we get"
+<end speech t=0195.400s>
+
+<begin speech t=0195.400s>
+content: "to work in the future."
+<end speech t=0197.000s>
+
+<begin speech t=0197.000s>
+content: "And it's super fun to work in the future for the right kind of person."
+<end speech t=0200.040s>
+
+<begin speech t=0200.040s>
+content: "You need to be nimble and robust."
+<end speech t=0204.720s>
+
+<begin speech t=0204.720s>
+content: "So you need to be able to take a punch and you also need to be quick and innovative and"
+<end speech t=0211.960s>
+
+<begin speech t=0211.960s>
+content: "doing new things at a high speed."
+<end speech t=0214.160s>
+
+<begin speech t=0214.160s>
+content: "That's the best defense against the future."
+<end speech t=0216.520s>
+
+<begin speech t=0216.520s>
+content: "And you have to always be leaning into the future."
+<end speech t=0218.880s>
+
+<begin speech t=0218.880s>
+content: "If you're leaning away from the future, the future is going to win every time."
+<end speech t=0224.040s>
+
+<begin speech t=0224.040s>
+content: "Never, ever, ever lean away from the future."
+<end speech t=0226.240s>
+
+<begin speech t=0226.240s>
+content: "We all have adversity in our lives."
+<end speech t=0228.800s>
+
+<begin speech t=0228.800s>
+content: "I doubt if you really, you know, if you know somebody, any friend or anybody that you talk"
+<end speech t=0235.560s>
+
+<begin speech t=0235.560s>
+content: "to, there's no lack of adversity."
+<end speech t=0239.480s>
+
+<begin speech t=0239.480s>
+content: "And by the way, that's good because it teaches us how to get back up."
+<end speech t=0245.240s>
+
+<begin speech t=0245.240s>
+content: "You fall down, you get back up."
+<end speech t=0246.880s>
+
+<begin speech t=0246.880s>
+content: "It always happens."
+<end speech t=0248.840s>
+
+<begin speech t=0248.840s>
+content: "Because you know, you get certain gifts in life and you want to take advantage of those."
+<end speech t=0255.440s>
+
+<begin speech t=0255.440s>
+content: "But you, I guess my advice on adversity and success would be to be proud not of your gifts"
+<end speech t=0267.040s>
+
+<begin speech t=0267.040s>
+content: "but of your hard work and your choices."
+<end speech t=0270.360s>
+
+<begin speech t=0270.360s>
+content: "So you know, you may be the kinds of gifts you get and you might be really good at math."
+<end speech t=0275.080s>
+
+<begin speech t=0275.080s>
+content: "It might be really easy for you."
+<end speech t=0277.320s>
+
+<begin speech t=0277.320s>
+content: "That's a kind of gift."
+<end speech t=0279.200s>
+
+<begin speech t=0279.200s>
+content: "But practicing that math and taking it to the next step, that could be very challenging"
+<end speech t=0284.800s>
+
+<begin speech t=0284.800s>
+content: "and hard and take a lot of sweat."
+<end speech t=0288.680s>
+
+<begin speech t=0288.680s>
+content: "That's a choice."
+<end speech t=0289.680s>
+
+<begin speech t=0289.680s>
+content: "You can't really be proud of your gifts because they were given to you."
+<end speech t=0293.960s>
+
+<begin speech t=0293.960s>
+content: "You can be grateful for them and thankful for them."
+<end speech t=0298.040s>
+
+<begin speech t=0298.040s>
+content: "But your choices, you choose to work hard."
+<end speech t=0302.040s>
+
+<begin speech t=0302.040s>
+content: "You choose to do hard things."
+<end speech t=0304.440s>
+
+<begin speech t=0304.440s>
+content: "Those are choices that you can be proud of."
+<end speech t=0307.080s>
+
+<begin speech t=0307.080s>
+content: "Being an inventor requires because the world is so complicated, you have to be a domain"
+<end speech t=0312.000s>
+
+<begin speech t=0312.000s>
+content: "expert."
+<end speech t=0313.000s>
+
+<begin speech t=0313.000s>
+content: "I mean, in a way, even if you're not at the beginning, you have to learn, learn, learn,"
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "learn enough so that you become a domain expert."
+<end speech t=0320.240s>
+
+<begin speech t=0320.240s>
+content: "But the danger is once you become a domain expert, you can be tracked by that knowledge."
+<end speech t=0324.760s>
+
+<begin speech t=0324.760s>
+content: "And so inventors have this paradoxical ability to have that, you know, 10,000 hours of practice"
+<end speech t=0332.040s>
+
+<begin speech t=0332.040s>
+content: "and be a real domain expert and have that beginner's mind."
+<end speech t=0337.360s>
+
+<begin speech t=0337.360s>
+content: "Have that look at it freshly even though they know so much about the domain."
+<end speech t=0343.520s>
+
+<begin speech t=0343.520s>
+content: "And that's the key to inventing."
+<end speech t=0346.880s>
+
+<begin speech t=0346.880s>
+content: "You have to have both."
+<end speech t=0348.080s>
+
+<begin speech t=0348.080s>
+content: "And I think that is intentional."
+<end speech t=0349.560s>
+
+<begin speech t=0349.560s>
+content: "I think all of us have that inside of us and we can all do it."
+<end speech t=0352.960s>
+
+<begin speech t=0352.960s>
+content: "But you have to be intentional about it."
+<end speech t=0354.520s>
+
+<begin speech t=0354.520s>
+content: "You have to say, yeah, I am going to become an expert and I'm going to keep my beginner's"
+<end speech t=0359.120s>
+
+<begin speech t=0359.120s>
+content: "mind."
+<end speech t=0360.120s>
+
+<begin speech t=0360.120s>
+content: "You can't skip steps."
+<end speech t=0361.800s>
+
+<begin speech t=0361.800s>
+content: "You have to put one foot in front of the other."
+<end speech t=0363.880s>
+
+<begin speech t=0363.880s>
+content: "Things take time."
+<end speech t=0366.080s>
+
+<begin speech t=0366.080s>
+content: "There are no shortcuts."
+<end speech t=0368.400s>
+
+<begin speech t=0368.400s>
+content: "And but you want to do those steps with passion and ferocity."
+<end speech t=0374.720s>
+
+<begin speech t=0374.720s>
+content: "It's easy to have ideas."
+<end speech t=0377.320s>
+
+<begin speech t=0377.320s>
+content: "It's very hard to turn an idea into a successful product."
+<end speech t=0380.880s>
+
+<begin speech t=0380.880s>
+content: "There are a lot of steps in between."
+<end speech t=0382.920s>
+
+<begin speech t=0382.920s>
+content: "It takes persistence, relentlessness."
+<end speech t=0386.360s>
+
+<begin speech t=0386.360s>
+content: "So I always tell people who think they want to be entrepreneurs."
+<end speech t=0391.640s>
+
+<begin speech t=0391.640s>
+content: "You need a combination of stubborn, relentlessness and flexibility."
+<end speech t=0399.240s>
+
+<begin speech t=0399.240s>
+content: "And you have to know when to be which."
+<end speech t=0402.280s>
+
+<begin speech t=0402.280s>
+content: "And basically you need to be stubborn on your vision because otherwise it will be too easy"
+<end speech t=0406.920s>
+
+<begin speech t=0406.920s>
+content: "to give up."
+<end speech t=0408.440s>
+
+<begin speech t=0408.440s>
+content: "But you need to be very flexible on the details because as you go along pursuing your vision,"
+<end speech t=0414.160s>
+
+<begin speech t=0414.160s>
+content: "you'll find that some of your preconceptions were wrong."
+<end speech t=0416.640s>
+
+<begin speech t=0416.640s>
+content: "And you're going to need to be able to change those things."
+<end speech t=0420.120s>
+
+<begin speech t=0420.120s>
+content: "So I think taking an idea successfully all the way to the market and turning it into"
+<end speech t=0425.920s>
+
+<begin speech t=0425.920s>
+content: "a real product that people care about and that really improves people's lives is a lot"
+<end speech t=0430.400s>
+
+<begin speech t=0430.400s>
+content: "of hard work."
+<end speech t=0432.000s>
+
+<begin speech t=0432.000s>
+content: "Don't try to chase what is kind of the hot passion of the day."
+<end speech t=0437.760s>
+
+<begin speech t=0437.760s>
+content: "I think we actually saw this."
+<end speech t=0438.760s>
+
+<begin speech t=0438.760s>
+content: "I think you see it all over the place in many different contexts."
+<end speech t=0441.760s>
+
+<begin speech t=0441.760s>
+content: "So I think we saw it in the internet world quite a bit where at the peak of the internet"
+<end speech t=0450.480s>
+
+<begin speech t=0450.480s>
+content: "of mania in say 1999, we found people who were very passionate about that kind of left"
+<end speech t=0459.240s>
+
+<begin speech t=0459.240s>
+content: "that job and decided to do something on the internet because it was almost like the 1849"
+<end speech t=0467.200s>
+
+<begin speech t=0467.200s>
+content: "gold rush in a way."
+<end speech t=0468.560s>
+
+<begin speech t=0468.560s>
+content: "And you find that people, if you go back and say to the history of the 1849 gold rush,"
+<end speech t=0473.280s>
+
+<begin speech t=0473.280s>
+content: "you find that at that time everybody who was in the shouting distance of California"
+<end speech t=0479.600s>
+
+<begin speech t=0479.600s>
+content: "was they might have been a doctor, but they quit being a doctor and they started panning"
+<end speech t=0483.240s>
+
+<begin speech t=0483.240s>
+content: "for gold."
+<end speech t=0484.240s>
+
+<begin speech t=0484.240s>
+content: "And that almost never works."
+<end speech t=0488.800s>
+
+<begin speech t=0488.800s>
+content: "And even if it does work according to some metric, financial success or whatever it might"
+<end speech t=0493.840s>
+
+<begin speech t=0493.840s>
+content: "be, I suspect it leaves you ultimately unsatisfied."
+<end speech t=0497.800s>
+
+<begin speech t=0497.800s>
+content: "So you really need to be very clear with yourself."
+<end speech t=0502.520s>
+
+<begin speech t=0502.520s>
+content: "And I think one of the best ways to do that is this notion of projecting yourself forward"
+<end speech t=0507.760s>
+
+<begin speech t=0507.760s>
+content: "to age 80, looking back on your life and trying to make sure you minimize the number of regrets"
+<end speech t=0513.080s>
+
+<begin speech t=0513.080s>
+content: "you have."
+<end speech t=0514.080s>
+
+<begin speech t=0514.080s>
+content: "That works for career decisions, it works for family decisions."
+<end speech t=0518.240s>
+
+<begin speech t=0518.240s>
+content: "You know, do you want, I have a 14 month old son and it's very easy for me to, if I think"
+<end speech t=0524.940s>
+
+<begin speech t=0524.940s>
+content: "about myself when I'm 80, I know I want to watch that little guy grow up."
+<end speech t=0530.300s>
+
+<begin speech t=0530.300s>
+content: "And so it's, I don't want to be 80 and think shoot, you know, I miss that whole thing and"
+<end speech t=0535.260s>
+
+<begin speech t=0535.260s>
+content: "I don't have the kind of relationship with my son that I wished I had and so on and so"
+<end speech t=0539.380s>
+
+<begin speech t=0539.380s>
+content: "on."
+<end speech t=0540.380s>
+
+<begin speech t=0540.380s>
+content: "So if you think about that, so I guess another thing that I would recommend to people is"
+<end speech t=0544.700s>
+
+<begin speech t=0544.700s>
+content: "that they always take a long term point of view."
+<end speech t=0547.500s>
+
+<begin speech t=0547.500s>
+content: "And I think this is something about which there's a lot of controversy."
+<end speech t=0551.340s>
+
+<begin speech t=0551.340s>
+content: "You know, there's a, there's a, you know, a lot of people and I'm just not one of them"
+<end speech t=0556.220s>
+
+<begin speech t=0556.220s>
+content: "believe that you should live for the now."
+<end speech t=0558.060s>
+
+<begin speech t=0558.060s>
+content: "I think what you do is you think about the great expanse of time ahead of you and try"
+<end speech t=0564.340s>
+
+<begin speech t=0564.340s>
+content: "to make sure that you're planning for that in a way that's going to lead you ultimately"
+<end speech t=0568.180s>
+
+<begin speech t=0568.180s>
+content: "satisfied."
+<end speech t=0569.980s>
+
+<begin speech t=0569.980s>
+content: "So this is just my, this is the way it works for me."
+<end speech t=0572.540s>
+
+<begin speech t=0572.540s>
+content: "And I mean, this is everybody needs to find that for themselves."
+<end speech t=0577.300s>
+
+<begin speech t=0577.300s>
+content: "So I think there are a lot of paths to satisfaction and you need to find one that works, works"
+<end speech t=0584.260s>
+
+<begin speech t=0584.260s>
+content: "for you."
+<end speech t=0584.740s>

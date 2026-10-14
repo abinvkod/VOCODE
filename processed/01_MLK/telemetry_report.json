@@ -1,0 +1,25 @@
+{
+  "source_file": "audio.mp3",
+  "clean_file": "preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1047.97,
+  "clean_duration_sec": 1044.95,
+  "lead_trim_sec": 1.47,
+  "tail_trim_sec": 1.55,
+  "measured_lufs_raw": -31.3,
+  "normalized_lufs": -20.0,
+  "snr_raw_db": 8.1,
+  "snr_clean_db": 10.9,
+  "snr_improvement_db": 2.82,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1667,
+    "total_utterances": 304,
+    "wer": 0.979
+  },
+  "status": "READY_FOR_EVALUATION"
+}

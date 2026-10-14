@@ -1,0 +1,227 @@
+<begin speech t=0000.000s>
+content: "Hi, I'm Emily Johnson. I'm going to be talking about the different areas in the marketing industry."
+<end speech t=0006.240s>
+
+<begin speech t=0008.000s>
+content: "So the first area that I want to talk about is the direct marketer, which is like a position"
+<end speech t=0015.280s>
+
+<begin speech t=0016.080s>
+content: "usually in a company such as Sony or Nike. For example, a product manager who wants to create"
+<end speech t=0023.200s>
+
+<begin speech t=0023.200s>
+content: "a concept of the product that they're trying to sell. Usually, however, they can't, the private"
+<end speech t=0032.640s>
+
+<begin speech t=0032.640s>
+content: "manager won't be able to create the concept completely by themselves, so they usually have to outsource"
+<end speech t=0039.680s>
+
+<begin speech t=0039.680s>
+content: "to an advertising agency. And then the advertising agency comes up with the actual concepts for that"
+<end speech t=0047.920s>
+
+<begin speech t=0048.240s>
+content: "advertisement to be put on TV, like commercial or something like that. For example, companies,"
+<end speech t=0055.120s>
+
+<begin speech t=0056.080s>
+content: "like advertising agencies are usually large companies in big cities like New York City or"
+<end speech t=0062.000s>
+
+<begin speech t=0062.000s>
+content: "Chicago or Los Angeles or something like that. So then after the advertising agency, there's the"
+<end speech t=0071.840s>
+
+<begin speech t=0072.800s>
+content: "media and media selling companies usually sell opportunities for the different advertisements"
+<end speech t=0081.680s>
+
+<begin speech t=0081.680s>
+content: "different forms of media. So for example, if you want to"
+<end speech t=0088.080s>
+
+<begin speech t=0090.400s>
+content: "like if you don't have a commercial on TV, the media selling company would come to you and offer"
+<end speech t=0097.040s>
+
+<begin speech t=0097.040s>
+content: "you the different numbers representing how many people view certain channels at certain times of"
+<end speech t=0104.480s>
+
+<begin speech t=0104.480s>
+content: "day and you would use those numbers to decide which time of day is best for your company to purchase"
+<end speech t=0110.560s>
+
+<begin speech t=0110.560s>
+content: "on which channel. Or they might also sell you different opportunities on websites to run an"
+<end speech t=0117.360s>
+
+<begin speech t=0117.360s>
+content: "online advertisement or they might sell space in newspaper or magazine. So now I'm going to talk"
+<end speech t=0126.160s>
+
+<begin speech t=0126.160s>
+content: "about the different fields and careers within these different areas of the marketing industry."
+<end speech t=0136.480s>
+
+<begin speech t=0138.560s>
+content: "Like first of all, everybody usually thinks about advertising when they think about marketing. So"
+<end speech t=0144.320s>
+
+<begin speech t=0144.320s>
+content: "the first thing that I'm going to go into is advertising and different careers and advertising"
+<end speech t=0149.680s>
+
+<begin speech t=0149.760s>
+content: "that you can have. So basically the advertising agencies like I talked about before they"
+<end speech t=0159.520s>
+
+<begin speech t=0160.640s>
+content: "create promotional campaigns, very product. The careers in advertising are usually very competitive"
+<end speech t=0169.280s>
+
+<begin speech t=0169.280s>
+content: "and they don't start out with a lot of money. You have to make a lot of money and kind of have to work"
+<end speech t=0173.440s>
+
+<begin speech t=0174.000s>
+content: "your way up. First there's the new first entire marketing agency, excuse me, and advertising agency."
+<end speech t=0181.600s>
+
+<begin speech t=0181.600s>
+content: "You can be a copywriter and come up with concepts for advertisements or you could be an art director"
+<end speech t=0187.120s>
+
+<begin speech t=0187.120s>
+content: "and assemble the layout of the advertisements. You could also be a creative director who's like"
+<end speech t=0194.720s>
+
+<begin speech t=0194.720s>
+content: "the top art director. They administer all the advertising campaigns. Then you can also be an"
+<end speech t=0202.320s>
+
+<begin speech t=0202.880s>
+content: "executive who is the link between the client and advertising agency. And they basically try to"
+<end speech t=0211.040s>
+
+<begin speech t=0211.040s>
+content: "keep the client happy with the agency's work and make sure that the agency is reflecting all the"
+<end speech t=0215.760s>
+
+<begin speech t=0216.400s>
+content: "different, you know, different concepts through the product that the original client wants to be"
+<end speech t=0227.520s>
+
+<begin speech t=0227.520s>
+content: "in the advertisement. Also at the advertising field is media buying and they're the people who"
+<end speech t=0237.840s>
+
+<begin speech t=0238.480s>
+content: "look at the different forms of media and decide which one will be most beneficial for the client."
+<end speech t=0243.360s>
+
+<begin speech t=0244.000s>
+content: "Like if the client wants to reach a younger demographic or if they want to reach"
+<end speech t=0249.040s>
+
+<begin speech t=0251.520s>
+content: "the middle class or something like that depending on who the client wants to reach"
+<end speech t=0256.000s>
+
+<begin speech t=0256.080s>
+content: "and how much money they want to spend and how many people they want to get their eye out to."
+<end speech t=0259.840s>
+
+<begin speech t=0261.120s>
+content: "That's how they would determine what form of media is the best and that's what a media buyer would do."
+<end speech t=0268.480s>
+
+<begin speech t=0270.400s>
+content: "The next major field in marketing is product management and they're usually the direct marketer"
+<end speech t=0282.080s>
+
+<begin speech t=0282.080s>
+content: "in the original client company. So they usually like a product manager for some place like more"
+<end speech t=0290.800s>
+
+<begin speech t=0290.800s>
+content: "or you know Sony like I was saying before and they're responsible for managing and strengthening"
+<end speech t=0296.960s>
+
+<begin speech t=0296.960s>
+content: "all of their brands. So basically they control business and marketing activities such as"
+<end speech t=0304.640s>
+
+<begin speech t=0304.640s>
+content: "research and development, packaging manufacturing, sales, advertisements, etc. to create the right"
+<end speech t=0310.320s>
+
+<begin speech t=0310.400s>
+content: "image for their product."
+<end speech t=0311.520s>
+
+<begin speech t=0313.360s>
+content: "Hard management is also a difficult field to get into. Usually you need many years of working in sales"
+<end speech t=0319.520s>
+
+<begin speech t=0320.320s>
+content: "and a master's in business and administration before you can be considered for project management."
+<end speech t=0327.040s>
+
+<begin speech t=0328.560s>
+content: "Usually newcomers to these positions are put on a brand team and they work their way up to brand"
+<end speech t=0334.080s>
+
+<begin speech t=0334.080s>
+content: "managers. Another traditional marketing field is retail and some careers in retail include"
+<end speech t=0342.880s>
+
+<begin speech t=0342.880s>
+content: "working at a store such as JCPenney, Target, the Gap, Walgreens as either like a manager, a trippy"
+<end speech t=0350.240s>
+
+<begin speech t=0350.240s>
+content: "or a manager. You're also working sales trying to sell your client, you're trying to sell your"
+<end speech t=0361.280s>
+
+<begin speech t=0361.280s>
+content: "product to a client and you could also be a buyer when you select the products that go"
+<end speech t=0368.400s>
+
+<begin speech t=0369.040s>
+content: "on the shelves at the store. The last field that I researched was the market research field"
+<end speech t=0376.800s>
+
+<begin speech t=0377.360s>
+content: "and this field combines psychology and marketing. Usually you work in an advertising agency and"
+<end speech t=0386.400s>
+
+<begin speech t=0386.400s>
+content: "you analyze the different quality of the quantitative data to determine how to promote a product."
+<end speech t=0391.840s>
+
+<begin speech t=0391.840s>
+content: "So you're looking for like what customers want and how to incorporate things like that in the"
+<end speech t=0402.320s>
+
+<begin speech t=0402.320s>
+content: "advertisements of your product. Also you look at reasons why different commercials work. You"
+<end speech t=0412.640s>
+
+<begin speech t=0412.720s>
+content: "want to have advertisements that are going to appeal to different wants and needs of customers"
+<end speech t=0419.120s>
+
+<begin speech t=0419.120s>
+content: "and that's basically what market research tries to figure out and for this career also a master's"
+<end speech t=0424.880s>
+
+<begin speech t=0424.880s>
+content: "in business and administration is very helpful and you also have to be very good at analyzing data."
+<end speech t=0431.200s>
+
+<begin speech t=0433.120s>
+content: "So yeah that's an interesting field of marketing. So that's my research on the marketing industry."
+<end speech t=0439.600s>

@@ -1,0 +1,139 @@
+<begin speech t=0000.000s>
+content: "We do have Donald Trump now calling for military action against protesters."
+<end speech t=0012.880s>
+
+<begin speech t=0012.880s>
+content: "We saw protesters tear gas yesterday to make way for a presidential photo."
+<end speech t=0017.040s>
+
+<begin speech t=0017.040s>
+content: "I'd like to ask you what you think about that."
+<end speech t=0018.720s>
+
+<begin speech t=0018.720s>
+content: "And if you don't want to comment, what message do you think you're sending?"
+<end speech t=0022.960s>
+
+<begin speech t=0022.960s>
+content: "We all watch in horror and consternation what's going on in the United States."
+<end speech t=0049.280s>
+
+<begin speech t=0049.840s>
+content: "It is a time to pull people together. 21 seconds. That's how long that little gap was."
+<end speech t=0060.720s>
+
+<begin speech t=0061.440s>
+content: "And yeah, he goes on to obviously not criticize Donald Trump. He will not name, he will not say his name."
+<end speech t=0070.160s>
+
+<begin speech t=0070.160s>
+content: "He who shall not be named. But it is a time to listen."
+<end speech t=0074.480s>
+
+<begin speech t=0075.040s>
+content: "It is a time now when injustices continue despite progress over years and decades."
+<end speech t=0082.960s>
+
+<begin speech t=0084.080s>
+content: "But it is a time for us as Canadians."
+<end speech t=0086.080s>
+
+<begin speech t=0086.960s>
+content: "Thanks, Max. Recognize that we too have our challenges that Black Canadians"
+<end speech t=0094.000s>
+
+<begin speech t=0094.000s>
+content: "have an actually silly go. I can't I told you before because my mother's mate,"
+<end speech t=0097.520s>
+
+<begin speech t=0097.520s>
+content: "I can't grow facial hair. I will do it one day though. If you want to see how weird it gets."
+<end speech t=0101.120s>
+
+<begin speech t=0101.920s>
+content: "There is systemic discrimination in Canada. Which means our systems treat Canadians of color,"
+<end speech t=0108.640s>
+
+<begin speech t=0108.640s>
+content: "Canadians who are racialized differently than they do others. It is something that many of us don't see."
+<end speech t=0116.160s>
+
+<begin speech t=0117.440s>
+content: "But it is something that is a lived reality. The racial."
+<end speech t=0121.600s>
+
+<begin speech t=0121.600s>
+content: "Oh, good idea, Iblu. We need to see that. Not just as a government. And take action."
+<end speech t=0130.000s>
+
+<begin speech t=0131.120s>
+content: "We need to see that as Canadians. We need to be allies in the fight against discrimination."
+<end speech t=0138.640s>
+
+<begin speech t=0138.640s>
+content: "As an actual photo op, I'd like to ask you what you think about that. And if you don't want to comment,"
+<end speech t=0142.640s>
+
+<begin speech t=0142.640s>
+content: "what message do you think you're sending?"
+<end speech t=0143.920s>
+
+<begin speech t=0161.120s>
+content: "You've been reluctant to comment on the words and actions of the US President. But we do have"
+<end speech t=0174.320s>
+
+<begin speech t=0174.320s>
+content: "Donald Trump now calling for military action against protesters. We saw protesters tear gas yesterday"
+<end speech t=0179.520s>
+
+<begin speech t=0179.520s>
+content: "to make way for presidential photo op. I'd like to ask you what you think about that. And if you"
+<end speech t=0183.440s>
+
+<begin speech t=0183.440s>
+content: "don't want to comment, what message do you think you're sending?"
+<end speech t=0190.960s>
+
+<begin speech t=0191.120s>
+content: "Hey friend, thanks for watching. Before we bombard you with all of our shameless links,"
+<end speech t=0203.200s>
+
+<begin speech t=0203.200s>
+content: "we want you to bombard us. Do you have a worker co-op business or local union you'd like us to"
+<end speech t=0208.480s>
+
+<begin speech t=0208.480s>
+content: "advertise at the end of our episode for free? So, if you'd like yours on your worker co-op,"
+<end speech t=0214.000s>
+
+<begin speech t=0214.000s>
+content: "go down to wershurst.com. And while you're there, join the discord because it's filled with"
+<end speech t=0220.160s>
+
+<begin speech t=0220.160s>
+content: "righteous guys, gals, and impulse. Finally, come check us out on Twitch Live five days a week."
+<end speech t=0226.560s>
+
+<begin speech t=0226.560s>
+content: "We're going to Twitch.tv slash the surface TV. Yeah. To our lords, Ricky Pilgrim, I'm Raft,"
+<end speech t=0236.800s>
+
+<begin speech t=0236.800s>
+content: "Tom O'Sphone, Nine Tales Cosmic Box, Hans Josephin, and Corpse Harvester. We bow neatly for your"
+<end speech t=0243.280s>
+
+<begin speech t=0243.280s>
+content: "pleasure. To our knights of the round table, Josh Mickelson, Dylan Byers, Zach Christensen,"
+<end speech t=0249.520s>
+
+<begin speech t=0249.520s>
+content: "Todd Fockman, Todd Lajanesh, Clement Cheskaw, Cooper Pilate, aka the man of large balls,"
+<end speech t=0256.240s>
+
+<begin speech t=0256.240s>
+content: "political puppy, Nick Davis, Allie Mae, and Alan R. Lee Seligi. To our many merchants and farmers,"
+<end speech t=0263.840s>
+
+<begin speech t=0263.840s>
+content: "you have our Undying World."
+<end speech t=0266.560s>

@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/42_Brutally_Honest_Valedictorian_Regrets_Being_Top_of_the_Class/audio.mp3",
+  "clean_file": "good speeches/42_Brutally_Honest_Valedictorian_Regrets_Being_Top_of_the_Class/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 483.583,
+  "clean_duration_sec": 483.583,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -16.07,
+  "target_lufs": -20.0,
+  "gain_applied_db": -3.93,
+  "snr_raw_db": 26.24,
+  "snr_clean_db": 28.03,
+  "snr_improvement_db": 1.79,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1184,
+    "utterance_count": 111
+  },
+  "status": "READY_FOR_EVALUATION"
+}

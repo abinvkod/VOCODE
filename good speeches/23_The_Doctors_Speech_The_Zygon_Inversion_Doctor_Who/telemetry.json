@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/23_The_Doctors_Speech_The_Zygon_Inversion_Doctor_Who/audio.mp3",
+  "clean_file": "good speeches/23_The_Doctors_Speech_The_Zygon_Inversion_Doctor_Who/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 252.97,
+  "clean_duration_sec": 252.812,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.158,
+  "measured_lufs_raw": -27.8,
+  "target_lufs": -20.0,
+  "gain_applied_db": 7.8,
+  "snr_raw_db": 12.3,
+  "snr_clean_db": 27.06,
+  "snr_improvement_db": 14.75,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 542,
+    "utterance_count": 88
+  },
+  "status": "READY_FOR_EVALUATION"
+}

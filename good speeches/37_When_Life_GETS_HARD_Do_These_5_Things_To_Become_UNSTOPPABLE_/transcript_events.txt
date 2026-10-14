@@ -1,0 +1,2063 @@
+<begin speech t=0000.000s>
+content: "I got my arms out, I got my head up, he gets to my feet and he's coming back up my body"
+<end speech t=0011.000s>
+
+<begin speech t=0011.000s>
+content: "and he poses the question, what's you playing, little man?"
+<end speech t=0014.000s>
+
+<begin speech t=0014.000s>
+content: "I said, well, what do you want?"
+<end speech t=0016.000s>
+
+<begin speech t=0016.000s>
+content: "I was born a college."
+<end speech t=0018.000s>
+
+<begin speech t=0018.000s>
+content: "He said, you'll probably end up in cell block D1."
+<end speech t=0021.000s>
+
+<begin speech t=0021.000s>
+content: "We went to walk off."
+<end speech t=0023.000s>
+
+<begin speech t=0023.000s>
+content: "I walked with him."
+<end speech t=0024.000s>
+
+<begin speech t=0024.000s>
+content: "I tapped his arm."
+<end speech t=0025.000s>
+
+<begin speech t=0026.000s>
+content: "I tapped his arm."
+<end speech t=0028.000s>
+
+<begin speech t=0029.000s>
+content: "Turn around."
+<end speech t=0030.000s>
+
+<begin speech t=0030.000s>
+content: "So you got the wrong guy."
+<end speech t=0032.000s>
+
+<begin speech t=0032.000s>
+content: "He said, no, I know about you."
+<end speech t=0034.000s>
+
+<begin speech t=0034.000s>
+content: "Sarcasm picks it."
+<end speech t=0035.000s>
+
+<begin speech t=0035.000s>
+content: "He said, didn't you have two uncles that came in the same school?"
+<end speech t=0038.000s>
+
+<begin speech t=0038.000s>
+content: "Yes, sir."
+<end speech t=0039.000s>
+
+<begin speech t=0039.000s>
+content: "He said, weren't they little athletes just like you, like people talked about them, and how they could place boards and all that?"
+<end speech t=0045.000s>
+
+<begin speech t=0045.000s>
+content: "He said, yes, sir."
+<end speech t=0046.000s>
+
+<begin speech t=0046.000s>
+content: "He said, aren't they serving 13 and 40 years at the federal penitentiary, not even 10 minutes away from these front doors?"
+<end speech t=0052.000s>
+
+<begin speech t=0052.000s>
+content: "He said, yes, sir."
+<end speech t=0053.000s>
+
+<begin speech t=0053.000s>
+content: "He said, yes, sir."
+<end speech t=0054.000s>
+
+<begin speech t=0054.000s>
+content: "He said, absolutely."
+<end speech t=0055.000s>
+
+<begin speech t=0055.000s>
+content: "I put another fall fall through the tree."
+<end speech t=0057.000s>
+
+<begin speech t=0057.000s>
+content: "He probably end up in cell block D1."
+<end speech t=0059.000s>
+
+<begin speech t=0059.000s>
+content: "Walked off."
+<end speech t=0060.000s>
+
+<begin speech t=0060.000s>
+content: "I walked with him."
+<end speech t=0062.000s>
+
+<begin speech t=0065.000s>
+content: "I tapped his chest."
+<end speech t=0066.000s>
+
+<begin speech t=0067.000s>
+content: "He turned around."
+<end speech t=0068.000s>
+
+<begin speech t=0068.000s>
+content: "I said, I'm telling you."
+<end speech t=0070.000s>
+
+<begin speech t=0070.000s>
+content: "You got the wrong guy."
+<end speech t=0072.000s>
+
+<begin speech t=0072.000s>
+content: "He said, well, see, I said, we will."
+<end speech t=0075.000s>
+
+<begin speech t=0075.000s>
+content: "And I had this dream that man, if I could just make it to the NFL, I could get my mother."
+<end speech t=0079.000s>
+
+<begin speech t=0079.000s>
+content: "Or for that double shift that wouldn't be."
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "Like, man, if I could make it to the NFL, me and my cousins, you won't have to miss meals."
+<end speech t=0087.000s>
+
+<begin speech t=0087.000s>
+content: "If I could just make it to the NFL, man, everything will make sense."
+<end speech t=0092.000s>
+
+<begin speech t=0092.000s>
+content: "And when I got my scholarship from Tennessee, you know the first person I want to see."
+<end speech t=0096.000s>
+
+<begin speech t=0096.000s>
+content: "I caught him."
+<end speech t=0098.000s>
+
+<begin speech t=0102.000s>
+content: "I went to him and he said something to me and it rained so true."
+<end speech t=0105.000s>
+
+<begin speech t=0106.000s>
+content: "I slid my paper across the table to him and he stood up and he said, I want to ask your question."
+<end speech t=0111.000s>
+
+<begin speech t=0111.000s>
+content: "How did you do it?"
+<end speech t=0112.000s>
+
+<begin speech t=0112.000s>
+content: "He said, every kid that comes in these doors, they say that."
+<end speech t=0115.000s>
+
+<begin speech t=0115.000s>
+content: "But they end up selling drugs across the street at the gas station."
+<end speech t=0118.000s>
+
+<begin speech t=0118.000s>
+content: "Or they end up going to prison, going to jail."
+<end speech t=0121.000s>
+
+<begin speech t=0121.000s>
+content: "Like everybody wants something out of life."
+<end speech t=0123.000s>
+
+<begin speech t=0123.000s>
+content: "He said, the reason I said that to you, he said, I want you to understand something."
+<end speech t=0126.000s>
+
+<begin speech t=0126.000s>
+content: "I'm here every day."
+<end speech t=0127.000s>
+
+<begin speech t=0127.000s>
+content: "He said, the only reason I said it to you, he said, I wasn't even trying to break you."
+<end speech t=0131.000s>
+
+<begin speech t=0131.000s>
+content: "I just wanted to see what you'd be willing to fight for the thing that you said you wanted."
+<end speech t=0134.000s>
+
+<begin speech t=0134.000s>
+content: "When somebody came at you and they tried to crush you and say because of your family history,"
+<end speech t=0138.000s>
+
+<begin speech t=0138.000s>
+content: "because of your lineage, you're probably going to end up just like them."
+<end speech t=0141.000s>
+
+<begin speech t=0141.000s>
+content: "I wanted to see what you'd be willing to fight for what you said you wanted."
+<end speech t=0144.000s>
+
+<begin speech t=0144.000s>
+content: "Coming into my junior year, I get my paperwork back from the NFL."
+<end speech t=0149.000s>
+
+<begin speech t=0149.000s>
+content: "And I'm a projected first-final driver."
+<end speech t=0152.000s>
+
+<begin speech t=0152.000s>
+content: "Who knew?"
+<end speech t=0154.000s>
+
+<begin speech t=0154.000s>
+content: "A kid from the two-bedroom home, 14 people."
+<end speech t=0158.000s>
+
+<begin speech t=0158.000s>
+content: "Now come out my first game, have a great game."
+<end speech t=0160.000s>
+
+<begin speech t=0160.000s>
+content: "And the quarterback just so happens to drop back and he releases the ball to a guy coming down my sideline."
+<end speech t=0166.000s>
+
+<begin speech t=0166.000s>
+content: "And as soon as I made contact with the guy, I knew something was wrong."
+<end speech t=0171.000s>
+
+<begin speech t=0171.000s>
+content: "It seemed as if every breath on my body left, my body went completely left."
+<end speech t=0175.000s>
+
+<begin speech t=0175.000s>
+content: "I felt it around."
+<end speech t=0176.000s>
+
+<begin speech t=0176.000s>
+content: "I blacked out."
+<end speech t=0177.000s>
+
+<begin speech t=0177.000s>
+content: "That had never happened to me."
+<end speech t=0179.000s>
+
+<begin speech t=0179.000s>
+content: "My eyes opened."
+<end speech t=0180.000s>
+
+<begin speech t=0180.000s>
+content: "My teammates ran over to me."
+<end speech t=0182.000s>
+
+<begin speech t=0182.000s>
+content: "They said, it ain't get up."
+<end speech t=0183.000s>
+
+<begin speech t=0183.000s>
+content: "Let's rock."
+<end speech t=0184.000s>
+
+<begin speech t=0184.000s>
+content: "Let's close it out."
+<end speech t=0185.000s>
+
+<begin speech t=0185.000s>
+content: "Let's go."
+<end speech t=0186.000s>
+
+<begin speech t=0186.000s>
+content: "I said, I can't."
+<end speech t=0187.000s>
+
+<begin speech t=0187.000s>
+content: "There's a shot from my neck to my toes."
+<end speech t=0190.000s>
+
+<begin speech t=0190.000s>
+content: "I can't feel anything."
+<end speech t=0191.000s>
+
+<begin speech t=0191.000s>
+content: "I remember they brought the spine board out, put me on it, they're willing me off to the field."
+<end speech t=0195.000s>
+
+<begin speech t=0195.000s>
+content: "Doctors came running from the opposite side and the lead doctor says,"
+<end speech t=0199.000s>
+
+<begin speech t=0199.000s>
+content: "Guys, get in here."
+<end speech t=0200.000s>
+
+<begin speech t=0200.000s>
+content: "We got a wester's kid back to emergency surgery."
+<end speech t=0202.000s>
+
+<begin speech t=0202.000s>
+content: "He's about to die."
+<end speech t=0203.000s>
+
+<begin speech t=0203.000s>
+content: "You ruptured up to clavian artery in your chest."
+<end speech t=0206.000s>
+
+<begin speech t=0206.000s>
+content: "You're bleeding internally."
+<end speech t=0207.000s>
+
+<begin speech t=0207.000s>
+content: "We don't take you back in the form of surgery right now."
+<end speech t=0209.000s>
+
+<begin speech t=0209.000s>
+content: "We say you won't be here anymore."
+<end speech t=0211.000s>
+
+<begin speech t=0211.000s>
+content: "And the game of football on my scale of life was that bad."
+<end speech t=0214.000s>
+
+<begin speech t=0215.000s>
+content: "NFL."
+<end speech t=0216.000s>
+
+<begin speech t=0216.000s>
+content: "That big."
+<end speech t=0217.000s>
+
+<begin speech t=0217.000s>
+content: "I'm like, man, is that it?"
+<end speech t=0222.000s>
+
+<begin speech t=0222.000s>
+content: "Like, that's all you really want."
+<end speech t=0225.000s>
+
+<begin speech t=0225.000s>
+content: "It was a contract from the NFL."
+<end speech t=0227.000s>
+
+<begin speech t=0227.000s>
+content: "That was it."
+<end speech t=0228.000s>
+
+<begin speech t=0228.000s>
+content: "I was embarrassed."
+<end speech t=0229.000s>
+
+<begin speech t=0229.000s>
+content: "I just got up every day, went through drills and man, I'm going to make it to the NFL."
+<end speech t=0232.000s>
+
+<begin speech t=0232.000s>
+content: "That's to be, that would be a no-value, no substance."
+<end speech t=0235.000s>
+
+<begin speech t=0235.000s>
+content: "Nothing."
+<end speech t=0236.000s>
+
+<begin speech t=0236.000s>
+content: "There's a quote that says, when do a person start to really live when a person has encountered death?"
+<end speech t=0241.000s>
+
+<begin speech t=0241.000s>
+content: "Now I'd encounter death and I had survived it."
+<end speech t=0243.000s>
+
+<begin speech t=0243.000s>
+content: "And I guarantee you, it was literally as if somebody pulled the shades up on my likeness"
+<end speech t=0247.000s>
+
+<begin speech t=0247.000s>
+content: "and now you see life for what is really worth."
+<end speech t=0249.000s>
+
+<begin speech t=0249.000s>
+content: "You thought it was about the NFL."
+<end speech t=0250.000s>
+
+<begin speech t=0250.000s>
+content: "Now you really see life for what is really worth."
+<end speech t=0252.000s>
+
+<begin speech t=0252.000s>
+content: "Like, I thought I was driven when I played sports for man, every day I get up that drive"
+<end speech t=0255.000s>
+
+<begin speech t=0255.000s>
+content: "different."
+<end speech t=0256.000s>
+
+<begin speech t=0256.000s>
+content: "Like, every single day I get up to impact life."
+<end speech t=0258.000s>
+
+<begin speech t=0258.000s>
+content: "That is why I go out life with the drives and dedication and the commitment level that"
+<end speech t=0263.000s>
+
+<begin speech t=0263.000s>
+content: "I do."
+<end speech t=0264.000s>
+
+<begin speech t=0264.000s>
+content: "And when I have mercy, opposition and the thing that should have crushed me, I step back,"
+<end speech t=0268.000s>
+
+<begin speech t=0268.000s>
+content: "I'm racing to say life."
+<end speech t=0269.000s>
+
+<begin speech t=0269.000s>
+content: "That's all you got."
+<end speech t=0270.000s>
+
+<begin speech t=0270.000s>
+content: "This was your best shot and I found an amazing man how in life."
+<end speech t=0273.000s>
+
+<begin speech t=0273.000s>
+content: "People say, man, I'm going to do something."
+<end speech t=0275.000s>
+
+<begin speech t=0275.000s>
+content: "I'm going to fire, I'm committed to it."
+<end speech t=0276.000s>
+
+<begin speech t=0276.000s>
+content: "But a change in circumstance, a change in situation, I don't get what I thought I was going to get."
+<end speech t=0283.000s>
+
+<begin speech t=0283.000s>
+content: "Now the mission that they want said I was to change the world or impact people, it means"
+<end speech t=0288.000s>
+
+<begin speech t=0288.000s>
+content: "nothing doesn't."
+<end speech t=0289.000s>
+
+<begin speech t=0289.000s>
+content: "As long as what you do and what you're connected to serves a greater purpose than just yourself,"
+<end speech t=0294.000s>
+
+<begin speech t=0294.000s>
+content: "son, you want to be a part of the world."
+<end speech t=0297.000s>
+
+<begin speech t=0297.000s>
+content: "And so, son, you will always tremble to opposition."
+<end speech t=0299.000s>
+
+<begin speech t=0299.000s>
+content: "You will always tremble to adversity."
+<end speech t=0301.000s>
+
+<begin speech t=0301.000s>
+content: "You will always tremble."
+<end speech t=0302.000s>
+
+<begin speech t=0302.000s>
+content: "The challenges of life, one thing about it, character is not something that you're born"
+<end speech t=0306.000s>
+
+<begin speech t=0306.000s>
+content: "with."
+<end speech t=0307.000s>
+
+<begin speech t=0307.000s>
+content: "Character is something that you get up every single day you fight and you build."
+<end speech t=0310.000s>
+
+<begin speech t=0310.000s>
+content: "And every single day the processes happen and personally in life, your opposition through"
+<end speech t=0315.000s>
+
+<begin speech t=0315.000s>
+content: "adversity and through challenges."
+<end speech t=0317.000s>
+
+<begin speech t=0317.000s>
+content: "At the end of the day it's about who we become, it's about what we did."
+<end speech t=0321.000s>
+
+<begin speech t=0321.000s>
+content: "Go get it."
+<end speech t=0322.000s>
+
+<begin speech t=0323.000s>
+content: "When I walked out here I got to be honest, I was pretty nervous."
+<end speech t=0329.000s>
+
+<begin speech t=0329.000s>
+content: "I hope I didn't, you know, bomb this."
+<end speech t=0332.000s>
+
+<begin speech t=0332.000s>
+content: "You know, because last time what happened."
+<end speech t=0337.000s>
+
+<begin speech t=0337.000s>
+content: "So on the screen you were going to see my best friend, my wife Kelsey."
+<end speech t=0343.000s>
+
+<begin speech t=0343.000s>
+content: "She winds up telling me with excitement and fear that she's pregnant."
+<end speech t=0347.000s>
+
+<begin speech t=0347.000s>
+content: "Nine months go by and my daughter's born."
+<end speech t=0350.000s>
+
+<begin speech t=0351.000s>
+content: "And the reason I know that my wife is the best in the world is because when I looked at"
+<end speech t=0355.000s>
+
+<begin speech t=0355.000s>
+content: "my wife and I said, what do you want to name her?"
+<end speech t=0357.000s>
+
+<begin speech t=0357.000s>
+content: "You think Madison or Avery?"
+<end speech t=0359.000s>
+
+<begin speech t=0359.000s>
+content: "She looked at me and said, no, we have to name a Chloe Lynn, don't we?"
+<end speech t=0362.000s>
+
+<begin speech t=0362.000s>
+content: "And I said, we don't have to do that."
+<end speech t=0364.000s>
+
+<begin speech t=0364.000s>
+content: "Why would you even think that?"
+<end speech t=0365.000s>
+
+<begin speech t=0365.000s>
+content: "And she said, because you idiot, you already got your ex-girlfriend's name tattooed on your"
+<end speech t=0369.000s>
+
+<begin speech t=0369.000s>
+content: "arm."
+<end speech t=0370.000s>
+
+<begin speech t=0370.000s>
+content: "Yeah."
+<end speech t=0371.000s>
+
+<begin speech t=0371.000s>
+content: "So we named her after my ex-girlfriend."
+<end speech t=0374.000s>
+
+<begin speech t=0374.000s>
+content: "It's not true."
+<end speech t=0377.000s>
+
+<begin speech t=0377.000s>
+content: "It's not true."
+<end speech t=0379.000s>
+
+<begin speech t=0380.000s>
+content: "No, I'm an ex-girlfriend, it's a devil, but it's not true."
+<end speech t=0385.000s>
+
+<begin speech t=0385.000s>
+content: "So everything's going my way."
+<end speech t=0386.000s>
+
+<begin speech t=0386.000s>
+content: "I'm coming up with my third deployment."
+<end speech t=0388.000s>
+
+<begin speech t=0388.000s>
+content: "I got to go over to Afghanistan for my third time, start putting our stuff on like normal."
+<end speech t=0393.000s>
+
+<begin speech t=0393.000s>
+content: "As we're going over what we're going to do with strapping our gear on, we go out with"
+<end speech t=0396.000s>
+
+<begin speech t=0396.000s>
+content: "the mines we've really started sweeping the ground back and forth."
+<end speech t=0399.000s>
+
+<begin speech t=0399.000s>
+content: "Back and forth, nothing alarms us as anything there."
+<end speech t=0401.000s>
+
+<begin speech t=0401.000s>
+content: "I take my backpack off, I set it on the ground."
+<end speech t=0404.000s>
+
+<begin speech t=0404.000s>
+content: "It hits the ground."
+<end speech t=0405.000s>
+
+<begin speech t=0405.000s>
+content: "And underneath it is a bomb."
+<end speech t=0407.000s>
+
+<begin speech t=0407.000s>
+content: "And it takes a right arm, right leg automatically."
+<end speech t=0409.000s>
+
+<begin speech t=0409.000s>
+content: "They rush me into surgery, right?"
+<end speech t=0411.000s>
+
+<begin speech t=0411.000s>
+content: "We're going to fast forward into the surgery here."
+<end speech t=0413.000s>
+
+<begin speech t=0413.000s>
+content: "And they cut my left leg off because it's already gone."
+<end speech t=0415.000s>
+
+<begin speech t=0415.000s>
+content: "And then two days later, they have to cut my left arm off because the skin didn't"
+<end speech t=0418.760s>
+
+<begin speech t=0418.760s>
+content: "necrotize, so I'm a quadruple amputee."
+<end speech t=0421.760s>
+
+<begin speech t=0421.760s>
+content: "Three days later, I arrived at Walter Reed in Bethesda, Maryland."
+<end speech t=0425.000s>
+
+<begin speech t=0425.000s>
+content: "My wife came up to me, right?"
+<end speech t=0426.000s>
+
+<begin speech t=0426.000s>
+content: "And I saw her."
+<end speech t=0427.000s>
+
+<begin speech t=0427.000s>
+content: "I finally got a chance to talk to her."
+<end speech t=0429.000s>
+
+<begin speech t=0429.000s>
+content: "I said, Kelsey, you don't have to do this."
+<end speech t=0432.000s>
+
+<begin speech t=0432.000s>
+content: "Take the house, take the cars, take whatever money we have saved up and go."
+<end speech t=0435.000s>
+
+<begin speech t=0435.000s>
+content: "This is not the life I would choose for you."
+<end speech t=0437.000s>
+
+<begin speech t=0437.000s>
+content: "And she thought about it."
+<end speech t=0439.000s>
+
+<begin speech t=0439.000s>
+content: "She said, you know, I was thinking that."
+<end speech t=0441.000s>
+
+<begin speech t=0441.000s>
+content: "Ah."
+<end speech t=0442.000s>
+
+<begin speech t=0442.000s>
+content: "Ah."
+<end speech t=0443.000s>
+
+<begin speech t=0443.000s>
+content: "And then she came around and she said, you know what?"
+<end speech t=0447.000s>
+
+<begin speech t=0447.000s>
+content: "Handicap parking sounds enticing."
+<end speech t=0449.000s>
+
+<begin speech t=0449.000s>
+content: "I'm going to stay."
+<end speech t=0454.000s>
+
+<begin speech t=0454.000s>
+content: "But if you can imagine, she actually at 23, and I'm 25, and our daughter at six months old,"
+<end speech t=0458.000s>
+
+<begin speech t=0458.000s>
+content: "said, you know what?"
+<end speech t=0459.000s>
+
+<begin speech t=0459.000s>
+content: "I'm going to be here."
+<end speech t=0460.000s>
+
+<begin speech t=0460.000s>
+content: "We're going to get through this together."
+<end speech t=0462.000s>
+
+<begin speech t=0462.000s>
+content: "So I'm at Walter Reed, and I'm trying to recover."
+<end speech t=0464.000s>
+
+<begin speech t=0464.000s>
+content: "I had to find motivation."
+<end speech t=0465.000s>
+
+<begin speech t=0465.000s>
+content: "I find motivation in my wife and my daughter."
+<end speech t=0467.000s>
+
+<begin speech t=0467.000s>
+content: "And all of a sudden, there's a brotherhood at Walter Reed, a robot walked into my room."
+<end speech t=0472.000s>
+
+<begin speech t=0472.000s>
+content: "And first thing I had this guy's mouth was, hey man, welcome to the club."
+<end speech t=0475.000s>
+
+<begin speech t=0475.000s>
+content: "He said, I want to be in your club."
+<end speech t=0478.000s>
+
+<begin speech t=0478.000s>
+content: "He said, kind of late now, don't you think?"
+<end speech t=0480.000s>
+
+<begin speech t=0480.000s>
+content: "He said, well, you got me there."
+<end speech t=0482.000s>
+
+<begin speech t=0482.000s>
+content: "His name was Todd nicely."
+<end speech t=0483.000s>
+
+<begin speech t=0483.000s>
+content: "He showed me that with hard work and determination, I could walk again, and two things went off."
+<end speech t=0489.000s>
+
+<begin speech t=0489.000s>
+content: "Number one, this guy showed me the way that I can get better."
+<end speech t=0491.000s>
+
+<begin speech t=0491.000s>
+content: "I can still be there for my family."
+<end speech t=0493.000s>
+
+<begin speech t=0493.000s>
+content: "And number two, he's a Marine."
+<end speech t=0495.000s>
+
+<begin speech t=0495.000s>
+content: "And if a Marine can do it with how dumb they are, you know?"
+<end speech t=0500.000s>
+
+<begin speech t=0500.000s>
+content: "So the things I wanted to accomplish, I want to be able to feed myself again."
+<end speech t=0504.000s>
+
+<begin speech t=0504.000s>
+content: "I want to be able to pick a fork up and put food in my mouth."
+<end speech t=0507.000s>
+
+<begin speech t=0507.000s>
+content: "You see, I couldn't do that for five weeks."
+<end speech t=0509.000s>
+
+<begin speech t=0509.000s>
+content: "At five weeks, I was out of my recovery stage enough where I was healed up and I could grab a fork."
+<end speech t=0514.000s>
+
+<begin speech t=0514.000s>
+content: "I also was tired of sitting in a wheelchair."
+<end speech t=0516.000s>
+
+<begin speech t=0516.000s>
+content: "I thought, you know what?"
+<end speech t=0517.000s>
+
+<begin speech t=0517.000s>
+content: "I want to be able to walk again."
+<end speech t=0518.000s>
+
+<begin speech t=0518.000s>
+content: "So seven weeks and four days into my recovery, I took my very first steps at Walter Reed."
+<end speech t=0523.000s>
+
+<begin speech t=0523.000s>
+content: "It was very painful."
+<end speech t=0524.000s>
+
+<begin speech t=0524.000s>
+content: "It was not easy."
+<end speech t=0525.000s>
+
+<begin speech t=0525.000s>
+content: "And as I was walking around the track, they said, you'll walk one lap today."
+<end speech t=0528.000s>
+
+<begin speech t=0528.000s>
+content: "And I went ahead and walked three laps that day."
+<end speech t=0530.000s>
+
+<begin speech t=0530.000s>
+content: "And when I got done, I sat down, took a breather, and realized this could be something that I did."
+<end speech t=0535.000s>
+
+<begin speech t=0535.000s>
+content: "And the next thing, ladies and gentlemen, is my hand."
+<end speech t=0538.000s>
+
+<begin speech t=0538.000s>
+content: "This thing's the coolest thing in the world."
+<end speech t=0539.000s>
+
+<begin speech t=0539.000s>
+content: "On the screen, you're going to see the most important hand that I own right there."
+<end speech t=0543.000s>
+
+<begin speech t=0543.000s>
+content: "It's not the one I'm wearing."
+<end speech t=0544.000s>
+
+<begin speech t=0544.000s>
+content: "No, that one."
+<end speech t=0545.000s>
+
+<begin speech t=0545.000s>
+content: "That one's called a grifer."
+<end speech t=0546.000s>
+
+<begin speech t=0546.000s>
+content: "That hand is in a crown royal bag on the top shelf of my closet."
+<end speech t=0550.000s>
+
+<begin speech t=0550.000s>
+content: "Yeah."
+<end speech t=0551.000s>
+
+<begin speech t=0551.000s>
+content: "And nobody touches that hand because that hand closes 25 pounds of pressure."
+<end speech t=0556.000s>
+
+<begin speech t=0556.000s>
+content: "You see, my daughter is seven years old."
+<end speech t=0558.000s>
+
+<begin speech t=0558.000s>
+content: "Yeah, nine years, Johnny's going to come knocking at the door."
+<end speech t=0562.000s>
+
+<begin speech t=0562.000s>
+content: "He's going to be like, hey, bro."
+<end speech t=0565.000s>
+
+<begin speech t=0565.000s>
+content: "Like, just just burrow me, Johnny."
+<end speech t=0567.000s>
+
+<begin speech t=0567.000s>
+content: "That's 25 pounds of pressure."
+<end speech t=0569.000s>
+
+<begin speech t=0569.000s>
+content: "It's like, oh, dude, that hurts."
+<end speech t=0571.000s>
+
+<begin speech t=0571.000s>
+content: "Johnny, there's no strike two and three."
+<end speech t=0572.000s>
+
+<begin speech t=0572.000s>
+content: "This is two and three right here."
+<end speech t=0574.000s>
+
+<begin speech t=0574.000s>
+content: "Yeah."
+<end speech t=0575.000s>
+
+<begin speech t=0575.000s>
+content: "Crunch."
+<end speech t=0576.000s>
+
+<begin speech t=0576.000s>
+content: "I break his hand."
+<end speech t=0577.000s>
+
+<begin speech t=0577.000s>
+content: "I know it's sad."
+<end speech t=0578.000s>
+
+<begin speech t=0578.000s>
+content: "He's like, let me go."
+<end speech t=0579.000s>
+
+<begin speech t=0579.000s>
+content: "Let me go."
+<end speech t=0580.000s>
+
+<begin speech t=0580.000s>
+content: "I pull Johnny close."
+<end speech t=0581.000s>
+
+<begin speech t=0581.000s>
+content: "I don't let him go."
+<end speech t=0582.000s>
+
+<begin speech t=0582.000s>
+content: "No."
+<end speech t=0583.000s>
+
+<begin speech t=0583.000s>
+content: "I say, Johnny, guess what?"
+<end speech t=0585.000s>
+
+<begin speech t=0585.000s>
+content: "I don't know what."
+<end speech t=0587.000s>
+
+<begin speech t=0587.000s>
+content: "No fingerprints, Johnny."
+<end speech t=0589.000s>
+
+<begin speech t=0589.000s>
+content: "Yeah."
+<end speech t=0590.000s>
+
+<begin speech t=0590.000s>
+content: "Remember that, Johnny."
+<end speech t=0596.000s>
+
+<begin speech t=0596.000s>
+content: "When I got blown up, when I was down and out and I was wondering why did this happen, I"
+<end speech t=0599.000s>
+
+<begin speech t=0599.000s>
+content: "was embarrassed."
+<end speech t=0600.000s>
+
+<begin speech t=0600.000s>
+content: "I was angry."
+<end speech t=0601.000s>
+
+<begin speech t=0601.000s>
+content: "I was questioning am I a bad person?"
+<end speech t=0602.000s>
+
+<begin speech t=0602.000s>
+content: "Does God hate me?"
+<end speech t=0603.000s>
+
+<begin speech t=0603.000s>
+content: "And the biggest question I honestly had, ladies and gentlemen, was why didn't I just"
+<end speech t=0607.000s>
+
+<begin speech t=0607.000s>
+content: "die?"
+<end speech t=0608.000s>
+
+<begin speech t=0608.000s>
+content: "Why'd I live through this?"
+<end speech t=0609.000s>
+
+<begin speech t=0609.000s>
+content: "And I found the answer in my family."
+<end speech t=0611.000s>
+
+<begin speech t=0611.000s>
+content: "And I found the answer in Todd nicely, that corporal that came to see me that was retired"
+<end speech t=0615.000s>
+
+<begin speech t=0615.000s>
+content: "from the Marine Corps, that told me I would be fine."
+<end speech t=0618.000s>
+
+<begin speech t=0618.000s>
+content: "So I decided I was going to talk to everybody I could that was at that hospital."
+<end speech t=0622.000s>
+
+<begin speech t=0622.000s>
+content: "And I want to read amputees of what you normally see."
+<end speech t=0625.000s>
+
+<begin speech t=0625.000s>
+content: "And me and Miss and all four limbs, that was the worst you're going to see."
+<end speech t=0627.000s>
+
+<begin speech t=0627.000s>
+content: "So I'd go room to room and I'd say, hey, I'm Travis."
+<end speech t=0630.000s>
+
+<begin speech t=0630.000s>
+content: "You're going to be fine."
+<end speech t=0631.000s>
+
+<begin speech t=0631.000s>
+content: "I'm going to take my time to hear the same message Todd gave me."
+<end speech t=0638.000s>
+
+<begin speech t=0638.000s>
+content: "From that experience, some people found out I did that."
+<end speech t=0641.000s>
+
+<begin speech t=0641.000s>
+content: "I became known as a Mayor of Building 62 and they made a documentary on me."
+<end speech t=0645.000s>
+
+<begin speech t=0645.000s>
+content: "I don't think my problems outweigh anybody else's."
+<end speech t=0648.000s>
+
+<begin speech t=0648.000s>
+content: "I am fortunate to live in a nation where I can wake up in the morning with no arms, no legs,"
+<end speech t=0653.000s>
+
+<begin speech t=0653.000s>
+content: "strap my legs on, throw my arm on, go in the elevator and go out and live life to the fullest."
+<end speech t=0660.000s>
+
+<begin speech t=0660.000s>
+content: "I have learned that I want you to go and pass along to everybody that you meet."
+<end speech t=0664.000s>
+
+<begin speech t=0664.000s>
+content: "It's number one, don't draw on the past."
+<end speech t=0667.000s>
+
+<begin speech t=0667.000s>
+content: "I learned that because when I was sitting in my hospital bed,"
+<end speech t=0670.000s>
+
+<begin speech t=0670.000s>
+content: "closing my eyes and wishing that this did not happen."
+<end speech t=0673.000s>
+
+<begin speech t=0673.000s>
+content: "I realized I can't change the past."
+<end speech t=0677.000s>
+
+<begin speech t=0677.000s>
+content: "I can't change what happened yesterday and I can't change what happened six years ago and I failed."
+<end speech t=0682.000s>
+
+<begin speech t=0682.000s>
+content: "So I reminisced 25 years I had before I came home."
+<end speech t=0685.000s>
+
+<begin speech t=0685.000s>
+content: "I've had six pretty great years without me."
+<end speech t=0688.000s>
+
+<begin speech t=0689.000s>
+content: "But with that experience, and so many more,"
+<end speech t=0692.000s>
+
+<begin speech t=0692.000s>
+content: "I can't always be sure of your situation."
+<end speech t=0695.000s>
+
+<begin speech t=0695.000s>
+content: "But I can always be sure of my attitude."
+<end speech t=0698.000s>
+
+<begin speech t=0702.000s>
+content: "I was 18 years old when I got married."
+<end speech t=0705.000s>
+
+<begin speech t=0705.000s>
+content: "I belonged to a very conservative family, a beloved family where good daughters never say no to their parents."
+<end speech t=0712.000s>
+
+<begin speech t=0712.000s>
+content: "My father wanted me to get married."
+<end speech t=0715.000s>
+
+<begin speech t=0715.000s>
+content: "And all I said was if that makes you happy, I'll say yes."
+<end speech t=0718.000s>
+
+<begin speech t=0718.000s>
+content: "And of course, it was never a happy marriage."
+<end speech t=0723.000s>
+
+<begin speech t=0723.000s>
+content: "Just about after two years of getting married, about nine years ago,"
+<end speech t=0730.000s>
+
+<begin speech t=0730.000s>
+content: "I met a car accident."
+<end speech t=0734.000s>
+
+<begin speech t=0734.000s>
+content: "Somehow my husband fell asleep and the car fell in the ditch."
+<end speech t=0742.000s>
+
+<begin speech t=0742.000s>
+content: "He managed to jump out, saved himself."
+<end speech t=0745.000s>
+
+<begin speech t=0745.000s>
+content: "I'm happy for him."
+<end speech t=0747.000s>
+
+<begin speech t=0747.000s>
+content: "But I stayed inside the car and I sustained a lot of injuries."
+<end speech t=0752.000s>
+
+<begin speech t=0752.000s>
+content: "This is a bit long."
+<end speech t=0754.000s>
+
+<begin speech t=0754.000s>
+content: "Radius, a lot of my right arm were fractured."
+<end speech t=0756.000s>
+
+<begin speech t=0756.000s>
+content: "The wrist was fractured."
+<end speech t=0758.000s>
+
+<begin speech t=0758.000s>
+content: "Show the bone and collar bone were fractured."
+<end speech t=0760.000s>
+
+<begin speech t=0760.000s>
+content: "My whole rib cage got fractured."
+<end speech t=0762.000s>
+
+<begin speech t=0762.000s>
+content: "But that injury that changed me and my life completely was the spine injury."
+<end speech t=0767.000s>
+
+<begin speech t=0767.000s>
+content: "Many people came to rescue."
+<end speech t=0769.000s>
+
+<begin speech t=0769.000s>
+content: "They gave me CBR."
+<end speech t=0771.000s>
+
+<begin speech t=0771.000s>
+content: "They dragged me out of the car."
+<end speech t=0773.000s>
+
+<begin speech t=0773.000s>
+content: "And while they were dragging me out, I got the complete transaction of my spinal cord."
+<end speech t=0778.000s>
+
+<begin speech t=0778.000s>
+content: "Those two and a half months in the hospital were dreadful."
+<end speech t=0781.000s>
+
+<begin speech t=0781.000s>
+content: "I was at the verge of despair."
+<end speech t=0784.000s>
+
+<begin speech t=0784.000s>
+content: "One day, doctor came to me and he said, well, I heard that you wanted to be an artist,"
+<end speech t=0789.000s>
+
+<begin speech t=0789.000s>
+content: "but you ended up being a housewife."
+<end speech t=0791.000s>
+
+<begin speech t=0791.000s>
+content: "I have a bad news for you."
+<end speech t=0793.000s>
+
+<begin speech t=0793.000s>
+content: "You won't be able to paint again."
+<end speech t=0795.000s>
+
+<begin speech t=0795.000s>
+content: "Next day, doctor came to me and said,"
+<end speech t=0798.000s>
+
+<begin speech t=0798.000s>
+content: "your spine injury is so bad."
+<end speech t=0800.000s>
+
+<begin speech t=0800.000s>
+content: "You won't be able to walk again."
+<end speech t=0802.000s>
+
+<begin speech t=0802.000s>
+content: "I took a deep breath and decided it's all right."
+<end speech t=0806.000s>
+
+<begin speech t=0806.000s>
+content: "Next day, doctor came to me and said, because if your spine injury and the fixation that you have in your back,"
+<end speech t=0812.000s>
+
+<begin speech t=0812.000s>
+content: "you won't be able to give birth to a child again."
+<end speech t=0815.000s>
+
+<begin speech t=0815.000s>
+content: "That day, I was devastated."
+<end speech t=0817.000s>
+
+<begin speech t=0817.000s>
+content: "I started to question my existence."
+<end speech t=0819.000s>
+
+<begin speech t=0819.000s>
+content: "Why am I even alive?"
+<end speech t=0821.000s>
+
+<begin speech t=0821.000s>
+content: "So what kept me going was, one day, I asked my brothers."
+<end speech t=0826.000s>
+
+<begin speech t=0826.000s>
+content: "I know I have a deformed hand, but I'm tired of looking at these white walls in the hospital"
+<end speech t=0831.000s>
+
+<begin speech t=0831.000s>
+content: "and wearing these white scrubs."
+<end speech t=0833.000s>
+
+<begin speech t=0833.000s>
+content: "Bring me some colors."
+<end speech t=0834.000s>
+
+<begin speech t=0834.000s>
+content: "Bring me some small canvas."
+<end speech t=0836.000s>
+
+<begin speech t=0836.000s>
+content: "I want to paint."
+<end speech t=0838.000s>
+
+<begin speech t=0838.000s>
+content: "So the very first painting I made was on my deathbed, where I painted for the very first time."
+<end speech t=0845.000s>
+
+<begin speech t=0845.000s>
+content: "What an amazing therapy it was."
+<end speech t=0847.000s>
+
+<begin speech t=0847.000s>
+content: "Without uttering a single word, I could paint my heart out."
+<end speech t=0851.000s>
+
+<begin speech t=0851.000s>
+content: "I could share my story."
+<end speech t=0854.000s>
+
+<begin speech t=0854.000s>
+content: "People used to come and say, what lovely painting."
+<end speech t=0857.000s>
+
+<begin speech t=0857.000s>
+content: "So much color."
+<end speech t=0858.000s>
+
+<begin speech t=0858.000s>
+content: "Nobody could see the grief in it."
+<end speech t=0861.000s>
+
+<begin speech t=0861.000s>
+content: "Only I could."
+<end speech t=0862.000s>
+
+<begin speech t=0862.000s>
+content: "And that day, I decided that I'm going to live life for myself."
+<end speech t=0867.000s>
+
+<begin speech t=0867.000s>
+content: "I am not going to be that perfect person for someone."
+<end speech t=0871.000s>
+
+<begin speech t=0871.000s>
+content: "I am just going to take this moment and I will make it perfect for myself."
+<end speech t=0875.000s>
+
+<begin speech t=0875.000s>
+content: "That I'm going to fight my fears."
+<end speech t=0877.000s>
+
+<begin speech t=0877.000s>
+content: "So I wrote down one by one all those fears."
+<end speech t=0881.000s>
+
+<begin speech t=0881.000s>
+content: "And I decided that I'm going to overcome these fears one at a time."
+<end speech t=0885.000s>
+
+<begin speech t=0885.000s>
+content: "You know what was my biggest fear?"
+<end speech t=0887.000s>
+
+<begin speech t=0887.000s>
+content: "Divorce."
+<end speech t=0888.000s>
+
+<begin speech t=0888.000s>
+content: "But the day I decided that this is nothing but my fear."
+<end speech t=0892.000s>
+
+<begin speech t=0892.000s>
+content: "I liberated myself by setting him free."
+<end speech t=0896.000s>
+
+<begin speech t=0896.000s>
+content: "And I made myself emotionally so strong that the day I got the news that he is getting married,"
+<end speech t=0901.000s>
+
+<begin speech t=0901.000s>
+content: "I sent him a text that I'm so happy for you and I wish you all the best."
+<end speech t=0906.000s>
+
+<begin speech t=0906.000s>
+content: "And he knows that I pray for him today."
+<end speech t=0909.000s>
+
+<begin speech t=0910.000s>
+content: "Number two was, I won't be able to be a mother again."
+<end speech t=0914.000s>
+
+<begin speech t=0914.000s>
+content: "And that was quite devastating for me."
+<end speech t=0917.000s>
+
+<begin speech t=0917.000s>
+content: "But then I realized there are so many children in the world, all they want is acceptance."
+<end speech t=0923.000s>
+
+<begin speech t=0923.000s>
+content: "So there is no point of crying just going adopt one."
+<end speech t=0927.000s>
+
+<begin speech t=0927.000s>
+content: "And that's what I did."
+<end speech t=0929.000s>
+
+<begin speech t=0929.000s>
+content: "I gave my name in different organizations, different orphanages, and I waited patiently."
+<end speech t=0940.000s>
+
+<begin speech t=0940.000s>
+content: "Two years later I got this call from a very small city in Pakistan."
+<end speech t=0944.000s>
+
+<begin speech t=0944.000s>
+content: "I got a call and they said, are you Minibah Mazari?"
+<end speech t=0947.000s>
+
+<begin speech t=0947.000s>
+content: "There is a boy baby boy and would you like to adopt?"
+<end speech t=0950.000s>
+
+<begin speech t=0950.000s>
+content: "I could literally feel the labor pains."
+<end speech t=0952.000s>
+
+<begin speech t=0952.000s>
+content: "Yes, yes, I am going to adopt him."
+<end speech t=0955.000s>
+
+<begin speech t=0955.000s>
+content: "I am coming to take him home."
+<end speech t=0958.000s>
+
+<begin speech t=0958.000s>
+content: "And that day, now it was two days old and today he is six."
+<end speech t=0963.000s>
+
+<begin speech t=0965.000s>
+content: "Do you know when you end up being on the wheelchair?"
+<end speech t=0968.000s>
+
+<begin speech t=0968.000s>
+content: "What's the most painful thing?"
+<end speech t=0970.000s>
+
+<begin speech t=0970.000s>
+content: "People think that they will not be accepted by the people because we, in the world of perfect people, are imperfect."
+<end speech t=0977.000s>
+
+<begin speech t=0977.000s>
+content: "So I decided to appear more in public."
+<end speech t=0980.000s>
+
+<begin speech t=0980.000s>
+content: "I started to paint."
+<end speech t=0981.000s>
+
+<begin speech t=0981.000s>
+content: "I have done a lot of modeling campaigns."
+<end speech t=0984.000s>
+
+<begin speech t=0984.000s>
+content: "I decided that I am going to join the national TV of Pakistan as an anchor person."
+<end speech t=0988.000s>
+
+<begin speech t=0988.000s>
+content: "I became the national goodwill ambassador for you when women Pakistan."
+<end speech t=0992.000s>
+
+<begin speech t=0992.000s>
+content: "And now I speak for the rights of women children."
+<end speech t=0994.000s>
+
+<begin speech t=0994.000s>
+content: "I was featured in BBC 100 Women for 2015."
+<end speech t=0998.000s>
+
+<begin speech t=0998.000s>
+content: "I am one of the first."
+<end speech t=1000.000s>
+
+<begin speech t=1000.000s>
+content: "30 under 30 for 2016."
+<end speech t=1004.000s>
+
+<begin speech t=1004.000s>
+content: "So when you accept yourself the way you are, the world recognizes you."
+<end speech t=1009.000s>
+
+<begin speech t=1009.000s>
+content: "It all starts home with it."
+<end speech t=1011.000s>
+
+<begin speech t=1012.000s>
+content: "We have this amazing fantasy about life."
+<end speech t=1016.000s>
+
+<begin speech t=1016.000s>
+content: "This is how things should work."
+<end speech t=1018.000s>
+
+<begin speech t=1018.000s>
+content: "This is my plan."
+<end speech t=1019.000s>
+
+<begin speech t=1019.000s>
+content: "It should go as per my plan."
+<end speech t=1021.000s>
+
+<begin speech t=1021.000s>
+content: "If that doesn't happen, really well."
+<end speech t=1025.000s>
+
+<begin speech t=1025.000s>
+content: "I never wanted to belong to wheelchair."
+<end speech t=1028.000s>
+
+<begin speech t=1028.000s>
+content: "Never thought of being on the wheelchair."
+<end speech t=1031.000s>
+
+<begin speech t=1031.000s>
+content: "This life is a test and a trial."
+<end speech t=1034.000s>
+
+<begin speech t=1034.000s>
+content: "And tests are never supposed to be easy."
+<end speech t=1036.000s>
+
+<begin speech t=1036.000s>
+content: "So when you are expecting ease from life, and life gives you lemons,"
+<end speech t=1040.000s>
+
+<begin speech t=1040.000s>
+content: "then you make the lemonade and then do not blame life for that."
+<end speech t=1044.000s>
+
+<begin speech t=1044.000s>
+content: "It is okay to be scared."
+<end speech t=1046.000s>
+
+<begin speech t=1046.000s>
+content: "It is okay to cry."
+<end speech t=1048.000s>
+
+<begin speech t=1048.000s>
+content: "Everything is okay, but giving up should not be an option."
+<end speech t=1053.000s>
+
+<begin speech t=1053.000s>
+content: "They always say that failure is not an option."
+<end speech t=1057.000s>
+
+<begin speech t=1057.000s>
+content: "Failure should be an option because when you fail, you get up."
+<end speech t=1061.000s>
+
+<begin speech t=1061.000s>
+content: "And then you fail and then you get up and that keeps you going."
+<end speech t=1065.000s>
+
+<begin speech t=1065.000s>
+content: "Embrace each and every breath that you are taking."
+<end speech t=1068.000s>
+
+<begin speech t=1068.000s>
+content: "Celebrate your life."
+<end speech t=1069.000s>
+
+<begin speech t=1069.000s>
+content: "Live it."
+<end speech t=1070.000s>
+
+<begin speech t=1070.000s>
+content: "Don't die before your death."
+<end speech t=1072.000s>
+
+<begin speech t=1072.000s>
+content: "Real happiness lies."
+<end speech t=1075.000s>
+
+<begin speech t=1075.000s>
+content: "Gratitude."
+<end speech t=1076.000s>
+
+<begin speech t=1076.000s>
+content: "So be grateful, be alive."
+<end speech t=1079.000s>
+
+<begin speech t=1079.000s>
+content: "And live every moment."
+<end speech t=1081.000s>
+
+<begin speech t=1087.000s>
+content: "It still haunts me to this day."
+<end speech t=1088.000s>
+
+<begin speech t=1088.000s>
+content: "It was a shriek."
+<end speech t=1089.000s>
+
+<begin speech t=1090.000s>
+content: "I grew up in this really normal, beautiful, middle class family."
+<end speech t=1095.000s>
+
+<begin speech t=1095.000s>
+content: "My father was 35 years old."
+<end speech t=1097.000s>
+
+<begin speech t=1097.000s>
+content: "He was the breadwinner of the family."
+<end speech t=1099.000s>
+
+<begin speech t=1099.000s>
+content: "My mom was a homemaker."
+<end speech t=1100.000s>
+
+<begin speech t=1100.000s>
+content: "That was the role in the 1970s."
+<end speech t=1102.000s>
+
+<begin speech t=1102.000s>
+content: "She stayed at home raised kids."
+<end speech t=1103.000s>
+
+<begin speech t=1103.000s>
+content: "I don't know if you can relate with this, but my dad was my hero."
+<end speech t=1107.000s>
+
+<begin speech t=1107.000s>
+content: "Not everybody has that kind of dad, but my dad was my hero."
+<end speech t=1110.000s>
+
+<begin speech t=1110.000s>
+content: "He was a honking coach."
+<end speech t=1111.000s>
+
+<begin speech t=1111.000s>
+content: "He was a baseball coach."
+<end speech t=1113.000s>
+
+<begin speech t=1113.000s>
+content: "He was the kind of man that you wanted to be your best for."
+<end speech t=1117.000s>
+
+<begin speech t=1118.000s>
+content: "And I felt in his shadow I could do or be anything."
+<end speech t=1122.000s>
+
+<begin speech t=1122.000s>
+content: "And I felt loved and accepted."
+<end speech t=1125.000s>
+
+<begin speech t=1125.000s>
+content: "In August 1975, I remember the night the priest from the local parish"
+<end speech t=1131.000s>
+
+<begin speech t=1131.000s>
+content: "came and knocked on her door."
+<end speech t=1133.000s>
+
+<begin speech t=1133.000s>
+content: "I remember because I remember the sound that my mom made."
+<end speech t=1136.000s>
+
+<begin speech t=1136.000s>
+content: "And it still haunts me to this day."
+<end speech t=1138.000s>
+
+<begin speech t=1138.000s>
+content: "It was a shriek."
+<end speech t=1140.000s>
+
+<begin speech t=1140.000s>
+content: "A horror."
+<end speech t=1142.000s>
+
+<begin speech t=1142.000s>
+content: "Because all of a sudden our world completely turned inside out"
+<end speech t=1145.000s>
+
+<begin speech t=1145.000s>
+content: "literally in one day."
+<end speech t=1147.000s>
+
+<begin speech t=1147.000s>
+content: "What happened within a year is Mom remarried."
+<end speech t=1150.000s>
+
+<begin speech t=1150.000s>
+content: "And the man that she hooked up with was a violent abuse of alcohol."
+<end speech t=1155.000s>
+
+<begin speech t=1155.000s>
+content: "And so I went from a message of you're loved and you can do and be anything"
+<end speech t=1159.000s>
+
+<begin speech t=1159.000s>
+content: "to you're stupid."
+<end speech t=1162.000s>
+
+<begin speech t=1162.000s>
+content: "You're dumb."
+<end speech t=1164.000s>
+
+<begin speech t=1164.000s>
+content: "You've never knocked anything."
+<end speech t=1167.000s>
+
+<begin speech t=1167.000s>
+content: "And I was eight."
+<end speech t=1169.000s>
+
+<begin speech t=1169.000s>
+content: "And I honestly didn't know how to process that."
+<end speech t=1172.000s>
+
+<begin speech t=1173.000s>
+content: "I began to believe lies about who I was and how I fit into the world."
+<end speech t=1177.000s>
+
+<begin speech t=1177.000s>
+content: "Shortly after my ninth birthday, an opportunity presented itself to do drugs for the first time."
+<end speech t=1184.000s>
+
+<begin speech t=1184.000s>
+content: "By the time I was 15 years old, I was non-compliant at home."
+<end speech t=1189.000s>
+
+<begin speech t=1189.000s>
+content: "I grew an extra two feet, not so good for my stepfather."
+<end speech t=1193.000s>
+
+<begin speech t=1193.000s>
+content: "There was a lot of tension between him and I and he paid the bill so I had to go."
+<end speech t=1198.000s>
+
+<begin speech t=1199.000s>
+content: "For me it was jumping out of the plot and straight into the fire."
+<end speech t=1204.000s>
+
+<begin speech t=1204.000s>
+content: "15 years old I was on my own."
+<end speech t=1207.000s>
+
+<begin speech t=1207.000s>
+content: "Just try and get through another sunset."
+<end speech t=1210.000s>
+
+<begin speech t=1210.000s>
+content: "At 16 years old I began getting in trouble with the legal system."
+<end speech t=1215.000s>
+
+<begin speech t=1215.000s>
+content: "I remember going back out to the street completely broken as a human being."
+<end speech t=1220.000s>
+
+<begin speech t=1220.000s>
+content: "Walking up East Hastings with the pouring rain."
+<end speech t=1223.000s>
+
+<begin speech t=1223.000s>
+content: "And I said to myself, how did I get here?"
+<end speech t=1225.000s>
+
+<begin speech t=1225.000s>
+content: "I'm a good kid from a good family."
+<end speech t=1227.000s>
+
+<begin speech t=1227.000s>
+content: "How did I end up in this much trouble?"
+<end speech t=1230.000s>
+
+<begin speech t=1230.000s>
+content: "What happened is I remember the day."
+<end speech t=1233.000s>
+
+<begin speech t=1233.000s>
+content: "It was a beautiful sunny day just like today."
+<end speech t=1236.000s>
+
+<begin speech t=1236.000s>
+content: "See back in those days I was a liar at the Fichitna mooch."
+<end speech t=1241.000s>
+
+<begin speech t=1241.000s>
+content: "And I landed in his park."
+<end speech t=1244.000s>
+
+<begin speech t=1244.000s>
+content: "And I saddled up beside this guy sitting at a bus stop named Gus because he had a cigarette."
+<end speech t=1249.000s>
+
+<begin speech t=1249.000s>
+content: "And he gave me a cigarette."
+<end speech t=1250.000s>
+
+<begin speech t=1250.000s>
+content: "It was a really nice guy."
+<end speech t=1251.000s>
+
+<begin speech t=1251.000s>
+content: "And he gave me a couple bucks too."
+<end speech t=1254.000s>
+
+<begin speech t=1254.000s>
+content: "But he gave me something more."
+<end speech t=1257.000s>
+
+<begin speech t=1257.000s>
+content: "The entire time I was sitting there talking to him, Gus said to me, he says, you know Joe?"
+<end speech t=1261.000s>
+
+<begin speech t=1261.000s>
+content: "He says, there's more to you than you can see."
+<end speech t=1265.000s>
+
+<begin speech t=1265.000s>
+content: "He said, but life has kind of dirtied your windows until the light doesn't get in."
+<end speech t=1271.000s>
+
+<begin speech t=1271.000s>
+content: "And your light doesn't get out."
+<end speech t=1274.000s>
+
+<begin speech t=1274.000s>
+content: "You could go on to do extraordinary things because you're a real bright guy."
+<end speech t=1279.000s>
+
+<begin speech t=1279.000s>
+content: "I remember when he was talking to me and he was speaking his truth into my life."
+<end speech t=1283.000s>
+
+<begin speech t=1283.000s>
+content: "He was looking over my shoulder for someone else."
+<end speech t=1286.000s>
+
+<begin speech t=1286.000s>
+content: "I guess what stood before him did not align with his words."
+<end speech t=1293.000s>
+
+<begin speech t=1293.000s>
+content: "But he said to me, he said, there's more to you than you can see."
+<end speech t=1300.000s>
+
+<begin speech t=1300.000s>
+content: "I remember my heart absolutely sick."
+<end speech t=1304.000s>
+
+<begin speech t=1304.000s>
+content: "For years of my life I didn't take accountability for my own actions."
+<end speech t=1309.000s>
+
+<begin speech t=1309.000s>
+content: "I blamed society, I blamed my stepfather, I blamed everybody else."
+<end speech t=1312.000s>
+
+<begin speech t=1312.000s>
+content: "He said to me, that kept me from actually taking responsibility for my own behavior and my own life."
+<end speech t=1318.000s>
+
+<begin speech t=1318.000s>
+content: "It deflected it."
+<end speech t=1320.000s>
+
+<begin speech t=1320.000s>
+content: "But on that moment the miracle happened for me."
+<end speech t=1323.000s>
+
+<begin speech t=1323.000s>
+content: "And the miracle was that I became teachable."
+<end speech t=1325.000s>
+
+<begin speech t=1325.000s>
+content: "I became viable and I became willing to do just about anything."
+<end speech t=1329.000s>
+
+<begin speech t=1329.000s>
+content: "You know, one of the things that I know today is that discontentment is the catalyst of change."
+<end speech t=1335.000s>
+
+<begin speech t=1335.000s>
+content: "And what I mean by that is oftentimes not until we're backed into a corner."
+<end speech t=1340.000s>
+
+<begin speech t=1340.000s>
+content: "Where we become teachable, where we become willing to do something different."
+<end speech t=1344.000s>
+
+<begin speech t=1344.000s>
+content: "But you see, possibility always exists, it never goes away, it's always present."
+<end speech t=1349.000s>
+
+<begin speech t=1349.000s>
+content: "Even at my lowest point, the possibility of transformation was there."
+<end speech t=1354.000s>
+
+<begin speech t=1354.000s>
+content: "I started to flower, I started to come out and I started to do incredibly well."
+<end speech t=1359.000s>
+
+<begin speech t=1359.000s>
+content: "I went from a kid pushing a shopping cart, just trying to get through another sunset."
+<end speech t=1365.000s>
+
+<begin speech t=1365.000s>
+content: "To be in on the cover of Canadian business,"
+<end speech t=1368.000s>
+
+<begin speech t=1368.000s>
+content: "inside every single one of us is infinite possibility."
+<end speech t=1374.000s>
+
+<begin speech t=1379.000s>
+content: "And she says the most offensive thing to me that you can say to a person of color in the United States of America,"
+<end speech t=1387.000s>
+
+<begin speech t=1387.000s>
+content: "she asked me, were you born in this country?"
+<end speech t=1391.000s>
+
+<begin speech t=1391.000s>
+content: "And I was immediately offended."
+<end speech t=1394.000s>
+
+<begin speech t=1394.000s>
+content: "I put my hands on my hips and I said, yeah, I was born in this country."
+<end speech t=1399.000s>
+
+<begin speech t=1399.000s>
+content: "She then goes on to ask me, how old are you? I said, 19 years old."
+<end speech t=1403.000s>
+
+<begin speech t=1403.000s>
+content: "She says, are you married? I said, no ma'am."
+<end speech t=1405.000s>
+
+<begin speech t=1405.000s>
+content: "She says, do you have any kids? I said, no ma'am."
+<end speech t=1407.000s>
+
+<begin speech t=1407.000s>
+content: "And may I help you find something?"
+<end speech t=1409.000s>
+
+<begin speech t=1409.000s>
+content: "She then goes on to tell me something that changed my life forever."
+<end speech t=1414.000s>
+
+<begin speech t=1414.000s>
+content: "She says, you look like you could be the next Miss USA."
+<end speech t=1419.000s>
+
+<begin speech t=1419.000s>
+content: "And I laughed at this woman hysterically."
+<end speech t=1423.000s>
+
+<begin speech t=1423.000s>
+content: "I said, lady, I don't know what you're talking about. I'm going into my sophomore year at Virginia State."
+<end speech t=1428.000s>
+
+<begin speech t=1428.000s>
+content: "I'm about to commission in three years, go on active duty, be a military officer."
+<end speech t=1433.000s>
+
+<begin speech t=1433.000s>
+content: "Somehow, this crazy woman convinced me to meet her at Starbucks the very next day."
+<end speech t=1439.000s>
+
+<begin speech t=1439.000s>
+content: "She brought this put-taw stack of pageant books and she goes on to convince me to compete in my very first pageant."
+<end speech t=1446.000s>
+
+<begin speech t=1446.000s>
+content: "I compete in my first pageant three months later and I lose."
+<end speech t=1450.000s>
+
+<begin speech t=1450.000s>
+content: "I go back the second year, compete in my state pageant and I lose."
+<end speech t=1454.000s>
+
+<begin speech t=1454.000s>
+content: "I go back the third year, compete in my state pageant and I lose."
+<end speech t=1459.000s>
+
+<begin speech t=1459.000s>
+content: "Go back the fourth year, compete in my state pageant and lose."
+<end speech t=1463.000s>
+
+<begin speech t=1463.000s>
+content: "Go back the fifth year, compete in my state pageant and lose, but guess what happens in sixth year?"
+<end speech t=1469.000s>
+
+<begin speech t=1469.000s>
+content: "I lose."
+<end speech t=1473.000s>
+
+<begin speech t=1473.000s>
+content: "I called her on the phone six years after our target conversation."
+<end speech t=1478.000s>
+
+<begin speech t=1478.000s>
+content: "And I said, you told me I could be the next Miss USA."
+<end speech t=1483.000s>
+
+<begin speech t=1483.000s>
+content: "And she says, DeShauna, keep trying, keep trying, keep trying."
+<end speech t=1487.000s>
+
+<begin speech t=1487.000s>
+content: "In June of 2015, this amazing, kind of coco woman passes away from leukemia."
+<end speech t=1495.000s>
+
+<begin speech t=1495.000s>
+content: "In December 2015, I win Miss District of Columbia, USA."
+<end speech t=1500.000s>
+
+<begin speech t=1500.000s>
+content: "In June 2016, I'm crowned the first soldier to win Miss USA."
+<end speech t=1506.000s>
+
+<begin speech t=1506.000s>
+content: "In the last January in Manila, Philippines, I walked the Miss Universe stage and placed top nine amongst 86 countries."
+<end speech t=1515.000s>
+
+<begin speech t=1515.000s>
+content: "Do not fear failure, but please be terrified of regret."
+<end speech t=1526.000s>
+
+<begin speech t=1526.000s>
+content: "When you walk out this door into the real world, you'll receive a lot of shut doors, a lot of turn down applications."
+<end speech t=1533.000s>
+
+<begin speech t=1533.000s>
+content: "You will hear way more notes than you hear yesterday."
+<end speech t=1537.000s>
+
+<begin speech t=1537.000s>
+content: "Giving up is something I did a lot of growing up and I don't think I really challenged myself to stick anything through until I joined the track team in middle school."
+<end speech t=1547.000s>
+
+<begin speech t=1547.000s>
+content: "I remember having to ask my mom after tryouts and making it to the team for my very first pair of track shoes."
+<end speech t=1554.000s>
+
+<begin speech t=1554.000s>
+content: "Now at the time, she walks into our house and she has a bag that has a nice Nike check sign on it."
+<end speech t=1560.000s>
+
+<begin speech t=1560.000s>
+content: "So I get excited because I wasn't getting these shoes very often."
+<end speech t=1564.000s>
+
+<begin speech t=1564.000s>
+content: "I go to take the shoe box out the bag and I notice that it says a size nine on it."
+<end speech t=1570.000s>
+
+<begin speech t=1570.000s>
+content: "Mind you, in the seventh grade I was a size five."
+<end speech t=1574.000s>
+
+<begin speech t=1574.000s>
+content: "I open the box and I slide my feet into the shoe and I look at my mother and I said these shoes are too big."
+<end speech t=1581.000s>
+
+<begin speech t=1581.000s>
+content: "She says, I know I did that on purpose."
+<end speech t=1584.000s>
+
+<begin speech t=1584.000s>
+content: "I was like, why would you buy shoes that are too big on purpose, mom?"
+<end speech t=1587.000s>
+
+<begin speech t=1587.000s>
+content: "And she says, because I know that you're going to grow into them."
+<end speech t=1593.000s>
+
+<begin speech t=1595.000s>
+content: "Coach has us line up on the starting line and he wants us to run a real app around the track."
+<end speech t=1601.000s>
+
+<begin speech t=1601.000s>
+content: "As we go to take off, I immediately fall to the ground."
+<end speech t=1607.000s>
+
+<begin speech t=1607.000s>
+content: "Twist my ankle because the shoes are entirely too big."
+<end speech t=1612.000s>
+
+<begin speech t=1612.000s>
+content: "See, I couldn't run at the speed that I wanted to because I didn't fit the shoes I was wearing at the time."
+<end speech t=1619.000s>
+
+<begin speech t=1619.000s>
+content: "Now many of us have goals we're trying to achieve, but the person we are right now is not the person that we need to be when we cross the finish line to our dreams."
+<end speech t=1630.000s>
+
+<begin speech t=1631.000s>
+content: "So we must walk and pace ourselves on this journey to our goals because we haven't grown enough in ourselves to fit the shoes that we need to achieve our aspirations."
+<end speech t=1643.000s>
+
+<begin speech t=1643.000s>
+content: "But let me tell you something, if I had one Miss USA my very first year, I would not have been Miss USA."
+<end speech t=1650.000s>
+
+<begin speech t=1650.000s>
+content: "I would not have been the version of myself that I needed to be to properly handle a national title."
+<end speech t=1655.000s>
+
+<begin speech t=1656.000s>
+content: "Many of us aren't ready to walk the race, but understand that as we walk this race, we pace ourselves and as we pace ourselves we grow."
+<end speech t=1664.000s>
+
+<begin speech t=1664.000s>
+content: "And as we grow, our foot gets bigger and as our foot gets bigger, our shoes begin to fill and as our shoes begin to fill, we can now run a little bit faster."
+<end speech t=1672.000s>
+
+<begin speech t=1672.000s>
+content: "And as we pick up the pace, we get to the finish line."
+<end speech t=1676.000s>
+
+<begin speech t=1676.000s>
+content: "At the exact time, we are destined to cross it."
+<end speech t=1680.000s>
+
+<begin speech t=1680.000s>
+content: "Do not fear the word no."
+<end speech t=1684.000s>
+
+<begin speech t=1685.000s>
+content: "But be afraid of the possibility of a yes that you have prematurely destroyed because you decided to quit before the clock strikes 12."
+<end speech t=1693.000s>
+
+<begin speech t=1693.000s>
+content: "There are a lot of questions that is going to keep you up at night, but I guarantee there isn't one question that will keep you up longer at night than the question what if I didn't give up."
+<end speech t=1703.000s>

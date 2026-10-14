@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/37_When_Life_GETS_HARD_Do_These_5_Things_To_Become_UNSTOPPABLE_/audio.mp3",
+  "clean_file": "good speeches/37_When_Life_GETS_HARD_Do_These_5_Things_To_Become_UNSTOPPABLE_/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 1715.386,
+  "clean_duration_sec": 1707.802,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 7.584,
+  "measured_lufs_raw": -16.35,
+  "target_lufs": -20.0,
+  "gain_applied_db": -3.65,
+  "snr_raw_db": 14.79,
+  "snr_clean_db": 17.24,
+  "snr_improvement_db": 2.44,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 5098,
+    "utterance_count": 516
+  },
+  "status": "READY_FOR_EVALUATION"
+}

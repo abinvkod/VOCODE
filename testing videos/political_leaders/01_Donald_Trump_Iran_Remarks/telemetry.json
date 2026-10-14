@@ -1,0 +1,25 @@
+{
+  "source_file": "testing videos/political_leaders/01_Donald_Trump_Iran_Remarks/raw_audio.wav",
+  "clean_file": "testing videos/political_leaders/01_Donald_Trump_Iran_Remarks/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 156.629,
+  "clean_duration_sec": 156.629,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 0.0,
+  "measured_lufs_raw": -25.86,
+  "target_lufs": -20.0,
+  "gain_applied_db": 2.33,
+  "snr_raw_db": 20.68,
+  "snr_clean_db": 22.67,
+  "snr_improvement_db": 1.99,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "AUTONOMOUS_ASR_FALLBACK",
+    "has_reference": false,
+    "total_words": 419,
+    "utterance_count": 57
+  },
+  "status": "READY_FOR_EVALUATION"
+}

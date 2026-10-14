@@ -1,0 +1,857 @@
+{
+  "total_evaluated_speeches": 34,
+  "mean_grade": 9.68,
+  "median_grade": 9.75,
+  "highest_grade": 10.0,
+  "lowest_grade": 8.8,
+  "grade_band_distribution": {
+    "Masterclass Oratory": 33,
+    "Distinguished / Minor Polish": 1
+  },
+  "graded_speeches": [
+    {
+      "title": "The Greatest Advice Ever Told... (Use This!)",
+      "speaker": "The",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "20_The_Greatest_Advice_Ever_Told_Use_This"
+    },
+    {
+      "title": "The Doctor's Speech | The Zygon Inversion | Doctor Who",
+      "speaker": "The Doctor's Speech",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "23_The_Doctors_Speech_The_Zygon_Inversion_Doctor_Who"
+    },
+    {
+      "title": "Good Will Hunting - It's Not Your Fault",
+      "speaker": "Good Will Hunting",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "24_Good_Will_Hunting_Its_Not_Your_Fault"
+    },
+    {
+      "title": "Your goal is to feel good as much as possible! (Law of Attraction in 60 Seconds with Justin Perry)",
+      "speaker": "Your",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "31_Your_goal_is_to_feel_good_as_much_as_possible_Law_of_Attract"
+    },
+    {
+      "title": "\"This really works! It Really does work.\" | The Result Is Absolutely Inevitable!",
+      "speaker": "\"This really works! It Really does work.\"",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "33_This_really_works_It_Really_does_work_The_Result_Is_Absolute"
+    },
+    {
+      "title": "AOC Flips the Religious Freedom Argument on Its Head | NowThis",
+      "speaker": "AOC Flips the Religious Freedom Argument on Its Head",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "35_AOC_Flips_the_Religious_Freedom_Argument_on_Its_Head_NowThis"
+    },
+    {
+      "title": "Brutally Honest Valedictorian Regrets Being Top of the Class",
+      "speaker": "Brutally",
+      "total_grade": 10.0,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 0,
+      "deductions": [],
+      "folder": "42_Brutally_Honest_Valedictorian_Regrets_Being_Top_of_the_Class"
+    },
+    {
+      "title": "President John F. Kennedy's Inaugural Address",
+      "speaker": "President",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.3,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.2,
+          "metric": "f0_semitones: 13.42 st",
+          "flaw": "Mild Pitch Restraint",
+          "explanation": "Pitch range of 13.42 st is slightly restrained compared to corpus average (17.8 st)."
+        }
+      ],
+      "folder": "04_President_John_F_Kennedys_Inaugural_Address"
+    },
+    {
+      "title": "\"I Went From 3rd Grade Dropout To ULTRA SUCCESSFUL\" | Rick Rigsby",
+      "speaker": "\"I Went From 3rd Grade Dropout To ULTRA SUCCESSFUL\"",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "energy_dynamic_range: 29.83 dB",
+          "flaw": "Mild Dynamic Flatness",
+          "explanation": "Volume dynamic range was 29.83 dB, slightly lower than typical masterclass contrast."
+        }
+      ],
+      "folder": "10_I_Went_From_3rd_Grade_Dropout_To_ULTRA_SUCCESSFUL_Rick_Rigsb"
+    },
+    {
+      "title": "One of the Greatest Speeches Ever | Jeff Bezos",
+      "speaker": "One of the Greatest Speeches Ever",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.75,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.25,
+          "metric": "pause_ratio: 16.4%",
+          "flaw": "Insufficient Pausing",
+          "explanation": "Pause ratio of 16.4% is below the 20% oratorical law."
+        }
+      ],
+      "folder": "11_One_of_the_Greatest_Speeches_Ever_Jeff_Bezos"
+    },
+    {
+      "title": "Why I, as a black man, attend KKK rallies. | Daryl Davis | TEDxNaperville",
+      "speaker": "Why I, as a black man, attend KKK rallies.",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.3
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.2,
+          "metric": "spectral_flux: 2.5281",
+          "flaw": "Subdued Phonetic Contrast",
+          "explanation": "Spectral flux of 2.5281 is below corpus average (4.73)."
+        }
+      ],
+      "folder": "16_Why_I_as_a_black_man_attend_KKK_rallies_Daryl_Davis_TEDxNape"
+    },
+    {
+      "title": "The Wisest Book Ever Written! (Law Of Attraction) *Learn THIS!",
+      "speaker": "The",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.3,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Cadence & Tempo",
+          "deduction": 0.2,
+          "metric": "articulation_rate: 4.96 syl/s",
+          "flaw": "Slow Pacing",
+          "explanation": "Speech rate of 4.96 syl/s is slower than typical oratorical tempo."
+        }
+      ],
+      "folder": "18_The_Wisest_Book_Ever_Written_Law_Of_Attraction_Learn_THIS"
+    },
+    {
+      "title": "A Reason To Stop Worrying - Watch This Whenever You're Stressed Or Anxious",
+      "speaker": "A Reason To Stop Worrying",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.3
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.2,
+          "metric": "spectral_flux: 2.9981",
+          "flaw": "Subdued Phonetic Contrast",
+          "explanation": "Spectral flux of 2.9981 is below corpus average (4.73)."
+        }
+      ],
+      "folder": "26_A_Reason_To_Stop_Worrying_Watch_This_Whenever_Youre_Stressed"
+    },
+    {
+      "title": "Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!",
+      "speaker": "Robert Kiyosaki 2019",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "energy_dynamic_range: 28.32 dB",
+          "flaw": "Mild Dynamic Flatness",
+          "explanation": "Volume dynamic range was 28.32 dB, slightly lower than typical masterclass contrast."
+        }
+      ],
+      "folder": "29_Robert_Kiyosaki_2019_The_Speech_That_Broke_The_Internet_KEEP"
+    },
+    {
+      "title": "When Life GETS HARD, Do These 5 Things To Become UNSTOPPABLE! | Goalcast",
+      "speaker": "When Life GETS HARD, Do These 5 Things To Become UNSTOPPABLE!",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "energy_dynamic_range: 29.34 dB",
+          "flaw": "Mild Dynamic Flatness",
+          "explanation": "Volume dynamic range was 29.34 dB, slightly lower than typical masterclass contrast."
+        }
+      ],
+      "folder": "37_When_Life_GETS_HARD_Do_These_5_Things_To_Become_UNSTOPPABLE_"
+    },
+    {
+      "title": "How To REPROGRAM Your Mind - Dr. Bruce Lipton",
+      "speaker": "How To REPROGRAM Your Mind",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.75,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.25,
+          "metric": "pause_ratio: 16.7%",
+          "flaw": "Insufficient Pausing",
+          "explanation": "Pause ratio of 16.7% is below the 20% oratorical law."
+        }
+      ],
+      "folder": "38_How_To_REPROGRAM_Your_Mind_Dr_Bruce_Lipton"
+    },
+    {
+      "title": "Admiral McRaven Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches",
+      "speaker": "Admiral McRaven Leaves the Audience SPEECHLESS",
+      "total_grade": 9.8,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "energy_dynamic_range: 28.93 dB",
+          "flaw": "Mild Dynamic Flatness",
+          "explanation": "Volume dynamic range was 28.93 dB, slightly lower than typical masterclass contrast."
+        }
+      ],
+      "folder": "40_Admiral_McRaven_Leaves_the_Audience_SPEECHLESS_One_of_the_Be"
+    },
+    {
+      "title": "Martin Luther King | \"I Have A Dream\" Speech",
+      "speaker": "Martin Luther King",
+      "total_grade": 9.7,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.1",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (37 total) disrupted narrative flow."
+        }
+      ],
+      "folder": "01_Martin_Luther_King"
+    },
+    {
+      "title": "Martin Luther King | \"I Have A Dream\" Speech",
+      "speaker": "Martin Luther King",
+      "total_grade": 9.7,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.1",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (37 total) disrupted narrative flow."
+        }
+      ],
+      "folder": "01_Martin_Luther_King_I_Have_A_Dream_Speech"
+    },
+    {
+      "title": "WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech",
+      "speaker": "WATCH THIS EVERYDAY AND CHANGE YOUR LIFE",
+      "total_grade": 9.7,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.4",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (24 total) disrupted narrative flow."
+        }
+      ],
+      "folder": "39_WATCH_THIS_EVERYDAY_AND_CHANGE_YOUR_LIFE_Denzel_Washington_M"
+    },
+    {
+      "title": "The Lie We Live",
+      "speaker": "The",
+      "total_grade": 9.6,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.3,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.2,
+          "metric": "f0_semitones: 12.23 st",
+          "flaw": "Mild Pitch Restraint",
+          "explanation": "Pitch range of 12.23 st is slightly restrained compared to corpus average (17.8 st)."
+        },
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "energy_dynamic_range: 25.59 dB",
+          "flaw": "Mild Dynamic Flatness",
+          "explanation": "Volume dynamic range was 25.59 dB, slightly lower than typical masterclass contrast."
+        }
+      ],
+      "folder": "17_The_Lie_We_Live"
+    },
+    {
+      "title": "20 Principles You Should Live By To Get Everything You Want In Life! - MASTER THIS!",
+      "speaker": "20 Principles You Should Live By To Get Everything You Want In Life!",
+      "total_grade": 9.6,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.1,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.4,
+          "metric": "energy_dynamic_range: 20.2 dB",
+          "flaw": "Compressed Volume Dynamics",
+          "explanation": "Volume range was only 20.2 dB (corpus floor: 27.36 dB). Monotonous volume throughout."
+        }
+      ],
+      "folder": "41_20_Principles_You_Should_Live_By_To_Get_Everything_You_Want_"
+    },
+    {
+      "title": "Raw Video: Barack Obama's 2008 acceptance speech",
+      "speaker": "Raw",
+      "total_grade": 9.6,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 1.1859",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (1.1859) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "43_Raw_Video_Barack_Obamas_2008_acceptance_speech"
+    },
+    {
+      "title": "One of the Most Motivational Videos You'll Ever See  [WARNING!!! - Belief Changer]",
+      "speaker": "One of the Most Motivational Videos You'll Ever See  [WARNING!!!",
+      "total_grade": 9.6,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 2.4971",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (2.4971) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "44_One_of_the_Most_Motivational_Videos_Youll_Ever_See_WARNING_B"
+    },
+    {
+      "title": "Elven Love: Life Without Regrets",
+      "speaker": "Elven",
+      "total_grade": 9.6,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 1,
+      "deductions": [
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 2.2133",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (2.2133) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "47_Elven_Love_Life_Without_Regrets"
+    },
+    {
+      "title": "[Best Version] The Great Dictator Speech - Charlie Chaplin + Time - Hans Zimmer (INCEPTION Theme)",
+      "speaker": "[Best Version] The Great Dictator Speech",
+      "total_grade": 9.5,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.2",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (9 total) disrupted narrative flow."
+        },
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "papr_crest_factor: 10.89",
+          "flaw": "Low Vocal Punchiness",
+          "explanation": "PAPR of 10.89 indicates lack of contrast between stressed and unstressed syllables."
+        }
+      ],
+      "folder": "02_Best_Version_The_Great_Dictator_Speech_Charlie_Chaplin_Time_"
+    },
+    {
+      "title": "WATCH: Greta Thunberg's full speech to world leaders at UN Climate Action Summit",
+      "speaker": "WATCH:",
+      "total_grade": 9.5,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.3,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.2,
+          "metric": "f0_semitones: 12.73 st",
+          "flaw": "Mild Pitch Restraint",
+          "explanation": "Pitch range of 12.73 st is slightly restrained compared to corpus average (17.8 st)."
+        },
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.1",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (11 total) disrupted narrative flow."
+        }
+      ],
+      "folder": "30_WATCH_Greta_Thunbergs_full_speech_to_world_leaders_at_UN_Cli"
+    },
+    {
+      "title": "President Franklin D. Roosevelt Declares War on Japan (Full Speech) | War Archives",
+      "speaker": "President Franklin D. Roosevelt Declares War on Japan (Full Speech)",
+      "total_grade": 9.4,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "papr_crest_factor: 11.49",
+          "flaw": "Low Vocal Punchiness",
+          "explanation": "PAPR of 11.49 indicates lack of contrast between stressed and unstressed syllables."
+        },
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 2.4655",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (2.4655) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "06_President_Franklin_D_Roosevelt_Declares_War_on_Japan_Full_Sp"
+    },
+    {
+      "title": "Jon Stewart slams Congress over benefits for 9/11 first responders",
+      "speaker": "Jon",
+      "total_grade": 9.4,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.2,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Cadence & Tempo",
+          "deduction": 0.3,
+          "metric": "tempo_stability_std: 0.85",
+          "flaw": "Erratic Cadence Fluctuation",
+          "explanation": "High tempo variance (0.85) reflects erratic speed changes across sentences."
+        },
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.7",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (25 total) disrupted narrative flow."
+        }
+      ],
+      "folder": "09_Jon_Stewart_slams_Congress_over_benefits_for_911_first_respo"
+    },
+    {
+      "title": "Mystery School Lesson 6: Accessing Knowledge Part 3",
+      "speaker": "Mystery",
+      "total_grade": 9.4,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.3,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.2,
+          "metric": "f0_semitones: 10.78 st",
+          "flaw": "Mild Pitch Restraint",
+          "explanation": "Pitch range of 10.78 st is slightly restrained compared to corpus average (17.8 st)."
+        },
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 2.2863",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (2.2863) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "19_Mystery_School_Lesson_6_Accessing_Knowledge_Part_3"
+    },
+    {
+      "title": "Elven Love: Walk with Elven Baby Steps towards Hope",
+      "speaker": "Elven",
+      "total_grade": 9.4,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.3,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.1
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.2,
+          "metric": "f0_semitones: 13.68 st",
+          "flaw": "Mild Pitch Restraint",
+          "explanation": "Pitch range of 13.68 st is slightly restrained compared to corpus average (17.8 st)."
+        },
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.4,
+          "metric": "spectral_flux: 2.0767",
+          "flaw": "Slurred Enunciation",
+          "explanation": "Low spectral flux (2.0767) indicates sluggish consonant articulation and muddled diction."
+        }
+      ],
+      "folder": "34_Elven_Love_Walk_with_Elven_Baby_Steps_towards_Hope"
+    },
+    {
+      "title": "Sam's Speech - Great Stories Compilation",
+      "speaker": "Sam's Speech",
+      "total_grade": 9.3,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.5,
+        "cadence_and_tempo_out_of_2_5": 2.3,
+        "rhetorical_pausing_out_of_2_0": 1.7,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.3
+      },
+      "deductions_count": 3,
+      "deductions": [
+        {
+          "pillar": "Cadence & Tempo",
+          "deduction": 0.2,
+          "metric": "articulation_rate: 6.19 syl/s",
+          "flaw": "Mild Cadence Acceleration",
+          "explanation": "Speech rate of 6.19 syl/s is slightly brisk compared to corpus average (5.68 syl/s)."
+        },
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.3,
+          "metric": "hesitations_per_min: 2.5",
+          "flaw": "Awkward Dead-Air Pauses",
+          "explanation": "Frequent silences exceeding 1.5 seconds (7 total) disrupted narrative flow."
+        },
+        {
+          "pillar": "Spectral Clarity",
+          "deduction": 0.2,
+          "metric": "spectral_flux: 2.949",
+          "flaw": "Subdued Phonetic Contrast",
+          "explanation": "Spectral flux of 2.949 is below corpus average (4.73)."
+        }
+      ],
+      "folder": "03_Sams_Speech_Great_Stories_Compilation"
+    },
+    {
+      "title": "Valedictorian Shocks World with Brutally Honest Graduation Speech",
+      "speaker": "Valedictorian",
+      "total_grade": 9.3,
+      "grade_band": "Masterclass Oratory (Tier 0)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.0,
+        "cadence_and_tempo_out_of_2_5": 2.5,
+        "rhetorical_pausing_out_of_2_0": 2.0,
+        "dynamic_energy_out_of_1_5": 1.3,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 2,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.5,
+          "metric": "f0_semitones: 9.52 st",
+          "flaw": "Moderate Pitch Compression",
+          "explanation": "Pitch range was 9.52 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+        },
+        {
+          "pillar": "Dynamic Energy",
+          "deduction": 0.2,
+          "metric": "papr_crest_factor: 14.31",
+          "flaw": "Low Vocal Punchiness",
+          "explanation": "PAPR of 14.31 indicates lack of contrast between stressed and unstressed syllables."
+        }
+      ],
+      "folder": "15_Valedictorian_Shocks_World_with_Brutally_Honest_Graduation_S"
+    },
+    {
+      "title": "Rod Serling Was Prophetic With This Warning",
+      "speaker": "Rod",
+      "total_grade": 8.8,
+      "grade_band": "Distinguished / Minor Polish (Tier 1)",
+      "pillar_scores": {
+        "pitch_modulation_out_of_2_5": 2.0,
+        "cadence_and_tempo_out_of_2_5": 2.3,
+        "rhetorical_pausing_out_of_2_0": 1.5,
+        "dynamic_energy_out_of_1_5": 1.5,
+        "spectral_clarity_out_of_1_5": 1.5
+      },
+      "deductions_count": 3,
+      "deductions": [
+        {
+          "pillar": "Pitch Modulation",
+          "deduction": 0.5,
+          "metric": "f0_semitones: 10.16 st",
+          "flaw": "Moderate Pitch Compression",
+          "explanation": "Pitch range was 10.16 st, falling below the 10.56 st corpus baseline floor. Lacks dynamic vocal inflection."
+        },
+        {
+          "pillar": "Cadence & Tempo",
+          "deduction": 0.2,
+          "metric": "articulation_rate: 5.2 syl/s",
+          "flaw": "Slow Pacing",
+          "explanation": "Speech rate of 5.2 syl/s is slower than typical oratorical tempo."
+        },
+        {
+          "pillar": "Rhetorical Pausing",
+          "deduction": 0.5,
+          "metric": "pause_ratio: 11.6%",
+          "flaw": "Severe Breathless Run-On",
+          "explanation": "Pause ratio was only 11.6% (corpus floor: 17.0%). Suffocating delivery with almost no breathing room."
+        }
+      ],
+      "folder": "22_Rod_Serling_Was_Prophetic_With_This_Warning"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pxBQLFLei70",
+    "slug": "01_Admiral_William_McRaven",
+    "display_name": "Admiral William H. McRaven - UT Austin Commencement 2014",
+    "duration_sec": 1166.07,
+    "grades": {
+      "strict_leniency_0": 9.6,
+      "moderate_leniency_50": 9.7,
+      "lenient_leniency_100": 9.9
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.3,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Pitch Modulation",
+        "deduction": 0.2,
+        "metric": "f0_semitones: 11.38 st",
+        "flaw": "Mild Pitch Restraint",
+        "explanation": "Pitch range of 11.38 st is slightly restrained compared to corpus average (17.8 st)."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 2,
+      "fillers_per_min": 0.1,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 174.27,
+      "f0_semitones": 11.38,
+      "f0_velocity_hz_per_sec": 476.92,
+      "articulation_rate_sps": 5.83,
+      "pause_ratio": 0.211,
+      "hesitation_pause_count": 9,
+      "energy_dynamic_range_db": 51.35,
+      "papr_crest_factor": 16.6,
+      "spectral_flux": 3.4451
+    },
+    "transcript_preview": "Thank you very much. Thank you. Well, thank you. President Powers, Provost Fendes, Deans, members of the faculty, family and friends, and most importantly, the class of 2014. It is indeed an honor for me to be here tonight. It's been almost 37 years ..."
+  },
+  {
+    "id": "ZWOHsO2tEGA",
+    "slug": "02_Amalini_Fernando_Impromptu",
+    "display_name": "Amalini Fernando - Impromptu Speech (Best Speaker 2015)",
+    "duration_sec": 152.48,
+    "grades": {
+      "strict_leniency_0": 10.0,
+      "moderate_leniency_50": 10.0,
+      "lenient_leniency_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [],
+    "disfluencies": {
+      "total_fillers": 0,
+      "fillers_per_min": 0.0,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 271.48,
+      "f0_semitones": 26.63,
+      "f0_velocity_hz_per_sec": 948.2,
+      "articulation_rate_sps": 5.81,
+      "pause_ratio": 0.2,
+      "hesitation_pause_count": 0,
+      "energy_dynamic_range_db": 59.74,
+      "papr_crest_factor": 54.05,
+      "spectral_flux": 4.1907
+    },
+    "transcript_preview": "Aumalani Fernando, Knowledge is Power or Is it? Knowledge is Power or Is it Aumalani Fernando? If I tell you that I know how to make a bomb and detonate it right here, what would you do? Would you run away? Call 119 or would you call me a liar? Secon..."
+  },
+  {
+    "id": "GZl0WTxK9xc",
+    "slug": "03_Acceptance_Speech_Analysis",
+    "display_name": "Award Acceptance Speech Sample",
+    "duration_sec": 97.93,
+    "grades": {
+      "strict_leniency_0": 10.0,
+      "moderate_leniency_50": 10.0,
+      "lenient_leniency_100": 10.0
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 2.0,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [],
+    "disfluencies": {
+      "total_fillers": 0,
+      "fillers_per_min": 0.0,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 179.63,
+      "f0_semitones": 23.66,
+      "f0_velocity_hz_per_sec": 627.25,
+      "articulation_rate_sps": 5.63,
+      "pause_ratio": 0.178,
+      "hesitation_pause_count": 0,
+      "energy_dynamic_range_db": 38.27,
+      "papr_crest_factor": 21.63,
+      "spectral_flux": 4.9668
+    },
+    "transcript_preview": "Thank you, Adam Perna, our great director, Adam McKay, Christian Bale. What a... Oh, you're here. Go ahead. Who's the free bet? No, I already did. Oh, Plan B, Gary Sanchez. The voting academy members and our fellow nominees from the UK in Sweden. Tha..."
+  },
+  {
+    "id": "tugtpwAt-xA",
+    "slug": "04_Miss_South_Carolina_2007",
+    "display_name": "Miss South Carolina Teen USA 2007 Q&A Response",
+    "duration_sec": 48.51,
+    "grades": {
+      "strict_leniency_0": 6.7,
+      "moderate_leniency_50": 7.8,
+      "lenient_leniency_100": 8.9
+    },
+    "performance_band_strict": "Proficient / Noticeable Flaws (Tier 2)",
+    "performance_band_moderate": "Proficient / Noticeable Flaws (Tier 2)",
+    "performance_band_lenient": "Distinguished / Minor Polish (Tier 1)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.45,
+      "dynamic_energy_out_of_1_5": 1.1,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.25,
+        "metric": "pause_ratio: 15.8%",
+        "flaw": "Insufficient Pausing",
+        "explanation": "Pause ratio of 15.8% is below the 20% oratorical law."
+      },
+      {
+        "pillar": "Rhetorical Pausing & Fluency",
+        "deduction": 0.3,
+        "metric": "filler_words_per_min: 3.7",
+        "flaw": "Frequent Filler Words",
+        "explanation": "Noticeable filler word frequency (3.7/min) disrupts smooth syntactic phrasing."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "energy_dynamic_range: 28.17 dB",
+        "flaw": "Mild Dynamic Flatness",
+        "explanation": "Volume dynamic range was 28.17 dB, slightly lower than typical masterclass contrast."
+      },
+      {
+        "pillar": "Dynamic Energy",
+        "deduction": 0.2,
+        "metric": "papr_crest_factor: 8.9",
+        "flaw": "Low Vocal Punchiness",
+        "explanation": "PAPR of 8.9 indicates lack of contrast between stressed and unstressed syllables."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 3,
+      "fillers_per_min": 3.71,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 186.47,
+      "f0_semitones": 23.42,
+      "f0_velocity_hz_per_sec": 687.45,
+      "articulation_rate_sps": 5.61,
+      "pause_ratio": 0.158,
+      "hesitation_pause_count": 0,
+      "energy_dynamic_range_db": 28.17,
+      "papr_crest_factor": 8.9,
+      "spectral_flux": 4.9299
+    },
+    "transcript_preview": "Recyples have shown a fifth of Americans can't locate the U.S. on a world map. Why do you think this is? I personally believe that U.S. Americans are unable to do so because some people out there in our nation don't have maps and I believe that our e..."
+  },
+  {
+    "id": "Iqq1roF4C8s",
+    "slug": "05_Mohammed_Qahtani_World_Champion",
+    "display_name": "Mohammed Qahtani - World Champion of Public Speaking 2015",
+    "duration_sec": 682.85,
+    "grades": {
+      "strict_leniency_0": 9.4,
+      "moderate_leniency_50": 9.6,
+      "lenient_leniency_100": 9.8
+    },
+    "performance_band_strict": "Masterclass Oratory (Tier 0)",
+    "performance_band_moderate": "Masterclass Oratory (Tier 0)",
+    "performance_band_lenient": "Masterclass Oratory (Tier 0)",
+    "pillar_breakdown_strict": {
+      "pitch_modulation_out_of_2_5": 2.5,
+      "cadence_and_tempo_out_of_2_5": 2.5,
+      "rhetorical_pausing_out_of_2_0": 1.7,
+      "dynamic_energy_out_of_1_5": 1.5,
+      "spectral_clarity_out_of_1_5": 1.5
+    },
+    "deductions_strict": [
+      {
+        "pillar": "Rhetorical Pausing",
+        "deduction": 0.3,
+        "metric": "hesitations_per_min: 2.6",
+        "flaw": "Awkward Dead-Air Pauses",
+        "explanation": "Frequent silences exceeding 1.5 seconds (30 total) disrupted narrative flow."
+      }
+    ],
+    "disfluencies": {
+      "total_fillers": 4,
+      "fillers_per_min": 0.35,
+      "word_repetitions": 0
+    },
+    "metrics": {
+      "f0_mean_hz": 203.02,
+      "f0_semitones": 21.55,
+      "f0_velocity_hz_per_sec": 714.94,
+      "articulation_rate_sps": 5.92,
+      "pause_ratio": 0.215,
+      "hesitation_pause_count": 30,
+      "energy_dynamic_range_db": 60.67,
+      "papr_crest_factor": 27.47,
+      "spectral_flux": 4.0797
+    },
+    "transcript_preview": "Please welcome our next contestant, Muhammad Khatani, the power of words. The power of words, Muhammad Khatani. What? All you all think smoking kills? Let me tell you something. Do you know that the amount of people dying from diabetes are three time..."
+  }
+]

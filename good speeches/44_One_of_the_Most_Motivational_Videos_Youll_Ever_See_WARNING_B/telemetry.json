@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/44_One_of_the_Most_Motivational_Videos_Youll_Ever_See_WARNING_B/audio.mp3",
+  "clean_file": "good speeches/44_One_of_the_Most_Motivational_Videos_Youll_Ever_See_WARNING_B/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 615.12,
+  "clean_duration_sec": 608.892,
+  "lead_trim_sec": 3.89,
+  "tail_trim_sec": 2.338,
+  "measured_lufs_raw": -22.3,
+  "target_lufs": -20.0,
+  "gain_applied_db": -0.26,
+  "snr_raw_db": 16.84,
+  "snr_clean_db": 19.27,
+  "snr_improvement_db": 2.43,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 1156,
+    "utterance_count": 110
+  },
+  "status": "READY_FOR_EVALUATION"
+}

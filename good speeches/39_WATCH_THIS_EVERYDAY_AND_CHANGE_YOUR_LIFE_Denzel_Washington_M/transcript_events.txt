@@ -1,0 +1,619 @@
+<begin speech t=0000.000s>
+content: "I found that nothing in life is worthwhile unless you take risks."
+<end speech t=0011.040s>
+
+<begin speech t=0011.040s>
+content: "Nothing."
+<end speech t=0012.880s>
+
+<begin speech t=0012.880s>
+content: "Nelson Mandela said, there is no passion to be found playing small and settling for a"
+<end speech t=0019.200s>
+
+<begin speech t=0019.200s>
+content: "life that's less than the one you're capable of living."
+<end speech t=0022.960s>
+
+<begin speech t=0022.960s>
+content: "Now, I'm sure in your experiences in school and applying to college and picking your major"
+<end speech t=0028.120s>
+
+<begin speech t=0028.120s>
+content: "into deciding what you want to do with life, I'm sure people have told you to make sure"
+<end speech t=0032.480s>
+
+<begin speech t=0032.480s>
+content: "you have something to fall back on, make sure you got something to fall back on, honey."
+<end speech t=0036.880s>
+
+<begin speech t=0036.880s>
+content: "But I never understood that concept, having something to fall back on."
+<end speech t=0043.480s>
+
+<begin speech t=0043.480s>
+content: "If I'm going to fall, I don't want to fall back on anything."
+<end speech t=0048.440s>
+
+<begin speech t=0048.440s>
+content: "I want to fall forward."
+<end speech t=0049.920s>
+
+<begin speech t=0049.920s>
+content: "I figure at least this way I'll see what I'm going to hit."
+<end speech t=0055.680s>
+
+<begin speech t=0055.680s>
+content: "And about consistency, you'll never finish."
+<end speech t=0061.080s>
+
+<begin speech t=0061.080s>
+content: "So do what you feel passionate about, passionate about."
+<end speech t=0064.800s>
+
+<begin speech t=0064.800s>
+content: "Take chances."
+<end speech t=0067.560s>
+
+<begin speech t=0067.560s>
+content: "Don't be afraid to fail."
+<end speech t=0068.720s>
+
+<begin speech t=0068.720s>
+content: "There's an old IQ test with nine dots."
+<end speech t=0072.280s>
+
+<begin speech t=0072.280s>
+content: "And you had to draw five lines with a pencil within these nine dots without lifting the"
+<end speech t=0078.280s>
+
+<begin speech t=0078.280s>
+content: "pencil."
+<end speech t=0079.280s>
+
+<begin speech t=0079.280s>
+content: "The only way to do it was to go outside the box."
+<end speech t=0084.840s>
+
+<begin speech t=0084.840s>
+content: "Be afraid to think outside the box."
+<end speech t=0088.200s>
+
+<begin speech t=0088.200s>
+content: "Don't be afraid to fail."
+<end speech t=0090.120s>
+
+<begin speech t=0090.120s>
+content: "Be to dream."
+<end speech t=0092.120s>
+
+<begin speech t=0092.120s>
+content: "Be."
+<end speech t=0093.120s>
+
+<begin speech t=0093.120s>
+content: "But remember, dreams without gold are just dreams."
+<end speech t=0105.480s>
+
+<begin speech t=0105.480s>
+content: "Reggie Jackson struck out 2,600 times in his career the most in the history of baseball."
+<end speech t=0111.120s>
+
+<begin speech t=0111.120s>
+content: "But you don't hear about the strikeouts."
+<end speech t=0113.000s>
+
+<begin speech t=0113.000s>
+content: "You'll remember the home runs."
+<end speech t=0116.440s>
+
+<begin speech t=0116.440s>
+content: "Fall forward."
+<end speech t=0118.960s>
+
+<begin speech t=0118.960s>
+content: "Thomas Edison conducted 1,000 failed experiments."
+<end speech t=0122.080s>
+
+<begin speech t=0122.080s>
+content: "Did you know that?"
+<end speech t=0123.080s>
+
+<begin speech t=0123.080s>
+content: "I didn't know that."
+<end speech t=0125.440s>
+
+<begin speech t=0125.440s>
+content: "Because the 1,000 in first was the light bulb."
+<end speech t=0129.440s>
+
+<begin speech t=0129.440s>
+content: "Fall forward."
+<end speech t=0133.440s>
+
+<begin speech t=0133.440s>
+content: "Every failed experiment is one step closer to success."
+<end speech t=0138.560s>
+
+<begin speech t=0138.560s>
+content: "You've got to take risks."
+<end speech t=0140.080s>
+
+<begin speech t=0140.080s>
+content: "And I'm sure you've probably heard that before."
+<end speech t=0142.360s>
+
+<begin speech t=0142.360s>
+content: "But I want to talk to you about why that's so important."
+<end speech t=0148.920s>
+
+<begin speech t=0148.920s>
+content: "You will fail at some point in your life."
+<end speech t=0151.440s>
+
+<begin speech t=0151.440s>
+content: "Accept it."
+<end speech t=0152.440s>
+
+<begin speech t=0152.440s>
+content: "You will lose."
+<end speech t=0154.120s>
+
+<begin speech t=0154.120s>
+content: "You will embarrass yourself."
+<end speech t=0156.320s>
+
+<begin speech t=0156.320s>
+content: "You will suck at something."
+<end speech t=0157.920s>
+
+<begin speech t=0157.920s>
+content: "There's no doubt about it."
+<end speech t=0159.920s>
+
+<begin speech t=0159.920s>
+content: "And I know that's probably not a traditional message for a graduation ceremony."
+<end speech t=0164.080s>
+
+<begin speech t=0164.080s>
+content: "But hey, I'm telling you, embrace it because it's inevitable."
+<end speech t=0167.880s>
+
+<begin speech t=0173.240s>
+content: "In the acting business, you fail all the time."
+<end speech t=0175.240s>
+
+<begin speech t=0175.240s>
+content: "Early on in my career, I auditioned for a part in a Broadway musical."
+<end speech t=0180.040s>
+
+<begin speech t=0180.040s>
+content: "The perfect role for me, I thought."
+<end speech t=0183.080s>
+
+<begin speech t=0183.080s>
+content: "Except for the fact that I can't sing."
+<end speech t=0187.680s>
+
+<begin speech t=0187.680s>
+content: "I didn't get the job."
+<end speech t=0192.680s>
+
+<begin speech t=0192.680s>
+content: "But here's the thing."
+<end speech t=0195.200s>
+
+<begin speech t=0195.200s>
+content: "I didn't quit."
+<end speech t=0198.000s>
+
+<begin speech t=0198.000s>
+content: "I didn't fall back."
+<end speech t=0201.080s>
+
+<begin speech t=0201.080s>
+content: "I walked out of there to prepare for the next audition, and the next audition, and the"
+<end speech t=0204.760s>
+
+<begin speech t=0204.760s>
+content: "next audition."
+<end speech t=0206.600s>
+
+<begin speech t=0206.600s>
+content: "I prayed."
+<end speech t=0209.640s>
+
+<begin speech t=0209.640s>
+content: "I prayed."
+<end speech t=0211.560s>
+
+<begin speech t=0211.560s>
+content: "And I prayed."
+<end speech t=0214.800s>
+
+<begin speech t=0214.800s>
+content: "But I continued to fail."
+<end speech t=0216.640s>
+
+<begin speech t=0216.640s>
+content: "You fail."
+<end speech t=0217.640s>
+
+<begin speech t=0217.640s>
+content: "And fail."
+<end speech t=0218.640s>
+
+<begin speech t=0218.640s>
+content: "But it didn't matter because you know what?"
+<end speech t=0220.640s>
+
+<begin speech t=0220.640s>
+content: "There's an old saying."
+<end speech t=0222.280s>
+
+<begin speech t=0222.280s>
+content: "You hang around the barbershop long enough sooner a lady you're going to get a haircut."
+<end speech t=0228.760s>
+
+<begin speech t=0228.760s>
+content: "So you will catch a break."
+<end speech t=0230.360s>
+
+<begin speech t=0230.360s>
+content: "And I did catch a break."
+<end speech t=0233.840s>
+
+<begin speech t=0233.840s>
+content: "Last year, I did a play called classes in the Broadway."
+<end speech t=0239.040s>
+
+<begin speech t=0239.040s>
+content: "But here's the kicker."
+<end speech t=0241.400s>
+
+<begin speech t=0241.400s>
+content: "He was at the court theater."
+<end speech t=0244.280s>
+
+<begin speech t=0244.280s>
+content: "He was at the same theater that I failed that first audition, 30 years prior."
+<end speech t=0251.840s>
+
+<begin speech t=0251.840s>
+content: "The point is, every graduate here today has the training and the talent to succeed."
+<end speech t=0257.160s>
+
+<begin speech t=0258.160s>
+content: "But do you have the guts to fail?"
+<end speech t=0263.320s>
+
+<begin speech t=0263.320s>
+content: "If you don't fail, you're not even trying."
+<end speech t=0268.040s>
+
+<begin speech t=0268.040s>
+content: "I'll say it again."
+<end speech t=0270.760s>
+
+<begin speech t=0270.760s>
+content: "If you don't fail, you're not even trying."
+<end speech t=0275.480s>
+
+<begin speech t=0275.480s>
+content: "To get something you never had, you have to do something you never did."
+<end speech t=0281.040s>
+
+<begin speech t=0282.040s>
+content: "Imagine you're on your death bed and standing around your death bed are the ghosts representing"
+<end speech t=0288.200s>
+
+<begin speech t=0288.200s>
+content: "your unfulfilled potential."
+<end speech t=0290.120s>
+
+<begin speech t=0290.120s>
+content: "The ghost of the ideas you never acted on."
+<end speech t=0294.640s>
+
+<begin speech t=0294.640s>
+content: "The ghost of the talents you didn't use."
+<end speech t=0298.240s>
+
+<begin speech t=0298.240s>
+content: "And they're standing around your bed and we disappointed and upset."
+<end speech t=0308.960s>
+
+<begin speech t=0308.960s>
+content: "They say, we came to you because you could have brought us to life, they say."
+<end speech t=0316.840s>
+
+<begin speech t=0316.840s>
+content: "And now we have to go to the grave together."
+<end speech t=0321.040s>
+
+<begin speech t=0321.040s>
+content: "So I ask you today, how many ghosts are going to be around your bed when your time comes?"
+<end speech t=0334.480s>
+
+<begin speech t=0334.480s>
+content: "I just got back from South Africa."
+<end speech t=0340.880s>
+
+<begin speech t=0340.880s>
+content: "It's a beautiful country, but there are places there with terrible poverty that need help."
+<end speech t=0348.000s>
+
+<begin speech t=0348.000s>
+content: "And Africa is just the tip of the iceberg."
+<end speech t=0350.680s>
+
+<begin speech t=0350.680s>
+content: "The Middle East needs your help."
+<end speech t=0352.240s>
+
+<begin speech t=0352.240s>
+content: "Japan needs your help."
+<end speech t=0353.880s>
+
+<begin speech t=0353.880s>
+content: "Alabama needs your help."
+<end speech t=0355.120s>
+
+<begin speech t=0355.120s>
+content: "Tennessee needs your help."
+<end speech t=0356.400s>
+
+<begin speech t=0356.400s>
+content: "Louisiana needs your help."
+<end speech t=0357.960s>
+
+<begin speech t=0357.960s>
+content: "Philadelphia needs your help."
+<end speech t=0363.360s>
+
+<begin speech t=0363.360s>
+content: "The world needs a lot and we need it from you."
+<end speech t=0367.480s>
+
+<begin speech t=0367.480s>
+content: "We really do."
+<end speech t=0368.480s>
+
+<begin speech t=0368.480s>
+content: "We need it from you young people."
+<end speech t=0369.480s>
+
+<begin speech t=0369.480s>
+content: "I mean, I'm not speaking for the rest of us up here, but I know I'm getting a little"
+<end speech t=0374.240s>
+
+<begin speech t=0374.240s>
+content: "rare."
+<end speech t=0375.320s>
+
+<begin speech t=0375.320s>
+content: "We need it from you, the young people."
+<end speech t=0376.920s>
+
+<begin speech t=0376.920s>
+content: "Let's remember this."
+<end speech t=0377.920s>
+
+<begin speech t=0377.920s>
+content: "You got to get out there."
+<end speech t=0380.800s>
+
+<begin speech t=0380.800s>
+content: "You got to give it everything you got, whether it's your time, your talent, your prayers,"
+<end speech t=0387.960s>
+
+<begin speech t=0387.960s>
+content: "or your treasures."
+<end speech t=0392.480s>
+
+<begin speech t=0392.480s>
+content: "What are you going to do with what you have?"
+<end speech t=0394.320s>
+
+<begin speech t=0394.320s>
+content: "I'm not talking about how much you have."
+<end speech t=0397.240s>
+
+<begin speech t=0397.240s>
+content: "Some of you are business majors."
+<end speech t=0398.600s>
+
+<begin speech t=0398.600s>
+content: "Some of you are theologians, nurses, sociologists."
+<end speech t=0401.400s>
+
+<begin speech t=0401.400s>
+content: "Some of you have money."
+<end speech t=0402.680s>
+
+<begin speech t=0402.680s>
+content: "Some of you have patience."
+<end speech t=0404.160s>
+
+<begin speech t=0404.160s>
+content: "Some of you have kindness."
+<end speech t=0405.640s>
+
+<begin speech t=0405.640s>
+content: "Some of you have love."
+<end speech t=0407.040s>
+
+<begin speech t=0407.040s>
+content: "Some of you have the gift of long suffering."
+<end speech t=0409.520s>
+
+<begin speech t=0409.520s>
+content: "Whatever it is, whatever your gift is, what are you going to do with what you have?"
+<end speech t=0415.360s>
+
+<begin speech t=0415.360s>
+content: "All right."
+<end speech t=0416.360s>
+
+<begin speech t=0416.360s>
+content: "Now, here's my last point about failure."
+<end speech t=0420.960s>
+
+<begin speech t=0420.960s>
+content: "I'm going to say this."
+<end speech t=0421.960s>
+
+<begin speech t=0421.960s>
+content: "It's the best way to figure out where you're going."
+<end speech t=0428.680s>
+
+<begin speech t=0428.680s>
+content: "Your life will never be a straight path."
+<end speech t=0431.720s>
+
+<begin speech t=0431.720s>
+content: "I began at Fortam University as a pre-med student."
+<end speech t=0434.880s>
+
+<begin speech t=0434.880s>
+content: "I took a course called the crudiac morphogenesis."
+<end speech t=0438.520s>
+
+<begin speech t=0438.520s>
+content: "I couldn't read it, I couldn't say it, I sure couldn't pass it."
+<end speech t=0443.240s>
+
+<begin speech t=0443.240s>
+content: "So then I decided to go into pre-law, then journalism, and with no academic focus, my"
+<end speech t=0448.040s>
+
+<begin speech t=0448.040s>
+content: "grades took off in their own direction."
+<end speech t=0452.240s>
+
+<begin speech t=0452.240s>
+content: "I was a 1.8 GPA, and the university very politely suggested that it might be better"
+<end speech t=0458.800s>
+
+<begin speech t=0458.800s>
+content: "to take some time off."
+<end speech t=0462.840s>
+
+<begin speech t=0462.840s>
+content: "I was 20 years old, I was at my lowest point."
+<end speech t=0466.600s>
+
+<begin speech t=0466.600s>
+content: "And then one day, and I remember the exact day, March 27, 1975, I was helping my mother"
+<end speech t=0473.040s>
+
+<begin speech t=0473.040s>
+content: "in a beauty shop, my mother on a beauty shop up in my burning."
+<end speech t=0476.240s>
+
+<begin speech t=0476.240s>
+content: "And there was this older woman who was considered one of the elders in the town."
+<end speech t=0481.040s>
+
+<begin speech t=0481.040s>
+content: "And I didn't know her personally, but I was looking in the mirror."
+<end speech t=0484.160s>
+
+<begin speech t=0484.160s>
+content: "And every time I looked at the mirror, I could see her behind me, and she was staring at"
+<end speech t=0487.800s>
+
+<begin speech t=0487.800s>
+content: "it."
+<end speech t=0488.800s>
+
+<begin speech t=0488.800s>
+content: "She just kept looking at me."
+<end speech t=0490.200s>
+
+<begin speech t=0490.200s>
+content: "Every time I looked at her, she kept giving me these strange looks."
+<end speech t=0493.280s>
+
+<begin speech t=0493.280s>
+content: "So she finally took the dryer off her head and said to some, she said something I'll"
+<end speech t=0496.880s>
+
+<begin speech t=0496.880s>
+content: "never forget."
+<end speech t=0497.960s>
+
+<begin speech t=0497.960s>
+content: "She said, young boy, I have a prophecy, a spiritual prophecy."
+<end speech t=0505.920s>
+
+<begin speech t=0505.920s>
+content: "She said, you are going to travel the world and speak to millions of people."
+<end speech t=0514.000s>
+
+<begin speech t=0514.000s>
+content: "And in the years that followed, just as that woman prophesied, I have traveled the world"
+<end speech t=0518.360s>
+
+<begin speech t=0518.360s>
+content: "and I have spoken to millions of people through my mood."
+<end speech t=0522.720s>
+
+<begin speech t=0522.720s>
+content: "Millions who up till this day couldn't see me."
+<end speech t=0525.680s>
+
+<begin speech t=0525.680s>
+content: "I could hear who up till this day I couldn't see while I was talking to them, and they"
+<end speech t=0530.360s>
+
+<begin speech t=0530.360s>
+content: "couldn't see me, but when we see the movie, it couldn't see the real movie."
+<end speech t=0535.760s>
+
+<begin speech t=0536.760s>
+content: "But I see you today, and I'm encouraged by what I see."
+<end speech t=0542.760s>
+
+<begin speech t=0542.760s>
+content: "And I'm strengthened by what I see."
+<end speech t=0547.760s>
+
+<begin speech t=0547.760s>
+content: "Because taking risk is not just about going for a job."
+<end speech t=0554.760s>
+
+<begin speech t=0554.760s>
+content: "It's also about knowing what you know and what you don't know."
+<end speech t=0558.760s>
+
+<begin speech t=0558.760s>
+content: "It's about being open to people and to ideas."
+<end speech t=0563.760s>
+
+<begin speech t=0564.760s>
+content: "The chances you take, the people you meet, the people who love, the faith that you have,"
+<end speech t=0571.760s>
+
+<begin speech t=0571.760s>
+content: "that's what's going to define you."
+<end speech t=0576.760s>
+
+<begin speech t=0576.760s>
+content: "Never be discouraged."
+<end speech t=0578.760s>
+
+<begin speech t=0578.760s>
+content: "Never hold back."
+<end speech t=0580.760s>
+
+<begin speech t=0580.760s>
+content: "Give everything you've got."
+<end speech t=0583.760s>
+
+<begin speech t=0583.760s>
+content: "And when you fall throughout life, remember this."
+<end speech t=0588.760s>
+
+<begin speech t=0588.760s>
+content: "Fall forward."
+<end speech t=0590.760s>

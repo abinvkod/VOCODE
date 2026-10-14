@@ -1,0 +1,25 @@
+{
+  "source_file": "good speeches/30_WATCH_Greta_Thunbergs_full_speech_to_world_leaders_at_UN_Cli/audio.mp3",
+  "clean_file": "good speeches/30_WATCH_Greta_Thunbergs_full_speech_to_world_leaders_at_UN_Cli/preprocessed_clean.wav",
+  "sample_rate": 16000,
+  "channels": 1,
+  "original_duration_sec": 319.031,
+  "clean_duration_sec": 315.822,
+  "lead_trim_sec": 0.0,
+  "tail_trim_sec": 3.209,
+  "measured_lufs_raw": -24.96,
+  "target_lufs": -20.0,
+  "gain_applied_db": -0.79,
+  "snr_raw_db": 27.25,
+  "snr_clean_db": 31.36,
+  "snr_improvement_db": 4.11,
+  "clipping_ratio": 0.0,
+  "clipping_warning": false,
+  "transcript_resolution": {
+    "source": "USER_PROVIDED_REFERENCE",
+    "has_reference": true,
+    "total_words": 535,
+    "utterance_count": 51
+  },
+  "status": "READY_FOR_EVALUATION"
+}

@@ -1,0 +1,879 @@
+<begin speech t=0000.000s>
+content: "The wisest person I ever met in my life,"
+<end speech t=0003.000s>
+
+<begin speech t=0003.000s>
+content: "a third grade dropouts."
+<end speech t=0005.800s>
+
+<begin speech t=0005.800s>
+content: "Wisest and dropout in the same sentence"
+<end speech t=0007.800s>
+
+<begin speech t=0007.800s>
+content: "is rather oxymoronic, like jumbo shrimp."
+<end speech t=0010.800s>
+
+<begin speech t=0011.800s>
+content: "Mm-hmm."
+<end speech t=0012.640s>
+
+<begin speech t=0015.840s>
+content: "Like fun run, ain't nothing fun about it."
+<end speech t=0018.440s>
+
+<begin speech t=0020.480s>
+content: "Like Microsoft works, y'all don't hear me."
+<end speech t=0023.160s>
+
+<begin speech t=0025.600s>
+content: "I used to say like country music,"
+<end speech t=0027.280s>
+
+<begin speech t=0027.280s>
+content: "but I've lived in Texas so long,"
+<end speech t=0029.520s>
+
+<begin speech t=0029.520s>
+content: "I love country music now."
+<end speech t=0031.120s>
+
+<begin speech t=0031.120s>
+content: "I, yeah."
+<end speech t=0032.680s>
+
+<begin speech t=0033.640s>
+content: "I hunt, I fish, I have cowboy boots"
+<end speech t=0036.280s>
+
+<begin speech t=0036.280s>
+content: "and cowboy, y'all I'm a blackneck, redneck."
+<end speech t=0038.840s>
+
+<begin speech t=0038.840s>
+content: "Do you hear what I'm saying to you?"
+<end speech t=0040.520s>
+
+<begin speech t=0042.560s>
+content: "No longer oxymoronic for me to say country music,"
+<end speech t=0045.840s>
+
+<begin speech t=0045.840s>
+content: "and it's not oxymoronic for me to say third grade"
+<end speech t=0048.520s>
+
+<begin speech t=0048.520s>
+content: "and dropout."
+<end speech t=0049.800s>
+
+<begin speech t=0049.800s>
+content: "That third grade dropout,"
+<end speech t=0051.160s>
+
+<begin speech t=0051.160s>
+content: "the wisest person I ever met in my life"
+<end speech t=0053.120s>
+
+<begin speech t=0053.120s>
+content: "who taught me to combine knowledge"
+<end speech t=0056.560s>
+
+<begin speech t=0056.560s>
+content: "and wisdom to make an impact was my father."
+<end speech t=0060.040s>
+
+<begin speech t=0060.040s>
+content: "A simple cook."
+<end speech t=0061.760s>
+
+<begin speech t=0062.720s>
+content: "Why is this man I ever met in my life?"
+<end speech t=0064.840s>
+
+<begin speech t=0064.840s>
+content: "Just a simple cook."
+<end speech t=0066.520s>
+
+<begin speech t=0066.520s>
+content: "Left school in the third grade"
+<end speech t=0067.800s>
+
+<begin speech t=0067.800s>
+content: "to help out on the family farm,"
+<end speech t=0069.000s>
+
+<begin speech t=0069.000s>
+content: "but just because he left school"
+<end speech t=0070.400s>
+
+<begin speech t=0070.400s>
+content: "doesn't mean it doesn't, education stop."
+<end speech t=0072.600s>
+
+<begin speech t=0072.600s>
+content: "Mark Twain once said,"
+<end speech t=0073.440s>
+
+<begin speech t=0073.440s>
+content: "I've never allowed my schooling"
+<end speech t=0074.600s>
+
+<begin speech t=0074.600s>
+content: "to get in the way of my education."
+<end speech t=0076.640s>
+
+<begin speech t=0076.640s>
+content: "My father taught himself how to read,"
+<end speech t=0078.160s>
+
+<begin speech t=0078.160s>
+content: "taught himself how to write,"
+<end speech t=0079.640s>
+
+<begin speech t=0079.640s>
+content: "decided in the midst of Jim Crowism"
+<end speech t=0082.000s>
+
+<begin speech t=0082.000s>
+content: "as America was breathing the last gas with the Civil War,"
+<end speech t=0085.160s>
+
+<begin speech t=0085.200s>
+content: "my father decided he was gonna stand and be a man,"
+<end speech t=0088.240s>
+
+<begin speech t=0088.240s>
+content: "not a black man, not a brown man, not a white man,"
+<end speech t=0092.240s>
+
+<begin speech t=0092.240s>
+content: "but a man."
+<end speech t=0093.920s>
+
+<begin speech t=0093.920s>
+content: "He literally challenged himself"
+<end speech t=0096.600s>
+
+<begin speech t=0096.600s>
+content: "to be the best that he could."
+<end speech t=0098.840s>
+
+<begin speech t=0098.840s>
+content: "All the days of his life,"
+<end speech t=0101.400s>
+
+<begin speech t=0101.400s>
+content: "I have four degrees."
+<end speech t=0103.240s>
+
+<begin speech t=0103.240s>
+content: "My brother is a judge."
+<end speech t=0105.240s>
+
+<begin speech t=0105.240s>
+content: "We're not the smartest ones in our family."
+<end speech t=0107.920s>
+
+<begin speech t=0107.920s>
+content: "It's a third grade dropout daddy."
+<end speech t=0110.160s>
+
+<begin speech t=0110.160s>
+content: "A third grade dropout daddy"
+<end speech t=0111.800s>
+
+<begin speech t=0111.800s>
+content: "who was quoting Michelangelo saying to us,"
+<end speech t=0113.840s>
+
+<begin speech t=0113.840s>
+content: "boys, I won't have a problem if you aim high and miss,"
+<end speech t=0116.840s>
+
+<begin speech t=0116.840s>
+content: "but I'm gonna have a real issue of game low and hit."
+<end speech t=0120.120s>
+
+<begin speech t=0120.120s>
+content: "A country mother quoting Henry Ford,"
+<end speech t=0122.800s>
+
+<begin speech t=0122.800s>
+content: "saying if you think you can or if you think you can't,"
+<end speech t=0125.640s>
+
+<begin speech t=0125.640s>
+content: "you're right."
+<end speech t=0126.560s>
+
+<begin speech t=0126.560s>
+content: "I learned that from a third grade drop,"
+<end speech t=0128.360s>
+
+<begin speech t=0128.360s>
+content: "simple lessons, lessons like these."
+<end speech t=0130.880s>
+
+<begin speech t=0130.880s>
+content: "Son, you'd rather be an hour early than a minute late."
+<end speech t=0133.920s>
+
+<begin speech t=0133.920s>
+content: "We never knew what time it was in my house"
+<end speech t=0135.560s>
+
+<begin speech t=0135.560s>
+content: "because the clocks were always ahead."
+<end speech t=0137.320s>
+
+<begin speech t=0137.320s>
+content: "My mother said for nearly 30 years,"
+<end speech t=0138.960s>
+
+<begin speech t=0138.960s>
+content: "my father left the house at 3.45 in the morning."
+<end speech t=0141.600s>
+
+<begin speech t=0141.600s>
+content: "One day she asked him why daddy,"
+<end speech t=0143.200s>
+
+<begin speech t=0143.200s>
+content: "he said, maybe one of my boys"
+<end speech t=0145.040s>
+
+<begin speech t=0145.040s>
+content: "will catch me in the act of excellence."
+<end speech t=0146.520s>
+
+<begin speech t=0146.520s>
+content: "I wanna share two things with you."
+<end speech t=0148.040s>
+
+<begin speech t=0148.040s>
+content: "Aristotle said you aren't what you repeatedly do."
+<end speech t=0150.840s>
+
+<begin speech t=0150.840s>
+content: "Therefore excellence taught me I have it."
+<end speech t=0152.880s>
+
+<begin speech t=0152.880s>
+content: "Not an act."
+<end speech t=0154.200s>
+
+<begin speech t=0154.200s>
+content: "Don't ever forget that."
+<end speech t=0155.720s>
+
+<begin speech t=0155.720s>
+content: "I know you're tough, but always remember to be kind."
+<end speech t=0158.640s>
+
+<begin speech t=0158.640s>
+content: "Always."
+<end speech t=0159.480s>
+
+<begin speech t=0159.480s>
+content: "Don't ever forget that."
+<end speech t=0160.880s>
+
+<begin speech t=0160.880s>
+content: "Never embarrass mama."
+<end speech t=0162.760s>
+
+<begin speech t=0163.760s>
+content: "Mm-hmm."
+<end speech t=0165.240s>
+
+<begin speech t=0165.240s>
+content: "Yeah."
+<end speech t=0166.080s>
+
+<begin speech t=0166.080s>
+content: "If mama ain't happy,"
+<end speech t=0167.720s>
+
+<begin speech t=0167.720s>
+content: "ain't nobody happy."
+<end speech t=0168.560s>
+
+<begin speech t=0168.560s>
+content: "If daddy ain't happy, you don't nobody care,"
+<end speech t=0170.200s>
+
+<begin speech t=0170.200s>
+content: "but you know, I tell you."
+<end speech t=0171.720s>
+
+<begin speech t=0172.720s>
+content: "Next lesson."
+<end speech t=0173.720s>
+
+<begin speech t=0174.720s>
+content: "Lesson from a cook over there in the galley."
+<end speech t=0177.720s>
+
+<begin speech t=0177.720s>
+content: "Son, make sure your servant's towel is bigger than your ego."
+<end speech t=0181.720s>
+
+<begin speech t=0181.720s>
+content: "Ego is the anesthesia that deadens the pain of stupidity."
+<end speech t=0184.720s>
+
+<begin speech t=0186.720s>
+content: "Y'all might have a relative in mind you wanna send that to."
+<end speech t=0189.720s>
+
+<begin speech t=0189.720s>
+content: "Let me say it again."
+<end speech t=0190.720s>
+
+<begin speech t=0191.720s>
+content: "Ego is the anesthesia that deadens the pain of stupidity"
+<end speech t=0194.720s>
+
+<begin speech t=0194.720s>
+content: "pride as the burden of a foolish person."
+<end speech t=0196.720s>
+
+<begin speech t=0196.720s>
+content: "John Gewitten coached basketball in UCLA for a living,"
+<end speech t=0199.720s>
+
+<begin speech t=0199.720s>
+content: "but his calling was the impact people."
+<end speech t=0201.720s>
+
+<begin speech t=0201.720s>
+content: "And with all those national championships,"
+<end speech t=0203.720s>
+
+<begin speech t=0203.720s>
+content: "guess what he was found doing in the middle of the week?"
+<end speech t=0205.720s>
+
+<begin speech t=0205.720s>
+content: "Going into the cupboard, grabbing the broom,"
+<end speech t=0208.720s>
+
+<begin speech t=0208.720s>
+content: "and sweeping his own gym floor,"
+<end speech t=0211.720s>
+
+<begin speech t=0211.720s>
+content: "you wanna make an impact, find your broom."
+<end speech t=0214.720s>
+
+<begin speech t=0214.720s>
+content: "Every day of your life, you find your broom."
+<end speech t=0217.720s>
+
+<begin speech t=0217.720s>
+content: "You grow your influence that way."
+<end speech t=0219.720s>
+
+<begin speech t=0219.720s>
+content: "That way you're attracting people so that you can impact them."
+<end speech t=0223.720s>
+
+<begin speech t=0223.720s>
+content: "Final lesson."
+<end speech t=0224.720s>
+
+<begin speech t=0224.720s>
+content: "Son,"
+<end speech t=0226.720s>
+
+<begin speech t=0226.720s>
+content: "you're gonna do a job."
+<end speech t=0229.720s>
+
+<begin speech t=0229.720s>
+content: "You're gonna write."
+<end speech t=0231.720s>
+
+<begin speech t=0231.720s>
+content: "You've always been told how average I can be."
+<end speech t=0237.720s>
+
+<begin speech t=0237.720s>
+content: "Always be criticized about being average."
+<end speech t=0241.720s>
+
+<begin speech t=0241.720s>
+content: "But I wanna tell you something."
+<end speech t=0243.720s>
+
+<begin speech t=0243.720s>
+content: "I stand here before you,"
+<end speech t=0245.720s>
+
+<begin speech t=0245.720s>
+content: "before all of these people,"
+<end speech t=0246.720s>
+
+<begin speech t=0246.720s>
+content: "not listening to those words,"
+<end speech t=0249.720s>
+
+<begin speech t=0249.720s>
+content: "but telling myself every single day"
+<end speech t=0252.720s>
+
+<begin speech t=0252.720s>
+content: "to shoot for the stars,"
+<end speech t=0254.720s>
+
+<begin speech t=0254.720s>
+content: "to be the best that I can be."
+<end speech t=0256.720s>
+
+<begin speech t=0256.720s>
+content: "Good enough isn't good enough if it can be better."
+<end speech t=0258.720s>
+
+<begin speech t=0258.720s>
+content: "And better isn't good enough if it can be best."
+<end speech t=0261.720s>
+
+<begin speech t=0261.720s>
+content: "Let me close."
+<end speech t=0263.720s>
+
+<begin speech t=0263.720s>
+content: "It's a very personal story that I think will bring all this into focus."
+<end speech t=0266.720s>
+
+<begin speech t=0266.720s>
+content: "Wisdom will continue to be unlikeliest of sources."
+<end speech t=0270.720s>
+
+<begin speech t=0270.720s>
+content: "A lot of times, new failure."
+<end speech t=0272.720s>
+
+<begin speech t=0272.720s>
+content: "When you get rock bottom and into this,"
+<end speech t=0274.720s>
+
+<begin speech t=0274.720s>
+content: "all your struggling rock bottom can also be a great foundation"
+<end speech t=0278.720s>
+
+<begin speech t=0278.720s>
+content: "on which to build and on which to grow."
+<end speech t=0281.720s>
+
+<begin speech t=0281.720s>
+content: "I'm not worried that you'll be successful."
+<end speech t=0284.720s>
+
+<begin speech t=0284.720s>
+content: "I'm worried that you won't fail from time to time."
+<end speech t=0287.720s>
+
+<begin speech t=0287.720s>
+content: "A person that gets up on the canvas and keeps growing."
+<end speech t=0292.720s>
+
+<begin speech t=0292.720s>
+content: "That's the person that will continue to grow their influence."
+<end speech t=0295.720s>
+
+<begin speech t=0295.720s>
+content: "Back in the 70s,"
+<end speech t=0297.720s>
+
+<begin speech t=0297.720s>
+content: "they helped me make this point."
+<end speech t=0299.720s>
+
+<begin speech t=0299.720s>
+content: "Let me introduce you to someone."
+<end speech t=0301.720s>
+
+<begin speech t=0301.720s>
+content: "I'm the finest woman I've ever met in my life."
+<end speech t=0304.720s>
+
+<begin speech t=0304.720s>
+content: "Mm-hmm."
+<end speech t=0306.720s>
+
+<begin speech t=0306.720s>
+content: "Back in my day, we would have called her a brick house."
+<end speech t=0310.720s>
+
+<begin speech t=0310.720s>
+content: "This woman was the finest woman I'd ever seen in my life."
+<end speech t=0315.720s>
+
+<begin speech t=0315.720s>
+content: "There's just one little problem."
+<end speech t=0317.720s>
+
+<begin speech t=0317.720s>
+content: "Back then, ladies didn't like big old linemen."
+<end speech t=0320.720s>
+
+<begin speech t=0320.720s>
+content: "The blind side hadn't come out yet."
+<end speech t=0322.720s>
+
+<begin speech t=0322.720s>
+content: "They made like quarterbacks and running backs."
+<end speech t=0326.720s>
+
+<begin speech t=0326.720s>
+content: "We're at this dance, and I find out her name is Trina Williams"
+<end speech t=0329.720s>
+
+<begin speech t=0329.720s>
+content: "from Long Pope, California."
+<end speech t=0331.720s>
+
+<begin speech t=0331.720s>
+content: "And we were all dancing, and we're just excited."
+<end speech t=0334.720s>
+
+<begin speech t=0334.720s>
+content: "And I decided in the middle of dancing with her"
+<end speech t=0336.720s>
+
+<begin speech t=0336.720s>
+content: "that I would ask her for her phone number."
+<end speech t=0338.720s>
+
+<begin speech t=0338.720s>
+content: "Trina was the only woman in college who gave me her real telephone number."
+<end speech t=0343.720s>
+
+<begin speech t=0343.720s>
+content: "The next day we walked to Baskin and Robbins Ice Cream parlor."
+<end speech t=0348.720s>
+
+<begin speech t=0348.720s>
+content: "My friends couldn't believe it."
+<end speech t=0350.720s>
+
+<begin speech t=0350.720s>
+content: "This has been 40 years ago, and my friends still can't believe it."
+<end speech t=0354.720s>
+
+<begin speech t=0354.720s>
+content: "We're going a second date, and a third date, and a fourth date."
+<end speech t=0360.720s>
+
+<begin speech t=0360.720s>
+content: "Mm-hmm."
+<end speech t=0362.720s>
+
+<begin speech t=0362.720s>
+content: "We drive from Chico to Vallejo so that she could meet my parents."
+<end speech t=0367.720s>
+
+<begin speech t=0367.720s>
+content: "My father meets her."
+<end speech t=0369.720s>
+
+<begin speech t=0369.720s>
+content: "My daddy."
+<end speech t=0370.720s>
+
+<begin speech t=0370.720s>
+content: "My hero."
+<end speech t=0371.720s>
+
+<begin speech t=0371.720s>
+content: "He meets her, pulls me to the side and says, is she psycho?"
+<end speech t=0374.720s>
+
+<begin speech t=0374.720s>
+content: "But anyway, we go together for a year, two years, three years, four years."
+<end speech t=0379.720s>
+
+<begin speech t=0379.720s>
+content: "By now, Trina's a senior in college."
+<end speech t=0381.720s>
+
+<begin speech t=0381.720s>
+content: "I'm still a freshman, but I'm working some things out."
+<end speech t=0384.720s>
+
+<begin speech t=0384.720s>
+content: "I'm so glad I graduated in four times."
+<end speech t=0388.720s>
+
+<begin speech t=0388.720s>
+content: "Nixon, Ford, Carter, Reagan."
+<end speech t=0391.720s>
+
+<begin speech t=0391.720s>
+content: "So now it's kind of proposed."
+<end speech t=0394.720s>
+
+<begin speech t=0394.720s>
+content: "So I talked to her girlfriends, and it's California."
+<end speech t=0397.720s>
+
+<begin speech t=0397.720s>
+content: "It's in the 70s, so it has to be outside."
+<end speech t=0399.720s>
+
+<begin speech t=0399.720s>
+content: "Have to have a candle and have to have, you know, some chocolate."
+<end speech t=0402.720s>
+
+<begin speech t=0402.720s>
+content: "Listen, I'm from the hood out of bottle of Boone's farm wine."
+<end speech t=0405.720s>
+
+<begin speech t=0405.720s>
+content: "That's what I had."
+<end speech t=0407.720s>
+
+<begin speech t=0407.720s>
+content: "She said, yes!"
+<end speech t=0409.720s>
+
+<begin speech t=0409.720s>
+content: "That was the king."
+<end speech t=0411.720s>
+
+<begin speech t=0411.720s>
+content: "I married the most beautiful woman I'd ever seen him up."
+<end speech t=0413.720s>
+
+<begin speech t=0413.720s>
+content: "He'd never been to a wedding, and even before the wedding starts, you hear this."
+<end speech t=0417.720s>
+
+<begin speech t=0417.720s>
+content: "How in the world?"
+<end speech t=0419.720s>
+
+<begin speech t=0419.720s>
+content: "And it was coming from my side of the family!"
+<end speech t=0426.720s>
+
+<begin speech t=0426.720s>
+content: "We get married, we have a few children."
+<end speech t=0432.720s>
+
+<begin speech t=0432.720s>
+content: "Our lives are great."
+<end speech t=0434.720s>
+
+<begin speech t=0434.720s>
+content: "One day, Trina finds a lump in her left breast."
+<end speech t=0437.720s>
+
+<begin speech t=0437.720s>
+content: "Breast cancer."
+<end speech t=0439.720s>
+
+<begin speech t=0439.720s>
+content: "Six years after that diagnosis, me and my two little boys walked up to Mommy's Casket."
+<end speech t=0445.720s>
+
+<begin speech t=0446.720s>
+content: "And for two years, my heart didn't beat."
+<end speech t=0449.720s>
+
+<begin speech t=0449.720s>
+content: "It wasn't for my faith in God I wouldn't be standing here today."
+<end speech t=0453.720s>
+
+<begin speech t=0453.720s>
+content: "If it wasn't for those two little boys, there'd have been no reason for which to go on."
+<end speech t=0459.720s>
+
+<begin speech t=0459.720s>
+content: "I was completely lost."
+<end speech t=0463.720s>
+
+<begin speech t=0463.720s>
+content: "That was rock bottom."
+<end speech t=0465.720s>
+
+<begin speech t=0465.720s>
+content: "You know what sustained me?"
+<end speech t=0467.720s>
+
+<begin speech t=0467.720s>
+content: "The wisdom of a third grade dropout."
+<end speech t=0470.720s>
+
+<begin speech t=0470.720s>
+content: "The wisdom of a simple cook."
+<end speech t=0473.720s>
+
+<begin speech t=0474.720s>
+content: "We're at the casket."
+<end speech t=0475.720s>
+
+<begin speech t=0475.720s>
+content: "I'd never seen my dad cry."
+<end speech t=0477.720s>
+
+<begin speech t=0477.720s>
+content: "But this time I saw my dad cry."
+<end speech t=0479.720s>
+
+<begin speech t=0479.720s>
+content: "That was his daughter."
+<end speech t=0480.720s>
+
+<begin speech t=0480.720s>
+content: "Trina was his daughter."
+<end speech t=0481.720s>
+
+<begin speech t=0481.720s>
+content: "Not his daughter-in-law."
+<end speech t=0482.720s>
+
+<begin speech t=0482.720s>
+content: "And I'm right behind my father about to see her for the last time on this herd."
+<end speech t=0487.720s>
+
+<begin speech t=0487.720s>
+content: "And my father shared three words with me that changed my life right there at the casket."
+<end speech t=0491.720s>
+
+<begin speech t=0491.720s>
+content: "It would be the last lesson he would ever teach me."
+<end speech t=0494.720s>
+
+<begin speech t=0494.720s>
+content: "He said, son, just stand."
+<end speech t=0499.720s>
+
+<begin speech t=0499.720s>
+content: "You keep standing."
+<end speech t=0501.720s>
+
+<begin speech t=0501.720s>
+content: "You keep standing."
+<end speech t=0502.720s>
+
+<begin speech t=0502.720s>
+content: "No matter how rough the sea, you keep standing."
+<end speech t=0504.720s>
+
+<begin speech t=0504.720s>
+content: "And I'm not talking about just water."
+<end speech t=0506.720s>
+
+<begin speech t=0506.720s>
+content: "You keep standing."
+<end speech t=0507.720s>
+
+<begin speech t=0507.720s>
+content: "No matter what you don't give up."
+<end speech t=0511.720s>
+
+<begin speech t=0511.720s>
+content: "And as clearly as I'm talking to you today, these were some of her last words to me."
+<end speech t=0517.720s>
+
+<begin speech t=0517.720s>
+content: "She looked me in the eye and she said, it doesn't matter to me any longer how long I live."
+<end speech t=0523.720s>
+
+<begin speech t=0523.720s>
+content: "What matters to me most is how I live."
+<end speech t=0527.720s>
+
+<begin speech t=0527.720s>
+content: "I asked you all one question."
+<end speech t=0529.720s>
+
+<begin speech t=0529.720s>
+content: "A question that I was asked all my life by a third grade dropout."
+<end speech t=0533.720s>
+
+<begin speech t=0533.720s>
+content: "How you living."
+<end speech t=0535.720s>
+
+<begin speech t=0535.720s>
+content: "How you living."
+<end speech t=0536.720s>
+
+<begin speech t=0536.720s>
+content: "Every day I asked yourself that question how you living."
+<end speech t=0539.720s>
+
+<begin speech t=0539.720s>
+content: "Here's what a cook would suggest you to live this way."
+<end speech t=0545.720s>
+
+<begin speech t=0545.720s>
+content: "That you would not judge."
+<end speech t=0547.720s>
+
+<begin speech t=0547.720s>
+content: "That you would show a girl."
+<end speech t=0549.720s>
+
+<begin speech t=0549.720s>
+content: "That you'd be kind."
+<end speech t=0551.720s>
+
+<begin speech t=0551.720s>
+content: "That you'd make sure that that service time is huge in use."
+<end speech t=0555.720s>
+
+<begin speech t=0555.720s>
+content: "That if you're going to do something, you do it the right way."
+<end speech t=0559.720s>
+
+<begin speech t=0559.720s>
+content: "That cook would tell you this."
+<end speech t=0561.720s>
+
+<begin speech t=0561.720s>
+content: "That it's never wrong to do the right thing."
+<end speech t=0563.720s>
+
+<begin speech t=0563.720s>
+content: "That how you do anything is how you do everything."
+<end speech t=0567.720s>
+
+<begin speech t=0567.720s>
+content: "And in that way you will throw your influence to make it happen."
+<end speech t=0570.720s>
+
+<begin speech t=0570.720s>
+content: "In that way you will honor all those who have gone before you who have invested in you."
+<end speech t=0574.720s>
+
+<begin speech t=0574.720s>
+content: "Look in those unluckliest places for this."
+<end speech t=0577.720s>
+
+<begin speech t=0577.720s>
+content: "In this, your life every day."
+<end speech t=0580.720s>
+
+<begin speech t=0580.720s>
+content: "By seeking that wisdom."
+<end speech t=0582.720s>
+
+<begin speech t=0582.720s>
+content: "And asking yourself every night how am I living."
+<end speech t=0586.720s>
+
+<begin speech t=0586.720s>
+content: "May God richly bless y'all."
+<end speech t=0588.720s>
+
+<begin speech t=0588.720s>
+content: "Thank you."
+<end speech t=0589.720s>
+
+<begin speech t=0612.720s>
+content: "."
+<end speech t=0619.720s>
